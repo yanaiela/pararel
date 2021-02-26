@@ -1,0 +1,417 @@
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.css" media="screen" rel="stylesheet" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style type="text/css">p.yellow::selection {
+	    color: black;
+	    background: yellow;
+	}
+	p.yellow::-moz-selection { /* Code for Firefox */
+	    color: black;
+	    background: yellow;
+	}
+
+
+	.box:nth-of-type(odd) {
+	background-color:#E8E9EB;
+	}
+	.box:nth-of-type(even) {
+	background-color:#fff;
+	}
+	body {
+	  margin: 0
+	}
+
+	.box {
+	  padding: 8px;
+	}
+</style>
+<script type="text/javascript">
+		function validateRadio(name) {
+			var radios = document.getElementsByName(name);
+				for (var i = 0, length = radios.length; i < length; i++) {
+					if (radios[i].checked) {
+							return true;
+					}
+				}
+			return false;
+		}
+
+		window.onload = function() {document.getElementById('submitButton').setAttribute('onclick', 'return validateForm()'); };
+		function validateForm() {
+			if (!validateRadio('ans1')) {
+				 alert("you have to choose an answer in the first question");
+				 return false;
+			}
+			if (!validateRadio('ans2')) {
+				 alert("you have to choose an answer in the second question");
+				 return false;
+			}
+			if (!validateRadio('ans3')) {
+				 alert("you have to choose an answer in the third question");
+				 return false;
+			}
+			if (!validateRadio('ans4')) {
+				 alert("you have to choose an answer in the forth question");
+				 return false;
+			}
+			if (!validateRadio('ans5')) {
+				 alert("you have to choose an answer in the fifth question");
+				 return false;
+			}
+			if (!validateRadio('ans6')) {
+				 alert("you have to choose an answer in the sixth question");
+				 return false;
+			}
+			if (!validateRadio('ans7')) {
+				 alert("you have to choose an answer in the seventh question");
+				 return false;
+			}
+
+
+			return true;
+		}
+
+</script>
+<section class="container" id="instructions" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:0.9em;">
+<div class="row col-xs-10 col-md-10" style="margin:auto"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><a href="javascript:;" onmousedown="if(document.getElementById('collapse1').style.display === 'none'){ document.getElementById('collapse1').style.display = 'block'; }else{ document.getElementById('collapse1').style.display = 'none'; }" style="color: white"><strong>Instructions (click to collapse / expand)</strong> </a></div>
+
+<div class="panel-body">
+<div id="collapse1" style="display:inline">
+<p class="red-temp">In this task, you need to decide if a pair of phrases are equivalent.<br />
+</p>
+
+<h4>Task Definition</h4>
+
+<ul>
+	<li>Read the given sentences.</li>
+	<li>Is there a bi-directional entailment relation between the two sentences?</li>
+	<li>The sentences contain an entity. Its purpose is to help understand the context of the sentences.</li>
+<!--	<li>Can the masked token be completed with the same entity in both sentences?</li>-->
+<!--	<li>The two sentences may contain different entities, ignore that for the paraphrase decision.</li>-->
+	<li>Some of the sentences are phrases, and not entire sentences.</li>
+	<li>Ignore the tense of the sentences for this task (ignore pragmatical considerations).</li>
+	<li>In some cases, there could be some world knowledge mismatch (e.g. "The country Paris") - Mark these as not-entailing</li>
+<!--	<li>The sentences describe about specific relations between the entities, of which the description will be provided</li>-->
+</ul>
+</div>
+</div>
+</div>
+<!-- Examples -->
+
+<div class="panel panel-info">
+<div class="panel-heading"><a href="javascript:;" onmousedown="if(document.getElementById('collapse2').style.display === 'none'){ document.getElementById('collapse2').style.display = 'block'; }else{ document.getElementById('collapse2').style.display = 'none'; }"><strong>Examples (click to collapse / expand)</strong> </a></div>
+
+<div class="panel-body">
+<div class="container">
+<div id="collapse2" style="display:inline"><!--  -->
+<div class="container"><!-- <h2>Examples</h2> -->
+<ul class="nav nav-tabs" style="display: inline-block;">
+	<li class="active"><a data-toggle="tab" href="#example1">Example 1</a></li>
+	<li><a data-toggle="tab" href="#example2">Example 2</a></li>
+	<li><a data-toggle="tab" href="#example3">Example 3</a></li>
+	<li><a data-toggle="tab" href="#example4">Example 4</a></li>
+	<li><a data-toggle="tab" href="#example5">Example 5</a></li>
+</ul>
+
+	<br/>
+<div class="tab-content">
+<div class="tab-pane fade in active" id="example1">&nbsp;
+	<ol>
+		<li><i>Seinfeld</i> was originally aired on <i>ABC</i>.</li>
+		<li><i>Seinfeld</i> premiered on <i>ABC</i>.</li>
+	</ol>
+
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input checked="checked" disabled="disabled" name="example1" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+		</tr>
+		<tr>
+			<td><input disabled="disabled" name="example1" type="radio" value="2" /> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+	<p>The sentences are entailing each other, since "<i>originally</i> aired on" is equivalent to "premiered on".
+</p>
+</div>
+
+<div class="tab-pane fade" id="example2">&nbsp;
+	<ol>
+		<li><i>Hamlet</i> was written in <i>English</i>.</li>
+		<li><i>English</i> is the language of <i>Hamlet</i>.</li>
+	</ol>
+
+	<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input checked="checked" disabled="disabled" name="example2" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+		</tr>
+		<tr>
+			<td><input disabled="disabled" name="example2" type="radio" value="2" /> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<p>The sentences entail each other, since they convey the same meaning, even though the order of the entities was switched.</p>
+</div>
+
+<div class="tab-pane fade" id="example3">&nbsp;
+<ol>
+	<li><i>Paris</i> is the capital of <i>France</i></li>
+	<li><i>Paris</i> is located in <i>France</i></li>
+</ol>
+
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input disabled="disabled" name="example3" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+		</tr>
+		<tr>
+			<td><input checked="checked" disabled="disabled" name="example3" type="radio" value="2" /> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+	<p>The sentences do <b>not</b> entail each other, although they are both factually correct,
+		since the first sentence (capital of) convey additional information. <br/>
+	Overall, there is an entailment relation in only one direction (capital of -> is located in), but not the other way around</p>
+</div>
+
+<div class="tab-pane fade" id="example4">&nbsp;
+<ol>
+	<li><i>Metallica</i> is developed by <i>Metal</i></li>
+	<li><i>Metallica</i> plays <i>Metal</i> music</li>
+</ol>
+
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input disabled="disabled" name="example4" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+		</tr>
+		<tr>
+			<td><input checked="checked" disabled="disabled" name="example4" type="radio" value="2" /> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+	<p>The sentences are <b>not</b> entailing each other, since they discuss different topics.</p>
+</div>
+	<div class="tab-pane fade" id="example5">&nbsp;
+<ol>
+	<li><i>Oman</i> maintains diplomatic relations with <i>Yemen</i>.</li>
+	<li><i>Oman</i> ties diplomatic relations with <i>Yemen</i>.</li>
+</ol>
+
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input checked="checked" disabled="disabled" name="example5" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+		</tr>
+		<tr>
+			<td><input disabled="disabled" name="example5" type="radio" value="2" /> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+	<p>The sentences <b>are</b> entailing each other, although the tense of the second sentence
+		may suggest that they did not have such relations beforehand. <br/>Therefore, since we are ignoring the tense
+	for this task, these are entailing each other</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Instructions --><!-- Content Body -->
+
+<section>
+<fieldset><script type="text/javascript">
+	      	</script>
+
+<div class="box">
+<ol>
+	<li>${para_1_a}</li>
+	<li>${para_1_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans1" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans1" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="box">
+	<ol>
+	<li>${para_2_a}</li>
+	<li>${para_2_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans2" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans2" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="box">
+	<ol>
+	<li>${para_3_a}</li>
+	<li>${para_3_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans3" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans3" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="box">
+	<ol>
+	<li>${para_4_a}</li>
+	<li>${para_4_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans4" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans4" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="box">
+	<ol>
+	<li>${para_5_a}</li>
+	<li>${para_5_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans5" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans5" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+	<div class="box">
+	<ol>
+	<li>${para_6_a}</li>
+	<li>${para_6_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans6" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans6" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+	<div class="box">
+	<ol>
+	<li>${para_7_a}</li>
+	<li>${para_7_b}</li>
+</ol>
+<br />
+<label>Do the sentences entail each other? (bi-directional entailment)</label>
+
+<table border="0" cellpadding="4" cellspacing="0" style="font-family: Verdana, Geneva, sans-serif; font-size:1em;">
+	<tbody>
+		<tr>
+			<td><input name="ans7" type="radio" value="1" /> <span style="background-color: #b1cbbb">✓ Yes</span>
+			</td>
+		</tr>
+		<tr>
+			<td><input name="ans7" type="radio" value="2"/> <span style="background-color: #eea29a">✗ No, they are <b>not</b> entailing each other</span></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<br />
+<label>Would you like to add a comment?</label>&nbsp;<br />
+<textarea class="form-control" cols="85" id="comment" maxlength="250" name="comment" rows="1"></textarea></fieldset>
+</section>
+<!-- End Content Body</div> --></div>
+</section>
+<!-- close container -->
+<style type="text/css">fieldset { padding: 10px; background:#fbfbfb; border-radius:5px; margin-bottom:5px; }
+</style>
+<script type="text/javascript">
+	it = localStorage.getItem("paraphrase-instructions");
+	if (it) {
+	    document.getElementById('collapse1').style.display = 'none';
+	    document.getElementById('collapse2').style.display = 'none';
+	} else {
+	    localStorage.setItem("paraphrase-instructions", "True");
+	    document.getElementById('collapse1').style.display = 'block';
+	    document.getElementById('collapse2').style.display = 'block';
+	}
+</script>
