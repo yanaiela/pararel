@@ -104,6 +104,12 @@ The notebook that analyze and aggregate all the results, as well as the fine-tun
 we are likely to be updated in the next few weeks.
 Please get in touch if you would find them useful, so we can make them ready faster.  
 
+## FAQ
+
+Q: Why do you report 31 N-1 relations, whereas in the LAMA paper there are only 25?
+
+A: [Explanation](https://github.com/yanaiela/pararel/wiki/31-N1-Relations)
+
 ## Citation:
 If you find this work relevant to yours, please cite us:
 ```
