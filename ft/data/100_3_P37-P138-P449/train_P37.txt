@@ -1,0 +1,1010 @@
+The official language of Canada is [MASK].
+The official language of Canada is the [MASK] language.
+[MASK] is the official language of Canada.
+The [MASK] language is the official language of Canada.
+In Canada, [MASK] is the official language.
+Officially, [MASK] is the language of Canada.
+The law in Canada declares [MASK] the official language.
+The law in Canada defines [MASK] as the official language.
+The law in Canada defines the [MASK] language as the official language.
+
+The official language of Chile is [MASK].
+The official language of Chile is the [MASK] language.
+[MASK] is the official language of Chile.
+The [MASK] language is the official language of Chile.
+In Chile, [MASK] is the official language.
+Officially, [MASK] is the language of Chile.
+The law in Chile declares [MASK] the official language.
+The law in Chile defines [MASK] as the official language.
+The law in Chile defines the [MASK] language as the official language.
+
+The official language of Mariehamn is [MASK].
+The official language of Mariehamn is the [MASK] language.
+[MASK] is the official language of Mariehamn.
+The [MASK] language is the official language of Mariehamn.
+In Mariehamn, [MASK] is the official language.
+Officially, [MASK] is the language of Mariehamn.
+The law in Mariehamn declares [MASK] the official language.
+The law in Mariehamn defines [MASK] as the official language.
+The law in Mariehamn defines the [MASK] language as the official language.
+
+The official language of Hong Kong is [MASK].
+The official language of Hong Kong is the [MASK] language.
+[MASK] is the official language of Hong Kong.
+The [MASK] language is the official language of Hong Kong.
+In Hong Kong, [MASK] is the official language.
+Officially, [MASK] is the language of Hong Kong.
+The law in Hong Kong declares [MASK] the official language.
+The law in Hong Kong defines [MASK] as the official language.
+The law in Hong Kong defines the [MASK] language as the official language.
+
+The official language of German-speaking Community of Belgium is [MASK].
+The official language of German-speaking Community of Belgium is the [MASK] language.
+[MASK] is the official language of German-speaking Community of Belgium.
+The [MASK] language is the official language of German-speaking Community of Belgium.
+In German-speaking Community of Belgium, [MASK] is the official language.
+Officially, [MASK] is the language of German-speaking Community of Belgium.
+The law in German-speaking Community of Belgium declares [MASK] the official language.
+The law in German-speaking Community of Belgium defines [MASK] as the official language.
+The law in German-speaking Community of Belgium defines the [MASK] language as the official language.
+
+The official language of Karkkila is [MASK].
+The official language of Karkkila is the [MASK] language.
+[MASK] is the official language of Karkkila.
+The [MASK] language is the official language of Karkkila.
+In Karkkila, [MASK] is the official language.
+Officially, [MASK] is the language of Karkkila.
+The law in Karkkila declares [MASK] the official language.
+The law in Karkkila defines [MASK] as the official language.
+The law in Karkkila defines the [MASK] language as the official language.
+
+The official language of Spanish Texas is [MASK].
+The official language of Spanish Texas is the [MASK] language.
+[MASK] is the official language of Spanish Texas.
+The [MASK] language is the official language of Spanish Texas.
+In Spanish Texas, [MASK] is the official language.
+Officially, [MASK] is the language of Spanish Texas.
+The law in Spanish Texas declares [MASK] the official language.
+The law in Spanish Texas defines [MASK] as the official language.
+The law in Spanish Texas defines the [MASK] language as the official language.
+
+The official language of Banten is [MASK].
+The official language of Banten is the [MASK] language.
+[MASK] is the official language of Banten.
+The [MASK] language is the official language of Banten.
+In Banten, [MASK] is the official language.
+Officially, [MASK] is the language of Banten.
+The law in Banten declares [MASK] the official language.
+The law in Banten defines [MASK] as the official language.
+The law in Banten defines the [MASK] language as the official language.
+
+The official language of Republic of Tatarstan is [MASK].
+The official language of Republic of Tatarstan is the [MASK] language.
+[MASK] is the official language of Republic of Tatarstan.
+The [MASK] language is the official language of Republic of Tatarstan.
+In Republic of Tatarstan, [MASK] is the official language.
+Officially, [MASK] is the language of Republic of Tatarstan.
+The law in Republic of Tatarstan declares [MASK] the official language.
+The law in Republic of Tatarstan defines [MASK] as the official language.
+The law in Republic of Tatarstan defines the [MASK] language as the official language.
+
+The official language of Malaysia is [MASK].
+The official language of Malaysia is the [MASK] language.
+[MASK] is the official language of Malaysia.
+The [MASK] language is the official language of Malaysia.
+In Malaysia, [MASK] is the official language.
+Officially, [MASK] is the language of Malaysia.
+The law in Malaysia declares [MASK] the official language.
+The law in Malaysia defines [MASK] as the official language.
+The law in Malaysia defines the [MASK] language as the official language.
+
+The official language of Mauritius is [MASK].
+The official language of Mauritius is the [MASK] language.
+[MASK] is the official language of Mauritius.
+The [MASK] language is the official language of Mauritius.
+In Mauritius, [MASK] is the official language.
+Officially, [MASK] is the language of Mauritius.
+The law in Mauritius declares [MASK] the official language.
+The law in Mauritius defines [MASK] as the official language.
+The law in Mauritius defines the [MASK] language as the official language.
+
+The official language of Haparanda Municipality is [MASK].
+The official language of Haparanda Municipality is the [MASK] language.
+[MASK] is the official language of Haparanda Municipality.
+The [MASK] language is the official language of Haparanda Municipality.
+In Haparanda Municipality, [MASK] is the official language.
+Officially, [MASK] is the language of Haparanda Municipality.
+The law in Haparanda Municipality declares [MASK] the official language.
+The law in Haparanda Municipality defines [MASK] as the official language.
+The law in Haparanda Municipality defines the [MASK] language as the official language.
+
+The official language of Spanish Empire is [MASK].
+The official language of Spanish Empire is the [MASK] language.
+[MASK] is the official language of Spanish Empire.
+The [MASK] language is the official language of Spanish Empire.
+In Spanish Empire, [MASK] is the official language.
+Officially, [MASK] is the language of Spanish Empire.
+The law in Spanish Empire declares [MASK] the official language.
+The law in Spanish Empire defines [MASK] as the official language.
+The law in Spanish Empire defines the [MASK] language as the official language.
+
+The official language of Republic of Florence is [MASK].
+The official language of Republic of Florence is the [MASK] language.
+[MASK] is the official language of Republic of Florence.
+The [MASK] language is the official language of Republic of Florence.
+In Republic of Florence, [MASK] is the official language.
+Officially, [MASK] is the language of Republic of Florence.
+The law in Republic of Florence declares [MASK] the official language.
+The law in Republic of Florence defines [MASK] as the official language.
+The law in Republic of Florence defines the [MASK] language as the official language.
+
+The official language of Macau is [MASK].
+The official language of Macau is the [MASK] language.
+[MASK] is the official language of Macau.
+The [MASK] language is the official language of Macau.
+In Macau, [MASK] is the official language.
+Officially, [MASK] is the language of Macau.
+The law in Macau declares [MASK] the official language.
+The law in Macau defines [MASK] as the official language.
+The law in Macau defines the [MASK] language as the official language.
+
+The official language of Aracena is [MASK].
+The official language of Aracena is the [MASK] language.
+[MASK] is the official language of Aracena.
+The [MASK] language is the official language of Aracena.
+In Aracena, [MASK] is the official language.
+Officially, [MASK] is the language of Aracena.
+The law in Aracena declares [MASK] the official language.
+The law in Aracena defines [MASK] as the official language.
+The law in Aracena defines the [MASK] language as the official language.
+
+The official language of Sint Maarten is [MASK].
+The official language of Sint Maarten is the [MASK] language.
+[MASK] is the official language of Sint Maarten.
+The [MASK] language is the official language of Sint Maarten.
+In Sint Maarten, [MASK] is the official language.
+Officially, [MASK] is the language of Sint Maarten.
+The law in Sint Maarten declares [MASK] the official language.
+The law in Sint Maarten defines [MASK] as the official language.
+The law in Sint Maarten defines the [MASK] language as the official language.
+
+The official language of Donetsk Oblast is [MASK].
+The official language of Donetsk Oblast is the [MASK] language.
+[MASK] is the official language of Donetsk Oblast.
+The [MASK] language is the official language of Donetsk Oblast.
+In Donetsk Oblast, [MASK] is the official language.
+Officially, [MASK] is the language of Donetsk Oblast.
+The law in Donetsk Oblast declares [MASK] the official language.
+The law in Donetsk Oblast defines [MASK] as the official language.
+The law in Donetsk Oblast defines the [MASK] language as the official language.
+
+The official language of Khabarovsk Krai is [MASK].
+The official language of Khabarovsk Krai is the [MASK] language.
+[MASK] is the official language of Khabarovsk Krai.
+The [MASK] language is the official language of Khabarovsk Krai.
+In Khabarovsk Krai, [MASK] is the official language.
+Officially, [MASK] is the language of Khabarovsk Krai.
+The law in Khabarovsk Krai declares [MASK] the official language.
+The law in Khabarovsk Krai defines [MASK] as the official language.
+The law in Khabarovsk Krai defines the [MASK] language as the official language.
+
+The official language of Bellinzona is [MASK].
+The official language of Bellinzona is the [MASK] language.
+[MASK] is the official language of Bellinzona.
+The [MASK] language is the official language of Bellinzona.
+In Bellinzona, [MASK] is the official language.
+Officially, [MASK] is the language of Bellinzona.
+The law in Bellinzona declares [MASK] the official language.
+The law in Bellinzona defines [MASK] as the official language.
+The law in Bellinzona defines the [MASK] language as the official language.
+
+The official language of Quebec is [MASK].
+The official language of Quebec is the [MASK] language.
+[MASK] is the official language of Quebec.
+The [MASK] language is the official language of Quebec.
+In Quebec, [MASK] is the official language.
+Officially, [MASK] is the language of Quebec.
+The law in Quebec declares [MASK] the official language.
+The law in Quebec defines [MASK] as the official language.
+The law in Quebec defines the [MASK] language as the official language.
+
+The official language of Uruguay is [MASK].
+The official language of Uruguay is the [MASK] language.
+[MASK] is the official language of Uruguay.
+The [MASK] language is the official language of Uruguay.
+In Uruguay, [MASK] is the official language.
+Officially, [MASK] is the language of Uruguay.
+The law in Uruguay declares [MASK] the official language.
+The law in Uruguay defines [MASK] as the official language.
+The law in Uruguay defines the [MASK] language as the official language.
+
+The official language of Odessa Oblast is [MASK].
+The official language of Odessa Oblast is the [MASK] language.
+[MASK] is the official language of Odessa Oblast.
+The [MASK] language is the official language of Odessa Oblast.
+In Odessa Oblast, [MASK] is the official language.
+Officially, [MASK] is the language of Odessa Oblast.
+The law in Odessa Oblast declares [MASK] the official language.
+The law in Odessa Oblast defines [MASK] as the official language.
+The law in Odessa Oblast defines the [MASK] language as the official language.
+
+The official language of Bellinzona is [MASK].
+The official language of Bellinzona is the [MASK] language.
+[MASK] is the official language of Bellinzona.
+The [MASK] language is the official language of Bellinzona.
+In Bellinzona, [MASK] is the official language.
+Officially, [MASK] is the language of Bellinzona.
+The law in Bellinzona declares [MASK] the official language.
+The law in Bellinzona defines [MASK] as the official language.
+The law in Bellinzona defines the [MASK] language as the official language.
+
+The official language of South Korea is [MASK].
+The official language of South Korea is the [MASK] language.
+[MASK] is the official language of South Korea.
+The [MASK] language is the official language of South Korea.
+In South Korea, [MASK] is the official language.
+Officially, [MASK] is the language of South Korea.
+The law in South Korea declares [MASK] the official language.
+The law in South Korea defines [MASK] as the official language.
+The law in South Korea defines the [MASK] language as the official language.
+
+The official language of Basel is [MASK].
+The official language of Basel is the [MASK] language.
+[MASK] is the official language of Basel.
+The [MASK] language is the official language of Basel.
+In Basel, [MASK] is the official language.
+Officially, [MASK] is the language of Basel.
+The law in Basel declares [MASK] the official language.
+The law in Basel defines [MASK] as the official language.
+The law in Basel defines the [MASK] language as the official language.
+
+The official language of European Union is [MASK].
+The official language of European Union is the [MASK] language.
+[MASK] is the official language of European Union.
+The [MASK] language is the official language of European Union.
+In European Union, [MASK] is the official language.
+Officially, [MASK] is the language of European Union.
+The law in European Union declares [MASK] the official language.
+The law in European Union defines [MASK] as the official language.
+The law in European Union defines the [MASK] language as the official language.
+
+The official language of Coimbatore is [MASK].
+The official language of Coimbatore is the [MASK] language.
+[MASK] is the official language of Coimbatore.
+The [MASK] language is the official language of Coimbatore.
+In Coimbatore, [MASK] is the official language.
+Officially, [MASK] is the language of Coimbatore.
+The law in Coimbatore declares [MASK] the official language.
+The law in Coimbatore defines [MASK] as the official language.
+The law in Coimbatore defines the [MASK] language as the official language.
+
+The official language of European Union is [MASK].
+The official language of European Union is the [MASK] language.
+[MASK] is the official language of European Union.
+The [MASK] language is the official language of European Union.
+In European Union, [MASK] is the official language.
+Officially, [MASK] is the language of European Union.
+The law in European Union declares [MASK] the official language.
+The law in European Union defines [MASK] as the official language.
+The law in European Union defines the [MASK] language as the official language.
+
+The official language of Geneva is [MASK].
+The official language of Geneva is the [MASK] language.
+[MASK] is the official language of Geneva.
+The [MASK] language is the official language of Geneva.
+In Geneva, [MASK] is the official language.
+Officially, [MASK] is the language of Geneva.
+The law in Geneva declares [MASK] the official language.
+The law in Geneva defines [MASK] as the official language.
+The law in Geneva defines the [MASK] language as the official language.
+
+The official language of Basel-Stadt is [MASK].
+The official language of Basel-Stadt is the [MASK] language.
+[MASK] is the official language of Basel-Stadt.
+The [MASK] language is the official language of Basel-Stadt.
+In Basel-Stadt, [MASK] is the official language.
+Officially, [MASK] is the language of Basel-Stadt.
+The law in Basel-Stadt declares [MASK] the official language.
+The law in Basel-Stadt defines [MASK] as the official language.
+The law in Basel-Stadt defines the [MASK] language as the official language.
+
+The official language of Turku is [MASK].
+The official language of Turku is the [MASK] language.
+[MASK] is the official language of Turku.
+The [MASK] language is the official language of Turku.
+In Turku, [MASK] is the official language.
+Officially, [MASK] is the language of Turku.
+The law in Turku declares [MASK] the official language.
+The law in Turku defines [MASK] as the official language.
+The law in Turku defines the [MASK] language as the official language.
+
+The official language of Valkeakoski is [MASK].
+The official language of Valkeakoski is the [MASK] language.
+[MASK] is the official language of Valkeakoski.
+The [MASK] language is the official language of Valkeakoski.
+In Valkeakoski, [MASK] is the official language.
+Officially, [MASK] is the language of Valkeakoski.
+The law in Valkeakoski declares [MASK] the official language.
+The law in Valkeakoski defines [MASK] as the official language.
+The law in Valkeakoski defines the [MASK] language as the official language.
+
+The official language of Biasca is [MASK].
+The official language of Biasca is the [MASK] language.
+[MASK] is the official language of Biasca.
+The [MASK] language is the official language of Biasca.
+In Biasca, [MASK] is the official language.
+Officially, [MASK] is the language of Biasca.
+The law in Biasca declares [MASK] the official language.
+The law in Biasca defines [MASK] as the official language.
+The law in Biasca defines the [MASK] language as the official language.
+
+The official language of Heinola is [MASK].
+The official language of Heinola is the [MASK] language.
+[MASK] is the official language of Heinola.
+The [MASK] language is the official language of Heinola.
+In Heinola, [MASK] is the official language.
+Officially, [MASK] is the language of Heinola.
+The law in Heinola declares [MASK] the official language.
+The law in Heinola defines [MASK] as the official language.
+The law in Heinola defines the [MASK] language as the official language.
+
+The official language of Royal Society of British Artists is [MASK].
+The official language of Royal Society of British Artists is the [MASK] language.
+[MASK] is the official language of Royal Society of British Artists.
+The [MASK] language is the official language of Royal Society of British Artists.
+In Royal Society of British Artists, [MASK] is the official language.
+Officially, [MASK] is the language of Royal Society of British Artists.
+The law in Royal Society of British Artists declares [MASK] the official language.
+The law in Royal Society of British Artists defines [MASK] as the official language.
+The law in Royal Society of British Artists defines the [MASK] language as the official language.
+
+The official language of Jersey is [MASK].
+The official language of Jersey is the [MASK] language.
+[MASK] is the official language of Jersey.
+The [MASK] language is the official language of Jersey.
+In Jersey, [MASK] is the official language.
+Officially, [MASK] is the language of Jersey.
+The law in Jersey declares [MASK] the official language.
+The law in Jersey defines [MASK] as the official language.
+The law in Jersey defines the [MASK] language as the official language.
+
+The official language of Isle of Man is [MASK].
+The official language of Isle of Man is the [MASK] language.
+[MASK] is the official language of Isle of Man.
+The [MASK] language is the official language of Isle of Man.
+In Isle of Man, [MASK] is the official language.
+Officially, [MASK] is the language of Isle of Man.
+The law in Isle of Man declares [MASK] the official language.
+The law in Isle of Man defines [MASK] as the official language.
+The law in Isle of Man defines the [MASK] language as the official language.
+
+The official language of Petrozavodsk is [MASK].
+The official language of Petrozavodsk is the [MASK] language.
+[MASK] is the official language of Petrozavodsk.
+The [MASK] language is the official language of Petrozavodsk.
+In Petrozavodsk, [MASK] is the official language.
+Officially, [MASK] is the language of Petrozavodsk.
+The law in Petrozavodsk declares [MASK] the official language.
+The law in Petrozavodsk defines [MASK] as the official language.
+The law in Petrozavodsk defines the [MASK] language as the official language.
+
+The official language of Les Bois is [MASK].
+The official language of Les Bois is the [MASK] language.
+[MASK] is the official language of Les Bois.
+The [MASK] language is the official language of Les Bois.
+In Les Bois, [MASK] is the official language.
+Officially, [MASK] is the language of Les Bois.
+The law in Les Bois declares [MASK] the official language.
+The law in Les Bois defines [MASK] as the official language.
+The law in Les Bois defines the [MASK] language as the official language.
+
+The official language of Moldova is [MASK].
+The official language of Moldova is the [MASK] language.
+[MASK] is the official language of Moldova.
+The [MASK] language is the official language of Moldova.
+In Moldova, [MASK] is the official language.
+Officially, [MASK] is the language of Moldova.
+The law in Moldova declares [MASK] the official language.
+The law in Moldova defines [MASK] as the official language.
+The law in Moldova defines the [MASK] language as the official language.
+
+The official language of Spain is [MASK].
+The official language of Spain is the [MASK] language.
+[MASK] is the official language of Spain.
+The [MASK] language is the official language of Spain.
+In Spain, [MASK] is the official language.
+Officially, [MASK] is the language of Spain.
+The law in Spain declares [MASK] the official language.
+The law in Spain defines [MASK] as the official language.
+The law in Spain defines the [MASK] language as the official language.
+
+The official language of Central Visayas is [MASK].
+The official language of Central Visayas is the [MASK] language.
+[MASK] is the official language of Central Visayas.
+The [MASK] language is the official language of Central Visayas.
+In Central Visayas, [MASK] is the official language.
+Officially, [MASK] is the language of Central Visayas.
+The law in Central Visayas declares [MASK] the official language.
+The law in Central Visayas defines [MASK] as the official language.
+The law in Central Visayas defines the [MASK] language as the official language.
+
+The official language of Biasca is [MASK].
+The official language of Biasca is the [MASK] language.
+[MASK] is the official language of Biasca.
+The [MASK] language is the official language of Biasca.
+In Biasca, [MASK] is the official language.
+Officially, [MASK] is the language of Biasca.
+The law in Biasca declares [MASK] the official language.
+The law in Biasca defines [MASK] as the official language.
+The law in Biasca defines the [MASK] language as the official language.
+
+The official language of Surahammar Municipality is [MASK].
+The official language of Surahammar Municipality is the [MASK] language.
+[MASK] is the official language of Surahammar Municipality.
+The [MASK] language is the official language of Surahammar Municipality.
+In Surahammar Municipality, [MASK] is the official language.
+Officially, [MASK] is the language of Surahammar Municipality.
+The law in Surahammar Municipality declares [MASK] the official language.
+The law in Surahammar Municipality defines [MASK] as the official language.
+The law in Surahammar Municipality defines the [MASK] language as the official language.
+
+The official language of Iran is [MASK].
+The official language of Iran is the [MASK] language.
+[MASK] is the official language of Iran.
+The [MASK] language is the official language of Iran.
+In Iran, [MASK] is the official language.
+Officially, [MASK] is the language of Iran.
+The law in Iran declares [MASK] the official language.
+The law in Iran defines [MASK] as the official language.
+The law in Iran defines the [MASK] language as the official language.
+
+The official language of Mandatory Palestine is [MASK].
+The official language of Mandatory Palestine is the [MASK] language.
+[MASK] is the official language of Mandatory Palestine.
+The [MASK] language is the official language of Mandatory Palestine.
+In Mandatory Palestine, [MASK] is the official language.
+Officially, [MASK] is the language of Mandatory Palestine.
+The law in Mandatory Palestine declares [MASK] the official language.
+The law in Mandatory Palestine defines [MASK] as the official language.
+The law in Mandatory Palestine defines the [MASK] language as the official language.
+
+The official language of Ilomantsi is [MASK].
+The official language of Ilomantsi is the [MASK] language.
+[MASK] is the official language of Ilomantsi.
+The [MASK] language is the official language of Ilomantsi.
+In Ilomantsi, [MASK] is the official language.
+Officially, [MASK] is the language of Ilomantsi.
+The law in Ilomantsi declares [MASK] the official language.
+The law in Ilomantsi defines [MASK] as the official language.
+The law in Ilomantsi defines the [MASK] language as the official language.
+
+The official language of Manitoba is [MASK].
+The official language of Manitoba is the [MASK] language.
+[MASK] is the official language of Manitoba.
+The [MASK] language is the official language of Manitoba.
+In Manitoba, [MASK] is the official language.
+Officially, [MASK] is the language of Manitoba.
+The law in Manitoba declares [MASK] the official language.
+The law in Manitoba defines [MASK] as the official language.
+The law in Manitoba defines the [MASK] language as the official language.
+
+The official language of Saskatchewan is [MASK].
+The official language of Saskatchewan is the [MASK] language.
+[MASK] is the official language of Saskatchewan.
+The [MASK] language is the official language of Saskatchewan.
+In Saskatchewan, [MASK] is the official language.
+Officially, [MASK] is the language of Saskatchewan.
+The law in Saskatchewan declares [MASK] the official language.
+The law in Saskatchewan defines [MASK] as the official language.
+The law in Saskatchewan defines the [MASK] language as the official language.
+
+The official language of Versoix is [MASK].
+The official language of Versoix is the [MASK] language.
+[MASK] is the official language of Versoix.
+The [MASK] language is the official language of Versoix.
+In Versoix, [MASK] is the official language.
+Officially, [MASK] is the language of Versoix.
+The law in Versoix declares [MASK] the official language.
+The law in Versoix defines [MASK] as the official language.
+The law in Versoix defines the [MASK] language as the official language.
+
+The official language of Kokkola is [MASK].
+The official language of Kokkola is the [MASK] language.
+[MASK] is the official language of Kokkola.
+The [MASK] language is the official language of Kokkola.
+In Kokkola, [MASK] is the official language.
+Officially, [MASK] is the language of Kokkola.
+The law in Kokkola declares [MASK] the official language.
+The law in Kokkola defines [MASK] as the official language.
+The law in Kokkola defines the [MASK] language as the official language.
+
+The official language of Muonio is [MASK].
+The official language of Muonio is the [MASK] language.
+[MASK] is the official language of Muonio.
+The [MASK] language is the official language of Muonio.
+In Muonio, [MASK] is the official language.
+Officially, [MASK] is the language of Muonio.
+The law in Muonio declares [MASK] the official language.
+The law in Muonio defines [MASK] as the official language.
+The law in Muonio defines the [MASK] language as the official language.
+
+The official language of Kingdom of Deheubarth is [MASK].
+The official language of Kingdom of Deheubarth is the [MASK] language.
+[MASK] is the official language of Kingdom of Deheubarth.
+The [MASK] language is the official language of Kingdom of Deheubarth.
+In Kingdom of Deheubarth, [MASK] is the official language.
+Officially, [MASK] is the language of Kingdom of Deheubarth.
+The law in Kingdom of Deheubarth declares [MASK] the official language.
+The law in Kingdom of Deheubarth defines [MASK] as the official language.
+The law in Kingdom of Deheubarth defines the [MASK] language as the official language.
+
+The official language of Majorca is [MASK].
+The official language of Majorca is the [MASK] language.
+[MASK] is the official language of Majorca.
+The [MASK] language is the official language of Majorca.
+In Majorca, [MASK] is the official language.
+Officially, [MASK] is the language of Majorca.
+The law in Majorca declares [MASK] the official language.
+The law in Majorca defines [MASK] as the official language.
+The law in Majorca defines the [MASK] language as the official language.
+
+The official language of Qing dynasty is [MASK].
+The official language of Qing dynasty is the [MASK] language.
+[MASK] is the official language of Qing dynasty.
+The [MASK] language is the official language of Qing dynasty.
+In Qing dynasty, [MASK] is the official language.
+Officially, [MASK] is the language of Qing dynasty.
+The law in Qing dynasty declares [MASK] the official language.
+The law in Qing dynasty defines [MASK] as the official language.
+The law in Qing dynasty defines the [MASK] language as the official language.
+
+The official language of Teuva is [MASK].
+The official language of Teuva is the [MASK] language.
+[MASK] is the official language of Teuva.
+The [MASK] language is the official language of Teuva.
+In Teuva, [MASK] is the official language.
+Officially, [MASK] is the language of Teuva.
+The law in Teuva declares [MASK] the official language.
+The law in Teuva defines [MASK] as the official language.
+The law in Teuva defines the [MASK] language as the official language.
+
+The official language of Suonenjoki is [MASK].
+The official language of Suonenjoki is the [MASK] language.
+[MASK] is the official language of Suonenjoki.
+The [MASK] language is the official language of Suonenjoki.
+In Suonenjoki, [MASK] is the official language.
+Officially, [MASK] is the language of Suonenjoki.
+The law in Suonenjoki declares [MASK] the official language.
+The law in Suonenjoki defines [MASK] as the official language.
+The law in Suonenjoki defines the [MASK] language as the official language.
+
+The official language of International Organization for Standardization is [MASK].
+The official language of International Organization for Standardization is the [MASK] language.
+[MASK] is the official language of International Organization for Standardization.
+The [MASK] language is the official language of International Organization for Standardization.
+In International Organization for Standardization, [MASK] is the official language.
+Officially, [MASK] is the language of International Organization for Standardization.
+The law in International Organization for Standardization declares [MASK] the official language.
+The law in International Organization for Standardization defines [MASK] as the official language.
+The law in International Organization for Standardization defines the [MASK] language as the official language.
+
+The official language of Mistretta is [MASK].
+The official language of Mistretta is the [MASK] language.
+[MASK] is the official language of Mistretta.
+The [MASK] language is the official language of Mistretta.
+In Mistretta, [MASK] is the official language.
+Officially, [MASK] is the language of Mistretta.
+The law in Mistretta declares [MASK] the official language.
+The law in Mistretta defines [MASK] as the official language.
+The law in Mistretta defines the [MASK] language as the official language.
+
+The official language of Asturias is [MASK].
+The official language of Asturias is the [MASK] language.
+[MASK] is the official language of Asturias.
+The [MASK] language is the official language of Asturias.
+In Asturias, [MASK] is the official language.
+Officially, [MASK] is the language of Asturias.
+The law in Asturias declares [MASK] the official language.
+The law in Asturias defines [MASK] as the official language.
+The law in Asturias defines the [MASK] language as the official language.
+
+The official language of Botswana is [MASK].
+The official language of Botswana is the [MASK] language.
+[MASK] is the official language of Botswana.
+The [MASK] language is the official language of Botswana.
+In Botswana, [MASK] is the official language.
+Officially, [MASK] is the language of Botswana.
+The law in Botswana declares [MASK] the official language.
+The law in Botswana defines [MASK] as the official language.
+The law in Botswana defines the [MASK] language as the official language.
+
+The official language of Montserrat is [MASK].
+The official language of Montserrat is the [MASK] language.
+[MASK] is the official language of Montserrat.
+The [MASK] language is the official language of Montserrat.
+In Montserrat, [MASK] is the official language.
+Officially, [MASK] is the language of Montserrat.
+The law in Montserrat declares [MASK] the official language.
+The law in Montserrat defines [MASK] as the official language.
+The law in Montserrat defines the [MASK] language as the official language.
+
+The official language of Canary Islands is [MASK].
+The official language of Canary Islands is the [MASK] language.
+[MASK] is the official language of Canary Islands.
+The [MASK] language is the official language of Canary Islands.
+In Canary Islands, [MASK] is the official language.
+Officially, [MASK] is the language of Canary Islands.
+The law in Canary Islands declares [MASK] the official language.
+The law in Canary Islands defines [MASK] as the official language.
+The law in Canary Islands defines the [MASK] language as the official language.
+
+The official language of New Brunswick is [MASK].
+The official language of New Brunswick is the [MASK] language.
+[MASK] is the official language of New Brunswick.
+The [MASK] language is the official language of New Brunswick.
+In New Brunswick, [MASK] is the official language.
+Officially, [MASK] is the language of New Brunswick.
+The law in New Brunswick declares [MASK] the official language.
+The law in New Brunswick defines [MASK] as the official language.
+The law in New Brunswick defines the [MASK] language as the official language.
+
+The official language of Brissago is [MASK].
+The official language of Brissago is the [MASK] language.
+[MASK] is the official language of Brissago.
+The [MASK] language is the official language of Brissago.
+In Brissago, [MASK] is the official language.
+Officially, [MASK] is the language of Brissago.
+The law in Brissago declares [MASK] the official language.
+The law in Brissago defines [MASK] as the official language.
+The law in Brissago defines the [MASK] language as the official language.
+
+The official language of Siuntio is [MASK].
+The official language of Siuntio is the [MASK] language.
+[MASK] is the official language of Siuntio.
+The [MASK] language is the official language of Siuntio.
+In Siuntio, [MASK] is the official language.
+Officially, [MASK] is the language of Siuntio.
+The law in Siuntio declares [MASK] the official language.
+The law in Siuntio defines [MASK] as the official language.
+The law in Siuntio defines the [MASK] language as the official language.
+
+The official language of Torfaen is [MASK].
+The official language of Torfaen is the [MASK] language.
+[MASK] is the official language of Torfaen.
+The [MASK] language is the official language of Torfaen.
+In Torfaen, [MASK] is the official language.
+Officially, [MASK] is the language of Torfaen.
+The law in Torfaen declares [MASK] the official language.
+The law in Torfaen defines [MASK] as the official language.
+The law in Torfaen defines the [MASK] language as the official language.
+
+The official language of Porvoo is [MASK].
+The official language of Porvoo is the [MASK] language.
+[MASK] is the official language of Porvoo.
+The [MASK] language is the official language of Porvoo.
+In Porvoo, [MASK] is the official language.
+Officially, [MASK] is the language of Porvoo.
+The law in Porvoo declares [MASK] the official language.
+The law in Porvoo defines [MASK] as the official language.
+The law in Porvoo defines the [MASK] language as the official language.
+
+The official language of Bosco Gurin is [MASK].
+The official language of Bosco Gurin is the [MASK] language.
+[MASK] is the official language of Bosco Gurin.
+The [MASK] language is the official language of Bosco Gurin.
+In Bosco Gurin, [MASK] is the official language.
+Officially, [MASK] is the language of Bosco Gurin.
+The law in Bosco Gurin declares [MASK] the official language.
+The law in Bosco Gurin defines [MASK] as the official language.
+The law in Bosco Gurin defines the [MASK] language as the official language.
+
+The official language of Vaasa is [MASK].
+The official language of Vaasa is the [MASK] language.
+[MASK] is the official language of Vaasa.
+The [MASK] language is the official language of Vaasa.
+In Vaasa, [MASK] is the official language.
+Officially, [MASK] is the language of Vaasa.
+The law in Vaasa declares [MASK] the official language.
+The law in Vaasa defines [MASK] as the official language.
+The law in Vaasa defines the [MASK] language as the official language.
+
+The official language of Liperi is [MASK].
+The official language of Liperi is the [MASK] language.
+[MASK] is the official language of Liperi.
+The [MASK] language is the official language of Liperi.
+In Liperi, [MASK] is the official language.
+Officially, [MASK] is the language of Liperi.
+The law in Liperi declares [MASK] the official language.
+The law in Liperi defines [MASK] as the official language.
+The law in Liperi defines the [MASK] language as the official language.
+
+The official language of Orbe is [MASK].
+The official language of Orbe is the [MASK] language.
+[MASK] is the official language of Orbe.
+The [MASK] language is the official language of Orbe.
+In Orbe, [MASK] is the official language.
+Officially, [MASK] is the language of Orbe.
+The law in Orbe declares [MASK] the official language.
+The law in Orbe defines [MASK] as the official language.
+The law in Orbe defines the [MASK] language as the official language.
+
+The official language of Jokkmokk Municipality is [MASK].
+The official language of Jokkmokk Municipality is the [MASK] language.
+[MASK] is the official language of Jokkmokk Municipality.
+The [MASK] language is the official language of Jokkmokk Municipality.
+In Jokkmokk Municipality, [MASK] is the official language.
+Officially, [MASK] is the language of Jokkmokk Municipality.
+The law in Jokkmokk Municipality declares [MASK] the official language.
+The law in Jokkmokk Municipality defines [MASK] as the official language.
+The law in Jokkmokk Municipality defines the [MASK] language as the official language.
+
+The official language of Canton of Valais is [MASK].
+The official language of Canton of Valais is the [MASK] language.
+[MASK] is the official language of Canton of Valais.
+The [MASK] language is the official language of Canton of Valais.
+In Canton of Valais, [MASK] is the official language.
+Officially, [MASK] is the language of Canton of Valais.
+The law in Canton of Valais declares [MASK] the official language.
+The law in Canton of Valais defines [MASK] as the official language.
+The law in Canton of Valais defines the [MASK] language as the official language.
+
+The official language of Karvia is [MASK].
+The official language of Karvia is the [MASK] language.
+[MASK] is the official language of Karvia.
+The [MASK] language is the official language of Karvia.
+In Karvia, [MASK] is the official language.
+Officially, [MASK] is the language of Karvia.
+The law in Karvia declares [MASK] the official language.
+The law in Karvia defines [MASK] as the official language.
+The law in Karvia defines the [MASK] language as the official language.
+
+The official language of Holy See is [MASK].
+The official language of Holy See is the [MASK] language.
+[MASK] is the official language of Holy See.
+The [MASK] language is the official language of Holy See.
+In Holy See, [MASK] is the official language.
+Officially, [MASK] is the language of Holy See.
+The law in Holy See declares [MASK] the official language.
+The law in Holy See defines [MASK] as the official language.
+The law in Holy See defines the [MASK] language as the official language.
+
+The official language of Raseborg is [MASK].
+The official language of Raseborg is the [MASK] language.
+[MASK] is the official language of Raseborg.
+The [MASK] language is the official language of Raseborg.
+In Raseborg, [MASK] is the official language.
+Officially, [MASK] is the language of Raseborg.
+The law in Raseborg declares [MASK] the official language.
+The law in Raseborg defines [MASK] as the official language.
+The law in Raseborg defines the [MASK] language as the official language.
+
+The official language of Caribbean Netherlands is [MASK].
+The official language of Caribbean Netherlands is the [MASK] language.
+[MASK] is the official language of Caribbean Netherlands.
+The [MASK] language is the official language of Caribbean Netherlands.
+In Caribbean Netherlands, [MASK] is the official language.
+Officially, [MASK] is the language of Caribbean Netherlands.
+The law in Caribbean Netherlands declares [MASK] the official language.
+The law in Caribbean Netherlands defines [MASK] as the official language.
+The law in Caribbean Netherlands defines the [MASK] language as the official language.
+
+The official language of Botswana is [MASK].
+The official language of Botswana is the [MASK] language.
+[MASK] is the official language of Botswana.
+The [MASK] language is the official language of Botswana.
+In Botswana, [MASK] is the official language.
+Officially, [MASK] is the language of Botswana.
+The law in Botswana declares [MASK] the official language.
+The law in Botswana defines [MASK] as the official language.
+The law in Botswana defines the [MASK] language as the official language.
+
+The official language of Tolyatti is [MASK].
+The official language of Tolyatti is the [MASK] language.
+[MASK] is the official language of Tolyatti.
+The [MASK] language is the official language of Tolyatti.
+In Tolyatti, [MASK] is the official language.
+Officially, [MASK] is the language of Tolyatti.
+The law in Tolyatti declares [MASK] the official language.
+The law in Tolyatti defines [MASK] as the official language.
+The law in Tolyatti defines the [MASK] language as the official language.
+
+The official language of Montana is [MASK].
+The official language of Montana is the [MASK] language.
+[MASK] is the official language of Montana.
+The [MASK] language is the official language of Montana.
+In Montana, [MASK] is the official language.
+Officially, [MASK] is the language of Montana.
+The law in Montana declares [MASK] the official language.
+The law in Montana defines [MASK] as the official language.
+The law in Montana defines the [MASK] language as the official language.
+
+The official language of Caslano is [MASK].
+The official language of Caslano is the [MASK] language.
+[MASK] is the official language of Caslano.
+The [MASK] language is the official language of Caslano.
+In Caslano, [MASK] is the official language.
+Officially, [MASK] is the language of Caslano.
+The law in Caslano declares [MASK] the official language.
+The law in Caslano defines [MASK] as the official language.
+The law in Caslano defines the [MASK] language as the official language.
+
+The official language of North Dakota is [MASK].
+The official language of North Dakota is the [MASK] language.
+[MASK] is the official language of North Dakota.
+The [MASK] language is the official language of North Dakota.
+In North Dakota, [MASK] is the official language.
+Officially, [MASK] is the language of North Dakota.
+The law in North Dakota declares [MASK] the official language.
+The law in North Dakota defines [MASK] as the official language.
+The law in North Dakota defines the [MASK] language as the official language.
+
+The official language of Kerala is [MASK].
+The official language of Kerala is the [MASK] language.
+[MASK] is the official language of Kerala.
+The [MASK] language is the official language of Kerala.
+In Kerala, [MASK] is the official language.
+Officially, [MASK] is the language of Kerala.
+The law in Kerala declares [MASK] the official language.
+The law in Kerala defines [MASK] as the official language.
+The law in Kerala defines the [MASK] language as the official language.
+
+The official language of European Union is [MASK].
+The official language of European Union is the [MASK] language.
+[MASK] is the official language of European Union.
+The [MASK] language is the official language of European Union.
+In European Union, [MASK] is the official language.
+Officially, [MASK] is the language of European Union.
+The law in European Union declares [MASK] the official language.
+The law in European Union defines [MASK] as the official language.
+The law in European Union defines the [MASK] language as the official language.
+
+The official language of Mozambique is [MASK].
+The official language of Mozambique is the [MASK] language.
+[MASK] is the official language of Mozambique.
+The [MASK] language is the official language of Mozambique.
+In Mozambique, [MASK] is the official language.
+Officially, [MASK] is the language of Mozambique.
+The law in Mozambique declares [MASK] the official language.
+The law in Mozambique defines [MASK] as the official language.
+The law in Mozambique defines the [MASK] language as the official language.
+
+The official language of Karijoki is [MASK].
+The official language of Karijoki is the [MASK] language.
+[MASK] is the official language of Karijoki.
+The [MASK] language is the official language of Karijoki.
+In Karijoki, [MASK] is the official language.
+Officially, [MASK] is the language of Karijoki.
+The law in Karijoki declares [MASK] the official language.
+The law in Karijoki defines [MASK] as the official language.
+The law in Karijoki defines the [MASK] language as the official language.
+
+The official language of American Samoa is [MASK].
+The official language of American Samoa is the [MASK] language.
+[MASK] is the official language of American Samoa.
+The [MASK] language is the official language of American Samoa.
+In American Samoa, [MASK] is the official language.
+Officially, [MASK] is the language of American Samoa.
+The law in American Samoa declares [MASK] the official language.
+The law in American Samoa defines [MASK] as the official language.
+The law in American Samoa defines the [MASK] language as the official language.
+
+The official language of International Academy of Sciences San Marino is [MASK].
+The official language of International Academy of Sciences San Marino is the [MASK] language.
+[MASK] is the official language of International Academy of Sciences San Marino.
+The [MASK] language is the official language of International Academy of Sciences San Marino.
+In International Academy of Sciences San Marino, [MASK] is the official language.
+Officially, [MASK] is the language of International Academy of Sciences San Marino.
+The law in International Academy of Sciences San Marino declares [MASK] the official language.
+The law in International Academy of Sciences San Marino defines [MASK] as the official language.
+The law in International Academy of Sciences San Marino defines the [MASK] language as the official language.
+
+The official language of Czech Republic is [MASK].
+The official language of Czech Republic is the [MASK] language.
+[MASK] is the official language of Czech Republic.
+The [MASK] language is the official language of Czech Republic.
+In Czech Republic, [MASK] is the official language.
+Officially, [MASK] is the language of Czech Republic.
+The law in Czech Republic declares [MASK] the official language.
+The law in Czech Republic defines [MASK] as the official language.
+The law in Czech Republic defines the [MASK] language as the official language.
+
+The official language of Haparanda Municipality is [MASK].
+The official language of Haparanda Municipality is the [MASK] language.
+[MASK] is the official language of Haparanda Municipality.
+The [MASK] language is the official language of Haparanda Municipality.
+In Haparanda Municipality, [MASK] is the official language.
+Officially, [MASK] is the language of Haparanda Municipality.
+The law in Haparanda Municipality declares [MASK] the official language.
+The law in Haparanda Municipality defines [MASK] as the official language.
+The law in Haparanda Municipality defines the [MASK] language as the official language.
+
+The official language of Kauhajoki is [MASK].
+The official language of Kauhajoki is the [MASK] language.
+[MASK] is the official language of Kauhajoki.
+The [MASK] language is the official language of Kauhajoki.
+In Kauhajoki, [MASK] is the official language.
+Officially, [MASK] is the language of Kauhajoki.
+The law in Kauhajoki declares [MASK] the official language.
+The law in Kauhajoki defines [MASK] as the official language.
+The law in Kauhajoki defines the [MASK] language as the official language.
+
+The official language of Huddinge Municipality is [MASK].
+The official language of Huddinge Municipality is the [MASK] language.
+[MASK] is the official language of Huddinge Municipality.
+The [MASK] language is the official language of Huddinge Municipality.
+In Huddinge Municipality, [MASK] is the official language.
+Officially, [MASK] is the language of Huddinge Municipality.
+The law in Huddinge Municipality declares [MASK] the official language.
+The law in Huddinge Municipality defines [MASK] as the official language.
+The law in Huddinge Municipality defines the [MASK] language as the official language.
+
+The official language of British Antarctic Territory is [MASK].
+The official language of British Antarctic Territory is the [MASK] language.
+[MASK] is the official language of British Antarctic Territory.
+The [MASK] language is the official language of British Antarctic Territory.
+In British Antarctic Territory, [MASK] is the official language.
+Officially, [MASK] is the language of British Antarctic Territory.
+The law in British Antarctic Territory declares [MASK] the official language.
+The law in British Antarctic Territory defines [MASK] as the official language.
+The law in British Antarctic Territory defines the [MASK] language as the official language.
+
+The official language of Juva is [MASK].
+The official language of Juva is the [MASK] language.
+[MASK] is the official language of Juva.
+The [MASK] language is the official language of Juva.
+In Juva, [MASK] is the official language.
+Officially, [MASK] is the language of Juva.
+The law in Juva declares [MASK] the official language.
+The law in Juva defines [MASK] as the official language.
+The law in Juva defines the [MASK] language as the official language.
+
+The official language of Le Locle is [MASK].
+The official language of Le Locle is the [MASK] language.
+[MASK] is the official language of Le Locle.
+The [MASK] language is the official language of Le Locle.
+In Le Locle, [MASK] is the official language.
+Officially, [MASK] is the language of Le Locle.
+The law in Le Locle declares [MASK] the official language.
+The law in Le Locle defines [MASK] as the official language.
+The law in Le Locle defines the [MASK] language as the official language.
+
+The official language of Keuruu is [MASK].
+The official language of Keuruu is the [MASK] language.
+[MASK] is the official language of Keuruu.
+The [MASK] language is the official language of Keuruu.
+In Keuruu, [MASK] is the official language.
+Officially, [MASK] is the language of Keuruu.
+The law in Keuruu declares [MASK] the official language.
+The law in Keuruu defines [MASK] as the official language.
+The law in Keuruu defines the [MASK] language as the official language.
+
+The official language of Guyana is [MASK].
+The official language of Guyana is the [MASK] language.
+[MASK] is the official language of Guyana.
+The [MASK] language is the official language of Guyana.
+In Guyana, [MASK] is the official language.
+Officially, [MASK] is the language of Guyana.
+The law in Guyana declares [MASK] the official language.
+The law in Guyana defines [MASK] as the official language.
+The law in Guyana defines the [MASK] language as the official language.
+
+The official language of Aargau is [MASK].
+The official language of Aargau is the [MASK] language.
+[MASK] is the official language of Aargau.
+The [MASK] language is the official language of Aargau.
+In Aargau, [MASK] is the official language.
+Officially, [MASK] is the language of Aargau.
+The law in Aargau declares [MASK] the official language.
+The law in Aargau defines [MASK] as the official language.
+The law in Aargau defines the [MASK] language as the official language.
+
+The official language of Delhi is [MASK].
+The official language of Delhi is the [MASK] language.
+[MASK] is the official language of Delhi.
+The [MASK] language is the official language of Delhi.
+In Delhi, [MASK] is the official language.
+Officially, [MASK] is the language of Delhi.
+The law in Delhi declares [MASK] the official language.
+The law in Delhi defines [MASK] as the official language.
+The law in Delhi defines the [MASK] language as the official language.
+
