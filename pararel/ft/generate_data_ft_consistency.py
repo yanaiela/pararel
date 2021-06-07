@@ -19,12 +19,12 @@ def generate_data(num_relations, num_tuples, relations_given, LAMA_path):
     relation_path_keep = []
     metadata = "_"
     if relations_given != "":
-        relations_given = relations_given.split(",")
+        relations_given = sorted(relations_given.split(","))
         for relation_path in relations_path:
             relation = relation_path.split("/")[-1].split(".")[0]
             if relation in relations_given:
                 relation_path_keep.append(relation_path)
-        metadata += relations_given.join("_")
+        metadata += "_".join(relations_given)
         metadata += "-"
     if len(relation_path_keep) < num_relations:
         for relation_path in relations_path:

@@ -15,7 +15,7 @@ different number if relations, you can use this script to generate your own
 training data.
 
 ```sh
-python pararel/ft/generate_data_ft_consitency.py
+python pararel/ft/generate_data_ft_consistency.py
 ```
 with optional parameters:
 
