@@ -15,18 +15,17 @@ def generate_data(num_relations, num_tuples, relations_given, LAMA_path):
     if not os.path.exists(output_path):
         os.mkdir(output_path)
 
-
     random.shuffle(relations_path)
     relation_path_keep = []
     metadata = "_"
     if relations_given != "":
+        relations_given = relations_given.split(",")
         for relation_path in relations_path:
             relation = relation_path.split("/")[-1].split(".")[0]
-            if relation in relations_given.split(","):
-                print(relation)
+            if relation in relations_given:
                 relation_path_keep.append(relation_path)
-                metadata += relation
-                metadata += "-"
+        metadata += relations_given.join("_")
+        metadata += "-"
     if len(relation_path_keep) < num_relations:
         for relation_path in relations_path:
             if relation_path not in relation_path_keep:
@@ -87,7 +86,7 @@ def main():
     parser.add_argument('--num_tuples', '-nt', type=int, default=100, help='number of tuples')
     parser.add_argument('--relations_given', '-r', type=str, default="P138,P449,P37", help='which relations')
     parser.add_argument('--LAMA_path', '-lama', type=str,
-                        default="/mounts/data/proj/kassner/lm_meaning/data/trex_lms_vocab/", help='number of tuples')
+                        default="/pararel/data/trex_lms_vocab/", help='number of tuples')
 
     args = parser.parse_args()
 
