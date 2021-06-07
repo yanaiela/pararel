@@ -1,0 +1,959 @@
+{"sub_label": "Lavoisier Island", "obj_label": "Antarctica", "uuid": "819ea69b-da14-46b2-8f71-b5aa791a88a6"}
+{"sub_label": "Beardmore Glacier", "obj_label": "Antarctica", "uuid": "967d90c1-a95f-49d6-a165-d6f4ad3e6a59"}
+{"sub_label": "Srebarna Glacier", "obj_label": "Antarctica", "uuid": "21a2f54f-d324-4c9f-b18e-e4f1a3e54ea0"}
+{"sub_label": "Herbert Range", "obj_label": "Antarctica", "uuid": "3f793f1d-7087-419f-a7de-8bf1c28921da"}
+{"sub_label": "Enterprise Island", "obj_label": "Antarctica", "uuid": "b880f894-cde0-4f3e-b291-ae0f62acdd70"}
+{"sub_label": "Pickwick Island", "obj_label": "Antarctica", "uuid": "418deef2-7389-4b98-939c-87bfca5c4946"}
+{"sub_label": "Sevtopolis Peak", "obj_label": "Antarctica", "uuid": "9dbde9b9-382d-4fba-835a-aed05345c0dd"}
+{"sub_label": "Avery Plateau", "obj_label": "Antarctica", "uuid": "07155754-1378-49ef-825a-c1305b35d859"}
+{"sub_label": "Blaiklock Glacier", "obj_label": "Antarctica", "uuid": "cd8684df-37a3-4a2e-89d8-1ff147b55a81"}
+{"sub_label": "Turkey", "obj_label": "Asia", "uuid": "91d866c1-99ec-4b39-b44e-a503c6da8f7e"}
+{"sub_label": "Antim Peak", "obj_label": "Antarctica", "uuid": "47aa4f7d-03e9-4572-b0ed-a1da26bae49e"}
+{"sub_label": "Namibia", "obj_label": "Africa", "uuid": "850f37dd-a38c-469f-88b3-5fd89949b87c"}
+{"sub_label": "Australian Antarctic Territory", "obj_label": "Antarctica", "uuid": "bb6d85e0-4f9a-41c7-a4a2-6ef9f2b8bd9c"}
+{"sub_label": "Gerlache Strait", "obj_label": "Antarctica", "uuid": "fdbe54ed-c788-4604-bedd-3f09751a7b62"}
+{"sub_label": "Possession Islands", "obj_label": "Antarctica", "uuid": "431cbeb0-4253-48ba-8bd9-00c8fcce9b17"}
+{"sub_label": "Founders Peaks", "obj_label": "Antarctica", "uuid": "c7f34c57-8b64-41ec-8b14-229350803c44"}
+{"sub_label": "Kochi", "obj_label": "Asia", "uuid": "9e263f7e-139e-40c0-a98e-bcee41380fad"}
+{"sub_label": "Watt Bay", "obj_label": "Antarctica", "uuid": "ec9110c2-9073-4f7a-b5bc-259601128c53"}
+{"sub_label": "Liard Island", "obj_label": "Antarctica", "uuid": "87908f1a-3c9f-4104-9739-dac7a48455e8"}
+{"sub_label": "Dunedin Range", "obj_label": "Antarctica", "uuid": "92ff55d7-04be-48b4-a2c8-06883d950c62"}
+{"sub_label": "Davis Sea", "obj_label": "Antarctica", "uuid": "c2d4c3c4-fb07-435c-986f-3c3441af16a5"}
+{"sub_label": "Coulter Heights", "obj_label": "Antarctica", "uuid": "399a3683-0204-42f9-bbc3-fffc76af2116"}
+{"sub_label": "Rotch Dome", "obj_label": "Antarctica", "uuid": "3e2dfa24-01ad-4fe9-8e3c-8d226a5fb4ba"}
+{"sub_label": "Rothera Research Station", "obj_label": "Antarctica", "uuid": "f5a469d4-76e3-45b7-b1d4-92d069729961"}
+{"sub_label": "Minnesota Glacier", "obj_label": "Antarctica", "uuid": "3347e4c6-5e43-47ac-ac0f-bb1594739704"}
+{"sub_label": "Umber Island", "obj_label": "Antarctica", "uuid": "2b171e95-9c2c-40dc-88fd-a30eeea91cbb"}
+{"sub_label": "Shackleton Range", "obj_label": "Antarctica", "uuid": "688d84f8-4e46-41bb-a5ce-788f64849dd7"}
+{"sub_label": "Germany", "obj_label": "Europe", "uuid": "89d16495-f8c9-4d02-9199-a66fc10790a3"}
+{"sub_label": "Argentina Range", "obj_label": "Antarctica", "uuid": "a68b7ec1-ca55-41d6-8f23-68f6a954dcee"}
+{"sub_label": "Reeves Glacier", "obj_label": "Antarctica", "uuid": "01235984-11fc-4c3a-93bc-2b404c98e613"}
+{"sub_label": "Prussian Partition", "obj_label": "Europe", "uuid": "864cf4cb-053b-42ce-9d6a-e3ba867266b8"}
+{"sub_label": "McDonald Heights", "obj_label": "Antarctica", "uuid": "cfdbd5d6-cf39-451d-8e5d-df8a24592f40"}
+{"sub_label": "Samuel Point", "obj_label": "Antarctica", "uuid": "6dc147c4-62ec-43e9-b04e-4cda21c2ce17"}
+{"sub_label": "Cieszyn", "obj_label": "Europe", "uuid": "577d1fff-d481-41f4-a2e2-7785ed481522"}
+{"sub_label": "Balham Valley", "obj_label": "Antarctica", "uuid": "975951c1-6912-4b43-89fd-03f8f97e31e0"}
+{"sub_label": "Vestreskorve Glacier", "obj_label": "Antarctica", "uuid": "0fa6d0d6-481e-402f-9507-8e1c2651924e"}
+{"sub_label": "Queen Maud Land", "obj_label": "Antarctica", "uuid": "def36c53-ae32-4d37-a78d-fa68fbfabf96"}
+{"sub_label": "Southern Netherlands", "obj_label": "Europe", "uuid": "28c5de62-33c8-4150-8055-cc1609fe2230"}
+{"sub_label": "Willan Saddle", "obj_label": "Antarctica", "uuid": "2a8b1f8c-fca3-4e42-94ce-185d70d0ab36"}
+{"sub_label": "Imperial Trans-Antarctic Expedition", "obj_label": "Antarctica", "uuid": "4ecd0036-589e-4843-ab8f-4e212ce0da57"}
+{"sub_label": "Crosswell Glacier", "obj_label": "Antarctica", "uuid": "1fab84bc-da5f-4044-90b1-2428f693dd9d"}
+{"sub_label": "Rutgers Glacier", "obj_label": "Antarctica", "uuid": "a11a2165-2294-4d8f-bb68-0e7e043703b5"}
+{"sub_label": "Insel Range", "obj_label": "Antarctica", "uuid": "28455540-59ae-497f-89ad-05eefb1a690d"}
+{"sub_label": "Soviet Union", "obj_label": "Europe", "uuid": "8aba3ea8-85f0-41b9-ad4e-68c728bf9a58"}
+{"sub_label": "Austkampane Hills", "obj_label": "Antarctica", "uuid": "07f856b1-4d0a-4b34-9a73-de32225faa3b"}
+{"sub_label": "Tiruvannamalai district", "obj_label": "Asia", "uuid": "3ad67f3e-2e00-4da7-96a2-98d4cb2f73d3"}
+{"sub_label": "Bach Ice Shelf", "obj_label": "Antarctica", "uuid": "0c4c50ec-3364-4742-8df6-3e7fa0a3357c"}
+{"sub_label": "Martel Inlet", "obj_label": "Antarctica", "uuid": "27a37d24-f60c-4bf7-bdcd-a6b6af1de944"}
+{"sub_label": "Tapsell Foreland", "obj_label": "Antarctica", "uuid": "059153e9-fa31-423b-8469-f4654f6f88eb"}
+{"sub_label": "Yorkshire", "obj_label": "Europe", "uuid": "69e5f7b0-83c8-400c-9c1d-f4897e1c262b"}
+{"sub_label": "Convoy Range", "obj_label": "Antarctica", "uuid": "b604abd5-a45b-48d8-a3f1-1bae1d00c28b"}
+{"sub_label": "Flatvaer Islands", "obj_label": "Antarctica", "uuid": "e1d2e5ca-51ed-461a-83d5-dc552ca7e93a"}
+{"sub_label": "Cape Jeremy", "obj_label": "Antarctica", "uuid": "f52db97c-5998-4174-adca-ec5cc97ea6c5"}
+{"sub_label": "Cape Mousse", "obj_label": "Antarctica", "uuid": "bbbf2dd1-3476-4b9d-ba91-bdafc6e677fe"}
+{"sub_label": "Brooklyn Island", "obj_label": "Antarctica", "uuid": "0e24e45a-9d8f-4d84-bd95-03ce623e27f8"}
+{"sub_label": "Armenia", "obj_label": "Europe", "uuid": "5e977efb-93bc-4440-b642-b94d84f06814"}
+{"sub_label": "Elgar Uplands", "obj_label": "Antarctica", "uuid": "1bf3b4ca-df14-44dd-b211-cd4c7266128f"}
+{"sub_label": "Mulock Glacier", "obj_label": "Antarctica", "uuid": "4a142fda-9405-43c3-acc4-3cd80facf6f5"}
+{"sub_label": "Chad Basin", "obj_label": "Africa", "uuid": "dd977763-1ac4-4169-b5e6-e905bf2fc498"}
+{"sub_label": "Hanoi", "obj_label": "Asia", "uuid": "c0426d9f-c040-4943-9f9c-1174441ccdaa"}
+{"sub_label": "Granite Knolls", "obj_label": "Antarctica", "uuid": "a430a277-6c36-4e42-8d09-490a46c705f7"}
+{"sub_label": "Cape Adriasola", "obj_label": "Antarctica", "uuid": "6d4f3d76-67b9-44c1-814e-7c2d076adec9"}
+{"sub_label": "Banaskantha district", "obj_label": "Asia", "uuid": "e9055a47-675c-4295-94ac-10f11d460294"}
+{"sub_label": "Tallinn", "obj_label": "Europe", "uuid": "86594054-93f4-411b-9e93-295cbb9be2cd"}
+{"sub_label": "Hannah Point", "obj_label": "Antarctica", "uuid": "39287270-ba4a-4c5a-9ed1-865879b14ee0"}
+{"sub_label": "North Brabant", "obj_label": "Europe", "uuid": "90c1fedd-0c58-44ac-aafc-68cd317a6f58"}
+{"sub_label": "Balochistan", "obj_label": "Asia", "uuid": "930d55b5-9259-46be-8592-c5b898ecbb89"}
+{"sub_label": "Edinburgh Hill", "obj_label": "Antarctica", "uuid": "03cd55e2-e522-4442-ac5a-09e6338152cb"}
+{"sub_label": "Udupi district", "obj_label": "Asia", "uuid": "70ec8f61-5eb7-4f5b-8304-460b952a4555"}
+{"sub_label": "Foyn Coast", "obj_label": "Antarctica", "uuid": "29ebdffb-4fe2-401b-85b0-ecfc821a2703"}
+{"sub_label": "Clothier Harbour", "obj_label": "Antarctica", "uuid": "d0a5c118-1e17-4a5c-9a4d-25b14543aeca"}
+{"sub_label": "Millerand Island", "obj_label": "Antarctica", "uuid": "bd8c73d6-f1e0-4077-82fa-28d5557f0e25"}
+{"sub_label": "Eros Glacier", "obj_label": "Antarctica", "uuid": "52cf5b47-408a-460b-aec3-aee6e8935b65"}
+{"sub_label": "Kama River", "obj_label": "Europe", "uuid": "52df77e5-18b9-46ec-b89f-26c7400e7232"}
+{"sub_label": "Nye Mountains", "obj_label": "Antarctica", "uuid": "3a1fdbee-17c6-4be1-9089-d36230d000ec"}
+{"sub_label": "New Swabia", "obj_label": "Antarctica", "uuid": "4dc86c9a-e6f9-4c84-a2d4-5096002baebe"}
+{"sub_label": "Hutton Mountains", "obj_label": "Antarctica", "uuid": "03beb936-0c78-4ae6-9e56-e3fdb97b3975"}
+{"sub_label": "Tagus river", "obj_label": "Europe", "uuid": "af947b48-4d90-4fa8-9a88-20b3b1f1fda2"}
+{"sub_label": "Fort William Point", "obj_label": "Antarctica", "uuid": "05ec14c4-d275-4acb-a30f-02b222781851"}
+{"sub_label": "Washington Escarpment", "obj_label": "Antarctica", "uuid": "90f45354-a82f-45d9-a151-816d8ca43631"}
+{"sub_label": "Saudi Arabia", "obj_label": "Asia", "uuid": "8bf0429f-d79f-4720-a86d-d59785bd50b1"}
+{"sub_label": "Carryer Glacier", "obj_label": "Antarctica", "uuid": "350ce8d2-bdd0-45c1-af17-79ae9aee575f"}
+{"sub_label": "Lisiya Ridge", "obj_label": "Antarctica", "uuid": "b954c4cd-81a1-41e2-9016-8f05cefb4856"}
+{"sub_label": "Stabben", "obj_label": "Antarctica", "uuid": "5e7673a6-e163-4528-893c-c3c3879826a8"}
+{"sub_label": "Largo Island", "obj_label": "Antarctica", "uuid": "625dfd49-1400-443b-a025-45f88ad35ecc"}
+{"sub_label": "Worcester Range", "obj_label": "Antarctica", "uuid": "b3c2aa36-56dd-411a-b963-6490015d209a"}
+{"sub_label": "Biscoe Islands", "obj_label": "Antarctica", "uuid": "03161dc0-3d38-4457-ab4f-618bdd21fb2c"}
+{"sub_label": "Mount Markham", "obj_label": "Antarctica", "uuid": "f70e5ae3-21ca-456b-aa81-a36f80de51b7"}
+{"sub_label": "Tile Ridge", "obj_label": "Antarctica", "uuid": "c1284040-6ce8-4b2b-a509-04c7fa3ab47d"}
+{"sub_label": "British Graham Land Expedition", "obj_label": "Antarctica", "uuid": "3195c4c5-f391-4ba5-a259-5e0c5fc5a22e"}
+{"sub_label": "Hood Glacier", "obj_label": "Antarctica", "uuid": "b416da23-f323-44b5-ab7a-c27c385ee41a"}
+{"sub_label": "Law Dome", "obj_label": "Antarctica", "uuid": "70f88fb4-8d40-4f35-bde5-02de13fcf293"}
+{"sub_label": "Grindley Plateau", "obj_label": "Antarctica", "uuid": "da4c7b0d-b189-4926-a9e7-646ea62dbb49"}
+{"sub_label": "Sobral Peninsula", "obj_label": "Antarctica", "uuid": "a757f7eb-264a-454a-a3fc-c1194376149f"}
+{"sub_label": "Cugnot Ice Piedmont", "obj_label": "Antarctica", "uuid": "6a335d3a-1cf4-4b30-bb49-fdecdeb31323"}
+{"sub_label": "Eritrea", "obj_label": "Africa", "uuid": "54293271-25b7-49ad-b737-fe44f5c4f843"}
+{"sub_label": "Hercules Inlet", "obj_label": "Antarctica", "uuid": "1094499d-fba9-4919-9acf-aa814abb7c56"}
+{"sub_label": "Canisteo Peninsula", "obj_label": "Antarctica", "uuid": "0dcc6c4a-3432-43d5-b97f-ec5a8cf5cdda"}
+{"sub_label": "Mount Mentzel", "obj_label": "Antarctica", "uuid": "7d281542-2739-44e8-a583-787370774c6f"}
+{"sub_label": "Strom Glacier", "obj_label": "Antarctica", "uuid": "30d20e86-d277-4568-acd3-bb59cb3d2c47"}
+{"sub_label": "Rose Valley Glacier", "obj_label": "Antarctica", "uuid": "65e96a25-ea4c-4545-8a13-dad5d1e44aaa"}
+{"sub_label": "Fendley Glacier", "obj_label": "Antarctica", "uuid": "dad8a421-f9cc-4007-9c8a-1b670307179b"}
+{"sub_label": "Fold Island", "obj_label": "Antarctica", "uuid": "c32ae65c-7dca-401c-a09b-3cacefba544c"}
+{"sub_label": "Mount Dido", "obj_label": "Antarctica", "uuid": "1315c62d-2948-46b0-b2e7-d16942fb490f"}
+{"sub_label": "Archar Peninsula", "obj_label": "Antarctica", "uuid": "3d2a4551-194f-4a4b-9a9e-02db8ff71b62"}
+{"sub_label": "Duchy of Brabant", "obj_label": "Europe", "uuid": "10f09563-4255-4151-a031-e6f5c20c9259"}
+{"sub_label": "Tundzha Glacier", "obj_label": "Antarctica", "uuid": "8cbf438a-acca-43b1-8661-5c20e2f69e0f"}
+{"sub_label": "Toulouse", "obj_label": "Europe", "uuid": "491565ce-0439-4228-bf04-e589a4458d2c"}
+{"sub_label": "Lazarev Mountains", "obj_label": "Antarctica", "uuid": "fafb5bb8-438e-4bea-adfb-3e2bbe9a465d"}
+{"sub_label": "South Korea", "obj_label": "Asia", "uuid": "cf409866-ad5a-4d1f-aaed-78299c99708c"}
+{"sub_label": "David Island", "obj_label": "Antarctica", "uuid": "df7b4799-ec9a-454d-b2f2-291295df1c5a"}
+{"sub_label": "Mikkelsen Bay", "obj_label": "Antarctica", "uuid": "19eba64f-675e-439f-b81a-6032e0555035"}
+{"sub_label": "Cape Rymill", "obj_label": "Antarctica", "uuid": "f3bc2c51-eae5-4de6-8d65-ea5406258625"}
+{"sub_label": "Vinson Plateau", "obj_label": "Antarctica", "uuid": "c44b24b6-3fd1-43bf-bf4d-38f327bc43ff"}
+{"sub_label": "Cape Adare", "obj_label": "Antarctica", "uuid": "811b3cca-6be2-4656-88a6-178290f284d6"}
+{"sub_label": "The Hague", "obj_label": "Europe", "uuid": "f68d1ae2-6dad-4e5e-8fc4-112a236693e2"}
+{"sub_label": "Coronation Island", "obj_label": "Antarctica", "uuid": "78d06710-9bb8-4da4-a8d9-8a22d90cf6f4"}
+{"sub_label": "Albanus Glacier", "obj_label": "Antarctica", "uuid": "3b13acff-72b8-4e3d-851d-b1fd8e92cdc3"}
+{"sub_label": "Denmark", "obj_label": "Europe", "uuid": "8436d6c9-ac04-452d-afba-7f3768cfe225"}
+{"sub_label": "Tupungato", "obj_label": "Americas", "uuid": "04503e6a-e2d7-4172-9bc7-f4d65c397119"}
+{"sub_label": "Beascochea Bay", "obj_label": "Antarctica", "uuid": "b04550e4-09c0-4c9f-9acb-2d3040457182"}
+{"sub_label": "Frostlendet Valley", "obj_label": "Antarctica", "uuid": "a2544b67-343c-40c5-8092-ec37b251e859"}
+{"sub_label": "Pequod Glacier", "obj_label": "Antarctica", "uuid": "3bf86a69-4119-4b92-bdde-d49769132e6a"}
+{"sub_label": "United Kingdom", "obj_label": "Europe", "uuid": "b288aa74-7dfc-4906-98b1-aec424f41157"}
+{"sub_label": "Nyamuragira", "obj_label": "Africa", "uuid": "7c1dbe93-aded-40a7-8dc0-7a55cc839e3a"}
+{"sub_label": "Evans Peninsula", "obj_label": "Antarctica", "uuid": "e244fcfd-4f51-48a2-ae69-04872db125e7"}
+{"sub_label": "British Empire", "obj_label": "Africa", "uuid": "9c34fc2b-c8dc-4006-bd85-e72b0931440a"}
+{"sub_label": "Hektoria Glacier", "obj_label": "Antarctica", "uuid": "1991a798-577c-43d7-8235-54c8bddcb700"}
+{"sub_label": "Cape Williams", "obj_label": "Antarctica", "uuid": "e8f358bb-6eac-4c43-bfc8-6ec0f40b9fa3"}
+{"sub_label": "Trinity Peninsula", "obj_label": "Antarctica", "uuid": "ba7781d0-323a-41bc-afe1-3b022c049c86"}
+{"sub_label": "South Asia", "obj_label": "Asia", "uuid": "bc20903e-d50f-4106-9686-c4d434dcf140"}
+{"sub_label": "Mount Kempe", "obj_label": "Antarctica", "uuid": "872add46-0edd-420a-ac56-f5835ad15f6c"}
+{"sub_label": "Mount Discovery", "obj_label": "Antarctica", "uuid": "ce85990c-614c-418f-9660-025e6e5dd9a1"}
+{"sub_label": "Misnomer Point", "obj_label": "Antarctica", "uuid": "cfcc4307-f129-402c-bf88-7ff8bfd33adc"}
+{"sub_label": "Sjogren Glacier", "obj_label": "Antarctica", "uuid": "871f0a55-0fa1-468a-8201-f1cbae041110"}
+{"sub_label": "Bulgaria", "obj_label": "Europe", "uuid": "3288488c-292e-49e0-91aa-9d57e8f8c68f"}
+{"sub_label": "Pechora River", "obj_label": "Europe", "uuid": "46e8487c-1045-4eec-9940-c3cfbbe9f0a3"}
+{"sub_label": "Queen Elizabeth Land", "obj_label": "Antarctica", "uuid": "3703dc42-6fc2-46dc-91aa-c19705458d21"}
+{"sub_label": "Jhelum River", "obj_label": "Asia", "uuid": "2df05dff-abf6-4d59-ab6d-dae38f9993d9"}
+{"sub_label": "Kurze Mountains", "obj_label": "Antarctica", "uuid": "24da5093-3165-4f54-9d8a-9d028fbd7b23"}
+{"sub_label": "Barker Range", "obj_label": "Antarctica", "uuid": "a2aff60e-4b4c-4f95-bd13-62f9cb9c535f"}
+{"sub_label": "Wright Lower Glacier", "obj_label": "Antarctica", "uuid": "9cf7c668-1173-4492-a1a3-1c79be5dbb3f"}
+{"sub_label": "Eiger", "obj_label": "Europe", "uuid": "e0eec562-4652-4a24-9ad0-4463331bfa50"}
+{"sub_label": "Coulman Island", "obj_label": "Antarctica", "uuid": "0a00c5c5-2b51-43ae-a5b1-915bed486f48"}
+{"sub_label": "Hudson Mountains", "obj_label": "Antarctica", "uuid": "4da9d55e-529d-4602-8b9d-96e6b61c972e"}
+{"sub_label": "Czechoslovakia", "obj_label": "Europe", "uuid": "da6c8d17-ffe4-4cd9-8b16-9891e532feb0"}
+{"sub_label": "Camp Academia", "obj_label": "Antarctica", "uuid": "e59e2ba7-4c45-496f-8188-b20186b1496e"}
+{"sub_label": "Austria", "obj_label": "Europe", "uuid": "681d69cc-e73d-4ade-84ca-f24c2bb7342a"}
+{"sub_label": "Gambia River", "obj_label": "Africa", "uuid": "5126ac9d-0391-480d-aef7-bfff1a680753"}
+{"sub_label": "Drummond Glacier", "obj_label": "Antarctica", "uuid": "9963314b-d208-41e1-9c66-53d93a5ef6b8"}
+{"sub_label": "Greece", "obj_label": "Europe", "uuid": "37fb35e5-9e23-4ea6-a781-3e4891d79b54"}
+{"sub_label": "Mendelssohn Inlet", "obj_label": "Antarctica", "uuid": "1796306b-862a-48d8-bbc2-c1098bdcd326"}
+{"sub_label": "Howard Glacier", "obj_label": "Antarctica", "uuid": "25608fd5-ab9a-4b80-93ca-0da96d265804"}
+{"sub_label": "Forrestal Range", "obj_label": "Antarctica", "uuid": "eff82e46-f4d2-4c31-895d-74ff4b261a0e"}
+{"sub_label": "Chester Cone", "obj_label": "Antarctica", "uuid": "e92e6178-741d-41ed-8feb-dc2824d09a6b"}
+{"sub_label": "Thomas Glacier", "obj_label": "Antarctica", "uuid": "9c0199ab-ed64-4a0c-9b9c-6860ea1a12ff"}
+{"sub_label": "Mount Ignatiev", "obj_label": "Antarctica", "uuid": "42b11c49-6bc9-4d92-88e0-8fd1a45acbef"}
+{"sub_label": "Bermel Escarpment", "obj_label": "Antarctica", "uuid": "5ef1fc25-912a-4910-bc40-a665df20a041"}
+{"sub_label": "Whirlwind Inlet", "obj_label": "Antarctica", "uuid": "5e762591-3608-4f13-9c96-a29d852d3226"}
+{"sub_label": "Saint Johns Range", "obj_label": "Antarctica", "uuid": "f0da6cb8-df65-4967-97df-9dd204b71acd"}
+{"sub_label": "Mount Queequeg", "obj_label": "Antarctica", "uuid": "4c3d29e8-9b87-4ede-b2f9-85c0d02352bd"}
+{"sub_label": "Mount Steere", "obj_label": "Antarctica", "uuid": "2d689474-b651-4d0a-a234-654d54c8ecf0"}
+{"sub_label": "Greenwood Valley", "obj_label": "Antarctica", "uuid": "24786f41-7c1c-40c4-a850-7f6408f687aa"}
+{"sub_label": "Zucchelli Station", "obj_label": "Antarctica", "uuid": "4e082335-3cca-4396-8c4e-4503cbdaff2b"}
+{"sub_label": "Jones Mountains", "obj_label": "Antarctica", "uuid": "f7682daa-2377-4180-9c6e-3e44bd748273"}
+{"sub_label": "Antarctic Plateau", "obj_label": "Antarctica", "uuid": "8920072b-fe9a-4c2f-b6bf-472ab292cf42"}
+{"sub_label": "Wales", "obj_label": "Europe", "uuid": "cb8adf3e-a258-4db6-a5dd-6146f42f7e9b"}
+{"sub_label": "Indonesia", "obj_label": "Asia", "uuid": "5df8831d-71a0-4f96-9114-7a9d8dbe2a36"}
+{"sub_label": "Bailey Peninsula (Antarctica)", "obj_label": "Antarctica", "uuid": "d71380d4-7350-4784-b402-4f338f6ac7ac"}
+{"sub_label": "Beaumont Glacier", "obj_label": "Antarctica", "uuid": "01670ec8-03f5-403a-9c28-661cf77e93e9"}
+{"sub_label": "Rockefeller Mountains", "obj_label": "Antarctica", "uuid": "3c797e89-17c0-41e6-a7d7-f1807b9d28cc"}
+{"sub_label": "Nimrod Glacier", "obj_label": "Antarctica", "uuid": "49d475d1-7d4d-4836-9ca2-c87242834332"}
+{"sub_label": "Carlini Station", "obj_label": "Antarctica", "uuid": "39a5c11a-11a3-47a9-820b-6e9d66af32b1"}
+{"sub_label": "Venta", "obj_label": "Europe", "uuid": "0334b561-1061-4246-848c-9d85c522264c"}
+{"sub_label": "Harold Byrd Mountains", "obj_label": "Antarctica", "uuid": "82d66f71-9007-408c-afda-a91c0b30f82a"}
+{"sub_label": "Cosgrove Ice Shelf", "obj_label": "Antarctica", "uuid": "9d410a98-4493-4766-8419-5ac87263a71e"}
+{"sub_label": "Snakeskin Glacier", "obj_label": "Antarctica", "uuid": "a55f421d-ac0a-4486-b085-76bd9ed12767"}
+{"sub_label": "Vietnam", "obj_label": "Asia", "uuid": "8a1cea73-fc7f-4c11-9aed-5aa295bfbad1"}
+{"sub_label": "Arrival Heights", "obj_label": "Antarctica", "uuid": "15135dab-fb2a-47a8-ba9a-48abf6ea595e"}
+{"sub_label": "Mount Passel", "obj_label": "Antarctica", "uuid": "fb03a62c-5686-46b8-b6df-d31aa7ea7504"}
+{"sub_label": "George VI Ice Shelf", "obj_label": "Antarctica", "uuid": "ff0aee77-4636-4cfa-803f-c77b0ac46067"}
+{"sub_label": "Piccard Cove", "obj_label": "Antarctica", "uuid": "3221dad6-3cf1-41fd-b523-e8df253f3bf4"}
+{"sub_label": "European Union", "obj_label": "Europe", "uuid": "6f25c31e-9467-4cfb-a0dc-5ec05fe9dc74"}
+{"sub_label": "Corner Cliffs", "obj_label": "Antarctica", "uuid": "537b8bd5-8c0a-46b6-a4ac-59d97b481f42"}
+{"sub_label": "Yugoslavia", "obj_label": "Europe", "uuid": "a2a84274-0706-434d-a5ce-e9fa41651f32"}
+{"sub_label": "Coppermine Peninsula", "obj_label": "Antarctica", "uuid": "dc95aa1a-79f3-499e-bb92-109a4620b343"}
+{"sub_label": "Hull Glacier", "obj_label": "Antarctica", "uuid": "9a1420a9-aa29-45f6-8f1e-365fefce5b8f"}
+{"sub_label": "Mount Electra", "obj_label": "Antarctica", "uuid": "ae3bc7be-e3f0-47ed-83e8-7e4bfd3096b4"}
+{"sub_label": "George V Coast", "obj_label": "Antarctica", "uuid": "c7fefee5-f7ee-43d1-ae10-ad615e4e8a78"}
+{"sub_label": "Robinson Group", "obj_label": "Antarctica", "uuid": "aefd5352-584c-4d35-b2ad-fed1baad3998"}
+{"sub_label": "Kingdom of Mercia", "obj_label": "Europe", "uuid": "d9dc228e-af20-48b6-9e86-9d0f7b20c044"}
+{"sub_label": "Byrd Station", "obj_label": "Antarctica", "uuid": "56613dae-9400-4e8a-986a-8a9afa7d4fd8"}
+{"sub_label": "Planet Heights", "obj_label": "Antarctica", "uuid": "8676c6dd-0783-40ac-a34e-03a03b3af409"}
+{"sub_label": "Transantarctic Mountains", "obj_label": "Antarctica", "uuid": "6fddb079-2810-4d74-955a-1ce3d1b5db38"}
+{"sub_label": "Saturn Glacier", "obj_label": "Antarctica", "uuid": "3076b332-ca46-4639-8309-6b721c18cdbd"}
+{"sub_label": "Balleny Islands", "obj_label": "Antarctica", "uuid": "cdf89623-1714-49db-a8bd-69a07989da8f"}
+{"sub_label": "Tbilisi", "obj_label": "Europe", "uuid": "97851257-5d04-480a-a442-e7b4c19c7b2e"}
+{"sub_label": "Honkala Island", "obj_label": "Antarctica", "uuid": "23edb5dd-00e1-4e11-aea1-a5b3218b13fe"}
+{"sub_label": "Bern", "obj_label": "Europe", "uuid": "92b8b02c-3000-4433-9d4e-63ca89682079"}
+{"sub_label": "Don Juan Pond", "obj_label": "Antarctica", "uuid": "6068a43a-4e0c-4d28-a084-41571aba54a4"}
+{"sub_label": "Murphy Glacier", "obj_label": "Antarctica", "uuid": "4f3712d6-f680-4a60-91fa-8ca198df5a5f"}
+{"sub_label": "Crown Peak", "obj_label": "Antarctica", "uuid": "bc6c3df1-7a6a-4bd7-98f0-753835eafed0"}
+{"sub_label": "Paris", "obj_label": "Europe", "uuid": "cbc77db6-edac-4527-8800-6f1d09c3ecd8"}
+{"sub_label": "Minna Bluff", "obj_label": "Antarctica", "uuid": "5c0b0af4-bd79-45a0-9f5c-408ebf10b47d"}
+{"sub_label": "Miziya Peak", "obj_label": "Antarctica", "uuid": "1175c488-d06b-4c04-9d8f-13d1f0d08d33"}
+{"sub_label": "Khabarovsk", "obj_label": "Asia", "uuid": "ebc7eb27-baa3-44c2-bc1f-1821a92dcfc4"}
+{"sub_label": "Air New Zealand Flight 901", "obj_label": "Antarctica", "uuid": "2a5393e8-42f5-41eb-af26-3d6303ba11fe"}
+{"sub_label": "Rambo Nunataks", "obj_label": "Antarctica", "uuid": "e5f74701-3b3f-4322-a603-2e173cad98ff"}
+{"sub_label": "Balchen Mountain", "obj_label": "Antarctica", "uuid": "51e71218-ab75-47a4-a715-350e473a4b53"}
+{"sub_label": "Darley Hills", "obj_label": "Antarctica", "uuid": "92eac47d-d163-4a07-ba0b-f7010ba1524a"}
+{"sub_label": "New Delhi", "obj_label": "Asia", "uuid": "6da0b8e0-31cc-4e3a-9e38-3ccf3bac14e0"}
+{"sub_label": "Azerbaijan", "obj_label": "Asia", "uuid": "a6d0e032-a761-48d8-a7e9-d38a9e31069e"}
+{"sub_label": "Mount Moses", "obj_label": "Antarctica", "uuid": "c726d675-5635-4646-8336-6a1d632c0983"}
+{"sub_label": "Posadowsky Bay", "obj_label": "Antarctica", "uuid": "0c00f023-951d-4011-804c-6a9597c7eccc"}
+{"sub_label": "Evans Peak", "obj_label": "Antarctica", "uuid": "85a038ac-1e9e-4c36-b21f-6a7ec5483128"}
+{"sub_label": "Mount Wade", "obj_label": "Antarctica", "uuid": "f9472391-442e-4626-9bb5-6824c315fbe4"}
+{"sub_label": "West Indies", "obj_label": "Americas", "uuid": "a15293cc-60ba-4aee-80f8-90cba5df2478"}
+{"sub_label": "Tiber", "obj_label": "Europe", "uuid": "125ef10b-26e4-4c1e-97bc-b54fc07004a4"}
+{"sub_label": "Mount Boreas", "obj_label": "Antarctica", "uuid": "486d8259-4822-47fd-a7d9-1d3ff714382f"}
+{"sub_label": "Slovenia", "obj_label": "Europe", "uuid": "4ccd01ca-0894-40d5-acd8-246d145df182"}
+{"sub_label": "Saunders Mountain", "obj_label": "Antarctica", "uuid": "10ea361a-f4a8-4076-b088-e384dea71a8d"}
+{"sub_label": "Irtysh river", "obj_label": "Asia", "uuid": "529b0a6e-b6ee-4957-84b8-3e9ec1ba6717"}
+{"sub_label": "Chandigarh", "obj_label": "Asia", "uuid": "e0c1a597-2c08-4bdd-a007-e95e8d8cf7a2"}
+{"sub_label": "Shirley Island", "obj_label": "Antarctica", "uuid": "98b314e2-acc7-468f-bba4-e5dd1e181e60"}
+{"sub_label": "Forster Ice Piedmont", "obj_label": "Antarctica", "uuid": "49f0b1e1-2f7c-4d2f-af7a-cdc3ab641e7e"}
+{"sub_label": "Despotate of Epirus", "obj_label": "Europe", "uuid": "62560f6c-8dee-4805-825b-0317996e8bd6"}
+{"sub_label": "Molar Massif", "obj_label": "Antarctica", "uuid": "6cedb281-1ad3-4f2b-b20e-85701306a3aa"}
+{"sub_label": "Cannonball Cliffs", "obj_label": "Antarctica", "uuid": "926738d5-8353-4f72-8df8-df5e7cb0d62c"}
+{"sub_label": "Indian Institute of Science", "obj_label": "Asia", "uuid": "3c80ed8a-c629-457e-8b93-9deb868ebdf0"}
+{"sub_label": "Ferrer Point", "obj_label": "Antarctica", "uuid": "1fadaced-ec01-421f-9aa3-9c8c2c793ab2"}
+{"sub_label": "England", "obj_label": "Europe", "uuid": "f100f0bf-3b69-4ba5-a415-8a9d1a5eca7e"}
+{"sub_label": "Metropolitan France", "obj_label": "Europe", "uuid": "889f071d-7afb-4a0f-b18e-7a2710c2899a"}
+{"sub_label": "Morozumi Range", "obj_label": "Antarctica", "uuid": "747c2c81-47d3-4419-9c84-58197577e398"}
+{"sub_label": "Brugmann Mountains", "obj_label": "Antarctica", "uuid": "c1d0b7dd-c7d1-472e-858a-92d78d487078"}
+{"sub_label": "Reinbolt Hills", "obj_label": "Antarctica", "uuid": "c010171a-7120-4643-aeab-f0f2f98a56fd"}
+{"sub_label": "Breidnes Peninsula", "obj_label": "Antarctica", "uuid": "29640518-6994-4c81-8720-daf305be5a6f"}
+{"sub_label": "Shipton Ridge", "obj_label": "Antarctica", "uuid": "834f2419-b1d5-4c59-9ea6-50970a53ec23"}
+{"sub_label": "William Scoresby Bay", "obj_label": "Antarctica", "uuid": "f7c14c21-b051-4f47-bec4-4b05027b4012"}
+{"sub_label": "Ray Promontory", "obj_label": "Antarctica", "uuid": "e18bdf73-0009-4990-9094-8ffcdaf94307"}
+{"sub_label": "Contell Glacier", "obj_label": "Antarctica", "uuid": "987d833e-734c-470e-a54e-346061a0e982"}
+{"sub_label": "Comoros", "obj_label": "Africa", "uuid": "d0adfd9b-67be-44df-b3f0-c709d5883a20"}
+{"sub_label": "Dumoulin Islands", "obj_label": "Antarctica", "uuid": "fa902a01-09ec-46e8-9231-e56eedcb6eb3"}
+{"sub_label": "East Francia", "obj_label": "Europe", "uuid": "092bbea7-8bdb-4ff2-9098-05030df3ebf7"}
+{"sub_label": "Mundraga Bay", "obj_label": "Antarctica", "uuid": "10d44512-b908-417b-96e1-521758ed2f05"}
+{"sub_label": "Nizamabad district", "obj_label": "Asia", "uuid": "314603e8-cfb1-4464-b566-909de69c7108"}
+{"sub_label": "Kirkpatrick Glacier", "obj_label": "Antarctica", "uuid": "6d7c7f01-e381-4567-88ba-cf7ebbbd05b0"}
+{"sub_label": "Collins Harbour", "obj_label": "Antarctica", "uuid": "e952c881-7341-468b-b9c4-14d782235d46"}
+{"sub_label": "Maitri", "obj_label": "Antarctica", "uuid": "34ccf146-dc4f-4db7-98b1-7bb4f698bab4"}
+{"sub_label": "Hammer Point", "obj_label": "Antarctica", "uuid": "20d04ab2-7131-4f13-9c87-43923a1ec2b9"}
+{"sub_label": "Kaloyan Nunatak", "obj_label": "Antarctica", "uuid": "5f5d52ea-e8f1-4351-88f9-8e1b4c1f2c69"}
+{"sub_label": "Kingdom of the Netherlands", "obj_label": "Europe", "uuid": "12361f9d-4ef7-4411-89b2-f67c2215c338"}
+{"sub_label": "Hansen Glacier", "obj_label": "Antarctica", "uuid": "d19d8547-25b8-4d8d-bd6f-a60252af6c6b"}
+{"sub_label": "Bourgeois Fjord", "obj_label": "Antarctica", "uuid": "5971c5b4-c580-4de6-bfad-5682f1631c5c"}
+{"sub_label": "Atlantic Club Ridge", "obj_label": "Antarctica", "uuid": "2667b58c-0045-42e1-9c4b-d93f8b1106fa"}
+{"sub_label": "Cape Hordern", "obj_label": "Antarctica", "uuid": "16ce9fb5-238c-46bb-afdc-6df9020df626"}
+{"sub_label": "Tierney Peninsula", "obj_label": "Antarctica", "uuid": "9595004b-7b99-405f-a6e2-1f45ed2d1a78"}
+{"sub_label": "Astrolabe Glacier", "obj_label": "Antarctica", "uuid": "9eb6d176-3f9e-483a-af9f-2e479d508c30"}
+{"sub_label": "Veleka Ridge", "obj_label": "Antarctica", "uuid": "18e9a0e3-edea-48e4-9770-47871cc8a781"}
+{"sub_label": "Mount Harker", "obj_label": "Antarctica", "uuid": "4c6488a3-59d3-409a-bd2a-b4d92d595d39"}
+{"sub_label": "Merrick Mountains", "obj_label": "Antarctica", "uuid": "08ff55eb-306c-457d-aa9d-ef87bec89cac"}
+{"sub_label": "South Beaches", "obj_label": "Antarctica", "uuid": "bde2fae1-2653-4049-8f56-d6673e51c27a"}
+{"sub_label": "Padda Island", "obj_label": "Antarctica", "uuid": "f1d8aa0c-97b1-4691-87e7-36f24d0bad2b"}
+{"sub_label": "Daman and Diu", "obj_label": "Asia", "uuid": "6473ecdc-5a6a-4df8-b3b4-bf20616af349"}
+{"sub_label": "Mount Cameroon", "obj_label": "Africa", "uuid": "0094eb8e-a02a-40f7-8378-6ecb11f3a14d"}
+{"sub_label": "Zechstein", "obj_label": "Europe", "uuid": "ad0be746-c1ad-4299-b0a4-f81241b22947"}
+{"sub_label": "Arena Valley", "obj_label": "Antarctica", "uuid": "b85fb06f-df62-4539-b299-6494a2e67277"}
+{"sub_label": "Lesotho", "obj_label": "Africa", "uuid": "af168b11-4bf2-4e06-adf2-a0c1749da6ac"}
+{"sub_label": "Loire", "obj_label": "Europe", "uuid": "b7bce95d-6044-44a9-a797-2c177638ec6e"}
+{"sub_label": "Mayotte", "obj_label": "Africa", "uuid": "1eff2266-2d28-416b-8c7f-f1c9e1fc7db0"}
+{"sub_label": "Stonehouse Bay", "obj_label": "Antarctica", "uuid": "2480511c-3e6b-4aa9-aff2-9785b554348a"}
+{"sub_label": "Colbert Mountains", "obj_label": "Antarctica", "uuid": "0bc20b61-f6b3-42ff-b350-024c236f032d"}
+{"sub_label": "Fish Islands", "obj_label": "Antarctica", "uuid": "5e520202-37ff-40db-8aae-307475c331e3"}
+{"sub_label": "Grossman Nunataks", "obj_label": "Antarctica", "uuid": "ac182daf-2356-4ff6-b609-05bad67178ac"}
+{"sub_label": "Trail Inlet", "obj_label": "Antarctica", "uuid": "e07f61d2-9058-43db-afd4-41d3d43d484b"}
+{"sub_label": "Northern Foothills", "obj_label": "Antarctica", "uuid": "77efa515-792b-430c-97ed-45d9d28cea2d"}
+{"sub_label": "Johnson Glacier", "obj_label": "Antarctica", "uuid": "c7e9ba62-e28d-46f7-8916-9009576b03b7"}
+{"sub_label": "North Holland", "obj_label": "Europe", "uuid": "03f62623-32cb-44a0-8416-8453f65b87be"}
+{"sub_label": "Mount Lister", "obj_label": "Antarctica", "uuid": "8b08a1cb-8c67-4754-8ea9-49f3c21e46e3"}
+{"sub_label": "North Macedonia", "obj_label": "Europe", "uuid": "e77906b4-a281-461d-bf56-c02cac0c14cd"}
+{"sub_label": "Liberia", "obj_label": "Africa", "uuid": "aa4359c7-21fb-4ff5-a68f-6b8e1084295e"}
+{"sub_label": "Elbe", "obj_label": "Europe", "uuid": "ebf664aa-b10f-408d-b6b9-efa7b3e323fd"}
+{"sub_label": "Malta Plateau", "obj_label": "Antarctica", "uuid": "11424d66-d706-40be-ad2e-99e4d805b239"}
+{"sub_label": "Exarchate of Ravenna", "obj_label": "Europe", "uuid": "33651360-70bc-4a7d-a95e-46ee3e94530b"}
+{"sub_label": "Deep Freeze Range", "obj_label": "Antarctica", "uuid": "f0d31af0-60b7-42a4-8b12-1d2f84506824"}
+{"sub_label": "Walker Mountains", "obj_label": "Antarctica", "uuid": "09cbf5ef-8a28-4e35-9d12-a0bca43c1626"}
+{"sub_label": "Apollo Peak", "obj_label": "Antarctica", "uuid": "f974f620-1222-4ff5-85da-f577ecf9047f"}
+{"sub_label": "MacKenzie Bay", "obj_label": "Antarctica", "uuid": "f9478304-deec-4f2e-a22b-86687f9b2339"}
+{"sub_label": "Rezen Saddle", "obj_label": "Antarctica", "uuid": "99d715fc-a1de-4651-9224-ba647822beb2"}
+{"sub_label": "Ablation Valley", "obj_label": "Antarctica", "uuid": "dca77db7-6860-4abf-b9d6-193474a36492"}
+{"sub_label": "Shebelle River", "obj_label": "Africa", "uuid": "e70ec12b-f14d-4490-ae6a-3f9143077f02"}
+{"sub_label": "Iskar Glacier", "obj_label": "Antarctica", "uuid": "886bf17b-c61b-4a3c-b3e5-b8b60e31d91a"}
+{"sub_label": "Mercator Ice Piedmont", "obj_label": "Antarctica", "uuid": "53421bbc-d75a-4691-93c9-df859d452041"}
+{"sub_label": "Getz Ice Shelf", "obj_label": "Antarctica", "uuid": "2ead1d44-380f-4324-97d3-adfc186cf314"}
+{"sub_label": "Morgan Inlet", "obj_label": "Antarctica", "uuid": "3a6910fc-b0e4-48b4-999f-61076507ebe5"}
+{"sub_label": "Newell Point", "obj_label": "Antarctica", "uuid": "36425ac8-35be-4157-92d7-30023a2dfc0e"}
+{"sub_label": "Craiova", "obj_label": "Europe", "uuid": "8cd539ff-4671-4117-ba24-cdce7f1307b0"}
+{"sub_label": "Trakiya Heights", "obj_label": "Antarctica", "uuid": "1f1472d0-13f5-479d-b400-8675f5c0894f"}
+{"sub_label": "William Scoresby Archipelago", "obj_label": "Antarctica", "uuid": "c02c57b5-d8d3-4cf9-87c3-01f9e3338e08"}
+{"sub_label": "Pomorie Point", "obj_label": "Antarctica", "uuid": "c72a51c0-2f02-44bd-ba0e-aea1119af474"}
+{"sub_label": "Arctowski Peninsula", "obj_label": "Antarctica", "uuid": "e78f8112-3b5d-4e9e-8600-c3bc29f94f16"}
+{"sub_label": "Zemen Knoll", "obj_label": "Antarctica", "uuid": "6ed28bfb-d713-4765-88e5-ab28c889cebf"}
+{"sub_label": "Himachal Pradesh", "obj_label": "Asia", "uuid": "e6d7afce-3568-4ea4-bf06-c4a68d3cacc4"}
+{"sub_label": "Welcome Mountain", "obj_label": "Antarctica", "uuid": "58eac279-76de-4a08-9338-c0d448960fdd"}
+{"sub_label": "Dufek Massif", "obj_label": "Antarctica", "uuid": "3144caa0-cb70-4b78-b7e0-65d9fc4a8061"}
+{"sub_label": "Ardery Island", "obj_label": "Antarctica", "uuid": "e9ac151f-e70f-4864-b9e5-1ffdd8dc709f"}
+{"sub_label": "Charlotte Bay", "obj_label": "Antarctica", "uuid": "1f3fe515-b3a5-41c7-9dd0-b0f8c1510fe8"}
+{"sub_label": "Bowyer Butte", "obj_label": "Antarctica", "uuid": "055db051-068b-4b20-9842-bfd46c206454"}
+{"sub_label": "Mount Tyrrell", "obj_label": "Antarctica", "uuid": "4be4c0b3-b504-4393-93fc-72e1181d34f6"}
+{"sub_label": "Ruppert Coast", "obj_label": "Antarctica", "uuid": "b9ebc3f6-e726-45b8-94f0-6a414cf5dc67"}
+{"sub_label": "Kondofrey Heights", "obj_label": "Antarctica", "uuid": "7249d291-005e-48b6-a836-ac8185269b51"}
+{"sub_label": "Ol Doinyo Lengai", "obj_label": "Africa", "uuid": "7537e32a-7a4a-4e27-82d2-8b893117a501"}
+{"sub_label": "Antarctic Plate", "obj_label": "Antarctica", "uuid": "923f897e-c5d5-4f8d-90b0-41c8eb8eef19"}
+{"sub_label": "Erickson Bluffs", "obj_label": "Antarctica", "uuid": "ce9bcc60-fc72-406d-80fe-5c5c3e400d82"}
+{"sub_label": "Marshall Mountains", "obj_label": "Antarctica", "uuid": "036fe95c-17f9-4207-8395-dcade717016c"}
+{"sub_label": "Hong Kong", "obj_label": "Asia", "uuid": "bcf0ef43-34ad-4245-92df-79c8b7cd4f1a"}
+{"sub_label": "Aleko Rock", "obj_label": "Antarctica", "uuid": "5a3f9de5-ed33-4fc1-8bcb-656d3886d175"}
+{"sub_label": "Mount Bursey", "obj_label": "Antarctica", "uuid": "7c8209a0-cb05-49e3-aff6-d0626add3a89"}
+{"sub_label": "Saint Petersburg", "obj_label": "Europe", "uuid": "22a6e04b-eaae-4353-93c3-20781b11b6aa"}
+{"sub_label": "Renier Point", "obj_label": "Antarctica", "uuid": "6db7a7d7-f24f-46ac-a7d5-a2c49433895e"}
+{"sub_label": "Cleveland Glacier", "obj_label": "Antarctica", "uuid": "9facc77a-2be6-4f14-93c1-a16eefb93f24"}
+{"sub_label": "Tajikistan", "obj_label": "Asia", "uuid": "71f2bc8f-99b2-45b5-9da6-618c993b2898"}
+{"sub_label": "Kalahari Desert", "obj_label": "Africa", "uuid": "4a795182-6c05-4dc5-a677-e056b435703f"}
+{"sub_label": "Turkmenistan", "obj_label": "Asia", "uuid": "9e872995-cc31-47af-815a-e5cc5b47040f"}
+{"sub_label": "Pourquoi Pas Point", "obj_label": "Antarctica", "uuid": "72a45203-d0bf-45f5-81a8-6fb07a4baa52"}
+{"sub_label": "Cape Bird", "obj_label": "Antarctica", "uuid": "1ec2e353-97ce-4f19-b0da-7c28abc869f6"}
+{"sub_label": "Svarthamaren Mountain", "obj_label": "Antarctica", "uuid": "c4b2547d-d792-40ab-bf83-bc18b3ef42b7"}
+{"sub_label": "Von Essen Mountain", "obj_label": "Antarctica", "uuid": "ccb90a0d-7b02-4b5a-9902-6d25421475e4"}
+{"sub_label": "Ancient Greece", "obj_label": "Europe", "uuid": "399f17e7-f054-4a43-b6fc-fc436018d8a2"}
+{"sub_label": "Emmanuel Glacier", "obj_label": "Antarctica", "uuid": "d92f1990-4241-452e-a71c-029bef455468"}
+{"sub_label": "Mount Weaver", "obj_label": "Antarctica", "uuid": "9196f6b2-722d-4fe3-b124-1afe31176dce"}
+{"sub_label": "Signy Island", "obj_label": "Antarctica", "uuid": "80b586bd-4525-4091-841c-334f0055400e"}
+{"sub_label": "Peshtera Glacier", "obj_label": "Antarctica", "uuid": "9e399b3b-aba5-45a8-9a07-5b1ccfd9bfb8"}
+{"sub_label": "Moscow", "obj_label": "Europe", "uuid": "5eb8908a-cff6-47bf-929c-9010a0d4af47"}
+{"sub_label": "Gambacorta Peak", "obj_label": "Antarctica", "uuid": "ef32315b-6fe0-44ec-a5a6-adb8753d37a9"}
+{"sub_label": "Noll Glacier", "obj_label": "Antarctica", "uuid": "3dbedd7c-c275-429b-8603-d64cc2f01830"}
+{"sub_label": "Cape Colbeck", "obj_label": "Antarctica", "uuid": "2f10cb31-c72a-49d5-9d09-88035d20c9af"}
+{"sub_label": "Huntress Glacier", "obj_label": "Antarctica", "uuid": "16e809b5-4bbe-4850-a601-6a45ca71f50f"}
+{"sub_label": "David Glacier", "obj_label": "Antarctica", "uuid": "cba5fcf3-f6c8-43b5-aae4-7daa4c211cc1"}
+{"sub_label": "Danco Coast", "obj_label": "Antarctica", "uuid": "b1c12f52-c8f4-43ce-9249-d6c55e588159"}
+{"sub_label": "Cape Longing", "obj_label": "Antarctica", "uuid": "cffde795-7717-4e50-9213-35574e23622d"}
+{"sub_label": "Harsewinkel", "obj_label": "Europe", "uuid": "51029764-423c-4509-99fc-b3177f4830bc"}
+{"sub_label": "Quarles Range", "obj_label": "Antarctica", "uuid": "944deeac-d8cf-49f4-8db6-44d5b55780bd"}
+{"sub_label": "Vaughan Inlet", "obj_label": "Antarctica", "uuid": "f5dfc724-093d-485f-978c-3c34820fa404"}
+{"sub_label": "Mount Murphy", "obj_label": "Antarctica", "uuid": "6fb1234c-1e11-499c-9d86-9d02498d6ba3"}
+{"sub_label": "Delchev Ridge", "obj_label": "Antarctica", "uuid": "e6ee714b-459f-4983-a0ee-679508458956"}
+{"sub_label": "Quinton Point", "obj_label": "Antarctica", "uuid": "110291b9-dd1e-4bf6-bf20-3ea5f5de5e8e"}
+{"sub_label": "Demay Point", "obj_label": "Antarctica", "uuid": "65077e7c-6439-451d-b427-0b2d3461f458"}
+{"sub_label": "Ismoil Somoni Peak", "obj_label": "Asia", "uuid": "1107b105-9359-4129-8981-b62484bab56f"}
+{"sub_label": "Lake Vida", "obj_label": "Antarctica", "uuid": "de6016f8-0ffa-4f7a-9e66-96e680d8a2e9"}
+{"sub_label": "Risemedet Mountain", "obj_label": "Antarctica", "uuid": "a70cc5d5-6d9b-416f-b8b0-0d39f8f1ba98"}
+{"sub_label": "Mountaineer Range", "obj_label": "Antarctica", "uuid": "b4632874-4615-463d-ba76-efcb61009ab0"}
+{"sub_label": "Goa", "obj_label": "Asia", "uuid": "8fb0d64c-fe9e-4aea-93a9-5d6a80ce68a3"}
+{"sub_label": "Fournier Bay", "obj_label": "Antarctica", "uuid": "adf6ed80-0977-4022-bd68-8592e10d732f"}
+{"sub_label": "Thailand", "obj_label": "Asia", "uuid": "ddfc556a-bff9-4c79-b2fd-6d144702fd68"}
+{"sub_label": "Cobham Range", "obj_label": "Antarctica", "uuid": "afcc02e7-8cc0-4bd8-bb36-c22ef178f8d6"}
+{"sub_label": "Senegambia Confederation", "obj_label": "Africa", "uuid": "3b709c85-1abc-446e-a469-6dd0b48f230e"}
+{"sub_label": "Demas Range", "obj_label": "Antarctica", "uuid": "9bc0aef6-4431-404c-ba54-45f4c3b2893b"}
+{"sub_label": "Struma Glacier", "obj_label": "Antarctica", "uuid": "b25504b7-fe40-41a6-9bb1-37c49aad9408"}
+{"sub_label": "Bertha Island", "obj_label": "Antarctica", "uuid": "e2c149cc-b5e2-4a84-a2d2-9d16177c3050"}
+{"sub_label": "Festninga Mountain", "obj_label": "Antarctica", "uuid": "113b4a3a-0f7c-4d79-8a82-b2f9a5ab5351"}
+{"sub_label": "Carlota Cove", "obj_label": "Antarctica", "uuid": "be4f15f4-311b-4aa2-b926-4a9ed36193f3"}
+{"sub_label": "Rawson Plateau", "obj_label": "Antarctica", "uuid": "8bb950c4-2367-4fe2-9a2a-0340386cef84"}
+{"sub_label": "Cape Adams", "obj_label": "Antarctica", "uuid": "26e3dd2f-e730-4c56-9971-0ebafb58de67"}
+{"sub_label": "Langnes Peninsula", "obj_label": "Antarctica", "uuid": "c192915a-daec-44f7-b66c-bbd2a351fb71"}
+{"sub_label": "Euphrates", "obj_label": "Asia", "uuid": "91f76286-dffc-4718-beee-58552df7fa8f"}
+{"sub_label": "Staten Island Heights", "obj_label": "Antarctica", "uuid": "478b715a-0141-4328-be92-fb038522cd0c"}
+{"sub_label": "Scott Island", "obj_label": "Antarctica", "uuid": "f631b917-2f91-48e6-b963-728af607f595"}
+{"sub_label": "Scheldt", "obj_label": "Europe", "uuid": "e56b02fd-c1e8-4616-b125-8d59e5b8894c"}
+{"sub_label": "history of Africa", "obj_label": "Africa", "uuid": "304d2279-9506-40e6-8d96-8294ae56ae0b"}
+{"sub_label": "Mount Bayonne", "obj_label": "Antarctica", "uuid": "399cdfaf-514d-4934-8fb5-90fbc2413920"}
+{"sub_label": "George V Land", "obj_label": "Antarctica", "uuid": "d6ca5eae-6623-4a66-ba9a-d3639bfac829"}
+{"sub_label": "Denfeld Mountains", "obj_label": "Antarctica", "uuid": "f3312ad7-cd89-4b6a-9b55-d60e539b0f2d"}
+{"sub_label": "Otway Massif", "obj_label": "Antarctica", "uuid": "192d3ece-fa1b-4b77-81ff-328ddc599886"}
+{"sub_label": "Seal Nunataks", "obj_label": "Antarctica", "uuid": "c0b5095d-fb68-4b63-b020-3319480a73e6"}
+{"sub_label": "Brahms Inlet", "obj_label": "Antarctica", "uuid": "47efdc52-9bb7-41ab-869b-af5ef22f77a5"}
+{"sub_label": "Indira Gandhi National Open University", "obj_label": "Asia", "uuid": "1248f289-37df-483f-9ec6-a091057cf02b"}
+{"sub_label": "Northwind Glacier", "obj_label": "Antarctica", "uuid": "7ac870ec-517a-43e8-a5ac-9ebb28685457"}
+{"sub_label": "Steventon Island", "obj_label": "Antarctica", "uuid": "36b565de-46b1-4739-a462-058af4f7fe4b"}
+{"sub_label": "Griffith Glacier", "obj_label": "Antarctica", "uuid": "0c8e9cff-c03c-41db-bfcf-570ffd89a81d"}
+{"sub_label": "English Coast", "obj_label": "Antarctica", "uuid": "261d38d3-12e4-4027-8637-95069f1f6827"}
+{"sub_label": "Indian Antarctic Program", "obj_label": "Antarctica", "uuid": "3cccbfeb-7bbf-495f-8c8f-b611760d2d5e"}
+{"sub_label": "Yoruba religion", "obj_label": "Africa", "uuid": "a4f2aa85-4928-4f76-94c2-f6e9b91ae502"}
+{"sub_label": "Davis Station", "obj_label": "Antarctica", "uuid": "bb7ebeef-6501-48a5-bb80-f371378ff901"}
+{"sub_label": "Melnik Ridge", "obj_label": "Antarctica", "uuid": "a3fb5dd5-5036-4508-b11d-e0d658792b7d"}
+{"sub_label": "Neny Island", "obj_label": "Antarctica", "uuid": "8ec40b4e-c6b7-460b-a8e4-9f7d3e0e9d79"}
+{"sub_label": "Green Glacier", "obj_label": "Antarctica", "uuid": "245f8bcb-a52b-4d52-b527-f417e70ebbcb"}
+{"sub_label": "Cape Barne", "obj_label": "Antarctica", "uuid": "a0f48eeb-d52b-4ce9-a26b-393f4e5efedb"}
+{"sub_label": "Scotland", "obj_label": "Europe", "uuid": "920a2d66-919b-46e0-a24e-fbe222e8f58c"}
+{"sub_label": "Radnevo Peak", "obj_label": "Antarctica", "uuid": "ed3e6808-a0d9-49c0-8d77-73ffb34e4304"}
+{"sub_label": "Rothschild Island", "obj_label": "Antarctica", "uuid": "919d9d78-f615-42fc-800b-89da03e78103"}
+{"sub_label": "Silverstein Peak", "obj_label": "Antarctica", "uuid": "ffcf161c-9d47-45f4-bac8-cbb9e356a58c"}
+{"sub_label": "Kingdom of Burgundy", "obj_label": "Europe", "uuid": "2f269e11-58da-499a-8948-7109759b4dd7"}
+{"sub_label": "Palmer Station", "obj_label": "Antarctica", "uuid": "2648b943-2601-48ee-9fff-dccf7fcc97ad"}
+{"sub_label": "Herbert Mountains", "obj_label": "Antarctica", "uuid": "41e0387a-40af-4910-bec8-50c99aecb026"}
+{"sub_label": "Kanchenjunga", "obj_label": "Asia", "uuid": "1f77eee7-726b-4369-bd14-8ec7859a0b33"}
+{"sub_label": "Vestfold Hills", "obj_label": "Antarctica", "uuid": "3a709701-1b3c-47e3-a4aa-59ab62da00fa"}
+{"sub_label": "Hinkley Glacier", "obj_label": "Antarctica", "uuid": "91f1d507-7018-4b43-afba-66f31ca2f964"}
+{"sub_label": "Land Glacier", "obj_label": "Antarctica", "uuid": "5ce9f15d-4b80-44f0-8b1b-75eb986cfd3f"}
+{"sub_label": "Slovakia", "obj_label": "Europe", "uuid": "aaa2ebda-90e6-48a4-816a-705703cefee3"}
+{"sub_label": "Cameroon", "obj_label": "Africa", "uuid": "908e64a1-22d1-4726-8af1-dce40b275e6d"}
+{"sub_label": "Rubicon", "obj_label": "Europe", "uuid": "6e0b85a7-0295-4575-8fb3-1cee5cdc1674"}
+{"sub_label": "Austria-Hungary", "obj_label": "Europe", "uuid": "ea088eec-f360-43f2-b011-2aaea958e849"}
+{"sub_label": "Ioannes Paulus II Peninsula", "obj_label": "Antarctica", "uuid": "9e8413f5-0ba7-400c-a230-a9fa2825e6a9"}
+{"sub_label": "United Kingdom of Great Britain and Ireland", "obj_label": "Europe", "uuid": "13a6c273-83f0-4709-8304-73ba7e576de4"}
+{"sub_label": "Cathedral Rocks", "obj_label": "Antarctica", "uuid": "bcff3f76-fb5d-4677-a038-43578e012d2f"}
+{"sub_label": "Antarctic ice sheet", "obj_label": "Antarctica", "uuid": "5aad6651-ea99-4b7b-a7fb-2dd7002defb2"}
+{"sub_label": "McKinnon Island", "obj_label": "Antarctica", "uuid": "cc0ee43c-8d99-4711-bd3d-254025e0602b"}
+{"sub_label": "Elkhorn Ridge", "obj_label": "Antarctica", "uuid": "9037877e-4b40-44e0-9b69-679eb9101ae6"}
+{"sub_label": "Venus Glacier", "obj_label": "Antarctica", "uuid": "824563d8-9662-4ab4-a3a9-6d5032cd0230"}
+{"sub_label": "Melchior Islands", "obj_label": "Antarctica", "uuid": "08b3983e-3654-4ea7-88c8-218264775017"}
+{"sub_label": "Cape Northrop", "obj_label": "Antarctica", "uuid": "26eee7eb-eef4-4912-b5f3-9aa4cc7ad96f"}
+{"sub_label": "Clark Mountains", "obj_label": "Antarctica", "uuid": "a172881d-84a1-4a2d-9b5b-b002b4c3829f"}
+{"sub_label": "Neuburg Peak", "obj_label": "Antarctica", "uuid": "9984c007-ec05-43e3-8a8c-752e28953027"}
+{"sub_label": "Palmer Land", "obj_label": "Antarctica", "uuid": "8e5a4dba-cdd7-4e0a-8118-9b3d12dd64bd"}
+{"sub_label": "Victor Bay", "obj_label": "Antarctica", "uuid": "f6673a70-ff56-40a1-917a-628ca6a46ff8"}
+{"sub_label": "Lake Vostok", "obj_label": "Antarctica", "uuid": "080cc6fa-cc37-46c4-a7e8-149fef00bf3c"}
+{"sub_label": "Weber Inlet", "obj_label": "Antarctica", "uuid": "5d1315e7-2a38-495e-acfb-c10bee9f860f"}
+{"sub_label": "Equatorial Guinea", "obj_label": "Africa", "uuid": "78cf9a87-f738-458e-be60-c9fd49fc5833"}
+{"sub_label": "Spain", "obj_label": "Europe", "uuid": "c1d56b30-5096-4249-8926-937a13c4de60"}
+{"sub_label": "Pioneers Escarpment", "obj_label": "Antarctica", "uuid": "6a37cd92-50c6-4de1-99de-4c7e56f025b1"}
+{"sub_label": "Miers Valley", "obj_label": "Antarctica", "uuid": "4020bfae-9059-4366-a01a-7b36fe8032ca"}
+{"sub_label": "Pautalia Glacier", "obj_label": "Antarctica", "uuid": "c70d0c68-fa9c-465e-ac41-80b3c5e9b0fa"}
+{"sub_label": "Roman Four Promontory", "obj_label": "Antarctica", "uuid": "b610a625-abe3-471e-96f4-4e2c7e664136"}
+{"sub_label": "Morris Rock", "obj_label": "Antarctica", "uuid": "f9d9f41a-5059-475b-b523-3948c6d65e2c"}
+{"sub_label": "Sobat River", "obj_label": "Africa", "uuid": "cb2e6978-ccfa-4c70-989e-c77b8a546a3c"}
+{"sub_label": "Eights Coast", "obj_label": "Antarctica", "uuid": "e9a4e92a-2a56-4a64-bcf5-fbd00f1c81d9"}
+{"sub_label": "Hippocrates Glacier", "obj_label": "Antarctica", "uuid": "b5ac0e32-011a-4709-8180-6b579cd3ba3e"}
+{"sub_label": "Nigeria", "obj_label": "Africa", "uuid": "af39ee83-52b5-4bc6-9f90-04b245f19fe2"}
+{"sub_label": "Ravens Mountains", "obj_label": "Antarctica", "uuid": "f5faa124-c450-4612-a912-86e1ac3e3edf"}
+{"sub_label": "Chambal River", "obj_label": "Asia", "uuid": "195c44a5-26eb-4776-ad07-84033b6ad421"}
+{"sub_label": "Miers Bluff", "obj_label": "Antarctica", "uuid": "9ace5161-d3ef-477d-98eb-6288008bb9a7"}
+{"sub_label": "Eswatini", "obj_label": "Africa", "uuid": "56c94a05-a23d-4742-b654-b87c149b0663"}
+{"sub_label": "Vinson Massif", "obj_label": "Antarctica", "uuid": "fa02fb98-c3d8-4b8f-87d4-4c29a364da36"}
+{"sub_label": "Pendleton Strait", "obj_label": "Antarctica", "uuid": "6519e26d-6c11-4851-9bda-9ed49585774a"}
+{"sub_label": "Avitohol Point", "obj_label": "Antarctica", "uuid": "2c7b331f-5828-415b-9058-9abe7c0056fa"}
+{"sub_label": "Bowman Coast", "obj_label": "Antarctica", "uuid": "5088f473-07b2-437d-9053-8b4a66c0544a"}
+{"sub_label": "Yovkov Point", "obj_label": "Antarctica", "uuid": "dc7b9a1f-2d32-4abc-97f7-cae5c55a43df"}
+{"sub_label": "Mount McCoy", "obj_label": "Antarctica", "uuid": "9122981d-e47f-4f02-bd92-90924d3b756e"}
+{"sub_label": "West Antarctica", "obj_label": "Antarctica", "uuid": "6f081869-24bc-49de-be55-e9f5c645131e"}
+{"sub_label": "Chuprene Glacier", "obj_label": "Antarctica", "uuid": "e17c84a0-feec-415b-b14f-60ed4a364375"}
+{"sub_label": "Seychelles", "obj_label": "Africa", "uuid": "445336f1-da7e-40b7-b713-b11f8df8e82b"}
+{"sub_label": "Debenham Glacier", "obj_label": "Antarctica", "uuid": "aa001614-bed1-4881-a842-3125460f3bc0"}
+{"sub_label": "Mount Longhurst", "obj_label": "Antarctica", "uuid": "4f70927f-fbb1-458a-9def-6ffd96ecac30"}
+{"sub_label": "Yamato 000593", "obj_label": "Antarctica", "uuid": "972691bf-9a7d-46f0-9f9f-3a249cf8c3fe"}
+{"sub_label": "Niger", "obj_label": "Africa", "uuid": "1aedafc7-3a26-4da5-9d59-f8787a969b85"}
+{"sub_label": "Pirrit Hills", "obj_label": "Antarctica", "uuid": "5f78b65b-4041-49be-895a-3e522c27fee2"}
+{"sub_label": "Russell East Glacier", "obj_label": "Antarctica", "uuid": "22ed7495-88f0-4e10-be2e-09ce83d7f681"}
+{"sub_label": "Urdoviza Glacier", "obj_label": "Antarctica", "uuid": "4e69253b-c09a-4569-bc8f-cbe47347c055"}
+{"sub_label": "Portugal", "obj_label": "Europe", "uuid": "cb813526-10c7-4e9a-8358-733fb230c402"}
+{"sub_label": "California Plateau", "obj_label": "Antarctica", "uuid": "d387228f-7059-4f7a-a69a-4c65ab20e643"}
+{"sub_label": "Benson Point", "obj_label": "Antarctica", "uuid": "f77167fd-ee85-4368-8abe-5584627fbe22"}
+{"sub_label": "Lions Rump", "obj_label": "Antarctica", "uuid": "dbd434c2-2de7-4003-8ade-cc1428509d67"}
+{"sub_label": "Two Step Cliffs", "obj_label": "Antarctica", "uuid": "956ea86e-5672-492e-a32c-626fb634a996"}
+{"sub_label": "Aviator Glacier", "obj_label": "Antarctica", "uuid": "e9a43fcc-1264-4d83-afc8-d8ce704ede6e"}
+{"sub_label": "Snowdon", "obj_label": "Europe", "uuid": "400494f8-ec72-4b16-8e2e-72d8e59d9be2"}
+{"sub_label": "Lucy Glacier", "obj_label": "Antarctica", "uuid": "e5ea0116-86f4-4f83-8ffa-43046e2a2e44"}
+{"sub_label": "Rayner Glacier", "obj_label": "Antarctica", "uuid": "8a0c57c5-4c76-4b7a-8151-8ca5bf854c93"}
+{"sub_label": "Moubray Glacier", "obj_label": "Antarctica", "uuid": "ef63d4a2-99aa-4ed6-be11-6d812f3dac70"}
+{"sub_label": "Ryder Glacier", "obj_label": "Antarctica", "uuid": "e6efdba3-2e75-4535-865e-dd5305951665"}
+{"sub_label": "Shipley Glacier", "obj_label": "Antarctica", "uuid": "b4d88af8-9796-4be1-86e7-423a33c83fc3"}
+{"sub_label": "Lanterman Range", "obj_label": "Antarctica", "uuid": "9ad7aa30-8d26-4101-bb7c-ea4a55f2cfb0"}
+{"sub_label": "Reedy Glacier", "obj_label": "Antarctica", "uuid": "e4de6871-2ab8-4c2e-899b-81f73314a83a"}
+{"sub_label": "Mertz Glacier", "obj_label": "Antarctica", "uuid": "4c1eaf00-2d75-4f26-b870-4b53b0bc333e"}
+{"sub_label": "Williams Point", "obj_label": "Antarctica", "uuid": "397e0098-58e4-407d-a7ed-274645330128"}
+{"sub_label": "Rufiji River", "obj_label": "Africa", "uuid": "95955f8e-4b1f-427e-bbe2-0565f244b9ec"}
+{"sub_label": "Koyambedu", "obj_label": "Asia", "uuid": "7e1b1ed5-2592-4344-ac57-128d79827e7a"}
+{"sub_label": "Shiver Point", "obj_label": "Antarctica", "uuid": "96f73236-643f-4f21-ab2d-8a7f75d44d02"}
+{"sub_label": "Meyer Hills", "obj_label": "Antarctica", "uuid": "c65eb509-d16f-46ec-acd3-a3a25748b0b8"}
+{"sub_label": "United Kingdom of the Netherlands", "obj_label": "Europe", "uuid": "b92c10e2-74c0-4a33-8ecf-c74e52a07482"}
+{"sub_label": "Irish Free State", "obj_label": "Europe", "uuid": "4d4ef434-b60e-4e21-9469-8c1ac443400b"}
+{"sub_label": "Tisza", "obj_label": "Europe", "uuid": "5f7b0c07-5dba-4e15-a774-f62b6d9fd851"}
+{"sub_label": "Curzon Islands", "obj_label": "Antarctica", "uuid": "98ac2250-21f5-4d64-a9e8-88cf2c7710ff"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "Europe", "uuid": "45c92a16-407d-48a8-a3b4-177968401529"}
+{"sub_label": "Cape Evans", "obj_label": "Antarctica", "uuid": "8daa3cac-19d3-457e-a536-8ee5ee44f001"}
+{"sub_label": "Discovery Expedition", "obj_label": "Antarctica", "uuid": "f0c5bed4-188c-4206-92f9-89924f8a51b2"}
+{"sub_label": "Keltie Glacier", "obj_label": "Antarctica", "uuid": "10360d41-5c87-4e2c-95c2-6d3d0180a9ec"}
+{"sub_label": "Plateau Station", "obj_label": "Antarctica", "uuid": "f1c28faf-28b9-4410-8abf-4565796dd38c"}
+{"sub_label": "Knobhead", "obj_label": "Antarctica", "uuid": "002ccc7a-39c7-4225-826c-041d5f5ae344"}
+{"sub_label": "Middle East", "obj_label": "Africa", "uuid": "80408eb5-74a2-41e6-9abe-23b4b2c7ba4c"}
+{"sub_label": "Desko Mountains", "obj_label": "Antarctica", "uuid": "e0c108eb-b78e-4bd7-bc6c-0eb16edbfe17"}
+{"sub_label": "Ice Runway", "obj_label": "Antarctica", "uuid": "e7d290c4-f11f-4371-b4ca-d300f47b58b6"}
+{"sub_label": "Gadag district", "obj_label": "Asia", "uuid": "6b9f313b-2b22-45a6-8913-0eb5ee8f2567"}
+{"sub_label": "Abbasid Caliphate", "obj_label": "Africa", "uuid": "0e8e42b2-0758-4b2b-8a6e-18d044489cbf"}
+{"sub_label": "Holtedahl Bay", "obj_label": "Antarctica", "uuid": "cef972b7-0625-47ad-ab96-afd04b650412"}
+{"sub_label": "Douglas Peaks", "obj_label": "Antarctica", "uuid": "3913995c-41ef-4f37-be07-16ac3277e2e4"}
+{"sub_label": "Birchall Peaks", "obj_label": "Antarctica", "uuid": "6480e1ab-bb77-413d-b075-ee7779e6f422"}
+{"sub_label": "Slab Point", "obj_label": "Antarctica", "uuid": "9f6f72bc-5667-4d2a-90b9-421794d80d78"}
+{"sub_label": "Scar Inlet", "obj_label": "Antarctica", "uuid": "b424bba0-6c4b-4d74-9595-db4b6210424a"}
+{"sub_label": "Whitehall Glacier", "obj_label": "Antarctica", "uuid": "bb1605d4-7c86-4d96-b4ba-bb5f3b693766"}
+{"sub_label": "Shirase Glacier", "obj_label": "Antarctica", "uuid": "577c9f0f-94d4-4b11-8138-bf9202c29037"}
+{"sub_label": "Fleming Glacier", "obj_label": "Antarctica", "uuid": "4f708942-1c09-40b1-b9f2-281f2f4a232b"}
+{"sub_label": "Melilla", "obj_label": "Africa", "uuid": "d5b7dd37-c7f6-414e-8b69-48bae91d97e1"}
+{"sub_label": "Luapula River", "obj_label": "Africa", "uuid": "b9a5163f-ccbd-482a-8b1a-6c99850c9596"}
+{"sub_label": "Cape Kinsey", "obj_label": "Antarctica", "uuid": "331c53cd-9cc8-4231-90a7-24785f3b350a"}
+{"sub_label": "Montenegro", "obj_label": "Europe", "uuid": "aa7be9d1-98df-4163-a266-89ec5f4b5d4f"}
+{"sub_label": "Manipur", "obj_label": "Asia", "uuid": "d7b33aed-da0c-41cb-b321-5f1ca67afe6b"}
+{"sub_label": "Napier Mountains", "obj_label": "Antarctica", "uuid": "61ce6edb-ce47-4b2a-9917-952b7ad09c8a"}
+{"sub_label": "Onyx River", "obj_label": "Antarctica", "uuid": "dce18326-b744-4485-be06-104ba22202d8"}
+{"sub_label": "Executive Committee Range", "obj_label": "Antarctica", "uuid": "ada08994-3fcc-4281-9fdf-fd8795c84fde"}
+{"sub_label": "Moon Bay", "obj_label": "Antarctica", "uuid": "52b8baf8-ad28-4a92-9fcc-f1bf6cf9082a"}
+{"sub_label": "Lamplugh Island", "obj_label": "Antarctica", "uuid": "f97e0d2e-e3f6-4cfd-8cb3-26975079071a"}
+{"sub_label": "Willan Nunatak", "obj_label": "Antarctica", "uuid": "c14dac69-8b7f-4620-a6b8-576c7c7c2b81"}
+{"sub_label": "Teres Ridge", "obj_label": "Antarctica", "uuid": "a671f6ba-435d-4170-b968-44b84af0dd89"}
+{"sub_label": "Botnneset Peninsula", "obj_label": "Antarctica", "uuid": "92f7f018-b745-4f85-a34c-0b3289b627c7"}
+{"sub_label": "Publications Ice Shelf", "obj_label": "Antarctica", "uuid": "b2c75d37-2420-4292-b19d-b652b153014a"}
+{"sub_label": "Arkell Cirque", "obj_label": "Antarctica", "uuid": "128352f2-aeb2-4a05-82e1-1209898de7be"}
+{"sub_label": "Havre Mountains", "obj_label": "Antarctica", "uuid": "42d3f62a-b635-4c4e-bc57-37b2f0150443"}
+{"sub_label": "Wohlthat Mountains", "obj_label": "Antarctica", "uuid": "2fe9aa9a-fd38-4d41-a1e1-f36d556d19ce"}
+{"sub_label": "Ma River", "obj_label": "Asia", "uuid": "705a305e-9848-4d2b-b3c3-63508c578852"}
+{"sub_label": "Djibouti", "obj_label": "Africa", "uuid": "4ae265cc-a786-4604-a7b6-a256e9589faf"}
+{"sub_label": "Cape Archer", "obj_label": "Antarctica", "uuid": "892ad386-3dcc-4eca-90e1-5be9751b373e"}
+{"sub_label": "Kilby Island", "obj_label": "Antarctica", "uuid": "4315e047-32ee-4c6a-851d-bd73a6d5071b"}
+{"sub_label": "Benin", "obj_label": "Africa", "uuid": "67bd5471-80b1-46f0-8aa0-376268226c3e"}
+{"sub_label": "Mirabito Range", "obj_label": "Antarctica", "uuid": "3351b2af-bd14-475e-a45d-2842334feba8"}
+{"sub_label": "Quartz Hills", "obj_label": "Antarctica", "uuid": "bd4974c1-42b5-4133-8233-80932627e477"}
+{"sub_label": "Churchill Peninsula", "obj_label": "Antarctica", "uuid": "74cefd1f-777e-4264-831e-e7d525f095d0"}
+{"sub_label": "Plana Peak", "obj_label": "Antarctica", "uuid": "c1a2ff88-7c60-4e28-9260-998445edaecb"}
+{"sub_label": "Iran", "obj_label": "Asia", "uuid": "8c1bbc64-8e1c-41fc-b4dc-d03b36ba66c1"}
+{"sub_label": "South Georgia Survey", "obj_label": "Antarctica", "uuid": "342624ed-288e-4297-a8fc-75b6ca021a5c"}
+{"sub_label": "Butler Glacier", "obj_label": "Antarctica", "uuid": "9f06ab4e-1ac7-402d-9886-e37f93759268"}
+{"sub_label": "Cape Legoupil", "obj_label": "Antarctica", "uuid": "bccd8640-f89c-4a4c-bba8-001cc95e3bb6"}
+{"sub_label": "Rutford Ice Stream", "obj_label": "Antarctica", "uuid": "3746ce08-bb4c-4e7d-b789-3a3ecd2edbfa"}
+{"sub_label": "Bellingshausen Sea", "obj_label": "Antarctica", "uuid": "de2cf66e-6030-47c3-8ceb-0d195ca0f06d"}
+{"sub_label": "Mount Dallmann", "obj_label": "Antarctica", "uuid": "4e00b665-4bdc-4df9-9b1b-36dcccd78c6b"}
+{"sub_label": "Mars Glacier", "obj_label": "Antarctica", "uuid": "ef34f406-f193-4c65-9220-cecbf023ad3a"}
+{"sub_label": "Pidgeon Island", "obj_label": "Antarctica", "uuid": "820e582a-d52f-49c7-a659-d9af99b5062d"}
+{"sub_label": "Jorum Glacier", "obj_label": "Antarctica", "uuid": "0102ff4e-44a0-42d9-931b-b930ec70aba8"}
+{"sub_label": "Solvay Mountains", "obj_label": "Antarctica", "uuid": "c47411b6-9c33-4f98-9393-64b7818bc0d0"}
+{"sub_label": "Byers Peninsula", "obj_label": "Antarctica", "uuid": "b37143e3-3b17-4711-b97b-6501a84d8fe4"}
+{"sub_label": "Mariner Glacier", "obj_label": "Antarctica", "uuid": "0e309322-1ff8-42cf-a13c-142902121e77"}
+{"sub_label": "Batterbee Mountains", "obj_label": "Antarctica", "uuid": "391c1d43-40b4-4ac4-9eb3-4a8ca78508b1"}
+{"sub_label": "Knox Coast", "obj_label": "Antarctica", "uuid": "d61933db-2c35-4f05-a7a7-e728e65ed449"}
+{"sub_label": "Grossglockner", "obj_label": "Europe", "uuid": "a99e50ca-c764-4202-a7d4-4028afff7fd8"}
+{"sub_label": "The Gullet", "obj_label": "Antarctica", "uuid": "8dc46b14-02a9-412f-ab55-a29e01eff543"}
+{"sub_label": "Norway Bight", "obj_label": "Antarctica", "uuid": "d3b1799a-872c-4a64-a44b-3e994a5999a4"}
+{"sub_label": "Read Mountains", "obj_label": "Antarctica", "uuid": "bc379291-d596-450a-a166-9e104a678273"}
+{"sub_label": "Berwick Glacier", "obj_label": "Antarctica", "uuid": "2bddf208-f5a0-4c0a-824e-4c25f715986b"}
+{"sub_label": "Bigo Bay", "obj_label": "Antarctica", "uuid": "b7814729-ac39-47c5-8cd9-07b1104b6483"}
+{"sub_label": "Gibraltar", "obj_label": "Europe", "uuid": "f06c2f25-878f-432e-9bac-1afd6ab1797c"}
+{"sub_label": "Mont Blanc", "obj_label": "Europe", "uuid": "3c8d5c3f-eb67-490c-a3fb-f41bdddab957"}
+{"sub_label": "Penney Bay", "obj_label": "Antarctica", "uuid": "36d95e2c-e3df-427a-ad40-eb55f31a88fb"}
+{"sub_label": "Bransfield Strait", "obj_label": "Antarctica", "uuid": "4b5823f2-e728-4551-92a3-0bd210b07f8e"}
+{"sub_label": "Whillans Ice Stream", "obj_label": "Antarctica", "uuid": "e61dae25-bbeb-4bad-a889-5bb691ab4177"}
+{"sub_label": "Voden Heights", "obj_label": "Antarctica", "uuid": "96ed5ad7-8b48-49d0-bfdf-0c89cdb1b0cc"}
+{"sub_label": "Ireland", "obj_label": "Europe", "uuid": "cd8d2a91-782c-4386-a422-54ecd40b40a4"}
+{"sub_label": "Kuwait", "obj_label": "Asia", "uuid": "f7b6d149-c90d-44ae-b0bb-a2e5df2cba14"}
+{"sub_label": "Husky Massif", "obj_label": "Antarctica", "uuid": "ccffe7f8-32d3-41de-902f-ccdf58515786"}
+{"sub_label": "Prespa Glacier", "obj_label": "Antarctica", "uuid": "a754c3c5-3710-46df-badc-0a506dcba847"}
+{"sub_label": "Cape Filchner", "obj_label": "Antarctica", "uuid": "6164a395-9828-4457-946d-36537dfa30e8"}
+{"sub_label": "Cape Rey", "obj_label": "Antarctica", "uuid": "21ba6cb2-7615-4669-b0ae-a25286f6c690"}
+{"sub_label": "Hesperides Hill", "obj_label": "Antarctica", "uuid": "c23b2a7e-262b-439c-92de-03402b37c28d"}
+{"sub_label": "Marinid dynasty", "obj_label": "Africa", "uuid": "4fb515a3-90e4-47c7-ab1c-db5e048f51c7"}
+{"sub_label": "Thimphu", "obj_label": "Asia", "uuid": "43dd90db-edfa-4152-b137-1d4e666bb38d"}
+{"sub_label": "Yangtze", "obj_label": "Asia", "uuid": "75f494e1-908d-487c-978e-046dec1fa4fe"}
+{"sub_label": "Brown Hills", "obj_label": "Antarctica", "uuid": "d4f6b69a-1184-424b-ac74-b28dbd5981dc"}
+{"sub_label": "Alpha Island", "obj_label": "Antarctica", "uuid": "51c6e7ee-3ce4-4c39-8826-4f17d2a323f7"}
+{"sub_label": "Sentinel Range", "obj_label": "Antarctica", "uuid": "928c817d-cec8-4126-a48f-781802a94d9a"}
+{"sub_label": "Larsemann Hills", "obj_label": "Antarctica", "uuid": "b020adde-4067-4f3b-891c-0ab56ccd63dc"}
+{"sub_label": "Kazakhstan", "obj_label": "Europe", "uuid": "145ccf24-710c-4810-8716-80dc7d577369"}
+{"sub_label": "Melnik Peak", "obj_label": "Antarctica", "uuid": "917f8ab3-5165-4763-8a6e-e9d6dcf2db02"}
+{"sub_label": "Kingdom of Saxony", "obj_label": "Europe", "uuid": "d0b37d11-6553-4039-a1bb-4cb95db24e25"}
+{"sub_label": "Watson Escarpment", "obj_label": "Antarctica", "uuid": "7f078b16-a2a9-469c-b74b-f6032527e2a3"}
+{"sub_label": "Barrientos Island", "obj_label": "Antarctica", "uuid": "1bdb1e87-2a15-4d08-89c5-21d44a7d2b43"}
+{"sub_label": "Swanson Mountains", "obj_label": "Antarctica", "uuid": "cc997691-ed8e-4773-ab26-24dc5f84c830"}
+{"sub_label": "Irrawaddy River", "obj_label": "Asia", "uuid": "e8408c45-6b9f-48b2-aea9-f1b673be7bd0"}
+{"sub_label": "River Clyde", "obj_label": "Europe", "uuid": "20313182-0cdb-431e-ad85-301446cfa6dc"}
+{"sub_label": "Cape Smith", "obj_label": "Antarctica", "uuid": "0225b854-cdca-43e1-a112-d50868e96002"}
+{"sub_label": "Danger Islands", "obj_label": "Antarctica", "uuid": "45590092-c1e1-4639-8818-595b7cb7b22c"}
+{"sub_label": "Cape Penck", "obj_label": "Antarctica", "uuid": "13a7bd3a-510f-47d3-a591-fc0305a37218"}
+{"sub_label": "Laos", "obj_label": "Asia", "uuid": "1e6d7b89-7db3-4dc2-8619-ac6e97bfa366"}
+{"sub_label": "Orange Free State", "obj_label": "Africa", "uuid": "cae2efb4-6c22-416a-a4fa-094f2b91dfa2"}
+{"sub_label": "Black Coast", "obj_label": "Antarctica", "uuid": "d7d1ab5a-b7b9-4239-9419-d49d961815a9"}
+{"sub_label": "Arno", "obj_label": "Europe", "uuid": "c3ccd8d2-7fb5-4502-9bdc-0d264440fdeb"}
+{"sub_label": "Skelton Glacier", "obj_label": "Antarctica", "uuid": "304cab43-7a8a-4f7a-bf5a-4785a95bcb44"}
+{"sub_label": "Carolingian Empire", "obj_label": "Europe", "uuid": "18f4dac2-363c-47ae-a2d4-70211b9cc7b5"}
+{"sub_label": "Ryder Bay", "obj_label": "Antarctica", "uuid": "c657868e-6705-4058-b808-f36708b2b5b4"}
+{"sub_label": "Everett Range", "obj_label": "Antarctica", "uuid": "2ceaf703-7ca0-47e4-af97-d55d3811b708"}
+{"sub_label": "Condor Peninsula", "obj_label": "Antarctica", "uuid": "bd35a3e8-66d7-4ccc-a40b-aea227e58bd0"}
+{"sub_label": "Switzerland", "obj_label": "Europe", "uuid": "7bb2730d-d325-443f-b2c3-bffd296e3616"}
+{"sub_label": "Gdynia", "obj_label": "Europe", "uuid": "f60dc241-5d2c-4992-b27e-321dbd403d22"}
+{"sub_label": "Totten Glacier", "obj_label": "Antarctica", "uuid": "e79c3f15-41a7-485b-9e0b-c5af74d815cc"}
+{"sub_label": "Clare Range", "obj_label": "Antarctica", "uuid": "3f8594d2-fa80-43bb-a090-bdcf74920706"}
+{"sub_label": "Kohler Range", "obj_label": "Antarctica", "uuid": "33e8122b-77f7-4353-b191-1462cd7c1fed"}
+{"sub_label": "Dniester", "obj_label": "Europe", "uuid": "adc5545c-6f4d-40a8-85fe-ebfb385bcdde"}
+{"sub_label": "Pune", "obj_label": "Asia", "uuid": "19f40a34-dab2-4289-a578-0bdbc3586d04"}
+{"sub_label": "Rajkot", "obj_label": "Asia", "uuid": "fe959e99-7e63-4b2f-b4f8-063b71110072"}
+{"sub_label": "Cape Perez", "obj_label": "Antarctica", "uuid": "fb3ef3d4-52f2-4522-a209-83465af4c45d"}
+{"sub_label": "Mackellar Inlet", "obj_label": "Antarctica", "uuid": "a9a32bfb-b90e-4d20-85e3-b49cdfd9d331"}
+{"sub_label": "Dundee Island", "obj_label": "Antarctica", "uuid": "29cd659c-3411-4e6a-aa3d-6007a99843f8"}
+{"sub_label": "Kryvyi Rih", "obj_label": "Europe", "uuid": "b1310b58-48cd-46ff-be63-7d6d76d85653"}
+{"sub_label": "Mount Cupola", "obj_label": "Antarctica", "uuid": "d2c3b4c0-bc87-44b5-a8b5-2b935a94eb20"}
+{"sub_label": "Supporters Range", "obj_label": "Antarctica", "uuid": "860ae0f0-2e9b-4aa6-8faf-754370645892"}
+{"sub_label": "Mount Foster", "obj_label": "Antarctica", "uuid": "5d14c5ce-d8e1-4710-8ac9-7ae54f044d9c"}
+{"sub_label": "Inn", "obj_label": "Europe", "uuid": "a5c83120-3405-40db-a475-d20e4937172e"}
+{"sub_label": "Tashkent", "obj_label": "Asia", "uuid": "d42a1808-677d-43d3-a20d-1955560bc9e0"}
+{"sub_label": "Wright Inlet", "obj_label": "Antarctica", "uuid": "e51e0096-0f55-456b-948a-c165aecf5ee4"}
+{"sub_label": "Pitkevitch Glacier", "obj_label": "Antarctica", "uuid": "55efc912-45c3-49c1-94ca-81bb46c1ccf1"}
+{"sub_label": "Daugava River", "obj_label": "Europe", "uuid": "51969016-6989-41c4-9550-a1fce5a9a572"}
+{"sub_label": "Storm Peak", "obj_label": "Antarctica", "uuid": "15d776d6-d51c-48b8-a526-fea588de97dc"}
+{"sub_label": "Congo basin", "obj_label": "Africa", "uuid": "b63e85c0-4c98-4202-9206-8b7de1a98205"}
+{"sub_label": "Paulding Bay", "obj_label": "Antarctica", "uuid": "16ebcab8-ae58-45dd-b9d3-2718c37598eb"}
+{"sub_label": "Douglas Range", "obj_label": "Antarctica", "uuid": "2f3711d5-1fbc-49a3-b9da-83ca2c077f52"}
+{"sub_label": "Shahdol district", "obj_label": "Asia", "uuid": "818c19ad-262b-48f0-836e-adbc71dc7401"}
+{"sub_label": "Jammu and Kashmir", "obj_label": "Asia", "uuid": "13ab2a19-996b-4e5b-8a11-aa2503cd6ae5"}
+{"sub_label": "Southern Cross Mountains", "obj_label": "Antarctica", "uuid": "59e6ea5a-c29a-4de7-a481-340ff02092bb"}
+{"sub_label": "National Law School of India University", "obj_label": "Asia", "uuid": "53772b4f-45f6-415f-9a35-ceb61e46ce9d"}
+{"sub_label": "MacAlpine Hills", "obj_label": "Antarctica", "uuid": "a4b3a59b-96f2-4f9d-bad7-10f067b14a86"}
+{"sub_label": "Scylla Glacier", "obj_label": "Antarctica", "uuid": "4d36b312-3d0d-4e3b-b3f0-54cfb8476e5c"}
+{"sub_label": "Kirkby Glacier", "obj_label": "Antarctica", "uuid": "c9085184-94f8-4d0b-a6c9-588db7362057"}
+{"sub_label": "Cape Monaco", "obj_label": "Antarctica", "uuid": "f290e23e-afd2-4d70-9f8a-c85e23d5d020"}
+{"sub_label": "Sopot Ice Piedmont", "obj_label": "Antarctica", "uuid": "d1166369-0609-4c25-b043-f7522b2a17b2"}
+{"sub_label": "Marie Byrd Land", "obj_label": "Antarctica", "uuid": "c0782dcc-983c-4899-be71-bc90df7b6deb"}
+{"sub_label": "Hugi Glacier", "obj_label": "Antarctica", "uuid": "34580287-b005-4ae0-a3fb-bbfbe664e9fe"}
+{"sub_label": "Malaysia", "obj_label": "Asia", "uuid": "d983004e-01f1-45b2-aa59-e834dca53e9f"}
+{"sub_label": "Uttar Pradesh", "obj_label": "Asia", "uuid": "53cfb9de-85de-43e7-8067-a640c0194fcb"}
+{"sub_label": "Cartographers Range", "obj_label": "Antarctica", "uuid": "66a297aa-0958-4e00-a674-ada2f9547503"}
+{"sub_label": "Warta", "obj_label": "Europe", "uuid": "2415fc01-ca37-4e3d-9177-68cee6e0d4d9"}
+{"sub_label": "Tamil Nadu", "obj_label": "Asia", "uuid": "47bbe1bb-41df-41f5-b930-dcafb27a003b"}
+{"sub_label": "Lebanon", "obj_label": "Asia", "uuid": "9c227838-417f-4f6e-a32d-9ea567db5cc3"}
+{"sub_label": "Beacon Supergroup", "obj_label": "Antarctica", "uuid": "9181510b-414b-4c4a-8a58-1882b9d39295"}
+{"sub_label": "Burundi", "obj_label": "Africa", "uuid": "b78c9252-1040-4469-b638-036d649ea1b2"}
+{"sub_label": "Shipka Saddle", "obj_label": "Antarctica", "uuid": "7b765916-cb21-4ba7-9406-5a761c6088fa"}
+{"sub_label": "Mount McClintock", "obj_label": "Antarctica", "uuid": "78f70362-51e3-4086-964f-27b973d01502"}
+{"sub_label": "Cape Waite", "obj_label": "Antarctica", "uuid": "3adc3a65-a7dc-4869-894d-697a69f6f164"}
+{"sub_label": "Lomonosov Mountains", "obj_label": "Antarctica", "uuid": "f71eceac-5eaf-4551-bb75-177b5982d79a"}
+{"sub_label": "Palmer Archipelago", "obj_label": "Antarctica", "uuid": "6a43810b-0d91-4936-80e3-da7b769f616e"}
+{"sub_label": "Pecora Escarpment", "obj_label": "Antarctica", "uuid": "a46c8aca-75f4-450d-845d-3eb163523b44"}
+{"sub_label": "Wirth Peninsula", "obj_label": "Antarctica", "uuid": "fc42af45-d5b2-486c-bc06-1ea1801b9d25"}
+{"sub_label": "Mule Peninsula", "obj_label": "Antarctica", "uuid": "b82cd378-5b84-4810-8705-f07a90d30853"}
+{"sub_label": "Mount Hornsby", "obj_label": "Antarctica", "uuid": "5db3db2e-6705-46b6-92fd-adc91842c136"}
+{"sub_label": "Harris Peninsula", "obj_label": "Antarctica", "uuid": "dc11ef1d-b2f5-4d2e-ab6c-ceac9552f6ad"}
+{"sub_label": "Lake Vanda", "obj_label": "Antarctica", "uuid": "70cfc35c-84ca-486f-8422-c1c75c0c46a2"}
+{"sub_label": "Wilson Piedmont Glacier", "obj_label": "Antarctica", "uuid": "b70089f9-8430-4447-b2d0-ef0e13dc9e78"}
+{"sub_label": "Thiruvananthapuram", "obj_label": "Asia", "uuid": "3dd8fab6-a4e0-4fec-beb4-73b4c527abc8"}
+{"sub_label": "Prince Charles Mountains", "obj_label": "Antarctica", "uuid": "99d50f90-5b3b-4d0e-9362-c076a62f294d"}
+{"sub_label": "Rydberg Peninsula", "obj_label": "Antarctica", "uuid": "29d08f03-2742-4b65-a347-4c15f4466ca9"}
+{"sub_label": "Bruce Plateau", "obj_label": "Antarctica", "uuid": "2b926c30-2f23-4c6b-adc6-8ba5d1f7c1b0"}
+{"sub_label": "Dutch Republic", "obj_label": "Europe", "uuid": "dad18fe2-9c46-471f-ba49-0233aef0ab03"}
+{"sub_label": "Petvar Heights", "obj_label": "Antarctica", "uuid": "7e10282f-929d-4d18-a45a-73159d43016f"}
+{"sub_label": "Shkhara", "obj_label": "Europe", "uuid": "dd3b17db-935d-462e-b084-0a01c47022a2"}
+{"sub_label": "Aitcho Islands", "obj_label": "Antarctica", "uuid": "458a0cfd-0f3d-424a-a48a-7c33483bbd9d"}
+{"sub_label": "Tapley Mountains", "obj_label": "Antarctica", "uuid": "e1e20953-dc1b-4783-906a-99033c613387"}
+{"sub_label": "Bani River", "obj_label": "Africa", "uuid": "b4228ca8-752b-47e5-a748-9e6252f00771"}
+{"sub_label": "Qatar", "obj_label": "Asia", "uuid": "e058db10-1a11-4257-90c1-75b64f7a01cf"}
+{"sub_label": "Mitchell Peninsula", "obj_label": "Antarctica", "uuid": "250306df-4c5b-461c-aa98-0e043231df63"}
+{"sub_label": "Afghanistan", "obj_label": "Asia", "uuid": "4651e4ea-98df-4260-a08c-27f7ed7070c8"}
+{"sub_label": "Gordon Glacier", "obj_label": "Antarctica", "uuid": "bd4f78aa-9d3a-4585-9666-9019c2030c9e"}
+{"sub_label": "Neumayer Cliffs", "obj_label": "Antarctica", "uuid": "95a2abb0-00b2-45b4-890e-1a7120767f42"}
+{"sub_label": "Terningskarvet Mountain", "obj_label": "Antarctica", "uuid": "44f25c5c-3714-4289-9f0a-cc378f0bea35"}
+{"sub_label": "English Channel", "obj_label": "Europe", "uuid": "26a0cd6d-cafb-4b99-8f1d-902f9d6a953e"}
+{"sub_label": "Gair Mesa", "obj_label": "Antarctica", "uuid": "b86abde2-7507-43d5-b335-07d03c3eb4a2"}
+{"sub_label": "Primorsky Krai", "obj_label": "Asia", "uuid": "e9f5b90c-3768-4fe8-9964-eddd2147fddd"}
+{"sub_label": "United Arab Emirates", "obj_label": "Asia", "uuid": "0b12ee67-f49d-4aa0-996b-ffaf8e873c44"}
+{"sub_label": "Aprilov Point", "obj_label": "Antarctica", "uuid": "4bd475a9-bdea-4850-954a-ea184a77ed9d"}
+{"sub_label": "European Project for Ice Coring in Antarctica", "obj_label": "Antarctica", "uuid": "2ae60cef-4745-46c1-941d-d55ebeeb3fd6"}
+{"sub_label": "Dundee Whaling Expedition", "obj_label": "Antarctica", "uuid": "fbbf5f8a-b996-4468-b8a2-6814631dad6b"}
+{"sub_label": "Liv Glacier", "obj_label": "Antarctica", "uuid": "b937461e-1ee1-4fcb-90d9-25d7ed2d4e9c"}
+{"sub_label": "East Ongul Island", "obj_label": "Antarctica", "uuid": "949acb76-d724-4342-842d-a582f8e8ab3c"}
+{"sub_label": "Lake Baikal", "obj_label": "Asia", "uuid": "64e28d29-0d4b-4ef1-bb56-e95de14b5172"}
+{"sub_label": "Chapman Snowfield", "obj_label": "Antarctica", "uuid": "7700465d-6c10-4b48-8585-e1474b5fff9c"}
+{"sub_label": "Edward VIII Bay", "obj_label": "Antarctica", "uuid": "1a9a7282-c296-401f-a9f1-c92bf5d26196"}
+{"sub_label": "Schytt Glacier", "obj_label": "Antarctica", "uuid": "c14f6621-5183-47e3-8e2b-da39d9015749"}
+{"sub_label": "Siple Dome", "obj_label": "Antarctica", "uuid": "778ebc4d-35a3-45a1-bfe6-80d623e675ee"}
+{"sub_label": "Aconcagua", "obj_label": "Americas", "uuid": "b52d6762-7a04-4e03-b5a6-8510585e2ffc"}
+{"sub_label": "Cape Selborne", "obj_label": "Antarctica", "uuid": "80042d67-08ac-4c1a-91d4-38bac54c3af4"}
+{"sub_label": "Doyran Heights", "obj_label": "Antarctica", "uuid": "2cdcfb2b-d3f7-4d9a-b40b-fdf5e2d0b276"}
+{"sub_label": "Handel Ice Piedmont", "obj_label": "Antarctica", "uuid": "a12ef513-3738-42ee-b29f-3a7bdff86d0c"}
+{"sub_label": "Beaufort Island", "obj_label": "Antarctica", "uuid": "b782119b-129b-42bd-983d-9cd6602c69f2"}
+{"sub_label": "Indigirka River", "obj_label": "Asia", "uuid": "d10db4ac-52d4-4bb3-bee1-1835680d293c"}
+{"sub_label": "Splettstoesser Glacier", "obj_label": "Antarctica", "uuid": "2264f261-1729-42a7-9b23-6b8051607150"}
+{"sub_label": "Dominion Range", "obj_label": "Antarctica", "uuid": "0f4d5557-92c9-46db-90d6-431a64772e69"}
+{"sub_label": "Bowman Glacier", "obj_label": "Antarctica", "uuid": "63e70cfc-f00b-4fd3-92d3-16fd4811951c"}
+{"sub_label": "Williams Hills", "obj_label": "Antarctica", "uuid": "ce7758af-af4b-4f79-8640-6e03b3b84c4c"}
+{"sub_label": "Cole Peninsula", "obj_label": "Antarctica", "uuid": "ca6e2af1-4b91-49aa-8fae-c963cd6d0e83"}
+{"sub_label": "Karun", "obj_label": "Asia", "uuid": "e53285ab-343c-4a6b-ba13-9b359d431e65"}
+{"sub_label": "Basel", "obj_label": "Europe", "uuid": "b2a65155-8b53-455e-b41f-cc5734b1d650"}
+{"sub_label": "Alexander Island", "obj_label": "Antarctica", "uuid": "609b6507-4f16-408c-a1d4-a38b8c6f8f37"}
+{"sub_label": "Adelaide Island", "obj_label": "Antarctica", "uuid": "42ad2642-9d2e-4c5c-9c94-ed439717d88e"}
+{"sub_label": "Fosdick Mountains", "obj_label": "Antarctica", "uuid": "c9a3b54d-ce6b-4904-9575-13d3be3ba419"}
+{"sub_label": "Scaife Mountains", "obj_label": "Antarctica", "uuid": "eee87bae-f855-43ed-a526-3bab6c9e827a"}
+{"sub_label": "Ross Island", "obj_label": "Antarctica", "uuid": "f4c8abc8-82b8-4b23-8406-9583531817b6"}
+{"sub_label": "Ojos del Salado", "obj_label": "Americas", "uuid": "f3a7c57d-dc49-4bad-9daf-87c655d864a6"}
+{"sub_label": "Beaglehole Glacier", "obj_label": "Antarctica", "uuid": "085ffe53-b601-4749-a503-deb33ea38aab"}
+{"sub_label": "Moldova", "obj_label": "Europe", "uuid": "3bcdaf67-828c-4525-ab9a-4d0a90d5d3b5"}
+{"sub_label": "Surveyors Range", "obj_label": "Antarctica", "uuid": "720c1c36-f938-48a0-8cba-eda3a5fb9e48"}
+{"sub_label": "Phobos Ridge", "obj_label": "Antarctica", "uuid": "0afb066f-8973-4ae2-83bb-199513203fcc"}
+{"sub_label": "Macquarie Island", "obj_label": "Antarctica", "uuid": "1700119f-c9b9-46e6-b403-4007e63526b0"}
+{"sub_label": "Mount Newall", "obj_label": "Antarctica", "uuid": "7b07f496-af4d-4ed4-9659-7b5afeee8d6a"}
+{"sub_label": "Support Force Glacier", "obj_label": "Antarctica", "uuid": "f3b5ec54-b817-436a-aeb6-5b45193569b2"}
+{"sub_label": "Anderson Hills", "obj_label": "Antarctica", "uuid": "4544b556-3a8b-44ca-9006-2f0ccb07380e"}
+{"sub_label": "Mumbai", "obj_label": "Asia", "uuid": "ce276c02-dc45-4d45-8093-db178d824784"}
+{"sub_label": "Catalonia", "obj_label": "Europe", "uuid": "1399e63d-bb62-40f7-b3aa-639fedad9d1b"}
+{"sub_label": "Pearse Valley", "obj_label": "Antarctica", "uuid": "449ab58f-0f15-4da6-a82f-4e94c1946941"}
+{"sub_label": "Riiser-Larsen Ice Shelf", "obj_label": "Antarctica", "uuid": "3f9b9a1e-eefc-4f34-a30f-314d8b739095"}
+{"sub_label": "Madagascar", "obj_label": "Africa", "uuid": "48786d9f-34fe-4990-9344-6c8dddb7be19"}
+{"sub_label": "Foundation Ice Stream", "obj_label": "Antarctica", "uuid": "4a69d58a-cf18-4005-b7f0-7e57b298c2a2"}
+{"sub_label": "Mapple Glacier", "obj_label": "Antarctica", "uuid": "2ec871ed-83fb-4393-83d3-05b4f58cfc75"}
+{"sub_label": "Brialmont Cove", "obj_label": "Antarctica", "uuid": "249f6b3c-2c37-423a-878b-c4a66320315d"}
+{"sub_label": "Zed Islands", "obj_label": "Antarctica", "uuid": "5edd5f98-eca8-4caf-9f66-fdf80caf8bcc"}
+{"sub_label": "Neva", "obj_label": "Europe", "uuid": "015b5e94-1d77-4822-893a-666bb4d4c18d"}
+{"sub_label": "Scotia Bay", "obj_label": "Antarctica", "uuid": "35ae7c8e-2e27-46f3-bdde-842179a608a0"}
+{"sub_label": "Stonington Island", "obj_label": "Antarctica", "uuid": "5941469b-ea42-4b97-a70c-d33b9161cfaa"}
+{"sub_label": "Payer Mountains", "obj_label": "Antarctica", "uuid": "f3edda9f-73f6-4fc7-aeaa-cddc86d46435"}
+{"sub_label": "Bigourdan Fjord", "obj_label": "Antarctica", "uuid": "4f144396-c65d-4f6e-bf21-0a21cf8043e4"}
+{"sub_label": "Central African Republic", "obj_label": "Africa", "uuid": "42db7011-ca1f-4073-ab88-5a7f61eef7c4"}
+{"sub_label": "Egypt", "obj_label": "Africa", "uuid": "c1e6c76d-c579-4f5d-a226-692617373145"}
+{"sub_label": "Rouen Mountains", "obj_label": "Antarctica", "uuid": "abbfb974-2afc-4c45-bdf1-fca1b593d505"}
+{"sub_label": "Kukri Hills", "obj_label": "Antarctica", "uuid": "96505054-c190-4713-824a-b5bc1f2e2a21"}
+{"sub_label": "Varna Peninsula", "obj_label": "Antarctica", "uuid": "5b5a2393-faca-4dba-a874-4ba1bcb670c8"}
+{"sub_label": "Cape Burks", "obj_label": "Antarctica", "uuid": "e6c5fbe5-3bc0-4162-89da-b51d20e7d309"}
+{"sub_label": "Shackleton Ice Shelf", "obj_label": "Antarctica", "uuid": "2ad6f264-62da-4933-a915-f17dc211da50"}
+{"sub_label": "Mount Farrell", "obj_label": "Antarctica", "uuid": "0f420663-54ec-442e-8fd8-229d0926b562"}
+{"sub_label": "Levski Ridge", "obj_label": "Antarctica", "uuid": "154f0b04-198a-4ae3-b013-1fe7a3df69c6"}
+{"sub_label": "Bowman Peninsula", "obj_label": "Antarctica", "uuid": "793eea37-72ea-4c83-86ab-4d7f0db7a4b8"}
+{"sub_label": "Alsace-Lorraine", "obj_label": "Europe", "uuid": "10aa0068-3f1c-4920-a9e5-60f58761a3a6"}
+{"sub_label": "Cape Ducorps", "obj_label": "Antarctica", "uuid": "35fb017e-51cc-40d3-b7d1-2b8de06f0563"}
+{"sub_label": "Angola", "obj_label": "Africa", "uuid": "b9a8c7b6-05cd-4b92-b6ac-9570245e0f0b"}
+{"sub_label": "South Pole Traverse", "obj_label": "Antarctica", "uuid": "0eb7dda6-09af-439f-8fcd-113998bae14b"}
+{"sub_label": "Middle East", "obj_label": "Europe", "uuid": "68978205-85bc-4ec0-b9e1-e693c7e02b1c"}
+{"sub_label": "Flask Glacier", "obj_label": "Antarctica", "uuid": "417dbe82-b469-42b5-97d4-3034e07d3783"}
+{"sub_label": "Schreckhorn", "obj_label": "Europe", "uuid": "d4cd0c8d-0b0b-4261-9c20-beb21bd71da2"}
+{"sub_label": "McMurdo Station", "obj_label": "Antarctica", "uuid": "4ca94e31-20c3-44c2-a65d-5b4fbb1064d9"}
+{"sub_label": "Kaveri River", "obj_label": "Asia", "uuid": "a4954b42-1349-4a62-a7e2-0586522d3333"}
+{"sub_label": "Juan Carlos I Antarctic Base", "obj_label": "Antarctica", "uuid": "5c3edb2f-fbcd-446d-8298-0475942ff476"}
+{"sub_label": "British Empire", "obj_label": "Americas", "uuid": "7e7ac9a3-fe20-4338-be3d-922493efe738"}
+{"sub_label": "Samuel Peak", "obj_label": "Antarctica", "uuid": "cab58cb5-c2d7-4a70-9078-267ccd1ca044"}
+{"sub_label": "Athens", "obj_label": "Europe", "uuid": "a10b7e75-9dad-4dbb-bb2d-f806f862c50d"}
+{"sub_label": "Lyon Nunataks", "obj_label": "Antarctica", "uuid": "6fce7f4b-bc0d-4a5d-b545-147027882dd0"}
+{"sub_label": "Andvord Bay", "obj_label": "Antarctica", "uuid": "0a794a55-9292-4a6c-b38e-125422b47010"}
+{"sub_label": "Atbarah River", "obj_label": "Africa", "uuid": "eac325cb-9d5b-4d27-b81a-d79d7feb050c"}
+{"sub_label": "Cordiner Peaks", "obj_label": "Antarctica", "uuid": "27e50f6f-4b1c-4680-931b-4daa8d252a4e"}
+{"sub_label": "Kouilou-Niari River", "obj_label": "Africa", "uuid": "ef72357a-96b7-455c-87ee-b7a0d457f0d5"}
+{"sub_label": "D'Urville Island, Antarctica", "obj_label": "Antarctica", "uuid": "433e2fe0-a60b-4718-8e72-c52e286e040d"}
+{"sub_label": "Sartorius Point", "obj_label": "Antarctica", "uuid": "dbcb9d29-f6de-42ce-98eb-be6b6ab1b180"}
+{"sub_label": "Kotis Point", "obj_label": "Antarctica", "uuid": "dd76ab76-a057-4ca4-b686-e59f81f9ebcb"}
+{"sub_label": "KU Leuven", "obj_label": "Europe", "uuid": "aaae85dd-b9ae-4378-96fb-db94e520d2b9"}
+{"sub_label": "Ninnis Glacier", "obj_label": "Antarctica", "uuid": "79bde329-4957-4309-bc69-57319b122321"}
+{"sub_label": "Mount Paris", "obj_label": "Antarctica", "uuid": "25eb4176-389e-4172-941b-072a31e817ea"}
+{"sub_label": "Tigris", "obj_label": "Asia", "uuid": "0ac7170c-685e-491b-9e77-360ec5d7d83b"}
+{"sub_label": "Cambodia", "obj_label": "Asia", "uuid": "6f9880d1-c2b0-42fb-a809-347a97e146da"}
+{"sub_label": "Benson Glacier", "obj_label": "Antarctica", "uuid": "05ee809d-6d39-4a11-ad10-5f008d7b20b0"}
+{"sub_label": "Volga Bulgaria", "obj_label": "Europe", "uuid": "e38c5947-19f6-4b46-a4a4-553dfe9bd986"}
+{"sub_label": "Princess Elisabeth Antarctica", "obj_label": "Antarctica", "uuid": "ddd1a60f-b4da-4332-bc26-08b61e0c7091"}
+{"sub_label": "Conrad Mountains", "obj_label": "Antarctica", "uuid": "5a8d2b9d-8bb0-43e6-81c9-e35c4e9ddad3"}
+{"sub_label": "Mali", "obj_label": "Africa", "uuid": "658aa686-5fb9-42fb-bc29-055c90f29dbf"}
+{"sub_label": "Brunt Ice Shelf", "obj_label": "Antarctica", "uuid": "9905f0e0-25b5-4c8c-a7fb-c73c4090fde4"}
+{"sub_label": "Annamalai University", "obj_label": "Asia", "uuid": "1725b448-f6a8-46f3-9167-7fb8ccb4b38d"}
+{"sub_label": "Monte San Giorgio", "obj_label": "Europe", "uuid": "eaca7dd2-971c-43bc-8fb5-33130c3efc7c"}
+{"sub_label": "Concordia Station", "obj_label": "Antarctica", "uuid": "3d6279f4-b18d-4439-9929-ab281c23aaf1"}
+{"sub_label": "Newcomer Glacier", "obj_label": "Antarctica", "uuid": "950b9a1b-658c-45ff-8eeb-467e44f221ff"}
+{"sub_label": "The Knoll", "obj_label": "Antarctica", "uuid": "3180f501-f18e-444e-b96d-b3c320143cd1"}
+{"sub_label": "Salamander Range", "obj_label": "Antarctica", "uuid": "18a62931-4d79-4c38-b33b-8580b0d472de"}
+{"sub_label": "Solan District", "obj_label": "Asia", "uuid": "5e51ee27-7e73-449e-99b1-a3a85c6ffe55"}
+{"sub_label": "Drygalski Mountains", "obj_label": "Antarctica", "uuid": "a126daa7-c2a8-471f-a231-b5a9df389233"}
+{"sub_label": "Guest Peninsula", "obj_label": "Antarctica", "uuid": "98c94bbe-651d-44ac-831f-223ba9356d90"}
+{"sub_label": "Wilhelmina Bay", "obj_label": "Antarctica", "uuid": "95e937f4-6523-422e-9813-a997d310f4f3"}
+{"sub_label": "Mount Tyree", "obj_label": "Antarctica", "uuid": "ce8b901b-154a-40fb-b925-a6c51057c88a"}
+{"sub_label": "Romulus Glacier", "obj_label": "Antarctica", "uuid": "a7529b75-55e8-47d6-8546-4583ee9d3e79"}
+{"sub_label": "Vantaa", "obj_label": "Europe", "uuid": "d80d6837-be46-4966-83d6-9501e0601d9f"}
+{"sub_label": "Chukotka Autonomous Okrug", "obj_label": "Asia", "uuid": "d1f3bbd2-87a5-4893-9141-14bf0e908e6b"}
+{"sub_label": "Argosy Glacier", "obj_label": "Antarctica", "uuid": "9d31aa5e-6908-4b9a-b348-86edc6422a2e"}
+{"sub_label": "Neptune Glacier", "obj_label": "Antarctica", "uuid": "b7ef1690-a2ca-4360-99a2-af2abe7dbe9a"}
+{"sub_label": "Mount Hallgren", "obj_label": "Antarctica", "uuid": "4cb78792-862d-4e22-96f2-33187dc14231"}
+{"sub_label": "Guinea-Bissau", "obj_label": "Africa", "uuid": "9992062d-e359-406b-aa2f-2d106369df9f"}
+{"sub_label": "Daniels Range", "obj_label": "Antarctica", "uuid": "8bf54528-32ef-4760-92fe-9f51acdd024d"}
+{"sub_label": "Barwick Valley", "obj_label": "Antarctica", "uuid": "a5513de1-89b8-4055-9193-7fca579fd84a"}
+{"sub_label": "Finland", "obj_label": "Europe", "uuid": "21920a9a-72c9-44e7-9dca-9c72c7472226"}
+{"sub_label": "Panzarini Hills", "obj_label": "Antarctica", "uuid": "912ddea5-29c9-4d1f-8641-4d076752f49b"}
+{"sub_label": "Wallonia", "obj_label": "Europe", "uuid": "2d466863-2430-4a0e-a573-597aa9ccc05e"}
+{"sub_label": "Wylie Bay", "obj_label": "Antarctica", "uuid": "a15437aa-e728-49e7-8f2d-3a52e034eece"}
+{"sub_label": "Hull Bay", "obj_label": "Antarctica", "uuid": "76b46a3d-de32-4445-809f-4272b298045a"}
+{"sub_label": "Cape Evensen", "obj_label": "Antarctica", "uuid": "ce47e2b5-a583-472c-9f23-eab21c3b0e5f"}
+{"sub_label": "Morocco", "obj_label": "Africa", "uuid": "f76ca99a-721f-444e-8e84-cfba07daa790"}
+{"sub_label": "Cape Chocolate", "obj_label": "Antarctica", "uuid": "5f9f39c4-1aa9-4268-951a-948886195742"}
+{"sub_label": "Maharashtra", "obj_label": "Asia", "uuid": "51277e50-5402-4ce4-ac20-856ba5170612"}
+{"sub_label": "Victoria Upper Glacier", "obj_label": "Antarctica", "uuid": "27a87bb4-b1cb-4c21-abbe-c2b38b85728f"}
+{"sub_label": "Lillie Range", "obj_label": "Antarctica", "uuid": "83576811-a7aa-4a48-a749-24ecced52412"}
+{"sub_label": "Robertson Bay", "obj_label": "Antarctica", "uuid": "a1cbe97c-bbf5-4e2d-9aaa-1bddc82f5645"}
+{"sub_label": "Peacock Sound", "obj_label": "Antarctica", "uuid": "1fc774cd-942f-46e5-a7b6-01855c7b39f1"}
+{"sub_label": "Brabant Island", "obj_label": "Antarctica", "uuid": "af57c21b-0b7d-4a87-93a5-3163ece27a4b"}
+{"sub_label": "Mawson Glacier", "obj_label": "Antarctica", "uuid": "d7ae4035-1892-4058-b552-a1cb723bdfed"}
+{"sub_label": "Andersson Island", "obj_label": "Antarctica", "uuid": "ad5bb52b-0c5e-4cdf-a936-b12f1be2f3a7"}
+{"sub_label": "Mobiloil Inlet", "obj_label": "Antarctica", "uuid": "ff5a2108-f519-4774-80fd-e2e796ef1c2d"}
+{"sub_label": "Segura", "obj_label": "Europe", "uuid": "f2255cb8-7006-4fb4-9812-44aabca5b97b"}
+{"sub_label": "Nile", "obj_label": "Africa", "uuid": "def86957-f5b3-4271-88c9-9c5e90f3345b"}
+{"sub_label": "Craddock Massif", "obj_label": "Antarctica", "uuid": "ebcd16d1-a6d6-4615-b696-25c7535eccb8"}
+{"sub_label": "history of Europe", "obj_label": "Europe", "uuid": "7ff1b049-f6f2-40f9-9163-9bb9b5a652a0"}
+{"sub_label": "Nimbus Hills", "obj_label": "Antarctica", "uuid": "650bc92c-3103-4408-9ef1-c0bb548db998"}
+{"sub_label": "Mount Karisimbi", "obj_label": "Africa", "uuid": "16ef9a75-2664-427c-b9be-4c40c7f66377"}
+{"sub_label": "Damavand", "obj_label": "Asia", "uuid": "0c659747-e630-4874-accd-208b0a3fae34"}
+{"sub_label": "Mount Black", "obj_label": "Antarctica", "uuid": "31a59d78-6e92-49fb-bd37-20336cd34ead"}
+{"sub_label": "Tower Island", "obj_label": "Antarctica", "uuid": "d5eca198-17d5-467e-8c15-d668c203b8e3"}
+{"sub_label": "Umayyad Caliphate", "obj_label": "Europe", "uuid": "39abf3dc-9cfa-48e3-97ce-8e48e6150f91"}
+{"sub_label": "Martin Hills", "obj_label": "Antarctica", "uuid": "4054e3df-e21c-4baf-ba3c-baf1ea2160d7"}
+{"sub_label": "Turgai River", "obj_label": "Asia", "uuid": "3a1c2113-d01c-433d-bed9-2c57b3a1f35c"}
+{"sub_label": "Pensacola Mountains", "obj_label": "Antarctica", "uuid": "0e125007-9add-4fe1-a9f3-ccf240e809b2"}
+{"sub_label": "Hoseason Island", "obj_label": "Antarctica", "uuid": "5bce7912-df6f-4f69-9ee1-5db5ea984903"}
+{"sub_label": "Lemaire Island", "obj_label": "Antarctica", "uuid": "7c1ce466-e879-488a-a0bf-b0d683f468f8"}
+{"sub_label": "Katowice", "obj_label": "Europe", "uuid": "dba47ba8-e87b-435e-8a3f-2795e87a1174"}
+{"sub_label": "Sequence Hills", "obj_label": "Antarctica", "uuid": "a31cf5f3-00ee-4259-adfb-b6c5f5136ce2"}
+{"sub_label": "Rhine", "obj_label": "Europe", "uuid": "24a38013-d7f3-46a0-be1a-4c5e3a3e9313"}
+{"sub_label": "Bull Pass", "obj_label": "Antarctica", "uuid": "632574fe-4dd6-4473-97b9-41acb732cc4e"}
+{"sub_label": "Gelderland", "obj_label": "Europe", "uuid": "4519cf58-b5d9-493f-93a9-83dfd46ba943"}
+{"sub_label": "Moe Island", "obj_label": "Antarctica", "uuid": "4a5139ea-b6c4-4be2-a68d-7aeac2a5a99f"}
+{"sub_label": "Mauritius", "obj_label": "Africa", "uuid": "009cc8c4-327c-48f1-8af9-a8ab22f27b35"}
+{"sub_label": "Eastern Bloc", "obj_label": "Europe", "uuid": "c2333770-0d2f-44ad-9403-aa239ea28439"}
+{"sub_label": "Darwin Mountains", "obj_label": "Antarctica", "uuid": "fa3ee94a-7cc2-403c-a86e-3741d801c77f"}
+{"sub_label": "Maury Bay", "obj_label": "Antarctica", "uuid": "820e0d13-5822-4fe2-b798-b54025ad2ecd"}
+{"sub_label": "Pare Glacier", "obj_label": "Antarctica", "uuid": "6a219790-936a-4404-adc1-0c8164678136"}
+{"sub_label": "Scott Base", "obj_label": "Antarctica", "uuid": "d108d52c-b418-45f1-8740-abe673746ef0"}
+{"sub_label": "Ingrid Christensen Coast", "obj_label": "Antarctica", "uuid": "f9d44a67-8e1c-4707-8c11-97635279d34d"}
+{"sub_label": "Borchgrevink Glacier", "obj_label": "Antarctica", "uuid": "7701253d-b987-4147-b3fd-b9bcce839e04"}
+{"sub_label": "Viking Age", "obj_label": "Europe", "uuid": "1a1b98a0-7487-4e12-b6e5-f10becb0c337"}
+{"sub_label": "Beall Island", "obj_label": "Antarctica", "uuid": "a7626a73-125b-4f02-a9e5-b21cdc12f5cc"}
+{"sub_label": "Mount Schuyler", "obj_label": "Antarctica", "uuid": "1cb60d7b-128b-44d7-8680-3c9bdbd375d0"}
+{"sub_label": "Swedish Empire", "obj_label": "Europe", "uuid": "c5601ec7-7685-49dc-b329-1c186d0523f2"}
+{"sub_label": "Mount Stephenson", "obj_label": "Antarctica", "uuid": "be64e694-1e8f-47c5-823f-575f0f441209"}
+{"sub_label": "Prydz Bay", "obj_label": "Antarctica", "uuid": "89924b0b-df8e-4557-a37e-7b62dc49edfa"}
+{"sub_label": "Victory Mountains", "obj_label": "Antarctica", "uuid": "3e902407-6bae-48dc-b366-015955eeaec4"}
+{"sub_label": "Anderson Heights", "obj_label": "Antarctica", "uuid": "d3058279-ea95-42ae-b162-09dea9c72fa0"}
+{"sub_label": "Eisenhower Range", "obj_label": "Antarctica", "uuid": "1ea49017-06c1-4d3d-bedd-bb105744d745"}
+{"sub_label": "Saffery Islands", "obj_label": "Antarctica", "uuid": "227c532e-9cac-4444-b18d-3f6f6f3736f9"}
+{"sub_label": "Violante Inlet", "obj_label": "Antarctica", "uuid": "f556860f-a1f4-43b8-a6d8-17ea5bd2dc32"}
+{"sub_label": "Mount Cocks", "obj_label": "Antarctica", "uuid": "b69ceea5-f215-4b7f-9e92-6c112e0e99be"}
+{"sub_label": "Boyana Glacier", "obj_label": "Antarctica", "uuid": "a709e0de-f669-4473-b051-5b3632cd20b9"}
+{"sub_label": "Karonga", "obj_label": "Africa", "uuid": "8835321a-9b27-4dd2-80ea-26b6cd24a8a1"}
+{"sub_label": "Niger River", "obj_label": "Africa", "uuid": "4ea72243-5122-4627-af5a-07ebe86388b0"}
+{"sub_label": "Garwood Valley", "obj_label": "Antarctica", "uuid": "3009db9a-f1a8-4523-91ee-f6f9a50c0bc8"}
+{"sub_label": "Pernik Peninsula", "obj_label": "Antarctica", "uuid": "b55d699c-6ab9-4ecb-b641-c0b039bb461c"}
+{"sub_label": "Western Asia", "obj_label": "Asia", "uuid": "36a5d660-abda-4c19-ac64-6c55ee8b7e81"}
+{"sub_label": "McFarlane Strait", "obj_label": "Antarctica", "uuid": "bbdaf110-bd69-490d-b7d2-bbfbdd92b6e3"}
+{"sub_label": "Entente Florale", "obj_label": "Europe", "uuid": "f1f26d87-7688-44a4-a391-a7597d228036"}
+{"sub_label": "Northeast Glacier", "obj_label": "Antarctica", "uuid": "0320d224-ca28-450f-b666-1bc611b49a40"}
+{"sub_label": "Nebraska Peaks", "obj_label": "Antarctica", "uuid": "c8682c98-8a2c-4172-944a-4c8576a0545e"}
+{"sub_label": "McCuddin Mountains", "obj_label": "Antarctica", "uuid": "e664947d-f073-43d4-9e2e-38030186862d"}
+{"sub_label": "Terra Nova Bay", "obj_label": "Antarctica", "uuid": "5d676f1b-abc7-48ac-91c4-09ddab14d412"}
+{"sub_label": "Gabbro Hills", "obj_label": "Antarctica", "uuid": "41460fa3-77eb-4118-9dcc-311127c15ae7"}
+{"sub_label": "Mac. Robertson Land", "obj_label": "Antarctica", "uuid": "b9b3393b-48cd-406a-8580-73c36f411644"}
+{"sub_label": "Booth Island", "obj_label": "Antarctica", "uuid": "a3dd5fe2-e552-43b3-a444-3ceda402d8f4"}
+{"sub_label": "Oates Land", "obj_label": "Antarctica", "uuid": "b179d366-b33c-48d6-8300-115fdc13b7b7"}
+{"sub_label": "Fredriksen Island", "obj_label": "Antarctica", "uuid": "15133290-7790-4e41-bdfb-f89c6bd4ecdd"}
+{"sub_label": "Owen Ridge", "obj_label": "Antarctica", "uuid": "ed737615-5e5d-4cf0-9af5-491085aa39aa"}
+{"sub_label": "Jones Bluffs", "obj_label": "Antarctica", "uuid": "374e7726-f590-4eb5-bd79-5d180b8ef8c4"}
+{"sub_label": "Hurricane Ridge", "obj_label": "Antarctica", "uuid": "8a51f51e-68a2-4b12-b9ad-5cfc572a7111"}
+{"sub_label": "Smith Glacier", "obj_label": "Antarctica", "uuid": "0abf0284-0f9d-4594-9616-c39df6f90fae"}
+{"sub_label": "Marsh Glacier", "obj_label": "Antarctica", "uuid": "ed65c1ef-9e6e-4cfe-944c-8642b30114c1"}
+{"sub_label": "Laurie Island", "obj_label": "Antarctica", "uuid": "ddd0b024-b233-4c01-8c55-5154dac4f39f"}
+{"sub_label": "Howchin Glacier", "obj_label": "Antarctica", "uuid": "2c21a4f3-f1fb-41b5-8799-bd0a789e3225"}
+{"sub_label": "Mount Fridtjof Nansen", "obj_label": "Antarctica", "uuid": "2f3994bb-2a18-4c8e-ada2-53f983fbe046"}
+{"sub_label": "Ellsworth Land", "obj_label": "Antarctica", "uuid": "47266387-ef47-4425-9c82-4ad64794d345"}
+{"sub_label": "Bihar", "obj_label": "Asia", "uuid": "32473e8e-9233-41d3-a75c-3fdce72c4539"}
+{"sub_label": "Brown Peninsula", "obj_label": "Antarctica", "uuid": "bd1aeaa8-d05b-4cbe-ba55-57f2c5e3640f"}
+{"sub_label": "Crevasse Valley Glacier", "obj_label": "Antarctica", "uuid": "9bcb1580-3b52-4905-b1bc-4ca0643d7501"}
+{"sub_label": "Bertram Glacier", "obj_label": "Antarctica", "uuid": "b5134c1b-2da3-4427-beb1-506073aabbbd"}
+{"sub_label": "Dennistoun Glacier", "obj_label": "Antarctica", "uuid": "02f68f5a-ec38-4845-88f3-f96796af4859"}
+{"sub_label": "Beaumont Bay", "obj_label": "Antarctica", "uuid": "5d1ca096-8fc2-459d-b624-eceac7aa7f7f"}
+{"sub_label": "Roberts Massif", "obj_label": "Antarctica", "uuid": "6fe364c6-150e-4c60-a8ee-5c41ca8e1519"}
+{"sub_label": "Estonia", "obj_label": "Europe", "uuid": "56f24bde-66dc-4a5a-8dd4-6c58c815a06e"}
+{"sub_label": "Halpern Point", "obj_label": "Antarctica", "uuid": "5183beff-4099-4e82-be52-643484d5f1d7"}
+{"sub_label": "Holdsworth Glacier", "obj_label": "Antarctica", "uuid": "823e815b-8b06-4dce-bc1d-3d62c35d4581"}
+{"sub_label": "Lovech Heights", "obj_label": "Antarctica", "uuid": "c8be0c64-c95b-42de-a61b-3f8f6d33d180"}
+{"sub_label": "Trelech", "obj_label": "Europe", "uuid": "c90c28ad-cab1-40ea-b593-6b959dbe88bc"}
+{"sub_label": "Berkovitsa Glacier", "obj_label": "Antarctica", "uuid": "4b2b1f06-dda9-4c37-9f73-b916bec1a3c2"}
+{"sub_label": "Mount Melbourne", "obj_label": "Antarctica", "uuid": "1faa8de0-45db-43aa-8b66-ebdddf7bfb2c"}
+{"sub_label": "Maglenik Heights", "obj_label": "Antarctica", "uuid": "78085854-f0bb-4a67-b546-c01e46ebff8b"}
+{"sub_label": "Jutulsessen", "obj_label": "Antarctica", "uuid": "cdd95788-7f1d-4eeb-913c-e298560097da"}
+{"sub_label": "French Southern and Antarctic Lands", "obj_label": "Antarctica", "uuid": "03949448-02d5-4923-8f00-2d7c4fba0f76"}
+{"sub_label": "Moubray Bay", "obj_label": "Antarctica", "uuid": "3d9994b3-5eb7-4174-ad11-7275df9f0ed5"}
+{"sub_label": "Skeidshovden Mountain", "obj_label": "Antarctica", "uuid": "ee2b422d-82eb-421a-9708-1bf0e0dbd7a9"}
+{"sub_label": "Jupiter Glacier", "obj_label": "Antarctica", "uuid": "163e6a96-a4ab-4ad3-8d56-a7a8ddb9ed3b"}
+{"sub_label": "Matusevich Glacier", "obj_label": "Antarctica", "uuid": "3c9f69c4-f70a-4346-8781-7223cabb06c2"}
+{"sub_label": "Panega Glacier", "obj_label": "Antarctica", "uuid": "a630f7a3-c91f-48ca-a52a-d942b495c3ef"}
+{"sub_label": "Uranus Glacier", "obj_label": "Antarctica", "uuid": "342904a8-009a-45db-82fd-851eb2e87c66"}
+{"sub_label": "Gornergrat", "obj_label": "Europe", "uuid": "d408dbb6-7941-42b9-9ffc-c115ac9d7081"}
+{"sub_label": "Pitt Islands", "obj_label": "Antarctica", "uuid": "9ef543f2-9838-48f5-932d-c170ef19dc4a"}
+{"sub_label": "Long Hills", "obj_label": "Antarctica", "uuid": "0bd3a12e-6c0a-4540-a20e-93b6084ebb97"}
+{"sub_label": "Sudan", "obj_label": "Africa", "uuid": "664da04f-97d1-4fe4-93cd-db4d40755868"}
+{"sub_label": "Principality of Sealand", "obj_label": "Europe", "uuid": "62b19e31-4a31-4207-8cdc-fbea71d95ecc"}
+{"sub_label": "Jennings Promontory", "obj_label": "Antarctica", "uuid": "01acc25c-46fb-4a8f-ac9a-7d8d36cc0113"}
+{"sub_label": "Opalchenie Peak", "obj_label": "Antarctica", "uuid": "3b362c8d-6e69-4767-b4d9-b0d33bf51ed1"}
+{"sub_label": "Antarctic Treaty System", "obj_label": "Antarctica", "uuid": "4c712c1f-2d3c-4848-bc99-2ebba5b7d7a9"}
+{"sub_label": "Mount Bentley", "obj_label": "Antarctica", "uuid": "6ea272a3-60da-45d3-9d4d-cd30f91539e7"}
+{"sub_label": "Kiev Peninsula", "obj_label": "Antarctica", "uuid": "8075d91d-03c2-4e71-a114-39383d6a2df6"}
+{"sub_label": "Odbert Island", "obj_label": "Antarctica", "uuid": "0004a59e-08f5-4597-a4f5-3f1d2620944e"}
+{"sub_label": "Paulet Island", "obj_label": "Antarctica", "uuid": "ff384e99-611e-4729-a06d-43765f9b08e6"}
+{"sub_label": "Eland Mountains", "obj_label": "Antarctica", "uuid": "9c31c98d-8e5e-4caa-b8d3-9cea4c19e411"}
+{"sub_label": "Spur Point", "obj_label": "Antarctica", "uuid": "b1c3e2f8-af85-4299-bcd4-cc88d2646745"}
+{"sub_label": "Crystal Sound", "obj_label": "Antarctica", "uuid": "5a6dad64-8052-4b93-a7bf-4b0780d78f97"}
+{"sub_label": "Borg Massif", "obj_label": "Antarctica", "uuid": "4be25468-8d8c-44a5-885e-4e75ede90819"}
+{"sub_label": "Recovery Glacier", "obj_label": "Antarctica", "uuid": "69b17545-fcf3-4d2e-baae-8f07b76f0cef"}
+{"sub_label": "Nepal", "obj_label": "Asia", "uuid": "890f7333-4bf3-41ba-9850-f8e76e04353e"}
+{"sub_label": "Gibbs Glacier", "obj_label": "Antarctica", "uuid": "087baf6e-db9d-4d45-b805-4878a2be829a"}
+{"sub_label": "Krogh Island", "obj_label": "Antarctica", "uuid": "fc5b98d7-644c-494b-8967-3015b09e17f4"}
+{"sub_label": "Achaean Range", "obj_label": "Antarctica", "uuid": "05bbd7cb-8074-4a2c-b9a3-c313e5c3962e"}
+{"sub_label": "Ford Ranges", "obj_label": "Antarctica", "uuid": "67d74ae0-0964-4ca1-9710-fdbaa4219c20"}
+{"sub_label": "Rennick Glacier", "obj_label": "Antarctica", "uuid": "9a9b8f12-8651-403f-b116-09f6358ff608"}
+{"sub_label": "Dion Islands", "obj_label": "Antarctica", "uuid": "6d93b472-58f6-459c-9dcb-8713ea2e03cc"}
+{"sub_label": "Frigate Range", "obj_label": "Antarctica", "uuid": "dcd37237-b694-41a9-bc90-d087e0bfb998"}
+{"sub_label": "Juan de Nova Island", "obj_label": "Africa", "uuid": "152a0709-dc1f-4d75-98c4-c06744d6245c"}
+{"sub_label": "Emona Anchorage", "obj_label": "Antarctica", "uuid": "3a4e9376-c35a-4fce-ac4c-d9e2c1b503ff"}
+{"sub_label": "Hays Mountains", "obj_label": "Antarctica", "uuid": "bee5f56c-783a-4de6-b4ed-dd8b0293a134"}
+{"sub_label": "Detaille Island", "obj_label": "Antarctica", "uuid": "14878b16-d940-4995-8ad0-23eb03c0e1a1"}
+{"sub_label": "Cape Yelcho", "obj_label": "Antarctica", "uuid": "3fbd51db-e43f-4e5f-b1b9-7b1288408e95"}
+{"sub_label": "Japan", "obj_label": "Asia", "uuid": "e72c3aeb-f48b-492e-b820-9b4138d46a29"}
+{"sub_label": "Probuda Ridge", "obj_label": "Antarctica", "uuid": "a96467a0-385d-4cb9-9618-ed90dff264b8"}
+{"sub_label": "Masson Range", "obj_label": "Antarctica", "uuid": "c2dcca5d-7420-479c-9843-273405fd8fb9"}
+{"sub_label": "Mozambique", "obj_label": "Africa", "uuid": "633aa44c-6e34-45bf-b4a4-c180dbc2410c"}
+{"sub_label": "Shimla", "obj_label": "Asia", "uuid": "cf2d47d4-9e03-4565-b0dc-953eb06a6c02"}
+{"sub_label": "Helsinki", "obj_label": "Europe", "uuid": "1d7c0b76-c342-425f-9ac3-157790367821"}
+{"sub_label": "San Marino", "obj_label": "Europe", "uuid": "8870ee23-7c44-403f-866f-24a33bfe37dd"}
+{"sub_label": "Yambol Peak", "obj_label": "Antarctica", "uuid": "0e124ecb-2834-4e29-a66d-da4fe8fffd5a"}
+{"sub_label": "Shenzhen", "obj_label": "Asia", "uuid": "dcf7a9b6-9cb9-4918-a5b4-c3ac4f57eb14"}
+{"sub_label": "Congo Free State", "obj_label": "Africa", "uuid": "0a2f8fd2-f766-4a52-ae93-95e24f4d2aba"}
+{"sub_label": "Lazarev Ice Shelf", "obj_label": "Antarctica", "uuid": "070001c6-709a-4df2-8fc3-4fef31e42eb4"}
+{"sub_label": "Lambert Glacier", "obj_label": "Antarctica", "uuid": "174cb655-62ea-4327-8230-988e7db8c615"}
+{"sub_label": "Eureka Glacier", "obj_label": "Antarctica", "uuid": "6c0f51b8-9ae7-439f-b70b-9eef7e64bb68"}
+{"sub_label": "Rampart Ridge", "obj_label": "Antarctica", "uuid": "7d209ea6-a3ea-4f0c-bcdd-c97703a6aeb1"}
+{"sub_label": "Suvorov Glacier", "obj_label": "Antarctica", "uuid": "7bc28cf1-35a9-43a7-9a74-c70698634698"}
+{"sub_label": "Balkan Snowfield", "obj_label": "Antarctica", "uuid": "32a04d5c-6c5e-4dcb-b653-b6eda7b6e94c"}
+{"sub_label": "Chavez Island", "obj_label": "Antarctica", "uuid": "481775e9-c439-4285-bbe7-00656be9ef87"}
+{"sub_label": "Sykes Glacier", "obj_label": "Antarctica", "uuid": "60d5e1be-85bf-46cd-bdee-338814cabf21"}
+{"sub_label": "Taylor Valley", "obj_label": "Antarctica", "uuid": "ea678b36-34e0-4388-911e-7fb86e6efdf0"}
+{"sub_label": "Arab League", "obj_label": "Asia", "uuid": "b49238ea-32d1-40e6-88d5-371dab9fd605"}
+{"sub_label": "Mount Berlin", "obj_label": "Antarctica", "uuid": "cdf2016a-a567-469e-ae6c-bf0289412749"}
+{"sub_label": "La Grange Nunataks", "obj_label": "Antarctica", "uuid": "bc6c09dc-4497-4bcb-8192-9e9445222c4e"}
+{"sub_label": "Mount Manthe", "obj_label": "Antarctica", "uuid": "a90af75b-b10f-45ec-95d7-dc0cb0c30e6f"}
+{"sub_label": "Rezen Knoll", "obj_label": "Antarctica", "uuid": "526e4094-0c27-423d-bdce-b38819beecc4"}
+{"sub_label": "Tinker Glacier", "obj_label": "Antarctica", "uuid": "2521bb16-8de4-4a99-a77f-152e92da82b0"}
+{"sub_label": "Denton Glacier", "obj_label": "Antarctica", "uuid": "63f88c7b-5496-46a6-b122-9fb3d0ee9876"}
+{"sub_label": "Breznik Heights", "obj_label": "Antarctica", "uuid": "397e443f-ba4e-4907-ac12-27550bc08cdb"}
+{"sub_label": "Berkner Island", "obj_label": "Antarctica", "uuid": "596b4490-5cc7-4a62-989b-0ad38899944b"}
+{"sub_label": "Vistula", "obj_label": "Europe", "uuid": "bb74054f-fed3-4414-b1d4-5378a6c34ea2"}
+{"sub_label": "Cape Hallett", "obj_label": "Antarctica", "uuid": "3ad8848a-35f7-4a59-a97b-5333387bb117"}
+{"sub_label": "Douro", "obj_label": "Europe", "uuid": "fc3aa507-5108-41c9-89fc-3e69e620fe92"}
+{"sub_label": "Vernadsky Research Base", "obj_label": "Antarctica", "uuid": "cc535dcd-4c92-4263-b56f-a3fa2f73946b"}
+{"sub_label": "Schokalsky Bay", "obj_label": "Antarctica", "uuid": "52358192-808f-4415-a2fe-905ea5e7e87b"}
+{"sub_label": "Cape Shirreff", "obj_label": "Antarctica", "uuid": "ed23207a-ef8f-42f8-a922-86a9d9eb76ab"}
+{"sub_label": "Cape Royds", "obj_label": "Antarctica", "uuid": "6a41d850-d7dc-418f-a09b-eb86340917ee"}
+{"sub_label": "Anare Mountains", "obj_label": "Antarctica", "uuid": "823c6ad8-496f-4b92-871b-be594fa73722"}
+{"sub_label": "Chamarajanagar district", "obj_label": "Asia", "uuid": "036e9324-eb46-44d6-969d-2b0c0eb9d0bc"}
+{"sub_label": "Leverett Glacier", "obj_label": "Antarctica", "uuid": "eacdce02-25e4-435e-b13f-6820a23f070b"}
+{"sub_label": "South Africa", "obj_label": "Africa", "uuid": "133670fd-5b38-4d27-8494-ecdc810ad8c6"}
+{"sub_label": "Warren Range", "obj_label": "Antarctica", "uuid": "1850acb2-3f16-41a1-a0f3-7b82786f73a8"}
+{"sub_label": "Medina Peaks", "obj_label": "Antarctica", "uuid": "9c113543-b332-477b-809c-627679f20d9a"}
+{"sub_label": "Davis Coast", "obj_label": "Antarctica", "uuid": "22059f67-1263-4144-820a-159ca6c9170f"}
+{"sub_label": "Guadalquivir", "obj_label": "Europe", "uuid": "b70aaecc-fc42-4b7d-9b3c-5425503c58a5"}
+{"sub_label": "Hilton Inlet", "obj_label": "Antarctica", "uuid": "f7bbd0e1-0052-42f2-b3a3-5f6946c700ad"}
+{"sub_label": "James Ross Island group", "obj_label": "Antarctica", "uuid": "fe2dbbb8-16f7-4fa9-8449-94fbd4d77758"}
+{"sub_label": "Thiel Mountains", "obj_label": "Antarctica", "uuid": "40b5c352-2763-45ed-86ab-03f68a892b1b"}
+{"sub_label": "Mount Spivey", "obj_label": "Antarctica", "uuid": "77c2db52-b70a-4893-b4b7-1fc989e0eb3b"}
+{"sub_label": "Yule Bay", "obj_label": "Antarctica", "uuid": "d02f146a-47d9-483f-87d4-db9e120cf892"}
+{"sub_label": "Mount Harding", "obj_label": "Antarctica", "uuid": "4a57c003-9454-4330-86e6-c5c2faf68085"}
+{"sub_label": "Block Bay", "obj_label": "Antarctica", "uuid": "81104ca7-c745-4d8a-b156-76b08799722d"}
+{"sub_label": "Shinnan Glacier", "obj_label": "Antarctica", "uuid": "0b32586d-f817-4a70-a729-b52fb4817dfc"}
+{"sub_label": "Tarnovo Ice Piedmont", "obj_label": "Antarctica", "uuid": "0f923660-c634-4ff9-b42f-cf5f5669dff4"}
+{"sub_label": "Heritage Range", "obj_label": "Antarctica", "uuid": "5823be54-a47b-40c3-86f0-c3be97e4ad75"}
+{"sub_label": "Kaliakra Glacier", "obj_label": "Antarctica", "uuid": "8affd928-0128-4e39-b513-967c1c81c544"}
+{"sub_label": "Miller Range", "obj_label": "Antarctica", "uuid": "801d1136-3473-479c-bde3-34c75f99551a"}
+{"sub_label": "Somalia", "obj_label": "Africa", "uuid": "8c0ad847-156f-4554-b271-8199de840f93"}

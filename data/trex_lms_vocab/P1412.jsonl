@@ -1,0 +1,924 @@
+{"sub_label": "Iginio Ugo Tarchetti", "obj_label": "Italian", "uuid": "4c35f15b-d0aa-44f3-9735-f00a4a515366"}
+{"sub_label": "Juan Carlos Garrido", "obj_label": "Spanish", "uuid": "7265a778-cc3a-47ae-9e48-654b9685434d"}
+{"sub_label": "Michael Hutchence", "obj_label": "English", "uuid": "30539f62-8aea-4e75-a9aa-7a73072165c6"}
+{"sub_label": "Aitor Karanka", "obj_label": "Spanish", "uuid": "dfc499a6-7c5b-42f7-b1bb-6ba41c8bdc93"}
+{"sub_label": "Charles Bronson", "obj_label": "English", "uuid": "91f4fef3-b379-4217-8673-c71a3f6468e7"}
+{"sub_label": "Giovanni Ruffini", "obj_label": "Italian", "uuid": "df42e531-d58e-40b2-8150-32516f91612b"}
+{"sub_label": "Guy Maddin", "obj_label": "English", "uuid": "babc046b-2d6c-415d-80b2-e4425b3196ee"}
+{"sub_label": "Alfred Cort Haddon", "obj_label": "English", "uuid": "277b3817-b541-4feb-9270-809c8a185763"}
+{"sub_label": "Ioannis Kasoulidis", "obj_label": "Greek", "uuid": "0bf362a0-6fc3-40b3-910c-acab945a8335"}
+{"sub_label": "Itzik Zohar", "obj_label": "Hebrew", "uuid": "63c917e6-7b61-4e41-bc77-14eae047b05b"}
+{"sub_label": "Abraham Isaac Kook", "obj_label": "Hebrew", "uuid": "8d76a486-d0c9-4d8d-9409-c1b1aa26c734"}
+{"sub_label": "William James", "obj_label": "English", "uuid": "a59d7473-e414-4408-9934-8f8b7854aa0c"}
+{"sub_label": "Rajit Kapur", "obj_label": "Hindi", "uuid": "f9f3bf3e-7190-4102-b8f8-e1096b7a9f9f"}
+{"sub_label": "Bernardino Ochino", "obj_label": "Italian", "uuid": "5b17d384-9191-4423-a614-e696f7d355b3"}
+{"sub_label": "Benito Arias Montano", "obj_label": "Spanish", "uuid": "e59259d6-6482-4696-9b71-408df3362404"}
+{"sub_label": "Erna Solberg", "obj_label": "Norwegian", "uuid": "ea15c95d-f23b-4273-9ac4-b0eaa4c1ba40"}
+{"sub_label": "Gilles Groulx", "obj_label": "English", "uuid": "d881f072-b31b-4db6-8fdb-ff146bd21688"}
+{"sub_label": "Bernardo Dovizi", "obj_label": "Italian", "uuid": "fe5bb24f-f879-4989-a8f3-83af649a39ee"}
+{"sub_label": "Leonhard Christian Borchgrevink Holmboe", "obj_label": "Norwegian", "uuid": "ed60bc8f-d6f3-4366-9e37-2c245ae40241"}
+{"sub_label": "Henry Maudsley", "obj_label": "English", "uuid": "6a4644e7-16c3-4be1-9ae6-a31babb3dad7"}
+{"sub_label": "Mick Lally", "obj_label": "Irish", "uuid": "f4c1b0ae-7a0d-4901-8c25-af2618267b95"}
+{"sub_label": "Felisa Mary", "obj_label": "Spanish", "uuid": "e057da5b-1e5e-4f4d-b690-1f170904ef3f"}
+{"sub_label": "Olavi Paavolainen", "obj_label": "Finnish", "uuid": "4b367315-1d17-45e7-8deb-553ecfe00e7d"}
+{"sub_label": "Joseph Milner", "obj_label": "English", "uuid": "ffcad32a-d4ea-4446-ba69-10be9b300330"}
+{"sub_label": "Basarab Nicolescu", "obj_label": "French", "uuid": "a87e683f-41d3-494b-a8ad-b2fd2af30fd1"}
+{"sub_label": "Henry Warburton", "obj_label": "English", "uuid": "3d7857f2-e7ab-4b81-913c-c33a7ad82367"}
+{"sub_label": "Sextus Pompeius Festus", "obj_label": "Latin", "uuid": "9ffaa00a-deb5-4319-b252-0a64ab616da3"}
+{"sub_label": "Thomas Sturge Moore", "obj_label": "English", "uuid": "0bba4a55-2499-401e-9d6b-4f1a3e905610"}
+{"sub_label": "Alexander Bulatovich", "obj_label": "Russian", "uuid": "e55b3cc5-2f47-4544-bca1-c5c663c2852a"}
+{"sub_label": "Walter Laqueur", "obj_label": "English", "uuid": "b769d536-b0ff-45c4-9687-f7edda695765"}
+{"sub_label": "Ephraim Katzir", "obj_label": "Hebrew", "uuid": "8f867a27-0a88-405d-af2d-c33513a5b7d5"}
+{"sub_label": "Park Chan-wook", "obj_label": "Korean", "uuid": "7c8915cb-30a5-4d96-a03a-bc5aaa0b559e"}
+{"sub_label": "Anil Kapoor", "obj_label": "Hindi", "uuid": "165763ef-c530-48af-80c2-e2220a7fd334"}
+{"sub_label": "Erkki Karu", "obj_label": "Finnish", "uuid": "0cef1093-fa21-4cb0-bfc8-dce92800ca04"}
+{"sub_label": "Jean-Pierre Claris de Florian", "obj_label": "French", "uuid": "66ee5720-d614-4ea1-b6e1-f80bf6da474d"}
+{"sub_label": "Elena Valenciano", "obj_label": "Spanish", "uuid": "33fe0fb5-3bc0-4c2b-bef1-695f454f0a5f"}
+{"sub_label": "Huangfu Mi", "obj_label": "Chinese", "uuid": "073ed5f9-d1ad-49dd-a792-9fa69163de67"}
+{"sub_label": "Nathaniel Hawthorne", "obj_label": "English", "uuid": "a96382eb-ff86-48da-b659-a34c930c2d60"}
+{"sub_label": "Paul Tortelier", "obj_label": "French", "uuid": "fccdd3ae-b0cf-457d-bc98-3b92bd82f4ad"}
+{"sub_label": "Paul Ramadier", "obj_label": "French", "uuid": "9db33012-ae8b-4e19-94d4-c1aaa5054452"}
+{"sub_label": "James Earl Jones", "obj_label": "English", "uuid": "d0298d6d-a57e-4d50-aa29-cd84ed3fddf7"}
+{"sub_label": "Wordsworth Donisthorpe", "obj_label": "English", "uuid": "f391969f-af16-4255-92f0-325446a44f7d"}
+{"sub_label": "Zhang Zhidong", "obj_label": "Chinese", "uuid": "2cd7745a-0f9d-4bb8-99b5-6ce61bee0d69"}
+{"sub_label": "Gustav Frederik Holm", "obj_label": "Danish", "uuid": "a8ee3f8e-d54e-46c0-89e3-1a5bfa11fa5d"}
+{"sub_label": "Eadweard Muybridge", "obj_label": "English", "uuid": "7189ecf3-cf43-4393-9a75-cd617f94b31f"}
+{"sub_label": "Maurice Merleau-Ponty", "obj_label": "French", "uuid": "ce2deaa9-0114-4f19-81a8-cfba0d0c342d"}
+{"sub_label": "Claudio Baglioni", "obj_label": "Italian", "uuid": "e4339d76-a1fe-4fea-90bc-6a34fe3be693"}
+{"sub_label": "Robert Naunton", "obj_label": "English", "uuid": "1756567a-629b-4101-a560-7040663cd2b6"}
+{"sub_label": "Nino Bravo", "obj_label": "Spanish", "uuid": "b08037e6-9337-4ec0-84d6-8e9cf0d2c22f"}
+{"sub_label": "Sallust", "obj_label": "Latin", "uuid": "932324a0-b75f-4855-a7f8-18079427bd2a"}
+{"sub_label": "Peter Benchley", "obj_label": "English", "uuid": "8a10accc-c452-4735-ab1d-7ac1455691a9"}
+{"sub_label": "Louis Comfort Tiffany", "obj_label": "English", "uuid": "954443c5-9814-484d-b87a-d742755d8c5a"}
+{"sub_label": "Ion Cristoiu", "obj_label": "Romanian", "uuid": "861ae493-a05c-4ffa-8d0e-6a9051622b3b"}
+{"sub_label": "Georgios Lassanis", "obj_label": "Greek", "uuid": "ee1e5839-57a3-42c2-b5e5-35949ac889da"}
+{"sub_label": "Giambattista Nolli", "obj_label": "Italian", "uuid": "33c551dd-2a22-49a1-a3d4-5f971e8c8e56"}
+{"sub_label": "Martin Koolhoven", "obj_label": "Dutch", "uuid": "57b31451-751f-4cdc-88c7-912234cb42d4"}
+{"sub_label": "Mario Scelba", "obj_label": "Italian", "uuid": "a924f367-378f-46f7-9a69-4d1ec96b03fa"}
+{"sub_label": "Arantxa Parra Santonja", "obj_label": "Spanish", "uuid": "cafb3002-b684-407e-a006-95e6451bfccb"}
+{"sub_label": "Giovanni Bertati", "obj_label": "Italian", "uuid": "65cf8917-2e4b-49aa-80fe-e22b0dbb6efc"}
+{"sub_label": "Thor Heyerdahl", "obj_label": "Norwegian", "uuid": "937dce37-8ebc-4a31-b7c6-70be7b01b2d2"}
+{"sub_label": "David Blondel", "obj_label": "French", "uuid": "c219cfac-2e95-437f-ab79-e3709574ba4e"}
+{"sub_label": "Asser", "obj_label": "Welsh", "uuid": "cb0e1fcc-744d-47ca-9e37-2c299bae6a1e"}
+{"sub_label": "Chester Kallman", "obj_label": "English", "uuid": "c3b4568d-8cc9-419f-b658-1c08e29b9dda"}
+{"sub_label": "Anna Mouglalis", "obj_label": "French", "uuid": "dc216b21-585b-45b9-8e5a-699867bcfb11"}
+{"sub_label": "Jean Lhermitte", "obj_label": "French", "uuid": "a798bdf2-0439-49cd-a67b-9e6d13fc977f"}
+{"sub_label": "Antony Thomas", "obj_label": "English", "uuid": "4aa83cd4-c3ef-4399-8922-dbd11d2218ed"}
+{"sub_label": "Marius Constant", "obj_label": "French", "uuid": "0e487de6-b65d-4d65-97cb-00977e926d42"}
+{"sub_label": "James Sully", "obj_label": "English", "uuid": "dcabe3dc-fd2a-44c7-94ac-dd622b20288c"}
+{"sub_label": "George Dance the Younger", "obj_label": "English", "uuid": "29c7ba5b-ac5f-49dc-83dc-d4f906185e2d"}
+{"sub_label": "Karan Razdan", "obj_label": "Hindi", "uuid": "3d9a8d18-ab75-454f-a60d-1e1bac896b51"}
+{"sub_label": "Lafcadio Hearn", "obj_label": "English", "uuid": "a8473c7c-34e3-41d2-971e-86c07461e9e0"}
+{"sub_label": "Jason Statham", "obj_label": "English", "uuid": "02733251-54be-45e1-919e-c9668df54bd1"}
+{"sub_label": "Mary Wollstonecraft", "obj_label": "French", "uuid": "05e6f9be-46e6-4f8a-8ad7-2007e5edeb06"}
+{"sub_label": "Lennart Geijer", "obj_label": "Swedish", "uuid": "b8dbdd28-bf48-43ef-8c3c-1484be3ffeb4"}
+{"sub_label": "Raquel Morell", "obj_label": "Spanish", "uuid": "3d36e99b-4887-49c4-b294-5cdab3515f65"}
+{"sub_label": "Maria Petrovykh", "obj_label": "Russian", "uuid": "4c49bf0e-44b6-4422-a0eb-0e3ba832c58d"}
+{"sub_label": "Eric de Kuyper", "obj_label": "Dutch", "uuid": "bf9bd04f-3b18-4362-ab77-350794a8f20d"}
+{"sub_label": "Ivan Mazepa", "obj_label": "Ukrainian", "uuid": "cf73c12e-da2f-4604-9c1e-bd1f9982d7df"}
+{"sub_label": "Carl Bildt", "obj_label": "Swedish", "uuid": "45ac8ae1-a168-4e52-bc56-c4c4890fb3e5"}
+{"sub_label": "Manuel Dorrego", "obj_label": "Spanish", "uuid": "bbc6eca9-d3b0-49f1-bb44-32d56a536054"}
+{"sub_label": "Shantideva", "obj_label": "Sanskrit", "uuid": "7efdf3f3-ecf0-4af8-91c3-1e98a69a3b2e"}
+{"sub_label": "Frida Kahlo", "obj_label": "Spanish", "uuid": "500baf16-6273-4ef9-9e14-cc9c7d0fcf0c"}
+{"sub_label": "Goswin de Stassart", "obj_label": "French", "uuid": "be05aedd-407f-4a01-a210-1ae60075a55a"}
+{"sub_label": "Giulio Donadio", "obj_label": "Italian", "uuid": "419987b5-0362-45df-bfbf-cc4876ab4653"}
+{"sub_label": "Carl Jakob Sundevall", "obj_label": "Swedish", "uuid": "10462fd2-c4ea-438c-84c3-ecb82736de61"}
+{"sub_label": "Boris Stomakhin", "obj_label": "Russian", "uuid": "d338a792-0c00-4040-9d49-da9334628089"}
+{"sub_label": "Jeanne Moreau", "obj_label": "French", "uuid": "82b65975-bedf-4496-96f5-8531b239b6a1"}
+{"sub_label": "Peter Englund", "obj_label": "Swedish", "uuid": "0a98b831-9122-422a-8d15-324619e90aa3"}
+{"sub_label": "Gunnar Staalesen", "obj_label": "Norwegian", "uuid": "c0cd44f5-ddb0-4af2-a80f-9879a2c27506"}
+{"sub_label": "Sanghavi", "obj_label": "Hindi", "uuid": "cdde074a-8c31-4bd0-8c42-d060927ebf2a"}
+{"sub_label": "Santiago Segura", "obj_label": "Spanish", "uuid": "9582e8ea-ffd9-4d4a-8e5d-2edc9cf41f09"}
+{"sub_label": "Sven Elvestad", "obj_label": "Norwegian", "uuid": "0d3b6723-7d22-4197-a23a-b45bc324dc56"}
+{"sub_label": "Rose Caron", "obj_label": "French", "uuid": "e19c0a30-096b-47fe-89cb-24894b228367"}
+{"sub_label": "Patrick Chamoiseau", "obj_label": "French", "uuid": "0f0e904e-91a9-4dc7-8540-c93f37c1ecb9"}
+{"sub_label": "Nadia Boulanger", "obj_label": "French", "uuid": "0287ca84-d694-4c38-b121-f76634fd2dbe"}
+{"sub_label": "Hermenegildo Anglada Camarasa", "obj_label": "Spanish", "uuid": "22857899-938d-43a3-8d66-3054f51e0769"}
+{"sub_label": "Ferdinando Fontana", "obj_label": "Italian", "uuid": "1dc445ac-d1af-4a5b-b831-6f53d0e6ffc6"}
+{"sub_label": "Duygu Asena", "obj_label": "Turkish", "uuid": "b3d4b614-f7f9-45a4-b1db-bf15cf987060"}
+{"sub_label": "Ramon Llull", "obj_label": "Catalan", "uuid": "9b9f1810-1698-4382-bf92-02357e63ed0a"}
+{"sub_label": "Bas Jan Ader", "obj_label": "Dutch", "uuid": "834ddac0-47fd-4358-b01e-475e72b0fd0e"}
+{"sub_label": "Pascal Dagnan-Bouveret", "obj_label": "French", "uuid": "9a114e0a-1c70-4d08-a1ef-cad7b97b4d12"}
+{"sub_label": "William Didier-Pouget", "obj_label": "French", "uuid": "ac3c4554-16f4-4b51-8525-4ef7e03e672a"}
+{"sub_label": "Avram Iancu", "obj_label": "Romanian", "uuid": "2b041fe3-e6c9-4598-a71a-a3defd5047d8"}
+{"sub_label": "Victoria Silvstedt", "obj_label": "French", "uuid": "612ef8e0-6406-4ee6-840a-2ed3d1f120ef"}
+{"sub_label": "Amal Nasser el-Din", "obj_label": "Hebrew", "uuid": "dae9b5a1-1baa-437c-8a70-4eb923e644ae"}
+{"sub_label": "Jean Debucourt", "obj_label": "French", "uuid": "7fe3408d-db4f-4102-910f-bdfa8b463384"}
+{"sub_label": "Jim Wright", "obj_label": "English", "uuid": "9d928a0a-a044-4bc6-bacc-3984f9926aae"}
+{"sub_label": "Jean Daive", "obj_label": "French", "uuid": "8c3486c2-e7bb-4efe-89db-475b74f2f2f4"}
+{"sub_label": "Victor Jacquemont", "obj_label": "French", "uuid": "34ef2bef-5462-451f-ad98-ffec70b2913e"}
+{"sub_label": "Heikki Siren", "obj_label": "Finnish", "uuid": "43b39f2d-fa12-4ca9-9afa-977cb8e00dda"}
+{"sub_label": "Ji Kang", "obj_label": "Chinese", "uuid": "2deb0cf5-2cd6-436a-bae1-8940f70f124e"}
+{"sub_label": "Giacinto Scelsi", "obj_label": "Italian", "uuid": "eb466ab3-63f5-4f52-ae1c-1dce99fed833"}
+{"sub_label": "Gregor von Rezzori", "obj_label": "German", "uuid": "273569aa-9fff-4773-99e5-9136c68f368f"}
+{"sub_label": "George Shaw", "obj_label": "English", "uuid": "f012afc1-0db7-4abf-87b8-d2b3c18d0228"}
+{"sub_label": "Hussniya Jabara", "obj_label": "Hebrew", "uuid": "062fa60b-73fe-4181-9385-637de539f3cd"}
+{"sub_label": "Alfred Russel Wallace", "obj_label": "English", "uuid": "95c6488e-47c5-4e27-90dd-d4bb502c2417"}
+{"sub_label": "Hector Guimard", "obj_label": "French", "uuid": "ef2cdcab-fa4f-4caf-9b47-0cfdd81eadf5"}
+{"sub_label": "Seebohm Rowntree", "obj_label": "English", "uuid": "ad774e5a-6966-439f-88d0-82691e20fa83"}
+{"sub_label": "Zacharie Astruc", "obj_label": "French", "uuid": "ff186603-bdd1-411a-a902-b87df523c332"}
+{"sub_label": "Anne Curry", "obj_label": "English", "uuid": "eabd4428-83e8-4510-909c-4e5a37246e97"}
+{"sub_label": "Cecilia Bartoli", "obj_label": "Italian", "uuid": "56a64d94-f939-4d8c-b6da-08a4d34c38bb"}
+{"sub_label": "Pierre Etchebaster", "obj_label": "French", "uuid": "c6bee9f9-1efc-49fb-965c-953223ff0e43"}
+{"sub_label": "Raquel Meller", "obj_label": "Spanish", "uuid": "aacb0aa9-2f46-44c5-8098-f50975b67512"}
+{"sub_label": "Giovanni Morone", "obj_label": "Italian", "uuid": "3a162920-6817-487b-b4af-904461359351"}
+{"sub_label": "Arthur Dupont", "obj_label": "French", "uuid": "089fa159-e5d0-4f8f-a7dd-01e2124e027c"}
+{"sub_label": "Ramesses II", "obj_label": "Egyptian", "uuid": "e95c0a3c-cdb5-462c-9f1f-3a7a4b4e3017"}
+{"sub_label": "Jean-Pierre Petit", "obj_label": "French", "uuid": "3bc5445e-faf2-4b42-9db7-913138331277"}
+{"sub_label": "Paul Antoine Fleuriot de Langle", "obj_label": "French", "uuid": "b2475f22-eccf-4ce4-acdf-eed1b252b203"}
+{"sub_label": "Alain Jessua", "obj_label": "French", "uuid": "d3f48a8e-f907-4c1c-b641-b7559b1d5a58"}
+{"sub_label": "Stuart A. Staples", "obj_label": "English", "uuid": "48d20439-82f2-4f91-a9c6-060ebc2eac5b"}
+{"sub_label": "Parvin E'tesami", "obj_label": "Persian", "uuid": "074cc103-4759-443d-8599-07ccfb8b060f"}
+{"sub_label": "Coluche", "obj_label": "French", "uuid": "c034b247-4820-414c-b8eb-da4f713f68a7"}
+{"sub_label": "Hakan Fidan", "obj_label": "Turkish", "uuid": "3c786ccc-0a33-4306-8adf-b991f870a5af"}
+{"sub_label": "Valerius of Saragossa", "obj_label": "Spanish", "uuid": "0dbd720e-5e42-43ff-a31a-3f864e88393f"}
+{"sub_label": "Derick Thomson", "obj_label": "English", "uuid": "b35199f3-d2e0-431d-8b8e-c381b01512df"}
+{"sub_label": "Christoph Willibald von Gluck", "obj_label": "German", "uuid": "e3bc7231-bdd6-493c-9b8c-d2afa0cf52d7"}
+{"sub_label": "Luigi Boccherini", "obj_label": "Italian", "uuid": "d134d378-7d5e-4d61-b587-6d5812bbccf3"}
+{"sub_label": "Franciscus Donders", "obj_label": "Dutch", "uuid": "f14441e5-5233-4442-a85c-eb53306cfb85"}
+{"sub_label": "Tabish Khair", "obj_label": "English", "uuid": "e4edd919-6e4b-4ca3-a830-1ee38a72f74c"}
+{"sub_label": "Janet Street-Porter", "obj_label": "English", "uuid": "f41325dd-0ec7-4fcb-9a21-c180381b8fae"}
+{"sub_label": "Carl Sigismund Kunth", "obj_label": "Latin", "uuid": "12804308-a8cc-46d2-8276-75d0c68821e3"}
+{"sub_label": "Samson Occom", "obj_label": "English", "uuid": "2a426318-99f4-4b57-bb4f-6be10676371c"}
+{"sub_label": "Keith Wood", "obj_label": "Irish", "uuid": "c5d244bf-fea9-40ca-89b6-fcdf5e581f9f"}
+{"sub_label": "Matthew Waterhouse", "obj_label": "English", "uuid": "053e1b17-ca29-4b89-88e4-47ef6796fa3c"}
+{"sub_label": "Abraham de Moivre", "obj_label": "English", "uuid": "d799695d-3166-4b41-9d67-7bd08f8d756d"}
+{"sub_label": "A. N. Wilson", "obj_label": "English", "uuid": "a3c6ad51-704c-4868-b139-d2d470335e5e"}
+{"sub_label": "Ehud Barak", "obj_label": "English", "uuid": "2dfbbd71-324f-4023-82e9-d69685a54d6b"}
+{"sub_label": "Oreste Biancoli", "obj_label": "Italian", "uuid": "28a8aa45-c31c-4c80-b732-4602bcd4269a"}
+{"sub_label": "Yakov Sverdlov", "obj_label": "Russian", "uuid": "bdd5d56d-ece4-4da9-96f9-49fc7569cb95"}
+{"sub_label": "Leopoldo Lugones", "obj_label": "Spanish", "uuid": "1dfbf976-2f83-4bd2-9b27-9aa80f78d9fc"}
+{"sub_label": "Vanessa Beecroft", "obj_label": "Italian", "uuid": "64b45bd7-b0b7-4dfc-8af5-dd739f52c64f"}
+{"sub_label": "Romualdo Marenco", "obj_label": "Italian", "uuid": "b0b23e0e-28f9-4b37-b812-ee6ceac6f82e"}
+{"sub_label": "Jehuda Cresques", "obj_label": "Catalan", "uuid": "d91e63a5-80ad-4869-bd57-43a5bfad5399"}
+{"sub_label": "Edith Maude Hull", "obj_label": "English", "uuid": "3a504c6e-81f0-4671-8ad6-4e2d250ea6b2"}
+{"sub_label": "Arthur Hallam", "obj_label": "English", "uuid": "f37e5f78-ac88-4cea-b9e2-2bcaa1e364e8"}
+{"sub_label": "Alexander William Kinglake", "obj_label": "English", "uuid": "fb1842fc-63ec-4aa9-a594-e1f592a53178"}
+{"sub_label": "Jules de Polignac", "obj_label": "French", "uuid": "d9824ca6-c042-4cb5-bac7-400e5ebdab25"}
+{"sub_label": "Glamourina", "obj_label": "Ukrainian", "uuid": "a54864bc-0984-4ae7-82b2-dde287e92ce0"}
+{"sub_label": "Lin Huiyin", "obj_label": "Chinese", "uuid": "0d1bb088-1a46-474d-a823-b5ff37dcec24"}
+{"sub_label": "Dino Cazares", "obj_label": "Spanish", "uuid": "aa75dff0-2eb3-48c1-a3b5-8b2ae12aa389"}
+{"sub_label": "Marcus Licinius Crassus", "obj_label": "Latin", "uuid": "bc814986-43e5-4df3-9f64-d5fbe6aed2da"}
+{"sub_label": "Maria Bellonci", "obj_label": "Italian", "uuid": "d51350a8-f94b-45d8-b399-d0ec592a5bb0"}
+{"sub_label": "Jean-Jacques Annaud", "obj_label": "French", "uuid": "c0255b17-4fbf-4c58-a541-e07cb141d718"}
+{"sub_label": "Alfred Sutro", "obj_label": "English", "uuid": "74190e8c-95db-4f76-a20e-a3d0b4c77b28"}
+{"sub_label": "Yu-seon", "obj_label": "Korean", "uuid": "d4a2c669-1bd6-4ab8-ad00-94d3342c6e1e"}
+{"sub_label": "Francis Blanche", "obj_label": "French", "uuid": "2477ac20-d5b9-4c38-8ae4-972ea6b5ddaf"}
+{"sub_label": "Ugo Falena", "obj_label": "Italian", "uuid": "2d3dced7-c551-4bcf-9a70-cebaa93f5bfa"}
+{"sub_label": "Arturo Issel", "obj_label": "Italian", "uuid": "1db11781-760e-4166-82eb-02dd4b54f66d"}
+{"sub_label": "Bruno Tabacci", "obj_label": "Italian", "uuid": "65237bc1-3b68-443e-88d0-3f29aaca8fe1"}
+{"sub_label": "Xavier Bertrand", "obj_label": "French", "uuid": "5035038f-5294-41bd-8224-f50109ef6b32"}
+{"sub_label": "Dirk Bogarde", "obj_label": "English", "uuid": "d2489220-06fc-4701-842f-04a103b8c418"}
+{"sub_label": "Sreekanth", "obj_label": "Tamil", "uuid": "b618166c-9afc-476a-a62f-fe17a4363411"}
+{"sub_label": "Benvenuto Rambaldi da Imola", "obj_label": "Latin", "uuid": "8912e1c9-dd2f-4e93-88aa-ee4fcd9e8a6d"}
+{"sub_label": "Josep Llimona i Bruguera", "obj_label": "Catalan", "uuid": "5329742b-b010-4e0a-bb39-b599206a69ef"}
+{"sub_label": "Edward Kimber", "obj_label": "English", "uuid": "fd1e7e89-a577-40ec-bfd9-9f1646d05a56"}
+{"sub_label": "Ahmad Karimi-Hakkak", "obj_label": "Persian", "uuid": "92ca653e-c246-4866-80dc-62d720c8e580"}
+{"sub_label": "Elizabeth Eastlake", "obj_label": "English", "uuid": "35895c0e-4c7a-4f22-bbd7-53b51d453096"}
+{"sub_label": "Henri Queuille", "obj_label": "French", "uuid": "af5374ff-cf5b-411e-af31-90d8b44043ef"}
+{"sub_label": "Oriol Junqueras", "obj_label": "Catalan", "uuid": "2d045851-39a2-4b41-9f0d-9fd3af97a8fe"}
+{"sub_label": "Virgil", "obj_label": "Latin", "uuid": "20679806-8c15-4c04-a87e-0c67cc71deba"}
+{"sub_label": "Annie Ernaux", "obj_label": "French", "uuid": "7243ed43-a41c-47f7-a62b-6bff04bcb6ad"}
+{"sub_label": "Mother Teresa", "obj_label": "English", "uuid": "7a8e68b8-df16-4a98-a5ff-fadaf59fc372"}
+{"sub_label": "Ivana Baquero", "obj_label": "Spanish", "uuid": "4d3cf942-e84c-481c-8bfa-06a35763c3a8"}
+{"sub_label": "Russian Red", "obj_label": "Spanish", "uuid": "08057b4e-3fb9-4cf0-ac64-3e65b6799e72"}
+{"sub_label": "Charles Louis Auguste Fouquet, duc de Belle-Isle", "obj_label": "French", "uuid": "a74fd807-af33-4316-9af4-7ece47482616"}
+{"sub_label": "Steve Biko", "obj_label": "English", "uuid": "b2041e39-68d9-490e-a889-7513892f0898"}
+{"sub_label": "Sybil Ruscoe", "obj_label": "English", "uuid": "c206457a-e38d-48d1-8381-52f4deca8a2d"}
+{"sub_label": "Italo Bocchino", "obj_label": "Italian", "uuid": "1c5db7ae-1acb-420e-8e9a-6c09175877e6"}
+{"sub_label": "Adriana Russo", "obj_label": "Italian", "uuid": "e69eba71-54c5-4c93-9555-74a602b57c57"}
+{"sub_label": "Nicolas Perrenot de Granvelle", "obj_label": "French", "uuid": "808dc57c-5f6b-4157-a6d1-95595ad89ae5"}
+{"sub_label": "Patrick J. Kennedy", "obj_label": "English", "uuid": "5a9befd0-e15a-4620-96a0-2cfe78536389"}
+{"sub_label": "Hossein Amini", "obj_label": "Persian", "uuid": "0ef02f72-3e67-4791-aaea-7843df10fe16"}
+{"sub_label": "Hieronymus Fabricius", "obj_label": "Latin", "uuid": "68661575-db9a-43c5-bfea-eff4ea57015e"}
+{"sub_label": "Giuseppe Bossi", "obj_label": "Italian", "uuid": "5f5d23bc-bb98-4005-bed3-ee8b1488fbf0"}
+{"sub_label": "Dick King-Smith", "obj_label": "English", "uuid": "92277ef8-9bd8-459c-be91-d82e3dacb8e3"}
+{"sub_label": "Raimonds Pauls", "obj_label": "Russian", "uuid": "2f7e7cd6-a412-4363-a814-95631afc51e5"}
+{"sub_label": "Vita Sackville-West", "obj_label": "English", "uuid": "2033632f-ba0e-4beb-92ee-5d557838c592"}
+{"sub_label": "Jayakanthan", "obj_label": "Tamil", "uuid": "bbb596ea-c31c-485f-a931-7b5758d5d68b"}
+{"sub_label": "Timo Koivusalo", "obj_label": "Finnish", "uuid": "d373dff8-ee12-4bc1-ade9-3dba8604461a"}
+{"sub_label": "Malbim", "obj_label": "Hebrew", "uuid": "9a71aced-1130-4f84-8032-dd7ea1a6cdaa"}
+{"sub_label": "William Blandowski", "obj_label": "English", "uuid": "ba2b28eb-f799-48c0-a960-471cd1fc480e"}
+{"sub_label": "J. Thomas Looney", "obj_label": "English", "uuid": "5fea0ae3-04e8-43d6-85e1-e90538ddf191"}
+{"sub_label": "Christiaan Huygens", "obj_label": "Latin", "uuid": "fc611e90-5bd8-490f-b715-2c85b8996545"}
+{"sub_label": "James Ussher", "obj_label": "English", "uuid": "e69f3e0a-8dad-43b4-a823-254faa378ceb"}
+{"sub_label": "Jacques Nicolas Augustin Thierry", "obj_label": "French", "uuid": "ff5706e0-7dba-400a-a014-9ef78932d742"}
+{"sub_label": "Rossano Brazzi", "obj_label": "Italian", "uuid": "669f6b96-49c8-420c-abd4-1a09dec35c26"}
+{"sub_label": "Ben Myers", "obj_label": "English", "uuid": "bb9ce629-8239-4607-a182-497981ff80ea"}
+{"sub_label": "Giovanni Lindo Ferretti", "obj_label": "Italian", "uuid": "6d10c9c7-035b-4c58-a36d-3565cf7fe386"}
+{"sub_label": "Francis de Croisset", "obj_label": "French", "uuid": "251e95e1-9fba-4d46-bc66-820831bd6cca"}
+{"sub_label": "Claire Croiza", "obj_label": "French", "uuid": "5421dc29-7e75-49bf-9c72-0c7e1a53c619"}
+{"sub_label": "Victor Horta", "obj_label": "Dutch", "uuid": "e4d0da70-df79-40dd-b2d3-bc3b736a8f16"}
+{"sub_label": "Giorgio Almirante", "obj_label": "Italian", "uuid": "0b7fce93-e9dd-4af0-a60f-39fda68533f9"}
+{"sub_label": "Edward Martyn", "obj_label": "English", "uuid": "6ed3b136-fafe-45df-bdd9-0584bbf38065"}
+{"sub_label": "Claude Henri de Rouvroy, comte de Saint-Simon", "obj_label": "French", "uuid": "8a489bc6-fe3b-49e0-af75-b44652012292"}
+{"sub_label": "Cipriano Mera", "obj_label": "Spanish", "uuid": "b69f1942-d6af-4f7e-8ea0-ef770044d619"}
+{"sub_label": "Gianni Letta", "obj_label": "Italian", "uuid": "abf30687-dd6b-4260-a02e-e30092ddfd6d"}
+{"sub_label": "George Goring, Lord Goring", "obj_label": "English", "uuid": "20c3b6a3-44c6-45ce-b9b4-4436b7c655ec"}
+{"sub_label": "Peter Rogers", "obj_label": "English", "uuid": "d94a296f-e234-43e6-ba51-a32563c3364f"}
+{"sub_label": "Christopher Dresser", "obj_label": "English", "uuid": "a3bb6ec9-894b-45f3-8d30-01eb75ed255e"}
+{"sub_label": "Jean-Baptiste Tuby", "obj_label": "French", "uuid": "b509b639-381d-441e-9216-5e1bdb02fc93"}
+{"sub_label": "Francisco Coloane", "obj_label": "Spanish", "uuid": "160e2671-b98d-49a5-a786-e91bbe921c82"}
+{"sub_label": "Pierre Chenal", "obj_label": "French", "uuid": "c2fc71b0-9d8e-45d1-b7cb-e917bee56aba"}
+{"sub_label": "Antonio Basoli", "obj_label": "Italian", "uuid": "0351d78d-b652-4d1e-91a8-3017fdadc8ca"}
+{"sub_label": "Maria Valtorta", "obj_label": "Italian", "uuid": "7727693c-9d86-4551-b2e0-3280ee0d29b7"}
+{"sub_label": "Jacques Rouffio", "obj_label": "French", "uuid": "8a37ca5c-1269-4923-92a6-6ac43b3178d3"}
+{"sub_label": "Alexandra Marinina", "obj_label": "Russian", "uuid": "e7ce8ebd-cbd9-4215-b9c8-f96734ab46c9"}
+{"sub_label": "Infante Juan, Count of Barcelona", "obj_label": "Spanish", "uuid": "47724871-4105-4abd-9467-563021be8a01"}
+{"sub_label": "Samuel Coster", "obj_label": "Dutch", "uuid": "681bacb6-c49d-4471-9d69-1715f69ebe0c"}
+{"sub_label": "Boris Shaposhnikov", "obj_label": "Russian", "uuid": "3c1b4fc4-a0af-4502-98be-adf5cadbd500"}
+{"sub_label": "Rosanna Fratello", "obj_label": "Italian", "uuid": "3ebf441e-9dd6-479e-ad59-41131e345989"}
+{"sub_label": "Henry Brougham, 1st Baron Brougham and Vaux", "obj_label": "English", "uuid": "e41c5871-bba3-41c7-aedd-ca6cdb1c5717"}
+{"sub_label": "Enric Prat de la Riba", "obj_label": "Catalan", "uuid": "015ae7aa-a1f3-471d-aae0-836275735683"}
+{"sub_label": "Emanuel Tov", "obj_label": "Hebrew", "uuid": "348e56a6-3ea1-4521-b06f-410db0b6812b"}
+{"sub_label": "George Michael", "obj_label": "English", "uuid": "ed5bde78-f4c0-4fcc-8245-327cd3c69bbc"}
+{"sub_label": "Thomas Seccombe", "obj_label": "English", "uuid": "1a973cea-6c2c-4b2d-bb60-a57f2cfbb2cc"}
+{"sub_label": "George Howard Earle III", "obj_label": "English", "uuid": "90ef5a80-263a-466f-8a8c-bdaa3fad4a03"}
+{"sub_label": "Giuseppe Peano", "obj_label": "Italian", "uuid": "c585423d-4951-45ce-845f-382686b036ad"}
+{"sub_label": "Alberto Lora", "obj_label": "Spanish", "uuid": "36b3b92c-6fd8-4d83-9807-61dba16e17fc"}
+{"sub_label": "Suzanne Malherbe", "obj_label": "French", "uuid": "8354a636-1ed6-4897-a218-b09739c02a5d"}
+{"sub_label": "Alexandre de Marenches", "obj_label": "French", "uuid": "4c1777c2-6ef6-49ae-a317-296182b47f61"}
+{"sub_label": "Arvo Tuominen", "obj_label": "Finnish", "uuid": "047bab57-2933-439e-9bd4-380b3aad8bb6"}
+{"sub_label": "Jiang Qinqin", "obj_label": "Chinese", "uuid": "14c36b11-9942-4ec2-ace0-c9bf5306118c"}
+{"sub_label": "Andrea Bianchi", "obj_label": "Italian", "uuid": "1ed89d9b-8bc8-4ae7-bd3a-4d8c8485391c"}
+{"sub_label": "James Bainham", "obj_label": "English", "uuid": "aea6e9bd-7976-4e0e-b7ae-15e31e043dbf"}
+{"sub_label": "Alex Levac", "obj_label": "Hebrew", "uuid": "fbbdd4b1-6fd6-413f-9309-6eb6d4798717"}
+{"sub_label": "Orna Banai", "obj_label": "Hebrew", "uuid": "3a23246a-b261-4514-bb15-46d974787c42"}
+{"sub_label": "Bernard Griffin", "obj_label": "English", "uuid": "14601e5b-ad3b-456a-8066-430aaf779d34"}
+{"sub_label": "Valerio Evangelisti", "obj_label": "Italian", "uuid": "d16cd812-d436-45e5-bf66-43b1927a4094"}
+{"sub_label": "Petter Dass", "obj_label": "Norwegian", "uuid": "5f73a495-d5f3-4f54-bc44-f4543b073722"}
+{"sub_label": "Agnolo Firenzuola", "obj_label": "Italian", "uuid": "632d959a-a08d-4097-a06f-5465e2b909d9"}
+{"sub_label": "Willem-Alexander of the Netherlands", "obj_label": "Dutch", "uuid": "91cbd988-0ec7-469c-b0af-5e935d1bee78"}
+{"sub_label": "Kenneth Hurlstone Jackson", "obj_label": "English", "uuid": "12d8734d-348b-4a6f-8f16-8b447d27f92b"}
+{"sub_label": "Maurice Dekobra", "obj_label": "French", "uuid": "cebaeedf-1246-4b32-8e56-2102cc809681"}
+{"sub_label": "Alain de Benoist", "obj_label": "French", "uuid": "86f95556-01e4-4c4f-8596-320ed29bd31c"}
+{"sub_label": "Peter Brook", "obj_label": "English", "uuid": "f6c8b1a8-d1cf-472e-bacd-54def9efeb90"}
+{"sub_label": "Tristan Tzara", "obj_label": "French", "uuid": "f16e2e4c-84e4-4cf0-9659-3426651cd83e"}
+{"sub_label": "Laura Gore", "obj_label": "Italian", "uuid": "1d099d14-1d46-47c7-8857-16f0b2d07e2a"}
+{"sub_label": "Bertrand Tavernier", "obj_label": "French", "uuid": "6462605b-a6fd-4573-95b1-5b7f776655a6"}
+{"sub_label": "Orchidea De Santis", "obj_label": "Italian", "uuid": "4042af03-19e3-4cb5-a99c-977d69d6860c"}
+{"sub_label": "Robert Jan van Pelt", "obj_label": "Dutch", "uuid": "ccd1a6c1-f154-4b84-963d-141a4db11c0b"}
+{"sub_label": "Piero Manzoni", "obj_label": "Italian", "uuid": "a008110c-0e7d-42b6-bab6-8446b7968595"}
+{"sub_label": "Louis Petit de Bachaumont", "obj_label": "French", "uuid": "1e075623-6a98-410d-b5a3-b32fc439b0e3"}
+{"sub_label": "Raymond van Barneveld", "obj_label": "Dutch", "uuid": "6d58eef7-97a0-4958-aee0-fbb8cc200d6f"}
+{"sub_label": "Richard Arkwright", "obj_label": "English", "uuid": "19f9784c-5ea6-41e1-bf98-e944cdaa514b"}
+{"sub_label": "Umberto Spadaro", "obj_label": "Italian", "uuid": "a895f244-1829-4df5-b2e7-5c29200a33cf"}
+{"sub_label": "Pep Guardiola", "obj_label": "Spanish", "uuid": "53cd4367-1e8b-4331-a0a6-223cc6aad2d7"}
+{"sub_label": "Melvyn Bragg", "obj_label": "English", "uuid": "41e9c2d1-c178-4661-8a75-2e3d3db48a58"}
+{"sub_label": "Emilio Lussu", "obj_label": "Italian", "uuid": "4c29493c-c005-404c-8053-19ba0b0d3f84"}
+{"sub_label": "Patrizia Toia", "obj_label": "Italian", "uuid": "99d3eb53-83ad-4ca5-aca8-3c8b8a00cd11"}
+{"sub_label": "Pierre Carniti", "obj_label": "Italian", "uuid": "adf1f6aa-0351-4377-842f-1a4d67db12bd"}
+{"sub_label": "Jean-Baptiste Boussingault", "obj_label": "French", "uuid": "a941f3f1-c9a9-4b7c-9421-b693561718b8"}
+{"sub_label": "Sarah Waters", "obj_label": "Welsh", "uuid": "373be46d-aeee-4991-af80-64ac27d234e7"}
+{"sub_label": "Anastasia Volochkova", "obj_label": "Russian", "uuid": "e7d068db-28d3-485a-b5f4-af4770b40496"}
+{"sub_label": "Joaquin Mir Trinxet", "obj_label": "Spanish", "uuid": "d9f4cdef-285a-4287-8aa9-5e779712e072"}
+{"sub_label": "Rafael Jofresa", "obj_label": "Spanish", "uuid": "3203c436-92d7-42cc-9585-e6b17ef003f4"}
+{"sub_label": "Anders Sunesen", "obj_label": "Latin", "uuid": "54287f72-d071-40df-a4dc-083288165b62"}
+{"sub_label": "Imre Nagy", "obj_label": "Hungarian", "uuid": "48ff04eb-5e1e-422f-b14c-c5ba103fcd9f"}
+{"sub_label": "Johann Gerhard", "obj_label": "German", "uuid": "bc750737-4494-45ad-be76-4d9e08452dd3"}
+{"sub_label": "Calixto Bieito", "obj_label": "Spanish", "uuid": "56e3185f-3098-4996-8e81-b8463c1e8944"}
+{"sub_label": "Saxo Grammaticus", "obj_label": "Latin", "uuid": "c61160d1-cb6f-4cff-a8e8-96f7b4ce8e56"}
+{"sub_label": "Ernest William Hornung", "obj_label": "English", "uuid": "9acb3520-b772-4b9f-8a99-f870d519fc56"}
+{"sub_label": "Michel Duchaussoy", "obj_label": "French", "uuid": "1565987a-8061-40c5-9d2c-278e35afc222"}
+{"sub_label": "Renzo Novatore", "obj_label": "Italian", "uuid": "198db132-5e8b-4d82-af5a-7a2a3368ee0d"}
+{"sub_label": "Kulbhushan Kharbanda", "obj_label": "Hindi", "uuid": "26b0db24-a19d-448d-bb83-1096f35a8e1b"}
+{"sub_label": "Willem Einthoven", "obj_label": "Dutch", "uuid": "c0205d9b-e1c6-4bc2-8d5a-fbdc0650deb9"}
+{"sub_label": "Ferrante Gonzaga", "obj_label": "Italian", "uuid": "3a4d791a-e0ba-44bf-84d8-dcb8e60ef648"}
+{"sub_label": "Margrethe II of Denmark", "obj_label": "Swedish", "uuid": "cdecf503-3264-49f5-85db-b4296c11c451"}
+{"sub_label": "Antoine Arnauld", "obj_label": "French", "uuid": "f385d52e-eb18-4392-80e1-60ac4e0fc70a"}
+{"sub_label": "Aleksey Pisemsky", "obj_label": "Russian", "uuid": "8d0ab21d-5b6e-4b4d-821f-499273783e3e"}
+{"sub_label": "Jean Marais", "obj_label": "French", "uuid": "d9c12d73-ed36-4148-8ec1-7d6e4de1300b"}
+{"sub_label": "Nicolaus Olahus", "obj_label": "Latin", "uuid": "a2089773-6e29-4a47-be48-da9fd969719c"}
+{"sub_label": "Georgius Agricola", "obj_label": "Latin", "uuid": "21f72381-e42c-413d-a0ea-8f782008c9b6"}
+{"sub_label": "Maxence Caron", "obj_label": "French", "uuid": "18843122-9e8f-4b90-90e7-f8bcd8506bf1"}
+{"sub_label": "Andrea Carandini", "obj_label": "Italian", "uuid": "c039ab42-1955-4b17-b16c-11d5a453303d"}
+{"sub_label": "Satyendra Nath Bose", "obj_label": "English", "uuid": "c561e9c9-2791-4c6a-9572-16885b445969"}
+{"sub_label": "Christopher Logue", "obj_label": "English", "uuid": "2e00b74d-6b50-4593-a9d7-705da0bf7f86"}
+{"sub_label": "Didier Haudepin", "obj_label": "French", "uuid": "a30ae3c6-eb01-4d85-923b-e51bd11a3e5d"}
+{"sub_label": "Jean Bobet", "obj_label": "French", "uuid": "227da7a5-0065-4e10-a92e-edb99a0d556a"}
+{"sub_label": "Francis Veber", "obj_label": "French", "uuid": "8548186a-45ce-4c1a-bcf1-4fc2fc906f28"}
+{"sub_label": "Pu Songling", "obj_label": "Chinese", "uuid": "5cf61326-1178-4a1e-9db0-27c0890b3cf8"}
+{"sub_label": "Michael Atherton", "obj_label": "English", "uuid": "917ec0ac-3ea1-4d5f-b6a9-1cc66d8eaa22"}
+{"sub_label": "David Warrilow", "obj_label": "English", "uuid": "a4ec4f61-1a61-4920-a79c-c727f8fdeb57"}
+{"sub_label": "Dino Dvornik", "obj_label": "Croatian", "uuid": "d06fec16-c5eb-47d6-8384-d649ac476b11"}
+{"sub_label": "Hamid Algar", "obj_label": "English", "uuid": "67f0c5da-2f1a-4818-996e-3c297872f921"}
+{"sub_label": "Leonard Plugge", "obj_label": "English", "uuid": "7c963c81-c3f0-4fc3-92f9-87823814929d"}
+{"sub_label": "Fermin", "obj_label": "Spanish", "uuid": "da95b323-1779-49b2-b3c9-69e27e3cb1da"}
+{"sub_label": "Ernest Shackleton", "obj_label": "English", "uuid": "6aa90e8e-7e5c-4141-ba27-d468a433d738"}
+{"sub_label": "Jorge Glusberg", "obj_label": "Spanish", "uuid": "544bffe1-4523-48ce-845c-64ac41e1c899"}
+{"sub_label": "David Van Reybrouck", "obj_label": "Dutch", "uuid": "058df899-51ff-4703-800d-77638ac05ed4"}
+{"sub_label": "Bernard Lewis", "obj_label": "English", "uuid": "5c620777-6091-4d92-8b11-01f309c5f1a5"}
+{"sub_label": "Nikolai Myaskovsky", "obj_label": "Russian", "uuid": "7d87f3f1-b2dc-4858-a277-52cc49d6f99c"}
+{"sub_label": "Salvador Allende", "obj_label": "Spanish", "uuid": "1ab2321f-4d0f-4a2e-8de8-dfc4d204ed83"}
+{"sub_label": "Jan Matejko", "obj_label": "Polish", "uuid": "23fa807f-1647-4f94-b449-8395f4b2e683"}
+{"sub_label": "David Foster Wallace", "obj_label": "English", "uuid": "0f8d1ddb-5245-44d6-9ee6-6448cfb57ee7"}
+{"sub_label": "Leonora Fani", "obj_label": "Italian", "uuid": "9ad21bc8-81f1-4ef1-a0df-b79522f7af66"}
+{"sub_label": "Yury Grigorovich", "obj_label": "Russian", "uuid": "0b5e957b-4fda-4a93-8b13-aee5f0e79188"}
+{"sub_label": "Agoston Haraszthy", "obj_label": "Hungarian", "uuid": "c5147bef-b5a3-4ba4-b8c6-b388819473d3"}
+{"sub_label": "Guido Pieters", "obj_label": "Dutch", "uuid": "03c91a0c-49f2-427d-aebb-f15282c7aafb"}
+{"sub_label": "Ebenezer Howard", "obj_label": "English", "uuid": "e7f1c7de-4bc9-4e0d-a906-37cf157d2a31"}
+{"sub_label": "Yotam Halperin", "obj_label": "Hebrew", "uuid": "288c85ba-0816-4c81-aaa1-48be65edaa81"}
+{"sub_label": "Niels Arestrup", "obj_label": "French", "uuid": "fd911139-a7be-44a1-9f85-f9b29ebd00f3"}
+{"sub_label": "Tharika", "obj_label": "Tamil", "uuid": "bbdf6d38-f226-455c-8687-cca50f214f17"}
+{"sub_label": "Nikolai Leskov", "obj_label": "Russian", "uuid": "ec2be6a2-d18c-403e-b265-1eadd742436d"}
+{"sub_label": "Mirza Basheer-ud-Din Mahmood Ahmad", "obj_label": "English", "uuid": "2ba5445b-3f42-4035-904e-b4834edc2bdf"}
+{"sub_label": "Mervyn Peake", "obj_label": "English", "uuid": "e808f3f4-144b-4a9c-b9e0-0534f13e0095"}
+{"sub_label": "Victor Emmanuel II of Savoy", "obj_label": "Italian", "uuid": "993732de-8dc6-41d4-99e6-8f7f10e10924"}
+{"sub_label": "Zuber Usman", "obj_label": "Indonesian", "uuid": "5e8d46d5-d8d4-4f3a-ba7b-af8107d67ea6"}
+{"sub_label": "Pierre Boucher", "obj_label": "French", "uuid": "0cdc0fb2-d9e7-4f1b-9fa6-e4d3ca68c5d4"}
+{"sub_label": "Ivan Vasilenko", "obj_label": "Russian", "uuid": "7aed6111-baee-46d3-bacc-d8f64bc7e8be"}
+{"sub_label": "Bozorg Alavi", "obj_label": "Persian", "uuid": "0995de69-302e-401b-b514-daa78a0c53b2"}
+{"sub_label": "Juraj Herz", "obj_label": "Czech", "uuid": "2b61194d-abe6-420e-96aa-feaf04653df4"}
+{"sub_label": "Bo Lundgren", "obj_label": "Swedish", "uuid": "8c5f3887-5072-4d65-83ff-4d55173c3e73"}
+{"sub_label": "Daniel Owen", "obj_label": "Welsh", "uuid": "8710c869-76eb-45f8-a51a-a6e470b5a6a7"}
+{"sub_label": "Georges Polti", "obj_label": "French", "uuid": "acd47a4f-2286-4f9c-a4f4-41a0361b1bbd"}
+{"sub_label": "Edmund Waller", "obj_label": "English", "uuid": "b5d2c2bd-7a40-488a-97cd-1c40bf6cfd1b"}
+{"sub_label": "Eiliv Skard", "obj_label": "Norwegian", "uuid": "52ccb375-4697-4b61-99ba-cf4eed694357"}
+{"sub_label": "James Pennethorne", "obj_label": "English", "uuid": "df1021cb-8230-4a96-aad4-c6817953274f"}
+{"sub_label": "Mia Couto", "obj_label": "Portuguese", "uuid": "38319185-5d41-45dd-9ea7-e534487c241d"}
+{"sub_label": "Christine Angot", "obj_label": "French", "uuid": "c28561c0-8374-4d33-a7be-ee4a8efd00d3"}
+{"sub_label": "Marc Bloch", "obj_label": "French", "uuid": "bf86cfce-b03b-48c9-9b4c-5c439facf4b6"}
+{"sub_label": "Jean-Baptiste Lebas", "obj_label": "French", "uuid": "8fee7abd-c2ab-4589-8c0e-c9275ba5e5cf"}
+{"sub_label": "George Enescu", "obj_label": "Romanian", "uuid": "cb5ba80d-0de9-4629-ac06-c772281c756a"}
+{"sub_label": "Anton Pann", "obj_label": "Romanian", "uuid": "2d3fa1b6-2e9e-46f0-ba60-5975d3a4e023"}
+{"sub_label": "Lodovico Agostini", "obj_label": "Italian", "uuid": "71bd1e17-c052-4a92-a60a-f1b84b3833fe"}
+{"sub_label": "Aleksander Griboyedov", "obj_label": "Russian", "uuid": "40a899d1-a189-4cb2-8e71-6cb60460e7e5"}
+{"sub_label": "Eleanor Steber", "obj_label": "English", "uuid": "218f9c2e-c8ff-44af-8c60-db11528414f2"}
+{"sub_label": "Yves Bonnefoy", "obj_label": "French", "uuid": "1bbc32d1-881e-439d-93a2-676d92821eb8"}
+{"sub_label": "Gloria Estefan", "obj_label": "Spanish", "uuid": "f3730702-569b-406b-b1c0-25a2d0945c4e"}
+{"sub_label": "Emmanuelle Bercot", "obj_label": "French", "uuid": "b0735774-18f1-4d4a-9d65-4b5f5c8f2308"}
+{"sub_label": "Eleanor Bron", "obj_label": "English", "uuid": "a013413a-493f-4d68-9d29-71fa36726498"}
+{"sub_label": "Michel Godard", "obj_label": "French", "uuid": "47bf603e-1ad3-43b5-8248-5572dd1cb660"}
+{"sub_label": "Eleanor Marx", "obj_label": "English", "uuid": "1bb0ddd4-0d26-4962-8c15-4239252b1ebc"}
+{"sub_label": "Michael Moore", "obj_label": "English", "uuid": "befee656-011a-4f5e-bf8b-3bf3b4972092"}
+{"sub_label": "Manuel De Sica", "obj_label": "Italian", "uuid": "e7fce8a8-fa2c-40dc-bf93-665b09cde7cd"}
+{"sub_label": "Pierre-Charles Villeneuve", "obj_label": "French", "uuid": "f1388adc-225c-4445-b602-e345dc08b0cf"}
+{"sub_label": "William Johnson Cory", "obj_label": "English", "uuid": "350ecb9b-02db-4b3f-9b01-d2b6adf2d07a"}
+{"sub_label": "Pietro Bellotti", "obj_label": "Italian", "uuid": "79719523-17c6-4e58-a137-532d3b132c05"}
+{"sub_label": "Marina Ripa di Meana", "obj_label": "Italian", "uuid": "8f827877-a37b-42b7-b591-50df62b3fe41"}
+{"sub_label": "Michel Etcheverry", "obj_label": "French", "uuid": "cac5acec-6ff7-4a85-9093-4de790cc1378"}
+{"sub_label": "Adolphe Joseph Thomas Monticelli", "obj_label": "French", "uuid": "6cbb4bb8-e1a5-411c-82d5-c628b95a006e"}
+{"sub_label": "Rafael Pascual", "obj_label": "Spanish", "uuid": "1f8ef579-f351-4638-820d-6bc416b94f3c"}
+{"sub_label": "Dennis Wilson", "obj_label": "English", "uuid": "855f4653-2fd4-4372-bc58-e9a28a696963"}
+{"sub_label": "Ion Vianu", "obj_label": "Romanian", "uuid": "2609de89-eb48-490e-bd26-5860e2e1299f"}
+{"sub_label": "Yvette Giraud", "obj_label": "French", "uuid": "3da2389e-dcf7-4bb9-adf3-b411cc53926a"}
+{"sub_label": "Jacques Callot", "obj_label": "French", "uuid": "da2d35a9-bdba-4409-941c-6834e9548b03"}
+{"sub_label": "Max Blecher", "obj_label": "Romanian", "uuid": "abcb8878-c666-4380-bc0c-1e5951da48ff"}
+{"sub_label": "Jean-Baptiste Marchand", "obj_label": "French", "uuid": "4646319b-2add-4071-a2f0-762b40a267f7"}
+{"sub_label": "Pierre Beaumarchais", "obj_label": "French", "uuid": "37239308-541e-4a42-a024-8ee36c2c6043"}
+{"sub_label": "Benedetto Croce", "obj_label": "Italian", "uuid": "f52de2ef-5409-4df0-afd4-cf1dfc605382"}
+{"sub_label": "Miguel A. Torres", "obj_label": "Spanish", "uuid": "d1a1a135-0ee2-4612-9aee-423a3d20f015"}
+{"sub_label": "Lucrezia Bori", "obj_label": "Spanish", "uuid": "563e1f2f-8cf9-45cf-a6a2-04ad44f5456b"}
+{"sub_label": "Joseph Oller", "obj_label": "Catalan", "uuid": "1bb72adb-dc19-41e1-a9d4-134768ab87fd"}
+{"sub_label": "Bruno Racine", "obj_label": "French", "uuid": "003d827c-b18d-41f1-9a4b-a19f335900b0"}
+{"sub_label": "Ravi Shankar", "obj_label": "English", "uuid": "5a7da16c-f7e7-4daf-9f66-20bf0861ff4b"}
+{"sub_label": "Jorge Lanata", "obj_label": "Spanish", "uuid": "d176eae5-88e5-4fc3-9209-fa6d8176c242"}
+{"sub_label": "Colin MacInnes", "obj_label": "English", "uuid": "a2bfb3cf-b710-4a12-ac16-65280a54804a"}
+{"sub_label": "Philip Nel", "obj_label": "English", "uuid": "2b57ebfe-0696-4de0-b0e9-fb63989ec336"}
+{"sub_label": "Roy Orbison", "obj_label": "English", "uuid": "20a665ad-6571-4014-a5fe-462e809ba988"}
+{"sub_label": "Claude Chappe", "obj_label": "French", "uuid": "0ec753ae-9689-4b49-b2e2-c5da1fa3ef97"}
+{"sub_label": "Cathi Unsworth", "obj_label": "English", "uuid": "23d78934-e006-490c-9498-732edbe32a14"}
+{"sub_label": "Costache Negri", "obj_label": "Romanian", "uuid": "5dde1f7b-bbd3-4f03-8b5d-f194896d2ec9"}
+{"sub_label": "John Willie", "obj_label": "English", "uuid": "e882d442-31a4-451b-94d0-f2c78d70e22a"}
+{"sub_label": "Vilhelm Ekelund", "obj_label": "Swedish", "uuid": "15c34916-f14d-4027-bc89-1a99e8de430f"}
+{"sub_label": "Vittorio De Sisti", "obj_label": "Italian", "uuid": "ef14da27-3adc-4e4b-87f8-90e340fa05df"}
+{"sub_label": "Georges Guibourg", "obj_label": "French", "uuid": "515b6c5d-4b17-4e9c-9b92-0134425b2268"}
+{"sub_label": "Sam Mendes", "obj_label": "English", "uuid": "71b3094e-e276-4ab8-ae30-0b02f3ad1bd3"}
+{"sub_label": "Chrisye", "obj_label": "Indonesian", "uuid": "6af4f70f-31d5-4386-9367-fa897729de49"}
+{"sub_label": "Denis Verdini", "obj_label": "Italian", "uuid": "f72aaf07-b3f9-4bbf-9def-a8aca09dad73"}
+{"sub_label": "Ivan Bunin", "obj_label": "Russian", "uuid": "8c9359c1-d02a-46ff-b7e1-2d3e4e8fbe46"}
+{"sub_label": "Roger Caillois", "obj_label": "French", "uuid": "92a593c1-5573-40d3-9862-dfb2c7de8522"}
+{"sub_label": "Jacques Grange", "obj_label": "French", "uuid": "891d80ae-9cba-43ce-a63b-2b74af593812"}
+{"sub_label": "Samuel Purchas", "obj_label": "English", "uuid": "b185974a-2a78-48bb-807f-3ea226005239"}
+{"sub_label": "Albert Willemetz", "obj_label": "French", "uuid": "496a904c-9162-4935-8678-862db24bfce9"}
+{"sub_label": "Maria Elena Kiriakou", "obj_label": "Greek", "uuid": "4c0141b5-3311-4af0-a424-53353fd396a2"}
+{"sub_label": "John Skelton", "obj_label": "English", "uuid": "71d52b83-aef4-47be-8aa6-33dba81ba326"}
+{"sub_label": "Angelica Balabanoff", "obj_label": "Russian", "uuid": "458c3c63-70cb-4bac-8dd3-7385c5deab33"}
+{"sub_label": "Jean Marot", "obj_label": "French", "uuid": "108f497b-a9b8-4c11-a963-2012cf9cba95"}
+{"sub_label": "Rose Tremain", "obj_label": "English", "uuid": "2c0a7304-f816-438a-95d2-9f1784006dcd"}
+{"sub_label": "Jacques Poulin", "obj_label": "French", "uuid": "612f848d-64ab-463a-83a5-94690b0cd016"}
+{"sub_label": "Francesc Eiximenis", "obj_label": "Catalan", "uuid": "22e6b872-cacc-4b54-8c2a-d6c200125e31"}
+{"sub_label": "Amaia Salamanca", "obj_label": "Spanish", "uuid": "a9c14416-2788-4903-b9ce-bd92f18fd05c"}
+{"sub_label": "Nathalie Kosciusko-Morizet", "obj_label": "French", "uuid": "dfc9d104-0b01-4c09-ae5b-182927c40ba1"}
+{"sub_label": "Kiran Kumar", "obj_label": "Hindi", "uuid": "cca3f4f0-11a9-41a8-b2ef-389171fe90b0"}
+{"sub_label": "Jonas Mekas", "obj_label": "English", "uuid": "b7df015e-a233-46cc-8d9e-f003ea659c9b"}
+{"sub_label": "Jacques Pills", "obj_label": "French", "uuid": "2889e1a7-ed0c-4cc9-9cab-fb0a43bdb1e1"}
+{"sub_label": "Louis Pergaud", "obj_label": "French", "uuid": "0b832605-a8c4-45f1-80b8-990fedf9e610"}
+{"sub_label": "Itay Tiran", "obj_label": "Hebrew", "uuid": "f2d153ce-e765-454f-b1d9-32a9566c12d1"}
+{"sub_label": "Jacobus de Voragine", "obj_label": "Latin", "uuid": "04cb0c8f-8772-4ab7-b183-1901691d72c1"}
+{"sub_label": "Humberto Delgado", "obj_label": "Portuguese", "uuid": "4db13ccf-925a-4227-8a7f-7245fec64a2c"}
+{"sub_label": "John Diefenbaker", "obj_label": "English", "uuid": "cad37cdb-f57a-4b9b-b403-4211ae7b1fe0"}
+{"sub_label": "Johan Gottschalk Wallerius", "obj_label": "Swedish", "uuid": "f2b1de56-6243-49c7-aa28-fe0759e56bf2"}
+{"sub_label": "Piero Gobetti", "obj_label": "Italian", "uuid": "2c404b8a-c279-4822-b980-9da5c0db8d1b"}
+{"sub_label": "Giacomo Luigi Ciamician", "obj_label": "Italian", "uuid": "cd78ebc8-c60d-447e-885e-de087340c192"}
+{"sub_label": "Gaston Palewski", "obj_label": "French", "uuid": "9124e36c-8a10-4d04-86bc-b51742c3daac"}
+{"sub_label": "Paul Personne", "obj_label": "French", "uuid": "5ff6a6d6-e2f1-423a-a6f7-77951cb5126c"}
+{"sub_label": "Auguste de Marmont", "obj_label": "French", "uuid": "10f38c06-c0e3-49f4-83b5-7b37b448b557"}
+{"sub_label": "Johanne Luise Heiberg", "obj_label": "Danish", "uuid": "e86f9886-c913-4405-910f-57295d3a7639"}
+{"sub_label": "Jorge Arvizu", "obj_label": "Spanish", "uuid": "cdc7db44-9c57-4b46-b40f-82aa0a3a109a"}
+{"sub_label": "Martin Lowry", "obj_label": "English", "uuid": "2081cf4a-a239-478e-9758-c6d71e586766"}
+{"sub_label": "Abulhassan Banisadr", "obj_label": "Persian", "uuid": "95ddeb3f-0315-4d09-b099-982cfe48d7e9"}
+{"sub_label": "Paul Philippoteaux", "obj_label": "French", "uuid": "fde95a54-2f4a-4fc2-ab6e-0d52bb41f329"}
+{"sub_label": "Giovanni Falcone", "obj_label": "Italian", "uuid": "47468784-b883-454e-8a23-bb7f75acc41d"}
+{"sub_label": "Ivano Staccioli", "obj_label": "Italian", "uuid": "1a0219a8-ce1d-4227-a9b8-52f1a5ae4b53"}
+{"sub_label": "Sharon Osbourne", "obj_label": "English", "uuid": "3dcc035b-4ec8-415d-9102-68426cc7c296"}
+{"sub_label": "Anggun", "obj_label": "Indonesian", "uuid": "e31ed804-e077-4d84-88b1-77adc228f2a0"}
+{"sub_label": "Mercedes Valdivieso", "obj_label": "Spanish", "uuid": "91fe3e54-d729-40ed-9c49-b245a33608a1"}
+{"sub_label": "Jennifer Pareja", "obj_label": "Spanish", "uuid": "69b526fd-6706-4c54-9d2f-a02da905dc7d"}
+{"sub_label": "Nick Cave", "obj_label": "English", "uuid": "9da0bcdc-5154-4c10-b8f2-c7b6616e0777"}
+{"sub_label": "William Henry Flower", "obj_label": "English", "uuid": "a165e408-a100-4cc7-b148-985db3b03df2"}
+{"sub_label": "Carlo Porta", "obj_label": "Italian", "uuid": "ffeca3c9-04f6-4149-9a6d-ddef875f9847"}
+{"sub_label": "Diego de Landa", "obj_label": "Spanish", "uuid": "1047290e-04a2-48da-90c9-196ad35ac789"}
+{"sub_label": "Luc Moullet", "obj_label": "French", "uuid": "28898f93-f6e3-4290-8438-31ec801bcf2f"}
+{"sub_label": "Giulio Questi", "obj_label": "Italian", "uuid": "8530a530-339d-438f-860e-1e6c0c39bcd4"}
+{"sub_label": "Alain Touraine", "obj_label": "French", "uuid": "1d119eb7-90f1-4442-979b-5795f9fc64a4"}
+{"sub_label": "Kazimierz Wyka", "obj_label": "Polish", "uuid": "8e2dc1fb-519f-455d-9692-f88321737a4c"}
+{"sub_label": "Sergey Uvarov", "obj_label": "Russian", "uuid": "b15496e9-bafa-4f9b-af44-5c2f2fe3be7f"}
+{"sub_label": "Clark Gable", "obj_label": "English", "uuid": "2efbfbd9-8513-4aca-8e23-95ab03be7e6d"}
+{"sub_label": "Johannes Bugenhagen", "obj_label": "German", "uuid": "e6388ff9-cf35-4af9-9faf-a48716ce36d4"}
+{"sub_label": "Auguste Chevalier", "obj_label": "French", "uuid": "aaded6e9-cd83-4b26-8951-326595daf1e2"}
+{"sub_label": "Ricardo Bofill", "obj_label": "Spanish", "uuid": "965c9393-14cb-4137-809e-bd23d7842403"}
+{"sub_label": "Yordi", "obj_label": "Spanish", "uuid": "d400b6b3-3ec9-4f74-a306-336888616b49"}
+{"sub_label": "Lon Chaney", "obj_label": "English", "uuid": "92b2e118-52fd-4562-b332-9e855bde22df"}
+{"sub_label": "Caroline Alice Elgar", "obj_label": "English", "uuid": "d3881be9-d7da-473a-8706-de1e5028b1f1"}
+{"sub_label": "Jacques Lacan", "obj_label": "French", "uuid": "f89a1a82-c406-4c78-bc1f-86b8baaae5c1"}
+{"sub_label": "Olivier Baroux", "obj_label": "French", "uuid": "091fd425-deaa-406f-8091-ada09f6455b9"}
+{"sub_label": "Ian McShane", "obj_label": "English", "uuid": "f6472f6b-8f6a-458a-ab37-3d65ffe72ede"}
+{"sub_label": "Natasha Parry", "obj_label": "English", "uuid": "82a01972-0340-417b-a001-bb0d6557c004"}
+{"sub_label": "Jean Rollin", "obj_label": "French", "uuid": "38eb459b-10f4-4224-ae3d-170ceb62139b"}
+{"sub_label": "James Garner", "obj_label": "English", "uuid": "24d3595f-12f3-4917-8402-a328fe846792"}
+{"sub_label": "Alex Benno", "obj_label": "Dutch", "uuid": "8f765bd0-d2c9-4b56-8a9f-1a66e8c7f0ac"}
+{"sub_label": "Pascal Quignard", "obj_label": "French", "uuid": "cbd8f0c7-c90e-42cd-8a0b-3c7744b95501"}
+{"sub_label": "Melvin Van Peebles", "obj_label": "English", "uuid": "ffcda1c4-44b2-44ea-9978-96b9bf39de28"}
+{"sub_label": "Constantijn Huygens", "obj_label": "Dutch", "uuid": "e1b74ffd-97dc-4758-8507-8b346d772ed6"}
+{"sub_label": "Musa Manarov", "obj_label": "Russian", "uuid": "44b1d31d-c8b4-459c-b0c7-54629d11bd1b"}
+{"sub_label": "Antonio Margheriti", "obj_label": "Italian", "uuid": "947ae0e7-78df-4017-a4e7-59d2f5772f70"}
+{"sub_label": "Gaston Defferre", "obj_label": "French", "uuid": "e8734c36-a421-4cc9-a927-20f14000cd59"}
+{"sub_label": "Maria de Medeiros", "obj_label": "French", "uuid": "3a075fbc-83e8-44c9-8ced-ed8d6cc3f2d4"}
+{"sub_label": "Sajjad Ali", "obj_label": "English", "uuid": "84ab98d6-a641-4c85-bace-39152bd2670e"}
+{"sub_label": "Zygmunt Bauman", "obj_label": "English", "uuid": "8b536e3b-fa3b-4ea1-9e1f-aa34b69167b0"}
+{"sub_label": "Gilad Shalit", "obj_label": "Hebrew", "uuid": "a8fe3eb2-33d0-4737-9638-55ba86131705"}
+{"sub_label": "Cedar Paul", "obj_label": "English", "uuid": "7931b47b-1bf7-4487-81c3-5da22de7e07a"}
+{"sub_label": "Shahu Modak", "obj_label": "Hindi", "uuid": "d83cadb0-384e-4af9-b7ab-96648f0762b6"}
+{"sub_label": "Henry Louis Gates", "obj_label": "English", "uuid": "e2e615dd-12c1-4781-aaf9-e4fc1f122c90"}
+{"sub_label": "Gilbert Romme", "obj_label": "French", "uuid": "8e2205cd-2cf5-463f-8c7c-18b19ac67237"}
+{"sub_label": "Paco Rabanne", "obj_label": "Spanish", "uuid": "f4643f02-02c2-414d-bab8-07817d267692"}
+{"sub_label": "Pier Luigi Nervi", "obj_label": "Italian", "uuid": "c87f53c2-bcc3-439b-9243-0ef892c09f21"}
+{"sub_label": "Matt Greenhalgh", "obj_label": "English", "uuid": "813017c2-5b36-43b1-b9e0-995974ece32b"}
+{"sub_label": "Henry Winter", "obj_label": "English", "uuid": "b2351e48-c8d4-4ca7-a989-a25544270114"}
+{"sub_label": "Manuel Valls", "obj_label": "Spanish", "uuid": "ba7aa465-9cb7-4217-b6b0-c1fbaeebb821"}
+{"sub_label": "Riccardo Freda", "obj_label": "Italian", "uuid": "a45a5f80-9994-4e29-859b-9263cefe9a49"}
+{"sub_label": "John McEnery", "obj_label": "English", "uuid": "b50783f1-4546-4d46-ace5-f0f7c1ceae77"}
+{"sub_label": "Willie Nelson", "obj_label": "English", "uuid": "de90ab05-334c-4e3b-bffb-b97bd8c8195e"}
+{"sub_label": "Dominic Behan", "obj_label": "Irish", "uuid": "aaf0af4b-1ced-40a6-b5f1-fc9763eb4004"}
+{"sub_label": "Nassau William Senior", "obj_label": "English", "uuid": "24509340-95f6-4a1e-9755-846dc9dda9cf"}
+{"sub_label": "John Jervis, 1st Earl of St Vincent", "obj_label": "English", "uuid": "21933b28-7adf-4025-ae18-bc1b8e2898c7"}
+{"sub_label": "Abbas Kiarostami", "obj_label": "Persian", "uuid": "85913bea-0fb4-433f-8a33-ef09a5b812c5"}
+{"sub_label": "Joseph Albo", "obj_label": "Hebrew", "uuid": "6e8d6596-bc55-459a-82f0-61886b92c88d"}
+{"sub_label": "Henry Clay Frick", "obj_label": "English", "uuid": "76433a8a-71e1-4105-9577-26eb839b9f1c"}
+{"sub_label": "Remy de Gourmont", "obj_label": "French", "uuid": "c1ed0de5-d154-4702-91df-1d59b0a9e2a7"}
+{"sub_label": "Jan Kruis", "obj_label": "Dutch", "uuid": "fc36a4ea-053b-4fa1-bee8-c79973c091ff"}
+{"sub_label": "Valmiki", "obj_label": "Sanskrit", "uuid": "1a76166b-97c2-47d5-a4f9-fad8e74ba766"}
+{"sub_label": "John V. Evans", "obj_label": "English", "uuid": "d176c31c-ad46-40fe-83ce-d0c70cf0b49f"}
+{"sub_label": "Christophe Barratier", "obj_label": "French", "uuid": "ef5c5011-ec65-4a22-ab45-466db0d2e131"}
+{"sub_label": "George Bentham", "obj_label": "English", "uuid": "337301aa-1158-4991-9c27-e53b069c5f2a"}
+{"sub_label": "Rui Naiwei", "obj_label": "Chinese", "uuid": "88c96b00-6c88-417d-a587-af79bb8be84b"}
+{"sub_label": "Jean Benguigui", "obj_label": "French", "uuid": "1078a2b1-d733-4618-9603-82ff2b4ca305"}
+{"sub_label": "Zevulun Hammer", "obj_label": "Hebrew", "uuid": "aa71ad42-f2b4-464b-9a43-53678ed6464c"}
+{"sub_label": "Ahn Byeong-ki", "obj_label": "Korean", "uuid": "7532c072-8754-4e9b-8288-00c2a0b10290"}
+{"sub_label": "Gheorghe Ciuhandu", "obj_label": "Romanian", "uuid": "6f2fa3e2-aa62-48b3-9066-707144906470"}
+{"sub_label": "Alaska", "obj_label": "Spanish", "uuid": "1d3ee2fd-0ef5-4431-becf-d57b7d234480"}
+{"sub_label": "Francisco Silvela", "obj_label": "Spanish", "uuid": "b927e09d-a28f-4d29-af65-59974523a033"}
+{"sub_label": "Jean-Baptiste Willermoz", "obj_label": "French", "uuid": "d5af93db-84b5-4990-8735-3437f9c04391"}
+{"sub_label": "William Alfred Fowler", "obj_label": "English", "uuid": "84b1b0b0-b862-4a0e-ba93-fee64dcbdbf4"}
+{"sub_label": "Ferrante Pallavicino", "obj_label": "Italian", "uuid": "20851418-ef2a-4784-85d1-660b393c7527"}
+{"sub_label": "William Eugene Stanley, Sr.", "obj_label": "English", "uuid": "f925c929-c2f0-4cdc-b95d-82f9ff508c52"}
+{"sub_label": "Pompiliu Constantinescu", "obj_label": "Romanian", "uuid": "32ed9278-1624-4d5e-aeee-509cf4de3d6e"}
+{"sub_label": "Mario Monticelli", "obj_label": "Italian", "uuid": "8a536134-9892-47d6-9ed7-e1574dcbe9ca"}
+{"sub_label": "Pierre Berbizier", "obj_label": "French", "uuid": "3032b5a6-e2fb-49e5-96c1-2974d0a88b31"}
+{"sub_label": "Michiel Hazewinkel", "obj_label": "Dutch", "uuid": "70752209-c11d-408b-bd1b-174f9c066988"}
+{"sub_label": "Safiye Ayla", "obj_label": "Turkish", "uuid": "ae4c40eb-fadd-4a0a-908f-938020a44c98"}
+{"sub_label": "Julia Lovell", "obj_label": "English", "uuid": "b7dde0ae-023b-44fc-a58d-16343ba9fc81"}
+{"sub_label": "Abraham Fraenkel", "obj_label": "Hebrew", "uuid": "3b1ccba6-96a2-435e-b7fd-4c02fc18f90c"}
+{"sub_label": "Lawrence Beesley", "obj_label": "English", "uuid": "2cdec561-208b-4ba8-ad08-77109f235e07"}
+{"sub_label": "Alberto Bueno", "obj_label": "Spanish", "uuid": "cb4b580c-faa9-4b65-bb32-602ac07f2ca7"}
+{"sub_label": "Shafi Inamdar", "obj_label": "Hindi", "uuid": "9ef9f65a-0c01-4b58-b833-1ce7a8c34fdd"}
+{"sub_label": "Oliver Cromwell", "obj_label": "English", "uuid": "b00d0528-de6a-40d0-8515-11ee312f476d"}
+{"sub_label": "Gray Davis", "obj_label": "English", "uuid": "9c353556-1002-4b81-9161-d25963e0c3fb"}
+{"sub_label": "Andoni Iraola", "obj_label": "Spanish", "uuid": "66d47fe9-cb58-47c5-9f20-b8ae7e378c47"}
+{"sub_label": "Denise Robins", "obj_label": "English", "uuid": "d1db0448-67e2-4dea-ab45-350d1dcebd44"}
+{"sub_label": "Jack Ralite", "obj_label": "French", "uuid": "82133c5b-a211-491d-b3e6-6e43f2ea3ca8"}
+{"sub_label": "Louis Loucheur", "obj_label": "French", "uuid": "0625c456-f701-4ff2-b822-5ce5aa4d2e6f"}
+{"sub_label": "Sylvain Chomet", "obj_label": "French", "uuid": "2cc0c51a-595b-4f05-b4fe-88cef9d86ad7"}
+{"sub_label": "James Burnett, Lord Monboddo", "obj_label": "English", "uuid": "e876093d-3251-4711-8361-20df33e50393"}
+{"sub_label": "Liv Ullmann", "obj_label": "English", "uuid": "8f583456-68b3-408f-a947-094496c9f423"}
+{"sub_label": "Jean Joseph Marie Amiot", "obj_label": "French", "uuid": "4fa7fbfc-6635-4116-bfae-f062352b22ae"}
+{"sub_label": "John Hutton, Baron Hutton of Furness", "obj_label": "English", "uuid": "02d4383f-b397-4b61-8a71-f6b99610747c"}
+{"sub_label": "Willem Wilmink", "obj_label": "Dutch", "uuid": "03ae6dd4-d799-4d3f-afa6-a55ee16bf7ac"}
+{"sub_label": "John Edwin Sandys", "obj_label": "English", "uuid": "6ca67d79-ea06-4f38-ab31-1eebba832b7a"}
+{"sub_label": "William Wycherley", "obj_label": "English", "uuid": "1973e8c4-4ada-4d3e-8140-6a2bd5385c6e"}
+{"sub_label": "Augusto Pinochet", "obj_label": "Spanish", "uuid": "6ad0f4d5-ee5e-478e-bcc3-ea312c4ce78b"}
+{"sub_label": "Florian Henckel von Donnersmarck", "obj_label": "German", "uuid": "eba6d9ff-0c7a-4329-a57d-eb47349ebca2"}
+{"sub_label": "Paul Ulrich Villard", "obj_label": "French", "uuid": "afc28f5b-eee7-48bf-b21e-35ef2e4f5940"}
+{"sub_label": "Ivan Shmelyov", "obj_label": "Russian", "uuid": "23e2c449-d940-4a7a-8b23-95d2df2956c0"}
+{"sub_label": "Christa Theret", "obj_label": "French", "uuid": "50707385-34a8-431e-bbbf-2553518eedd0"}
+{"sub_label": "Gajanan Madhav Muktibodh", "obj_label": "Hindi", "uuid": "1e17680a-8b16-43c0-87d9-bc2154885abd"}
+{"sub_label": "Derrick Sherwin", "obj_label": "English", "uuid": "2ab8dc4e-7aff-4dca-bd92-b5a487cd5d3f"}
+{"sub_label": "Jean Crotti", "obj_label": "French", "uuid": "cd12ce06-7a69-4dde-b45a-d41ec0dac250"}
+{"sub_label": "Robert Nivelle", "obj_label": "French", "uuid": "9c6dbbeb-88dc-4b2c-bd44-8039d5e62793"}
+{"sub_label": "Francis Poulenc", "obj_label": "French", "uuid": "b060205b-4d5b-4e27-9a34-fe136203338d"}
+{"sub_label": "Jean Cassou", "obj_label": "French", "uuid": "2201e6d3-0647-4fd0-8cf4-3aae66884e4b"}
+{"sub_label": "Romain Grosjean", "obj_label": "French", "uuid": "3f360e03-b85b-4bd8-9a57-da328b849282"}
+{"sub_label": "Aharon Barak", "obj_label": "Hebrew", "uuid": "0b7864c9-8419-48e2-8b33-ce3aabcb63ea"}
+{"sub_label": "Louise Lawler", "obj_label": "English", "uuid": "20f8d3a6-16af-49a4-b0b5-ce7e79d891be"}
+{"sub_label": "Maria Fiore", "obj_label": "Italian", "uuid": "d93a902a-2be0-4a1e-ba61-255d190e6111"}
+{"sub_label": "Claude Closky", "obj_label": "French", "uuid": "88c8faca-aec3-4c33-a513-f8fb677af20b"}
+{"sub_label": "Han Han", "obj_label": "Chinese", "uuid": "6866160c-3994-462d-aebd-45925461238f"}
+{"sub_label": "Mateo Flecha", "obj_label": "Spanish", "uuid": "77d60c6d-6828-48e7-9b51-192ee6d7dd7b"}
+{"sub_label": "Enzo Cannavale", "obj_label": "Italian", "uuid": "df078dda-6468-464d-8ec3-2baec8387896"}
+{"sub_label": "Manoj Bharathiraja", "obj_label": "Tamil", "uuid": "d976c72b-052d-4840-a437-6b52d7a2edb6"}
+{"sub_label": "Jules Massenet", "obj_label": "French", "uuid": "3e0d92b1-8a1c-4b69-bbc6-40b845cba97d"}
+{"sub_label": "Jorge Juan y Santacilia", "obj_label": "Spanish", "uuid": "80bed2df-0c4d-44be-8e79-66c77f2c4d23"}
+{"sub_label": "Gerrit Paape", "obj_label": "Dutch", "uuid": "f70dcf0c-6408-4474-b0c9-924117fbd453"}
+{"sub_label": "Thomas Phillipps", "obj_label": "English", "uuid": "15f4ccd6-3a9c-4e12-ad62-4b03fb190a11"}
+{"sub_label": "Carlos Marchena", "obj_label": "Spanish", "uuid": "b12b6c6d-b144-4885-b658-b7b38a5ef967"}
+{"sub_label": "Charles M. Hudson", "obj_label": "English", "uuid": "53326adf-903d-4c5d-a661-432a149bd5ca"}
+{"sub_label": "Ventura Pons", "obj_label": "Spanish", "uuid": "f2eae048-412b-41df-a33c-ba7979b669cf"}
+{"sub_label": "Cevdet Sunay", "obj_label": "Turkish", "uuid": "130a9884-44a1-44fa-a328-c78315b8ea44"}
+{"sub_label": "Edward Bond", "obj_label": "English", "uuid": "6e8e37db-3329-4179-9737-c76e8a73b28f"}
+{"sub_label": "Nanni Moretti", "obj_label": "Italian", "uuid": "46d41fee-68fc-4bbb-a6cb-0853043f7dc2"}
+{"sub_label": "Philip Henry Wicksteed", "obj_label": "English", "uuid": "e97ed62c-3611-4ba1-bf97-4e3079df38f3"}
+{"sub_label": "Cid Corman", "obj_label": "English", "uuid": "9ec3faf9-780a-4f87-9329-ddf8f2f26ce4"}
+{"sub_label": "Yoav Gelber", "obj_label": "Hebrew", "uuid": "e9733766-c2f0-4752-901f-364838e2ea16"}
+{"sub_label": "Sava Mrkalj", "obj_label": "Serbian", "uuid": "cdb77fc8-f87b-4f45-97e5-e4aaf4091228"}
+{"sub_label": "Max Velthuijs", "obj_label": "Dutch", "uuid": "9e510952-6134-431e-9e44-be08a576a2de"}
+{"sub_label": "Silvio Orlando", "obj_label": "Italian", "uuid": "965c6073-4151-4706-af98-3227d5aa1e90"}
+{"sub_label": "Pattimandram Raja", "obj_label": "Tamil", "uuid": "2edb51e5-18fa-4d84-828f-9fbdb8e50c10"}
+{"sub_label": "Charles Incledon", "obj_label": "English", "uuid": "76f830a8-0e79-44f2-9173-a2375d6718a3"}
+{"sub_label": "Manu Chao", "obj_label": "French", "uuid": "c3809e56-7cfc-45ff-8c46-1d4c72a4893b"}
+{"sub_label": "Georges Marchais", "obj_label": "French", "uuid": "5d4023f6-d790-42c4-b91e-aeb1c7beac15"}
+{"sub_label": "Amilcare Cipriani", "obj_label": "Italian", "uuid": "cd38c2ee-cdb9-47d9-98ab-a79a1887ddb3"}
+{"sub_label": "Dilip Kumar", "obj_label": "Hindi", "uuid": "7338e7e5-0363-4449-ada3-aea3de3c3c12"}
+{"sub_label": "Jean Gruault", "obj_label": "French", "uuid": "4a4677c3-d4c0-4120-bcf2-81e20d585620"}
+{"sub_label": "Mariano Gonzalvo", "obj_label": "Spanish", "uuid": "4069bae4-4ddf-4674-ab7a-6ada95955b4a"}
+{"sub_label": "Piers Paul Read", "obj_label": "English", "uuid": "9cd129b7-41c9-4fd5-b601-faf19ace48f4"}
+{"sub_label": "Francis Robortello", "obj_label": "Italian", "uuid": "863d3a39-287b-4752-ab7f-599ebc8038f1"}
+{"sub_label": "Ze'ev Jabotinsky", "obj_label": "Russian", "uuid": "064e6bd9-59f3-4654-b3d1-c2025bbb7fcf"}
+{"sub_label": "Stephen Orgel", "obj_label": "English", "uuid": "e176da49-2b20-4df5-930a-2ecdfb634947"}
+{"sub_label": "Roger Quilter", "obj_label": "English", "uuid": "93cc0374-05bb-485f-9845-777b26d328aa"}
+{"sub_label": "Nitzan Horowitz", "obj_label": "Hebrew", "uuid": "06085622-798f-4529-9a98-1e63a3be448c"}
+{"sub_label": "Leone Caetani", "obj_label": "Italian", "uuid": "c7481f03-c265-46aa-a932-9ed6e53ec1af"}
+{"sub_label": "Isaac Baer Levinsohn", "obj_label": "Hebrew", "uuid": "cbb64a01-0141-409c-a805-67f2114ac8cd"}
+{"sub_label": "Nando Parrado", "obj_label": "Spanish", "uuid": "f37e04aa-0a75-4d10-a17e-d4f4223ad1c4"}
+{"sub_label": "Krikor Zohrab", "obj_label": "Armenian", "uuid": "14d06c0e-9fbe-443f-b637-c7e949479e8c"}
+{"sub_label": "Pedro de Heredia", "obj_label": "Spanish", "uuid": "50b7e441-7020-4dd7-ba3f-321347073030"}
+{"sub_label": "Haim Ramon", "obj_label": "Hebrew", "uuid": "fc3e194d-3db2-4bfe-a62f-4a5b291617f2"}
+{"sub_label": "Malik Zidi", "obj_label": "French", "uuid": "39d6f7ac-df42-4285-b31a-d7e84ef26b2e"}
+{"sub_label": "Jabr Muadi", "obj_label": "Hebrew", "uuid": "35c7679d-b98c-40a7-9b1c-c52d7b8f7ab7"}
+{"sub_label": "Georges Ohnet", "obj_label": "French", "uuid": "a91073ee-2327-4383-a945-f783da836ed8"}
+{"sub_label": "Aleksandar Zograf", "obj_label": "Serbian", "uuid": "3671d60a-b153-4f75-b5f8-8c9be912c387"}
+{"sub_label": "Stephen Gosson", "obj_label": "English", "uuid": "44081818-d117-4a3d-babc-38e517e0e7ce"}
+{"sub_label": "Olga Vittoria Gentilli", "obj_label": "Italian", "uuid": "ee0dbc57-3de7-4702-9de2-3180df3d3d5d"}
+{"sub_label": "Alfred Watkins", "obj_label": "English", "uuid": "7f2add3a-2ecc-415e-b5c0-b1b244a1adf9"}
+{"sub_label": "John Clopton", "obj_label": "English", "uuid": "eb817a2f-acd1-41d7-8601-21ecb19808fe"}
+{"sub_label": "Nahum Sokolow", "obj_label": "Hebrew", "uuid": "b9068137-0db5-4082-843b-22b143d873c5"}
+{"sub_label": "Henri Massis", "obj_label": "French", "uuid": "1a794068-4b83-4477-b3f7-00b002a87037"}
+{"sub_label": "Mukesh Tiwari", "obj_label": "Tamil", "uuid": "a5c6c530-ff2b-4453-a817-b08f5b299a9e"}
+{"sub_label": "Louis de Cahusac", "obj_label": "French", "uuid": "46f5711f-18c7-4b69-b792-f332bcf9952b"}
+{"sub_label": "T. H. Parry-Williams", "obj_label": "Welsh", "uuid": "54dbf5cc-13d4-4e84-bf6b-edfb82e107bb"}
+{"sub_label": "L. L. Zamenhof", "obj_label": "English", "uuid": "0ed73252-79bb-4c4d-84a1-33104c146609"}
+{"sub_label": "John Le Gay Brereton", "obj_label": "English", "uuid": "9b9c698d-4729-4274-9470-da7ddf1b93f9"}
+{"sub_label": "Costache Conachi", "obj_label": "Romanian", "uuid": "dafacd2f-56b9-4f24-b5d9-76fca89392aa"}
+{"sub_label": "Paul Mattick", "obj_label": "English", "uuid": "9ffff714-9884-4ef4-b8c8-cf99b224f51b"}
+{"sub_label": "Charles de Morny, Duke of Morny", "obj_label": "French", "uuid": "464587e0-a833-430f-b1a1-e8f0c8b3803a"}
+{"sub_label": "Josep Trueta", "obj_label": "Catalan", "uuid": "17db88c3-36b1-4a73-b0b3-8d206e17ae8d"}
+{"sub_label": "Gevorg Emin", "obj_label": "Armenian", "uuid": "b8bd4294-0a79-40fd-b103-b04f3b5fa213"}
+{"sub_label": "Camille Bulcke", "obj_label": "Hindi", "uuid": "97359694-ec64-4c4e-9629-6de68a40ba21"}
+{"sub_label": "Pierre Daniel Huet", "obj_label": "French", "uuid": "49ae4fd6-d567-4c3b-ba0e-326c5b83fda1"}
+{"sub_label": "Olivier Dahan", "obj_label": "French", "uuid": "d19df0d4-0d5b-4693-8758-5a7620a57b40"}
+{"sub_label": "David Burliuk", "obj_label": "Russian", "uuid": "4df878c3-59c2-4ec2-8147-94ea8506b282"}
+{"sub_label": "Josep Maria Jujol", "obj_label": "Catalan", "uuid": "186385d9-6273-4314-95bf-4a2ec3c2459b"}
+{"sub_label": "Nicolas Oudinot", "obj_label": "French", "uuid": "912457f8-4330-4b02-9ad9-2bf76ba0c251"}
+{"sub_label": "Alicia Markova", "obj_label": "English", "uuid": "c52406d3-d88e-464f-b16a-db558ace6ce0"}
+{"sub_label": "Heribert Rosweyde", "obj_label": "Latin", "uuid": "90629bb6-115a-4ea3-b5ed-aed41d750217"}
+{"sub_label": "Muhammad Ali", "obj_label": "English", "uuid": "a78893ee-7d55-4b30-9d6b-f43b080f7d2c"}
+{"sub_label": "Gabino Diego", "obj_label": "Spanish", "uuid": "e20759f0-baec-4488-be99-cbc19d55e144"}
+{"sub_label": "Alfred Madsen", "obj_label": "Norwegian", "uuid": "ea8164d6-d2fe-424e-8bf1-d233b3dccd92"}
+{"sub_label": "Jing Boran", "obj_label": "Chinese", "uuid": "c631e54d-ae06-4677-9ca7-ef74c07026ad"}
+{"sub_label": "Martin Burrell", "obj_label": "English", "uuid": "20874734-5d13-4635-b1fe-b7b5ffe4dcca"}
+{"sub_label": "Estelle Skornik", "obj_label": "French", "uuid": "0a0669b9-50dd-4330-8b12-06d239ebc940"}
+{"sub_label": "Hubert Latham", "obj_label": "French", "uuid": "e5f16415-5ea0-41e5-859e-58e77628dd90"}
+{"sub_label": "Edward Heyman", "obj_label": "English", "uuid": "bcaefd6d-b806-413e-8021-5b51786f1dbe"}
+{"sub_label": "Martin Lamotte", "obj_label": "French", "uuid": "77ac13a7-c0f8-478c-b1ce-a93bcfa486aa"}
+{"sub_label": "Auguste Couder", "obj_label": "French", "uuid": "de742d1f-4084-43e0-aa11-3b87b2df5dc1"}
+{"sub_label": "Juan Bautista de Anza", "obj_label": "Spanish", "uuid": "8bc25e3a-e135-4302-ad84-7d9edd658689"}
+{"sub_label": "Tanya Savicheva", "obj_label": "Russian", "uuid": "8170a21e-2553-41cd-875a-161dc7b048ef"}
+{"sub_label": "Letizia Moratti", "obj_label": "Italian", "uuid": "fa062f28-245a-4e90-add9-e662f24a4356"}
+{"sub_label": "Eva Cantarella", "obj_label": "Italian", "uuid": "85241657-c87c-46c5-b626-c14fa8a6917f"}
+{"sub_label": "Osvaldo Soriano", "obj_label": "Spanish", "uuid": "a265f11d-2658-4902-8674-1031df3b410d"}
+{"sub_label": "Pierre Vaneck", "obj_label": "French", "uuid": "6f36d354-1c63-45db-9596-e7afd7786443"}
+{"sub_label": "Sami Michael", "obj_label": "Hebrew", "uuid": "9dc588df-5d96-4ae9-9dfa-57117adecb05"}
+{"sub_label": "Anna Magnani", "obj_label": "Italian", "uuid": "d16dec2d-3a3c-4a17-98a4-cce064705c94"}
+{"sub_label": "George-Daniel de Monfreid", "obj_label": "French", "uuid": "c19c297b-2a3f-4892-8025-b77e85bb4736"}
+{"sub_label": "ABBA", "obj_label": "Swedish", "uuid": "b7a82191-c5fd-472f-9c3d-1693c334584b"}
+{"sub_label": "Sambhavana Sheth", "obj_label": "Hindi", "uuid": "102a4281-3ddd-411a-8a54-0435d59e0e7a"}
+{"sub_label": "J. G. Ballard", "obj_label": "English", "uuid": "cfb994e5-af09-4db9-b6c5-08cc4351a8eb"}
+{"sub_label": "Baal Shem of London", "obj_label": "Hebrew", "uuid": "d2a0cbd7-8c7b-4df6-85d5-3456c4b43bd5"}
+{"sub_label": "Samuel Parr", "obj_label": "English", "uuid": "eaec96dc-623a-45eb-b342-10470ca26631"}
+{"sub_label": "Tom Mann", "obj_label": "English", "uuid": "b60c8ed0-175d-412c-85c4-3bcdc08695ff"}
+{"sub_label": "Allan Warren", "obj_label": "English", "uuid": "8660b65c-20c5-44da-b8ae-00ab18af064b"}
+{"sub_label": "Jesus Christ", "obj_label": "Hebrew", "uuid": "2a4222b3-b736-4958-a9ab-9308554ed70d"}
+{"sub_label": "Shriya Saran", "obj_label": "Hindi", "uuid": "213e101e-79b0-4c53-a766-0518d8ef4b7e"}
+{"sub_label": "Pere Gimferrer", "obj_label": "Spanish", "uuid": "1673e346-61c9-45fc-a194-c7a01f590c71"}
+{"sub_label": "Romesh Sharma", "obj_label": "Hindi", "uuid": "87aad5bd-78cc-43e1-bd55-eb40941fd1e4"}
+{"sub_label": "Imre Makovecz", "obj_label": "Hungarian", "uuid": "d6fa9594-c49d-4ce9-9cb5-c28a0090d817"}
+{"sub_label": "Jean-Pierre Dionnet", "obj_label": "French", "uuid": "972265e5-32a0-42c4-92cb-0747a13a65fc"}
+{"sub_label": "Lau Kar-leung", "obj_label": "Chinese", "uuid": "009b44ff-878e-4bd6-bf2b-bd1396ece39e"}
+{"sub_label": "Philippa Gregory", "obj_label": "English", "uuid": "bb4b658f-fcb1-49d2-9ed0-cf1665216f49"}
+{"sub_label": "Dominic Guard", "obj_label": "English", "uuid": "5ca86220-29ba-42ab-a7c5-86800f68a82e"}
+{"sub_label": "Howard Vaughton", "obj_label": "English", "uuid": "8f701f38-1eb2-4626-aff3-3a44a9ec8c2d"}
+{"sub_label": "Giuseppe Tornatore", "obj_label": "Italian", "uuid": "282e86a4-7591-4d07-822d-5a2ee025e78c"}
+{"sub_label": "Jacques-Nicolas Colbert", "obj_label": "French", "uuid": "4a2c3fb3-f617-4438-98ee-304d9dd55600"}
+{"sub_label": "Gwen Stefani", "obj_label": "English", "uuid": "e2409289-04e6-4cb3-98fb-d044528ebda0"}
+{"sub_label": "Thambi Ramaiah", "obj_label": "Tamil", "uuid": "4e775c2d-6ee0-4a33-8ccf-be7c56ecb942"}
+{"sub_label": "Tecla Scarano", "obj_label": "Italian", "uuid": "2e7dfcf3-4d6d-40e0-9434-60124fff4192"}
+{"sub_label": "Michel-Dimitri Calvocoressi", "obj_label": "French", "uuid": "8be81866-55d1-4e73-b161-eb03cff14ba1"}
+{"sub_label": "Robert Garnier", "obj_label": "French", "uuid": "f0f93319-aabb-46f1-a1b3-1b4d18307bc3"}
+{"sub_label": "Antoine Bourseiller", "obj_label": "French", "uuid": "7c0d344b-9a60-4139-86c3-f0f2c55c82a0"}
+{"sub_label": "Pentti Linkola", "obj_label": "Finnish", "uuid": "a2a2ca88-369a-4f0d-9ed5-72d102d9b816"}
+{"sub_label": "Tacitus", "obj_label": "Latin", "uuid": "b68af220-8718-4c66-a8ef-6dc6d8e0cf14"}
+{"sub_label": "Hemant Birje", "obj_label": "Hindi", "uuid": "700494c3-af4f-40d0-ba0b-269ef33feaa1"}
+{"sub_label": "Shilpa Shetty", "obj_label": "Hindi", "uuid": "abf3471a-2beb-4d5a-8f89-232dde933225"}
+{"sub_label": "Alanis Morissette", "obj_label": "English", "uuid": "228a3860-a84b-47b0-b6e4-9a755e5b8bb7"}
+{"sub_label": "Domenico Bartolucci", "obj_label": "Italian", "uuid": "4f120c7d-70b9-470f-ab1c-2445f923a10d"}
+{"sub_label": "Berengaria of Castile", "obj_label": "Spanish", "uuid": "81305d9e-5ed2-426b-a703-2b15449ebc92"}
+{"sub_label": "Edward J. King", "obj_label": "English", "uuid": "e9110ebc-a219-4433-b704-bb2ba97ee3cc"}
+{"sub_label": "Vicente Espinel", "obj_label": "Spanish", "uuid": "4fd6eb12-2ef0-4bf0-9354-04314d7f9dee"}
+{"sub_label": "Margarethe von Trotta", "obj_label": "German", "uuid": "36781d8c-f09b-491c-959e-16bc721e65d6"}
+{"sub_label": "Rajendra Prasad", "obj_label": "Hindi", "uuid": "8cb87333-2201-471a-9f75-deaa5688da90"}
+{"sub_label": "Anatoly Sagalevich", "obj_label": "Russian", "uuid": "09df152b-6daa-40d7-97d7-faeab56813a6"}
+{"sub_label": "Wojciech Jaruzelski", "obj_label": "Polish", "uuid": "69ecde23-a6ef-4eb4-b4ce-838c9222caa0"}
+{"sub_label": "Kylie Minogue", "obj_label": "English", "uuid": "7bbfe07e-1495-49e1-af70-8ce10ca20711"}
+{"sub_label": "Quintin Hogg, Baron Hailsham of St Marylebone", "obj_label": "English", "uuid": "145f9691-e9b1-45b0-a751-698c469f8a7f"}
+{"sub_label": "Carlos Fuentes", "obj_label": "Spanish", "uuid": "a0123198-b1cf-4728-b14a-0ea2a78649a3"}
+{"sub_label": "Mauro Zani", "obj_label": "Italian", "uuid": "55e8f664-1f34-49a8-8aac-923ffb5688df"}
+{"sub_label": "Chandrasekhar", "obj_label": "Tamil", "uuid": "743463a7-a2a5-4981-a920-1182374709c8"}
+{"sub_label": "Willem Oltmans", "obj_label": "Dutch", "uuid": "1bccf228-9831-4a6e-a28b-29563e834fce"}
+{"sub_label": "Salvatore Accardo", "obj_label": "Italian", "uuid": "92f1b4b5-31b9-4a77-97b3-57bb2aad7462"}
+{"sub_label": "Christiern Pedersen", "obj_label": "Danish", "uuid": "888d4df5-40d9-445c-a0f5-45c31416d387"}
+{"sub_label": "Michel Portal", "obj_label": "French", "uuid": "47066a42-e0bc-4dfa-be55-8c8c00f384b5"}
+{"sub_label": "Yigal Hurvitz", "obj_label": "Hebrew", "uuid": "843e9a6a-a3fa-476a-862c-7db232e1f0e8"}
+{"sub_label": "Pasquale Villari", "obj_label": "Italian", "uuid": "c9eb8123-702b-47a6-92b7-a615d909d85f"}
+{"sub_label": "Henri Salvador", "obj_label": "French", "uuid": "d98a4ae6-68dc-4ab2-858c-a2271b114594"}
+{"sub_label": "Patrick McGoohan", "obj_label": "English", "uuid": "10ead227-ba96-49b3-b991-6ca1816b5e23"}
+{"sub_label": "Gabriel Scott", "obj_label": "Norwegian", "uuid": "3a2573c2-36bb-4dd9-a702-50b706539a97"}
+{"sub_label": "Ailyn", "obj_label": "Spanish", "uuid": "196f185f-594d-416e-9161-0a3a4c13c4d9"}
+{"sub_label": "Dwight D. Eisenhower", "obj_label": "English", "uuid": "d3c33d17-2a6d-42ab-8e19-12ebe11a6b97"}
+{"sub_label": "Michele Ruggieri", "obj_label": "Italian", "uuid": "81c7b9f0-085b-4034-ad14-e550c0837dc0"}
+{"sub_label": "Johan Jongkind", "obj_label": "Dutch", "uuid": "4d3cda62-c37e-4665-920d-8cbf60d7747e"}
+{"sub_label": "Thomas Piketty", "obj_label": "French", "uuid": "a6c7ccbc-2b92-4f91-bbfa-68a027b2cb32"}
+{"sub_label": "Pierre de Marca", "obj_label": "French", "uuid": "5d86a20e-12f3-4e17-a8b9-9f9d7d8a32fe"}
+{"sub_label": "Pasupathy", "obj_label": "Tamil", "uuid": "f7588925-4af8-4fae-8167-f892b2ec388b"}
+{"sub_label": "Marcel Achard", "obj_label": "French", "uuid": "37e6c1a0-d7f7-409b-94fb-c74de60a126c"}
+{"sub_label": "Aleksey Brusilov", "obj_label": "Russian", "uuid": "afc57d0e-fa6c-412f-8b68-2c767f7440a0"}
+{"sub_label": "Lev Kamenev", "obj_label": "Russian", "uuid": "ee0abff8-76a4-4f0b-a692-3c1a1a55768e"}
+{"sub_label": "Charles Edward Grey", "obj_label": "English", "uuid": "a2c86e4b-4635-4ca2-85d7-214d15c452e4"}
+{"sub_label": "Henri Rol-Tanguy", "obj_label": "French", "uuid": "6b03e085-25ac-4b9d-b121-a0b4858f3ebc"}
+{"sub_label": "Anacharsis Cloots", "obj_label": "French", "uuid": "e628b2b4-39de-4a32-8554-0a3bb9cbbdc1"}
+{"sub_label": "Pedro Paterno", "obj_label": "Spanish", "uuid": "42f339b3-9b87-44aa-b56c-8695e983895c"}
+{"sub_label": "Nino Rota", "obj_label": "Italian", "uuid": "ff68cb56-aff0-419e-9bfe-1d28b5934e79"}
+{"sub_label": "Jean Guitton", "obj_label": "French", "uuid": "46d207f5-2405-44f7-bb1c-25e3bcc7b55a"}
+{"sub_label": "Peter Mayle", "obj_label": "English", "uuid": "a32d3c44-af28-43c2-b7a7-10823b8268b4"}
+{"sub_label": "Laure Duthilleul", "obj_label": "French", "uuid": "ced1c68d-1353-4bd3-a9de-76da98fa55e7"}
+{"sub_label": "Granville Sharp", "obj_label": "English", "uuid": "0ba1a631-fa01-405d-a20a-a3d72723fa7a"}
+{"sub_label": "Aldo Lado", "obj_label": "Italian", "uuid": "1774d08d-3375-468f-b011-8e9b5b090135"}
+{"sub_label": "Alexander Shirvanzade", "obj_label": "Armenian", "uuid": "125be22a-f478-4dae-9d35-719465913f23"}
+{"sub_label": "Francis James Child", "obj_label": "English", "uuid": "07f4533e-9bfd-4d52-836e-a23d6e27aa2e"}
+{"sub_label": "John Updike", "obj_label": "English", "uuid": "9f88587e-f4a3-4566-bda1-535159e89653"}
+{"sub_label": "Anne Parillaud", "obj_label": "French", "uuid": "0a35813c-9387-4f2c-b899-0837321a8792"}
+{"sub_label": "Rajesh Khanna", "obj_label": "Hindi", "uuid": "f13d1bc5-ffe2-4eb1-8d6a-4f67673d6ab7"}
+{"sub_label": "Deep Dhillon", "obj_label": "Hindi", "uuid": "e6a3a39c-8c6f-40dc-a9ce-1352d6356d4e"}
+{"sub_label": "Patricia Kaas", "obj_label": "French", "uuid": "5083fa37-b6f7-4be0-864a-bd1ebc758e55"}
+{"sub_label": "Philip V of Spain", "obj_label": "Spanish", "uuid": "fc9b72a5-9669-420c-942f-bcfd31ad1867"}
+{"sub_label": "George Gurdjieff", "obj_label": "Armenian", "uuid": "bf550d75-e9f6-4bbc-a3e7-e3524093fd2d"}
+{"sub_label": "Andrew Carnegie", "obj_label": "English", "uuid": "7a3b91ac-0de6-4942-b366-c7b0b5f5535b"}
+{"sub_label": "Laura Adani", "obj_label": "Italian", "uuid": "d5b20993-37f6-4f89-8c23-0b3bf0797f73"}
+{"sub_label": "Thomas Overbury", "obj_label": "English", "uuid": "c750dbb4-f229-416d-84e4-5d051b78f347"}
+{"sub_label": "Jacques Rivette", "obj_label": "French", "uuid": "32d4ca74-4020-48b1-9236-237f27129bb4"}
+{"sub_label": "Peter Quennell", "obj_label": "English", "uuid": "70f6249e-e716-44fe-83ec-9fc84320a4ae"}
+{"sub_label": "Marjane Satrapi", "obj_label": "French", "uuid": "f5a74aa3-9007-43ce-b4ac-e9db10d51f07"}
+{"sub_label": "Thomas Robinson, 1st Baron Grantham", "obj_label": "English", "uuid": "99146e72-d50f-4aa2-88c6-fd24522b930d"}
+{"sub_label": "Sharof Rashidov", "obj_label": "Russian", "uuid": "9760a1a7-3485-448e-9e26-05a51b2e8363"}
+{"sub_label": "Emmanuelle Seigner", "obj_label": "French", "uuid": "98b69e24-78b6-4608-8a7a-3e4e3972c41e"}
+{"sub_label": "Jean Cruveilhier", "obj_label": "French", "uuid": "eda8b651-6d74-48bf-8938-0bac4193d308"}
+{"sub_label": "Helen Dunmore", "obj_label": "English", "uuid": "7dab0cc0-f63c-4922-b9f8-272556f37c53"}
+{"sub_label": "Ernest Rutherford", "obj_label": "English", "uuid": "3876e642-216a-4fe0-8eee-788894f30a11"}
+{"sub_label": "Javier Espinosa", "obj_label": "Spanish", "uuid": "628f1ecc-311d-4773-95d7-2145186fe142"}
+{"sub_label": "Margaret Forster", "obj_label": "English", "uuid": "f8baad49-0485-46f8-8adf-40cc3816dd4c"}
+{"sub_label": "Einar Englund", "obj_label": "Finnish", "uuid": "dd3bbcc9-55d8-43e9-b207-047ef20a7b6d"}
+{"sub_label": "Gilles de Robien", "obj_label": "French", "uuid": "a33f2250-2b07-4c77-b62a-651d3f3d6bb0"}
+{"sub_label": "Giovanni Ricordi", "obj_label": "Italian", "uuid": "01abfbd3-1e92-4f8e-b4ac-711279476965"}
+{"sub_label": "Corrado Segre", "obj_label": "Italian", "uuid": "4db7a829-724f-46fd-850b-d81a096e38af"}
+{"sub_label": "Eugene O'Neill", "obj_label": "English", "uuid": "706abfe4-a4e7-4ae1-bbcb-5ea0906c8d39"}
+{"sub_label": "Ronny Levy", "obj_label": "Hebrew", "uuid": "4f2fa2d7-fdbc-4e85-9ec9-f36a028d5bad"}
+{"sub_label": "Ralph McInerny", "obj_label": "English", "uuid": "cdd6086d-490f-4e38-ad41-7a75fe741992"}
+{"sub_label": "Roldano Lupi", "obj_label": "Italian", "uuid": "a5e9f2cd-a736-4c51-b68b-19bf9aebf1d5"}
+{"sub_label": "Hans Nielsen Hauge", "obj_label": "Norwegian", "uuid": "51e45e83-9d41-4c56-9c36-abc6fd85b835"}
+{"sub_label": "Gilad Atzmon", "obj_label": "Hebrew", "uuid": "d4a3ff57-681a-4064-b872-972a601dd9a7"}
+{"sub_label": "William Thomson, 1st Baron Kelvin", "obj_label": "English", "uuid": "5d8ca5dd-d9d7-43e5-8cc3-dacabd0c43c4"}
+{"sub_label": "Pedro Caro, 3rd Marquis of la Romana", "obj_label": "Spanish", "uuid": "9e2f16b6-4d96-4a63-bf0a-6d5bf77596b5"}
+{"sub_label": "Osvaldo Genazzani", "obj_label": "Italian", "uuid": "0e1ec3a5-91ad-410e-b9e4-1b42ec5e3567"}
+{"sub_label": "Abraham Mateo", "obj_label": "Spanish", "uuid": "e9db2218-9186-44dc-bdc0-e11b5b1e4130"}
+{"sub_label": "Dominique Perben", "obj_label": "French", "uuid": "0795dfbd-b70b-4859-9436-a0cbd900539d"}
+{"sub_label": "Michael Winner", "obj_label": "English", "uuid": "b47d749c-f756-4887-8ff1-0223ead3528e"}
+{"sub_label": "Italo Svevo", "obj_label": "Italian", "uuid": "39238951-2c23-417d-98a9-43a4eac16e65"}
+{"sub_label": "Nescio", "obj_label": "Dutch", "uuid": "4e03d9eb-f1e7-4dd8-9c43-12b97bb039e3"}
+{"sub_label": "George Hardinge", "obj_label": "English", "uuid": "4f4b029f-717e-4550-bb16-ab85b20fc900"}
+{"sub_label": "Karel van Mander I", "obj_label": "Dutch", "uuid": "281e7d61-3919-406b-be90-966e912519f2"}
+{"sub_label": "Thomas Moult", "obj_label": "English", "uuid": "1ee086f0-0c8c-415d-94ba-8da0c7d9c553"}
+{"sub_label": "Joseph Hume", "obj_label": "English", "uuid": "189fb142-88b3-4f24-9ab3-5b34b5025b8f"}
+{"sub_label": "Gildo Bocci", "obj_label": "Italian", "uuid": "14a5b4b1-b30e-44ae-b996-ce7272cd5497"}
+{"sub_label": "Nicci French", "obj_label": "English", "uuid": "94117644-6047-4832-b417-560faec8a714"}
+{"sub_label": "Marie de France", "obj_label": "French", "uuid": "53954bb0-951e-45f1-8077-4be63742b875"}
+{"sub_label": "Jennifer Hudson", "obj_label": "English", "uuid": "f59098fb-9891-4aae-a57e-1bdee6466847"}
+{"sub_label": "Xiong Qinglai", "obj_label": "Chinese", "uuid": "8bfbf747-aa6f-41a8-9bf4-b1df721316bb"}
+{"sub_label": "Juan J. Campanella", "obj_label": "Spanish", "uuid": "a919a31b-17c3-4b89-a5fd-af983633b567"}
+{"sub_label": "Louis Riel", "obj_label": "French", "uuid": "dad9196f-b789-49de-8efc-b8df06de2d9a"}
+{"sub_label": "Vincent d'Indy", "obj_label": "French", "uuid": "648a15c5-31bd-4431-ae0b-936fdb920959"}
+{"sub_label": "Susan McClary", "obj_label": "English", "uuid": "bf00d1c8-c98a-4e18-b1a7-1c466f5b8d1b"}
+{"sub_label": "Ferdinand Hoefer", "obj_label": "French", "uuid": "cf453a71-baaf-49d4-9fcf-bd98255afff0"}
+{"sub_label": "Henry Sidgwick", "obj_label": "English", "uuid": "761821e9-610a-4f4b-8748-c451fe6fe937"}
+{"sub_label": "James Hardiman", "obj_label": "English", "uuid": "23a92fe3-f8ff-4442-8289-dc23c11c1a0b"}
+{"sub_label": "Donald Davie", "obj_label": "English", "uuid": "0ebc1739-9b2d-4ef0-8a55-0db2d60ac809"}
+{"sub_label": "Yitzhak Arad", "obj_label": "Hebrew", "uuid": "9fb80d47-4eed-4adc-b23c-25058e72e2ba"}
+{"sub_label": "Ferruccio Busoni", "obj_label": "Italian", "uuid": "0271b5e2-ad35-4482-9553-69056f8d23b5"}
+{"sub_label": "Antonio Maura", "obj_label": "Spanish", "uuid": "b7fc450a-248a-4485-a096-ac17a83cde8b"}
+{"sub_label": "Maurice Tourneur", "obj_label": "French", "uuid": "ee1cb1da-15a9-4174-ba3d-a6e6590a64d7"}
+{"sub_label": "Beau Billingslea", "obj_label": "English", "uuid": "f7ff072c-d652-412e-9699-453b6c2a0489"}
+{"sub_label": "Aleksei Losev", "obj_label": "Russian", "uuid": "f6618d0a-d96f-4fb1-a0aa-604dc98493ed"}
+{"sub_label": "Jean-Louis Murat", "obj_label": "French", "uuid": "3094d4c8-d1b3-4782-9f38-7a627330f8e1"}
+{"sub_label": "Moshe Feiglin", "obj_label": "Hebrew", "uuid": "83c406a4-edc7-4977-b1c9-1563c39c9d05"}
+{"sub_label": "Jean De Briac", "obj_label": "French", "uuid": "ca3bd20a-69c4-4ca8-8604-d4a270da406f"}
+{"sub_label": "Henry Kissinger", "obj_label": "English", "uuid": "660b81a2-1c3e-436a-9555-356eb61e94fb"}
+{"sub_label": "Karl Lachmann", "obj_label": "German", "uuid": "9adccf75-416c-474a-a9a7-b304a52381ca"}
+{"sub_label": "Clifford Grey", "obj_label": "English", "uuid": "2ecf6ccc-0b3f-413b-b897-c828064346f1"}
+{"sub_label": "Pierre Marie", "obj_label": "French", "uuid": "f420e302-1738-400f-9a48-8ffc52f4db3f"}
+{"sub_label": "Ellen Wilkinson", "obj_label": "English", "uuid": "c7afddc9-578a-4e35-a33e-830a1fe84eb2"}
+{"sub_label": "Harold Laski", "obj_label": "English", "uuid": "7f7d73ee-0734-47c5-99de-6dc16852c2cb"}
+{"sub_label": "Mechell", "obj_label": "Welsh", "uuid": "01547797-0d81-4f3c-bc53-13b7f6197916"}
+{"sub_label": "Pius X", "obj_label": "Latin", "uuid": "8abaee1b-e772-4986-8b21-50942df5ee57"}
+{"sub_label": "Jean Villard Gilles", "obj_label": "French", "uuid": "450a1f54-9f95-46de-9031-c936cc937581"}
+{"sub_label": "Jacques Dufilho", "obj_label": "French", "uuid": "79744f28-3995-40ae-80ce-a8bbd5b2919c"}
+{"sub_label": "John Glynn", "obj_label": "English", "uuid": "b121e028-b872-4d30-9d2f-13909a953c88"}
+{"sub_label": "Lior Eliyahu", "obj_label": "Hebrew", "uuid": "fe1a90a9-bef7-4f4a-9d46-f929b081a20d"}
+{"sub_label": "Roger Holeindre", "obj_label": "French", "uuid": "a13df6c1-fbea-469d-b95d-9a73131221ae"}
+{"sub_label": "Henry Martin Jackson", "obj_label": "English", "uuid": "c66efda8-a190-4e93-a326-e48e9c118738"}
+{"sub_label": "Sir John Rose, 1st Baronet", "obj_label": "English", "uuid": "6692d201-1306-45c9-8050-7fe4b842b42e"}
+{"sub_label": "Craig Raine", "obj_label": "English", "uuid": "e43e8f08-4499-496b-801f-ab8267dc569d"}
+{"sub_label": "Palito Ortega", "obj_label": "Spanish", "uuid": "25090f26-7c95-48bf-9b96-e36bcc9159f6"}
+{"sub_label": "Bernard Musson", "obj_label": "French", "uuid": "cbf6efd0-c1d4-4681-b90d-1362cdcb9385"}
+{"sub_label": "Shaan Shahid", "obj_label": "English", "uuid": "3f12e441-015e-43b8-9b79-f0997ae35529"}
+{"sub_label": "Shlomo Avineri", "obj_label": "Hebrew", "uuid": "85262f6f-d511-471b-83b0-19b22db25774"}
+{"sub_label": "Juvenal", "obj_label": "Latin", "uuid": "013ddf75-86bf-42dd-9c4b-c04f29ac725b"}
+{"sub_label": "Milo Manara", "obj_label": "Italian", "uuid": "d3f040e0-d32b-443f-98a1-6c9ef5966430"}
+{"sub_label": "Francis Toye", "obj_label": "English", "uuid": "283d7a9f-5e11-40c8-a8b3-27cdc8d0d4e8"}
+{"sub_label": "Lodovico Castelvetro", "obj_label": "Italian", "uuid": "6d34ccda-4c1e-4a10-ada1-3d4ba41580d3"}
+{"sub_label": "Robert Campin", "obj_label": "Dutch", "uuid": "a70bcd6c-f72b-4540-861a-5c270c8d1734"}
+{"sub_label": "Natalia Lafourcade", "obj_label": "Spanish", "uuid": "dabf448f-ba9d-422e-8b31-726e28d08e7c"}
+{"sub_label": "Niki de Saint Phalle", "obj_label": "French", "uuid": "c53c797a-ec10-4771-8c8f-2cb97a4275b3"}
+{"sub_label": "Charles du Fresne, sieur du Cange", "obj_label": "Latin", "uuid": "7dad916b-80c9-48e1-99e1-577a80a2b488"}
+{"sub_label": "Alberto Mazzucato", "obj_label": "Italian", "uuid": "a1368e1c-8455-4efa-a8fe-2e5c564911a1"}
+{"sub_label": "Charles Cressent", "obj_label": "French", "uuid": "8c3ce6e6-727f-48eb-9189-4bf2088d3329"}
+{"sub_label": "Margaret Roper", "obj_label": "English", "uuid": "6cf9f332-c3c0-4586-9ce0-60a30493520f"}
+{"sub_label": "Jean Hyppolite", "obj_label": "French", "uuid": "8b0c76e9-1d4a-4184-ac37-f85ffbdef6cf"}
+{"sub_label": "Livia Turco", "obj_label": "Italian", "uuid": "55f05d5c-a611-4be7-9f0e-7125f9f8c0d7"}
+{"sub_label": "Thomas Hobbes", "obj_label": "Latin", "uuid": "f7fcba09-9021-47d9-9f35-49f7213d2fdf"}
+{"sub_label": "Giacomo Balla", "obj_label": "Italian", "uuid": "b4b27766-640a-463b-a4e8-f806c789f497"}
+{"sub_label": "Natalia Shvedova", "obj_label": "Russian", "uuid": "d2c311ea-2368-44ec-a783-df799b4d8ae9"}
+{"sub_label": "Adrianus Valerius", "obj_label": "Dutch", "uuid": "a784b2e5-90a4-4919-b52e-d9000605a3ec"}
+{"sub_label": "Maurice Herzog", "obj_label": "French", "uuid": "d8617599-310b-4324-8f35-928097939a5c"}
+{"sub_label": "Giuseppe Sarti", "obj_label": "Italian", "uuid": "87d196f3-0502-4aa2-83f4-406c6534f169"}
+{"sub_label": "Zhu Xi", "obj_label": "Chinese", "uuid": "2f7cfa7e-fa31-4e55-8266-56f58e928cbc"}
+{"sub_label": "Matthew Henry", "obj_label": "English", "uuid": "f3e0689b-c5f2-44c5-b024-01196c420658"}
+{"sub_label": "Mohammad Hatta", "obj_label": "Indonesian", "uuid": "d2e8da24-76a2-4aa7-897d-39bbe4c59f3e"}
+{"sub_label": "Joachim Lebreton", "obj_label": "French", "uuid": "636cad23-4179-4997-9500-8b987c51ed27"}
+{"sub_label": "Plamen Oresharski", "obj_label": "Bulgarian", "uuid": "2f0b5121-9415-4680-a6e2-12237e657ece"}
+{"sub_label": "Kenneth Anger", "obj_label": "English", "uuid": "a7c94973-5ee4-4b52-a039-54f7b8365d59"}
+{"sub_label": "Anita Shapira", "obj_label": "Hebrew", "uuid": "2934579e-c732-441f-aa87-6f2b64ef5675"}
+{"sub_label": "Sergo Kldiashvili", "obj_label": "Georgian", "uuid": "3da0abd3-bc1a-4b84-89e4-927f38dbe032"}
+{"sub_label": "Ch'ien Mu", "obj_label": "Chinese", "uuid": "6b6a7cbc-f304-47c6-9dfc-d6490280e8d6"}
+{"sub_label": "Herman Branover", "obj_label": "Russian", "uuid": "5b8141d6-38d8-4090-9f87-2a1b648f4e1d"}
+{"sub_label": "Michel Peissel", "obj_label": "French", "uuid": "0040b83d-70da-4aba-8270-74a9ca38d08e"}
+{"sub_label": "Giovanni Valentini", "obj_label": "Italian", "uuid": "68b29a0b-d9f2-4d2e-8be5-fe93587536b9"}
+{"sub_label": "Louis-Joseph de Montcalm", "obj_label": "French", "uuid": "3fa1c0ae-ffc9-44de-adec-d1ca722d428b"}
+{"sub_label": "Yuval Steinitz", "obj_label": "Hebrew", "uuid": "7fa048ff-c752-43ed-a8f1-6ca0e44e6f08"}
+{"sub_label": "Jostein Pedersen", "obj_label": "Norwegian", "uuid": "ee0938c9-0b94-4a83-a8df-25494c1dc837"}
+{"sub_label": "Louis Jouvet", "obj_label": "French", "uuid": "149cca64-4891-4087-88ae-e8b738b348cb"}
+{"sub_label": "Edmund Castell", "obj_label": "English", "uuid": "2e48c348-9ac8-442a-baf7-dbdd60f86174"}
+{"sub_label": "Kalairani", "obj_label": "Tamil", "uuid": "4c4a3dfe-5e8c-4c2a-ac84-5ed9dae77fa8"}
+{"sub_label": "Eric Partridge", "obj_label": "English", "uuid": "810eeed3-d0a4-46ee-863a-01fbff0229b6"}
+{"sub_label": "John Anstis", "obj_label": "English", "uuid": "36b82500-fc67-4f1c-837c-c3d832da4102"}
+{"sub_label": "Olivier Weber", "obj_label": "French", "uuid": "d0e5204b-d3e3-487a-bbf5-6756bc35eb32"}
+{"sub_label": "Laurent Brochard", "obj_label": "French", "uuid": "3a159143-c043-4948-8e3f-b96337fbbffb"}
+{"sub_label": "Gila Almagor", "obj_label": "Hebrew", "uuid": "6ebf8e30-042e-49e2-9095-72697f5c4329"}
+{"sub_label": "Giovanni Borgia, 2nd Duke of Gandia", "obj_label": "Catalan", "uuid": "22b7ebdc-edc2-4ca5-9ae0-539c98f8f42c"}
+{"sub_label": "Vico Magistretti", "obj_label": "Italian", "uuid": "b91a83a9-9a50-4563-a008-3d6deda8f22c"}
+{"sub_label": "Paul McCarthy", "obj_label": "English", "uuid": "2160a1ff-38c0-4369-bdfc-c89c84ba11ea"}
+{"sub_label": "Juan Bautista Villalpando", "obj_label": "Spanish", "uuid": "9f5535f7-49fb-47b5-8b5b-232c21b6a804"}
+{"sub_label": "Anne Marie Milan Desguillons", "obj_label": "French", "uuid": "404df569-5a76-4a33-b365-5d537d695553"}
+{"sub_label": "Luca Romagnoli", "obj_label": "Italian", "uuid": "16bbc2b8-3027-4dc1-b7ae-263b24f741e1"}
+{"sub_label": "Corinne Calvet", "obj_label": "French", "uuid": "eca70eb1-12dd-43e0-bf8e-003ee9d5d590"}
+{"sub_label": "Uri Malmilian", "obj_label": "Hebrew", "uuid": "25d41bc8-cb05-48a4-8494-063eab228000"}
+{"sub_label": "William W. Hallo", "obj_label": "English", "uuid": "199f9fb3-f95d-48bf-9735-7fd788968ba6"}
+{"sub_label": "Gad Elmaleh", "obj_label": "French", "uuid": "977207d7-950e-4c06-a587-e371bdb11c7e"}
+{"sub_label": "Natalia Pushkina", "obj_label": "Russian", "uuid": "9257557c-91c6-4784-83f0-1a66c9c25dd0"}
+{"sub_label": "Vimala Raman", "obj_label": "Tamil", "uuid": "684ce3a3-265e-4bcc-894c-e48694d1cc8f"}
+{"sub_label": "Emilio de' Cavalieri", "obj_label": "Italian", "uuid": "d284320a-4b0d-4798-80d5-47b3c11cdce8"}
+{"sub_label": "Albert Riera", "obj_label": "Spanish", "uuid": "e8eff9d8-fbaa-4069-bfde-7b24ea4518a2"}
+{"sub_label": "Aharon Zisling", "obj_label": "Hebrew", "uuid": "48228e9f-5eb5-4d5b-862e-d03508f7342c"}
+{"sub_label": "Jean-Yves Girard", "obj_label": "French", "uuid": "aef40b88-4ad5-40df-b334-7f2176705a62"}
+{"sub_label": "Alfonso Sastre", "obj_label": "Spanish", "uuid": "13e2b318-7477-4258-b7b8-c458259eb069"}
+{"sub_label": "Antonio Moreno", "obj_label": "Spanish", "uuid": "f5d53c93-d9de-4b8d-84af-0fe114db88e2"}
+{"sub_label": "Propertius", "obj_label": "Latin", "uuid": "a02b5e21-4b54-48f2-ada7-1f9fde6d166c"}
+{"sub_label": "August Strindberg", "obj_label": "Swedish", "uuid": "a2a7ecea-034b-46af-8690-d505e3892b31"}
+{"sub_label": "Paul-Armand Challemel-Lacour", "obj_label": "French", "uuid": "dc897c36-d9dc-46e1-b070-21cb98874c47"}
+{"sub_label": "Keren Peles", "obj_label": "Hebrew", "uuid": "3692f58b-3ef8-4299-9ee4-6f43ed867964"}
+{"sub_label": "Errico Petrella", "obj_label": "Italian", "uuid": "e1835bdf-b9e5-4ca7-b43b-8d6e69d7da1b"}
+{"sub_label": "Andrei Bitov", "obj_label": "Russian", "uuid": "fc46d672-a70e-4de3-9415-4e122efa96ca"}
+{"sub_label": "Stein Rokkan", "obj_label": "Norwegian", "uuid": "49cd83bc-b237-4f42-bbe2-1e192d4d2512"}
+{"sub_label": "Yizhar Harari", "obj_label": "Hebrew", "uuid": "4e6eeb1f-9caf-4fff-9c8b-394bcb2c27e1"}
+{"sub_label": "Yardena Arazi", "obj_label": "Hebrew", "uuid": "e08f58b0-5074-4d5f-a13c-e1d4c49ebac4"}
+{"sub_label": "Kristin Scott Thomas", "obj_label": "French", "uuid": "2dd6ad0d-95e4-4383-8ddb-f789251a8eb8"}
+{"sub_label": "Ronald N. Bracewell", "obj_label": "English", "uuid": "2feb9a26-5c37-4a84-919e-954109daa81a"}
+{"sub_label": "Thomas Hardy", "obj_label": "English", "uuid": "1bdab939-c3c0-4330-ae9c-65bb701d42d0"}
+{"sub_label": "Peter Cowie", "obj_label": "English", "uuid": "34ebb472-ae80-4b1a-b583-302fba00c739"}
+{"sub_label": "Eliot Weinberger", "obj_label": "English", "uuid": "e46f379f-9650-45d5-989e-e67bd0015589"}
+{"sub_label": "Friedrich Georg Wilhelm von Struve", "obj_label": "Latin", "uuid": "ee34ec70-0ea5-4afd-9311-03702e914dd2"}
+{"sub_label": "Roberto Gerhard", "obj_label": "Catalan", "uuid": "1c9a72ef-06d6-4b52-be83-cea8faf5b808"}
+{"sub_label": "Walter Cronkite", "obj_label": "English", "uuid": "cda4ef4f-65d3-4098-9626-ce1e980a1c92"}
+{"sub_label": "Natalia Barbu", "obj_label": "English", "uuid": "86223787-1160-480f-a3e7-2733d202dfbb"}
+{"sub_label": "Moshe ben Maimon", "obj_label": "Hebrew", "uuid": "72ec8945-3b54-4edb-9836-b8c7e07e2f77"}
+{"sub_label": "Apostolo Zeno", "obj_label": "Italian", "uuid": "bbc4febd-0394-42b0-bfd8-92575a1a961b"}
+{"sub_label": "Shulamit Aloni", "obj_label": "Hebrew", "uuid": "39716a8b-4c58-4fc9-9394-f642a74a9145"}
+{"sub_label": "Zhou Fohai", "obj_label": "Chinese", "uuid": "c3c77928-d793-417c-9d28-28eb220e77e7"}
+{"sub_label": "Arnold Chikobava", "obj_label": "Georgian", "uuid": "8e9aea7f-5f4c-44cf-bfb3-294b99868ab6"}
+{"sub_label": "Peter Mark Roget", "obj_label": "English", "uuid": "3ddb7b7f-24ff-4754-aa1a-1e62fb361683"}
+{"sub_label": "Jean-Michel Jarre", "obj_label": "French", "uuid": "b59df460-5419-4f60-bb56-35b3b9d0d946"}
+{"sub_label": "Johan Cruyff", "obj_label": "Dutch", "uuid": "736bc837-2968-4b31-b508-3b9f1a7be540"}
+{"sub_label": "Conrad Busken Huet", "obj_label": "Dutch", "uuid": "51543662-80a4-4552-8488-8b73a9a27c77"}
+{"sub_label": "Sergei Diaghilev", "obj_label": "Russian", "uuid": "0a466063-48c7-4b95-8cfb-be08e44fff93"}
+{"sub_label": "James Howell", "obj_label": "English", "uuid": "c062b475-b90e-43b6-974b-04dee30e48f1"}
+{"sub_label": "Olivier Megaton", "obj_label": "French", "uuid": "02d6e2ec-136c-47b9-ab6b-e6104a0b5edc"}
+{"sub_label": "Vajiravudh", "obj_label": "Thai", "uuid": "a7a18584-73a3-4cea-9457-9befa84d9dd2"}
+{"sub_label": "Gao Xingjian", "obj_label": "Chinese", "uuid": "0b3f40a8-ee9f-4306-9952-e29f94db634d"}
+{"sub_label": "Yunjin Kim", "obj_label": "Korean", "uuid": "f4b35520-9890-4120-9543-fbb06976c3f0"}
+{"sub_label": "Pierre C. Cartier", "obj_label": "French", "uuid": "c284d590-721c-4ef4-af81-c696ee82a518"}
+{"sub_label": "Mikhail Khodorkovsky", "obj_label": "Russian", "uuid": "81600bdb-22dd-42d4-a307-7728d9549861"}
+{"sub_label": "Giuseppe Saronni", "obj_label": "Italian", "uuid": "0a474146-aae3-405e-bff5-faca1d1749fc"}
+{"sub_label": "Alexandra Pascalidou", "obj_label": "Swedish", "uuid": "808624cc-f70f-4eac-bc45-720f3ff0a044"}
+{"sub_label": "Henry Drummond Wolff", "obj_label": "English", "uuid": "5932e0f1-c8b0-41b6-aeaa-c16e7570e144"}
+{"sub_label": "Claude Miller", "obj_label": "French", "uuid": "2fa7210d-ebf3-45d5-a260-6663178c7a60"}
+{"sub_label": "Adolfo Marsillach", "obj_label": "Spanish", "uuid": "d8e51921-034e-437b-900c-b4b475da8b64"}
+{"sub_label": "Nena", "obj_label": "English", "uuid": "490c3711-5c34-487a-a9ad-770c35b7fddd"}
+{"sub_label": "Giorgio Albertazzi", "obj_label": "Italian", "uuid": "50b3da03-5bf3-4c70-b6dd-2f6a164e32cc"}
+{"sub_label": "Deirdre McCloskey", "obj_label": "English", "uuid": "1175e4be-51c4-45c2-9b3d-b92e730920b2"}
+{"sub_label": "Sergei Nilus", "obj_label": "Russian", "uuid": "9f006bca-fbad-4d81-bd70-484c17b9f887"}
+{"sub_label": "Jean Sibelius", "obj_label": "Finnish", "uuid": "1f618d45-dbbe-436c-9c3b-0d939f602711"}
+{"sub_label": "George Meredith", "obj_label": "English", "uuid": "dc9ceff4-ee6a-40e2-9316-63aa8eef4f79"}
+{"sub_label": "Abigail Child", "obj_label": "English", "uuid": "9723c3a2-6b3a-40da-8d96-64b923404c21"}
+{"sub_label": "Antonio Soler", "obj_label": "Spanish", "uuid": "3ff85478-8af0-4db6-b05d-2470dfc54ece"}
+{"sub_label": "Garry Disher", "obj_label": "English", "uuid": "25ea39b8-7de4-4191-9e7b-06463b8af14e"}
+{"sub_label": "Jean-Roger Caussimon", "obj_label": "French", "uuid": "e40210e1-755c-42a5-8c08-6e53095131f0"}
+{"sub_label": "Louis Bonaparte", "obj_label": "French", "uuid": "39e9e431-17bc-4655-812d-671a0c46a0e9"}
+{"sub_label": "Olinto Cristina", "obj_label": "Italian", "uuid": "3472a036-3f97-416d-b7f6-c0e024855e97"}
+{"sub_label": "El General", "obj_label": "Spanish", "uuid": "0b8a2060-b00c-4e44-8363-90cd1ad2743f"}
+{"sub_label": "L. L. Zamenhof", "obj_label": "Russian", "uuid": "05035008-fa00-4e25-a4f4-daaa429be75b"}
+{"sub_label": "Anders Fager", "obj_label": "Swedish", "uuid": "c8c22f5a-7bcd-4cd1-a36b-f34551eaabb4"}
+{"sub_label": "Agostino Rocca", "obj_label": "Italian", "uuid": "6dd207c1-3ea7-4c08-b586-e0d37ed7847d"}
+{"sub_label": "Aleksandr Kaleri", "obj_label": "Russian", "uuid": "85f6a0cd-730c-4d9f-9249-6018be69bcec"}
+{"sub_label": "Jean-Louis Bourlanges", "obj_label": "French", "uuid": "21615bfc-0fc3-4f2f-b7d9-0fbf339b932b"}
+{"sub_label": "Freeman Dyson", "obj_label": "English", "uuid": "06643a82-c17e-400e-94b5-916a4cf1d8e5"}
+{"sub_label": "Henri Storck", "obj_label": "French", "uuid": "0df0b25f-8f47-4ce9-a395-d1f516784eec"}
+{"sub_label": "Madeleine Robinson", "obj_label": "French", "uuid": "512f7026-3c9e-441d-bf84-f0bb7d0316fe"}
+{"sub_label": "Michel Camdessus", "obj_label": "French", "uuid": "dc7c4519-8e87-471b-974f-83f30cb53718"}
+{"sub_label": "Sergey Ryazansky", "obj_label": "Russian", "uuid": "837090cf-19b0-4f58-8879-3616d0630875"}
+{"sub_label": "Fulvio Tomizza", "obj_label": "Italian", "uuid": "3f3a2470-9f21-4d26-84e0-aa7b75c859bb"}
+{"sub_label": "Eugenio Corti", "obj_label": "Italian", "uuid": "e42973db-9ecb-49f6-aa7d-6bb6324ddaa9"}
+{"sub_label": "Antoine Laurent de Jussieu", "obj_label": "French", "uuid": "78e42d75-a3bc-4e33-8b5f-d24950607dcd"}
+{"sub_label": "Sayat-Nova", "obj_label": "Armenian", "uuid": "ba3c263f-ea7a-4398-a8d1-16484054b154"}
+{"sub_label": "Andrei Sinyavsky", "obj_label": "Russian", "uuid": "8fc98cef-e33f-44d3-a7be-3400e6ee3286"}
+{"sub_label": "Albert Camus", "obj_label": "French", "uuid": "0fa9e835-d37c-4175-a18b-f7901c3ad063"}
+{"sub_label": "Jean-Baptiste-Louis Gresset", "obj_label": "French", "uuid": "e111a2ab-f82a-4acf-abc0-31a586ca9a27"}
+{"sub_label": "Michael van Gerwen", "obj_label": "Dutch", "uuid": "c66b503f-f1c2-4aa2-af49-cbf3476f7472"}
+{"sub_label": "William Fitzwilliam, 4th Earl Fitzwilliam", "obj_label": "English", "uuid": "1da94f2b-7f37-492c-bb7f-11ec8738751e"}
+{"sub_label": "Vibius Sequester", "obj_label": "Latin", "uuid": "ec81978c-6958-46be-8c68-b65b0212d0f6"}
+{"sub_label": "Frederick Ashton", "obj_label": "English", "uuid": "b86095d7-343b-487f-bdb1-1c41aa4f6a53"}
+{"sub_label": "Edward Yang", "obj_label": "Chinese", "uuid": "b46057da-1614-450c-afa9-82dbfafb6c15"}
+{"sub_label": "Jean Bourdichon", "obj_label": "French", "uuid": "3fad5517-c1cc-4a6c-8347-df85beb738e3"}
+{"sub_label": "Fyodor Mikhaylovich Reshetnikov", "obj_label": "Russian", "uuid": "042c3d51-083a-4fb0-85c2-9c122a6bacbc"}
+{"sub_label": "Michael A. Smith", "obj_label": "English", "uuid": "87e15973-f522-4538-9eee-44da9812d9b5"}
+{"sub_label": "Achille Campanile", "obj_label": "Italian", "uuid": "814b6052-9e5f-4921-b190-4d4832323e68"}
+{"sub_label": "Paal-Helge Haugen", "obj_label": "Norwegian", "uuid": "c75beb5a-037f-4e0d-88d7-b607bf2854a9"}
+{"sub_label": "Virginio Merola", "obj_label": "Italian", "uuid": "7ce58e66-5ccb-49ad-ae51-7d6a4abc1985"}
+{"sub_label": "Gomes Eanes de Zurara", "obj_label": "Portuguese", "uuid": "569cbfcd-16ad-4092-a33e-4de18fdfc0c7"}
+{"sub_label": "Karl Bodmer", "obj_label": "French", "uuid": "9f6328b3-b3e3-46be-90b9-45e61ff8e549"}

@@ -1,0 +1,843 @@
+{"sub_label": "Pianos Become the Teeth", "obj_label": "Baltimore", "uuid": "a37257ae-4cbb-4309-a78a-623036c96797"}
+{"sub_label": "Barren Earth", "obj_label": "Helsinki", "uuid": "bde94480-05d7-40fb-bfed-a944f9909157"}
+{"sub_label": "SNCF", "obj_label": "Paris", "uuid": "afacd04c-bf64-4490-ae5d-9a35b8b24a75"}
+{"sub_label": "Starwood Capital Group", "obj_label": "Greenwich", "uuid": "7e9df2a1-62f3-426a-b4cb-6c0dfd726898"}
+{"sub_label": "Clap Your Hands Say Yeah", "obj_label": "Philadelphia", "uuid": "6818df2b-6479-4f42-a265-628f7330c216"}
+{"sub_label": "Cocteau Twins", "obj_label": "Scotland", "uuid": "194472e2-62ab-4fa5-a277-dab3c18f0bd7"}
+{"sub_label": "Odex", "obj_label": "Singapore", "uuid": "5ab8c344-2705-4d37-b430-6913d8f5868c"}
+{"sub_label": "Swiss Federal Railways", "obj_label": "Bern", "uuid": "e86b4c73-b2d1-48f5-afc5-0b87f011e32c"}
+{"sub_label": "Scott Paper Company", "obj_label": "Philadelphia", "uuid": "9568f781-fe1e-466d-847d-7e86db0bdb97"}
+{"sub_label": "Comerica", "obj_label": "Detroit", "uuid": "0258fa51-a73a-4da6-b28d-919aa241bcfd"}
+{"sub_label": "Lenovo", "obj_label": "Beijing", "uuid": "d91c6b4f-8627-4405-84e2-fb30a5ef7faf"}
+{"sub_label": "Melody Club", "obj_label": "Sweden", "uuid": "1fdeaea5-5c9f-4f09-9dec-81b93ab3154b"}
+{"sub_label": "Chvrches", "obj_label": "Glasgow", "uuid": "b75de90b-1ab3-4860-b680-6065f35bbd65"}
+{"sub_label": "The Boat People", "obj_label": "Brisbane", "uuid": "1c36ec48-ae9e-492b-8d0f-1b159f1fdba9"}
+{"sub_label": "Dragonette", "obj_label": "Toronto", "uuid": "fb708664-2160-4e6e-810c-1a3954a41e51"}
+{"sub_label": "Hostage Life", "obj_label": "Toronto", "uuid": "478d2512-dd8a-441a-ae31-78f458743e02"}
+{"sub_label": "Coffin Break", "obj_label": "Seattle", "uuid": "597beb0e-30d9-4a76-8318-a47f79203a27"}
+{"sub_label": "Ganz Works", "obj_label": "Budapest", "uuid": "b961438c-29dd-41ea-9bfd-cc591ea550c1"}
+{"sub_label": "Iran Airtour", "obj_label": "Tehran", "uuid": "4b10a03c-4eb7-4063-9432-a82c2dd43ab3"}
+{"sub_label": "Sweet Jesus", "obj_label": "Birmingham", "uuid": "b35d8c59-5e1d-48a2-aa74-a23fa4ffcc71"}
+{"sub_label": "German Alpine Club", "obj_label": "Munich", "uuid": "949b4ad9-f3c1-48ab-aca1-f92b0e62d69a"}
+{"sub_label": "Ohbijou", "obj_label": "Toronto", "uuid": "b0256d0f-733f-4cd8-96b8-3e7475034731"}
+{"sub_label": "Morton Salt", "obj_label": "Chicago", "uuid": "1731d418-5c70-48b1-bb04-0b0d0558c3fd"}
+{"sub_label": "Armani", "obj_label": "Milan", "uuid": "720fa4e4-9f94-4072-bcb8-3677c2896f88"}
+{"sub_label": "Neko Entertainment", "obj_label": "Paris", "uuid": "8d9bc2c4-2876-435f-9405-3e8c12ee9f0e"}
+{"sub_label": "The Moody Blues", "obj_label": "Birmingham", "uuid": "35c5788f-6938-4606-82df-aa84cbe1c1bc"}
+{"sub_label": "Kurt Vile", "obj_label": "Philadelphia", "uuid": "36298787-1b22-4809-b98a-63663bde8843"}
+{"sub_label": "The Brothers Martin", "obj_label": "Riverside", "uuid": "a8cb84bf-2836-4b11-848b-42d8f297bb1c"}
+{"sub_label": "The Besnard Lakes", "obj_label": "Montreal", "uuid": "85dcdf89-fafc-4fd3-b159-066881acfd65"}
+{"sub_label": "Alfaguara", "obj_label": "Madrid", "uuid": "4401e08b-89b6-46aa-8ecf-e58e50184d8a"}
+{"sub_label": "Hot Cross", "obj_label": "Philadelphia", "uuid": "0a1ff283-0865-432a-8677-c2931030ef6b"}
+{"sub_label": "Neon Christ", "obj_label": "Atlanta", "uuid": "ac3c55b0-90b8-447b-9110-93860925a6e7"}
+{"sub_label": "Kakao M", "obj_label": "Seoul", "uuid": "50188d9d-5bac-4fa7-9e09-c31d076cb598"}
+{"sub_label": "Sweet Savage", "obj_label": "Belfast", "uuid": "e9073dc1-8924-46f7-a35a-fdae0240a877"}
+{"sub_label": "Cook da Books", "obj_label": "Liverpool", "uuid": "ab453c48-4138-4ecd-b8c2-4d051932165d"}
+{"sub_label": "Black Tide", "obj_label": "Miami", "uuid": "943ba7bf-9250-4ec2-8877-fe76c184ef08"}
+{"sub_label": "Hupmobile", "obj_label": "Detroit", "uuid": "f0ca0915-4761-4205-b9ad-ba59b35245c4"}
+{"sub_label": "Essanay Studios", "obj_label": "Chicago", "uuid": "76ea8a52-4349-441b-b55c-87bf015249da"}
+{"sub_label": "Popu Lady", "obj_label": "Taiwan", "uuid": "d1b31111-e039-4d3a-b856-6e560f1855de"}
+{"sub_label": "Beechcraft", "obj_label": "Wichita", "uuid": "a8abae19-1b8c-4455-837c-006c2aae6c35"}
+{"sub_label": "The Miserable Rich", "obj_label": "Brighton", "uuid": "2d27fbee-d405-4460-a3e9-cf285b003638"}
+{"sub_label": "Pink Fairies", "obj_label": "London", "uuid": "33c8b511-f8b5-4122-b3c6-d16605ce8722"}
+{"sub_label": "The Coca-Cola Company", "obj_label": "Atlanta", "uuid": "40c6fcd6-a5c1-4011-9727-283303291b8c"}
+{"sub_label": "Givers", "obj_label": "Lafayette", "uuid": "21ac4eb1-7156-4cda-ae58-ecdab41f1bb3"}
+{"sub_label": "The Gracious Few", "obj_label": "York", "uuid": "8f1d72bf-3020-4764-be17-f140b575f259"}
+{"sub_label": "Archaeopress", "obj_label": "Oxford", "uuid": "69311713-3a06-45dc-a230-612a4ae7f384"}
+{"sub_label": "Piranha Games", "obj_label": "Vancouver", "uuid": "e4f01720-a7ca-4f9a-8404-3536c6f4cb42"}
+{"sub_label": "Constantin Film", "obj_label": "Frankfurt", "uuid": "e50a087c-58c1-436c-a795-68e0bbf26db7"}
+{"sub_label": "The Answering Machine", "obj_label": "Manchester", "uuid": "ce43450a-baa2-4379-b50b-a879886918dd"}
+{"sub_label": "The Mess Hall", "obj_label": "Sydney", "uuid": "a7af602a-fac2-4579-89e8-41d086d0daa7"}
+{"sub_label": "E.Town Concrete", "obj_label": "Elizabeth", "uuid": "549f45eb-493e-4765-83a9-a584c4180e10"}
+{"sub_label": "Ericsson", "obj_label": "Stockholm", "uuid": "704a6a76-5e93-43dc-bbaa-0e2fa8e9735b"}
+{"sub_label": "Kasabian", "obj_label": "Leicester", "uuid": "b467df02-ba06-4e51-a976-3c62e71d6d15"}
+{"sub_label": "Cronian", "obj_label": "Norway", "uuid": "209ed764-c5fa-4450-b4f2-894a3dd267df"}
+{"sub_label": "Regis Corporation", "obj_label": "Minneapolis", "uuid": "09abff8f-8226-4652-959e-9b866fc66e37"}
+{"sub_label": "RuPaul", "obj_label": "Atlanta", "uuid": "a110e73e-1c3a-4337-b62a-8f55c9bc5a8e"}
+{"sub_label": "Eisley", "obj_label": "Tyler", "uuid": "2cb1a5e5-dac9-4e1d-97bc-93c86cdca8e1"}
+{"sub_label": "Stevie Wonder", "obj_label": "Detroit", "uuid": "dbca19cd-4ff5-4004-b507-cd8d1d84eeb4"}
+{"sub_label": "World Population Foundation", "obj_label": "Netherlands", "uuid": "905397be-c77c-4ddf-af6b-dd83865b4b93"}
+{"sub_label": "Fucked Up", "obj_label": "Toronto", "uuid": "de7d2ffe-195e-4f46-9293-ed7b8a73423e"}
+{"sub_label": "Aiden", "obj_label": "Seattle", "uuid": "78fa59fb-a2c9-4202-920a-64ec2ed8f463"}
+{"sub_label": "Tableau Software", "obj_label": "Seattle", "uuid": "81da95e0-80c5-4aaa-8e29-c7e869955e90"}
+{"sub_label": "Philadelphia Savings Fund Society", "obj_label": "Philadelphia", "uuid": "06565361-6876-4af5-ad6f-0e51e41922e3"}
+{"sub_label": "Diamond Plate", "obj_label": "Chicago", "uuid": "2567900d-ccea-4d8a-a854-ebb7c386b3dd"}
+{"sub_label": "Persian Risk", "obj_label": "Cardiff", "uuid": "8af2b28c-41be-4805-9a66-15737de29e08"}
+{"sub_label": "Econoline Crush", "obj_label": "Vancouver", "uuid": "00694ac7-cffc-4430-87ae-86449c024aa6"}
+{"sub_label": "Mambo Taxi", "obj_label": "London", "uuid": "8766bdb5-753f-46e6-83a4-90e82f33aca5"}
+{"sub_label": "Anarchy Club", "obj_label": "Boston", "uuid": "bc7826e1-fce4-4524-8bcd-efa641cf52ec"}
+{"sub_label": "ReVamp", "obj_label": "Netherlands", "uuid": "37be8914-f708-4753-9d7d-bf1cc3c42e5f"}
+{"sub_label": "The Xcerts", "obj_label": "Aberdeen", "uuid": "cb2a90f2-991b-4a5b-a813-b959ddf3ec2c"}
+{"sub_label": "Rosneft", "obj_label": "Moscow", "uuid": "700cc82a-9585-4902-848a-f5e491f490f3"}
+{"sub_label": "El-P", "obj_label": "Brooklyn", "uuid": "fc20c9d0-0653-4646-a8c4-12c8f8a6ec22"}
+{"sub_label": "The Polyphonic Spree", "obj_label": "Dallas", "uuid": "c2c8ac76-6d05-4a8d-9850-40947809fe66"}
+{"sub_label": "Two Guys", "obj_label": "Harrison", "uuid": "769225c7-d2f0-41a5-8cd8-10ced5cd11d0"}
+{"sub_label": "The Fartz", "obj_label": "Seattle", "uuid": "72e3f20b-19ba-4d27-8148-b430521804ff"}
+{"sub_label": "Brain Records", "obj_label": "Hamburg", "uuid": "f218c4ba-14a6-4cb1-80cc-7b30b6698844"}
+{"sub_label": "The Starlings", "obj_label": "London", "uuid": "fe5f2a24-01f7-4eeb-9436-3143f0846867"}
+{"sub_label": "Kasino", "obj_label": "Brazil", "uuid": "5f4c9c3c-770c-40b4-9f25-e2bc44ad3d73"}
+{"sub_label": "Givenchy", "obj_label": "Paris", "uuid": "78f68051-77cb-4b3f-9df0-4fd8c85a7171"}
+{"sub_label": "The Agonist", "obj_label": "Montreal", "uuid": "aa57a030-839c-48be-8a26-20bcdbd72a7f"}
+{"sub_label": "J. G. Brill Company", "obj_label": "Philadelphia", "uuid": "bc64b74a-acce-4f29-baa4-c386dcb453c8"}
+{"sub_label": "The Pretty Things", "obj_label": "London", "uuid": "c7888f92-5f81-44df-b58f-bb84dc9488b7"}
+{"sub_label": "The Rattles", "obj_label": "Hamburg", "uuid": "bc55e8f1-45a1-4ae1-adae-899686e78a70"}
+{"sub_label": "The Walkabouts", "obj_label": "Seattle", "uuid": "11173029-f334-457a-a374-c69c5735d0de"}
+{"sub_label": "INXS", "obj_label": "Sydney", "uuid": "ba6f26f4-f601-472f-826d-03a66f777346"}
+{"sub_label": "Fudge Tunnel", "obj_label": "Nottingham", "uuid": "04011add-c9a6-48f4-9b83-c98b4521d425"}
+{"sub_label": "Filippa K", "obj_label": "Sweden", "uuid": "a1c66791-39a0-4084-a44b-03d1745c56b8"}
+{"sub_label": "CSR Limited", "obj_label": "Sydney", "uuid": "643190e4-3a27-43b3-b51d-59e9a8f5eba5"}
+{"sub_label": "Suez Environnement", "obj_label": "Paris", "uuid": "08554580-c669-4dd8-b3ed-2da8d41198f6"}
+{"sub_label": "Fuck Buttons", "obj_label": "Bristol", "uuid": "4527b3e5-bef8-49d7-b411-e66272b5fc92"}
+{"sub_label": "Kill Rock Stars", "obj_label": "Olympia", "uuid": "3c4d25b8-6290-4215-bb0a-e54a07852956"}
+{"sub_label": "Hollerado", "obj_label": "Ottawa", "uuid": "fbdb71fe-bd13-4371-a617-d5ab3c4b0d3e"}
+{"sub_label": "Packard", "obj_label": "Warren", "uuid": "0e36a3f0-54dd-4fec-bd26-838421c339f9"}
+{"sub_label": "This Town Needs Guns", "obj_label": "Oxford", "uuid": "6382b2a4-ef8d-4168-99c3-93a729fe8f01"}
+{"sub_label": "Was (Not Was)", "obj_label": "Detroit", "uuid": "bad7419d-7884-4254-a66a-4de9efb2fa58"}
+{"sub_label": "The Brothers Four", "obj_label": "Seattle", "uuid": "81d980c5-ae3c-4bb4-b11f-7c3c0419f6ef"}
+{"sub_label": "Co-operatives UK", "obj_label": "Manchester", "uuid": "fd5c3151-d3d5-49d8-8591-ed9cc84b31e0"}
+{"sub_label": "Your Vegas", "obj_label": "Leeds", "uuid": "0a3d62b2-ec39-4018-8c45-64afdc268a48"}
+{"sub_label": "The Squirrels", "obj_label": "Seattle", "uuid": "2e68c827-a1a3-412b-b631-bc1993dd0796"}
+{"sub_label": "Kiss It Goodbye", "obj_label": "Seattle", "uuid": "15539cf4-7810-405a-9903-c408336e9f68"}
+{"sub_label": "Scritti Politti", "obj_label": "Leeds", "uuid": "998d2904-f98d-43b9-8a2c-7206d04f3c21"}
+{"sub_label": "The Hampdens", "obj_label": "Perth", "uuid": "8ae476c9-684b-4f58-9c95-a8498be79990"}
+{"sub_label": "Cock Sparrer", "obj_label": "London", "uuid": "2c183447-8ece-4b08-8009-4e556554b1fb"}
+{"sub_label": "KAT-TUN", "obj_label": "Tokyo", "uuid": "f018779f-4960-44df-8861-4435e5e53ca7"}
+{"sub_label": "Oscar Peterson", "obj_label": "Montreal", "uuid": "eba32ccc-0bd2-409f-ad0f-6cd5aeaf43bf"}
+{"sub_label": "Betsson", "obj_label": "Sweden", "uuid": "e937a66f-6fd1-4bbb-968e-58c50f0a3b2b"}
+{"sub_label": "Spacemen 3", "obj_label": "Rugby", "uuid": "cee10359-2766-47ca-9786-298035621cff"}
+{"sub_label": "Sportfreunde Stiller", "obj_label": "Munich", "uuid": "fbf0ba17-a27e-4b71-98cc-e99b134f12c0"}
+{"sub_label": "Five Man Electrical Band", "obj_label": "Ottawa", "uuid": "a72f6ba2-d03c-4578-977f-8d7cbae17da5"}
+{"sub_label": "Off Course", "obj_label": "Japan", "uuid": "c68884b6-a25b-4073-bfb1-94ea4a985601"}
+{"sub_label": "Louisiana Voodoo", "obj_label": "Louisiana", "uuid": "4e9823c7-071c-4718-84b2-9483d6976a32"}
+{"sub_label": "Telefunken", "obj_label": "Berlin", "uuid": "9e8ab246-75a3-4ecb-bb6e-268f26c41f4d"}
+{"sub_label": "Excuse 17", "obj_label": "Olympia", "uuid": "bcc9f598-356e-4bb0-b574-9a30b39d3ef5"}
+{"sub_label": "Jackson Jackson", "obj_label": "Melbourne", "uuid": "15e2e97f-55c8-478b-b1d3-71983219d4a3"}
+{"sub_label": "The Big Pink", "obj_label": "London", "uuid": "83238870-092d-4c0f-844a-c32cd08f647d"}
+{"sub_label": "Pixies", "obj_label": "Boston", "uuid": "8fe3ff22-81eb-4b16-be0d-3c46dc640e78"}
+{"sub_label": "Graffiti6", "obj_label": "London", "uuid": "eb814d5e-8ebc-4756-b362-3e6920ba5723"}
+{"sub_label": "Oh Laura", "obj_label": "Stockholm", "uuid": "6ecddf25-f09f-4ed7-bfe1-c402d24eb0e6"}
+{"sub_label": "NQ Arbuckle", "obj_label": "Toronto", "uuid": "131fc2fa-d498-4520-9a66-db14e3106705"}
+{"sub_label": "Eni", "obj_label": "Milan", "uuid": "f8d3917b-1152-43d7-a08f-db1b9d861c01"}
+{"sub_label": "Forest City Lovers", "obj_label": "Toronto", "uuid": "3b1cbc24-6030-4e26-9ae3-52f6724f77d2"}
+{"sub_label": "Dagong Global Credit Rating", "obj_label": "Beijing", "uuid": "e907e831-8b2b-4b28-9ca4-775c19197c61"}
+{"sub_label": "Slint", "obj_label": "Kentucky", "uuid": "c50ba226-b196-43aa-b761-0048a72d2b0f"}
+{"sub_label": "Palladium Books", "obj_label": "Detroit", "uuid": "48a1f5a7-1294-40be-b073-94b841eda09d"}
+{"sub_label": "Thin Lizzy", "obj_label": "Dublin", "uuid": "8035b87f-42fc-408b-85ad-b5a46060deeb"}
+{"sub_label": "Curved Air", "obj_label": "London", "uuid": "2a3467e4-1ebb-48fe-82ac-cb99874d8ad0"}
+{"sub_label": "Crazy Eddie", "obj_label": "Brooklyn", "uuid": "ed42622a-b514-4746-8fbe-d7b5667ab39f"}
+{"sub_label": "Thenewno2", "obj_label": "London", "uuid": "ce5fb43b-137a-4eee-a506-e63d854b5b17"}
+{"sub_label": "Stiff Little Fingers", "obj_label": "Belfast", "uuid": "ae83862f-e5a5-4596-bc75-4b377c73ba79"}
+{"sub_label": "The City Harmonic", "obj_label": "Hamilton", "uuid": "7a4a9914-cda1-4120-af2e-04fc48b82ee0"}
+{"sub_label": "The Honorary Title", "obj_label": "Brooklyn", "uuid": "4b971367-51e0-4fd9-a515-02f4eab25a9f"}
+{"sub_label": "Samsung Electronics", "obj_label": "Seoul", "uuid": "c6fcf596-39da-4a29-a4b7-5634a2d6f9e0"}
+{"sub_label": "Jewish Publication Society", "obj_label": "Philadelphia", "uuid": "20b6bd99-de58-42fc-9f93-d109d86a8e61"}
+{"sub_label": "Youthmovies", "obj_label": "Oxford", "uuid": "f87694e5-6055-49c3-92d7-48aafbfbf43a"}
+{"sub_label": "Overkill Software", "obj_label": "Stockholm", "uuid": "7e06a0f5-0731-4af1-97b7-c658a526a729"}
+{"sub_label": "Red Lorry Yellow Lorry", "obj_label": "Leeds", "uuid": "b3185a47-72dc-4ee5-9a4f-411f22d1bbd0"}
+{"sub_label": "MTH Electric Trains", "obj_label": "Columbia", "uuid": "fb4e8221-a15e-4d9d-8ec7-3aa1f323ec10"}
+{"sub_label": "Here I Come Falling", "obj_label": "Springfield", "uuid": "fe120f87-7bd1-406e-8cc3-c84d338df172"}
+{"sub_label": "Kanye West", "obj_label": "Chicago", "uuid": "b5b371c8-5df6-44ec-88ba-212e6cd37c3a"}
+{"sub_label": "Ciara", "obj_label": "Atlanta", "uuid": "76248fa1-ac58-43fa-aac7-54837f2eeeed"}
+{"sub_label": "Leonardo", "obj_label": "Rome", "uuid": "5c58a060-7fe3-4aea-a1bb-4eaf30c19020"}
+{"sub_label": "Chandler Motor Car", "obj_label": "Cleveland", "uuid": "5d882b99-f62c-4910-94a5-d3ab6b6b0162"}
+{"sub_label": "Fake Problems", "obj_label": "Naples", "uuid": "4fcebbd9-025c-4737-967f-7cb00abe1d0d"}
+{"sub_label": "Bentvueghels", "obj_label": "Rome", "uuid": "83ae1a5b-4803-4f51-8f3e-61cd634d9f6e"}
+{"sub_label": "Winterval", "obj_label": "Birmingham", "uuid": "2d8b0374-d9cc-4d0d-8204-493337ab3640"}
+{"sub_label": "The Murder City Devils", "obj_label": "Seattle", "uuid": "b5ca0814-84f4-4c76-9ac7-48920dcfc089"}
+{"sub_label": "The Motors", "obj_label": "London", "uuid": "25e217eb-a0da-48f7-a865-cd067ea09097"}
+{"sub_label": "The White Stripes", "obj_label": "Detroit", "uuid": "413a1f3a-bf47-4b48-8f72-de24986a1526"}
+{"sub_label": "Clickteam", "obj_label": "Paris", "uuid": "ec5c7c91-af11-4e57-ab81-3fc50f85d0ce"}
+{"sub_label": "While She Sleeps", "obj_label": "Sheffield", "uuid": "64d91f7d-f447-4f49-a12f-61e438425fc7"}
+{"sub_label": "Grimaldi Group", "obj_label": "Naples", "uuid": "5dbd1903-c9aa-4114-9793-f902e39c9885"}
+{"sub_label": "Sexion d'Assaut", "obj_label": "Paris", "uuid": "df3a83e4-ca75-4eba-b046-68064dac3639"}
+{"sub_label": "Suntribe", "obj_label": "Estonia", "uuid": "76de2438-a15c-4370-bbec-11c3f4d8bc16"}
+{"sub_label": "SM Prime Holdings", "obj_label": "Manila", "uuid": "1711ae31-b5f8-4652-917d-9e1c9a003739"}
+{"sub_label": "Woe, Is Me", "obj_label": "Atlanta", "uuid": "4e6f7564-d5d1-4b05-b90e-e0a3ebb07463"}
+{"sub_label": "Walter Aircraft Engines", "obj_label": "Prague", "uuid": "fada8896-1a8e-4f5e-a87e-9e8b60cbb448"}
+{"sub_label": "M People", "obj_label": "Manchester", "uuid": "f15aa196-0a51-47bb-8fe1-c62cfacf8868"}
+{"sub_label": "Towers of London", "obj_label": "London", "uuid": "ba54adee-c543-4c3f-aa9c-6d9eeea7908b"}
+{"sub_label": "The Dresden Dolls", "obj_label": "Boston", "uuid": "d854c7bf-deb7-41ea-8cb0-42761c70dadc"}
+{"sub_label": "Gruntruck", "obj_label": "Seattle", "uuid": "295cd2df-a018-477f-9c84-6eaedae8e720"}
+{"sub_label": "Karpe", "obj_label": "Oslo", "uuid": "094eb51d-a0b8-4ef2-a33d-1b5e721d40ee"}
+{"sub_label": "Daniel Diges", "obj_label": "Spain", "uuid": "bed24d98-af9d-409c-82d9-a7cd6cad3503"}
+{"sub_label": "Isotta Fraschini", "obj_label": "Milan", "uuid": "64e69cd6-b325-42be-87a6-e10bcd0bc550"}
+{"sub_label": "Celestiial", "obj_label": "Minnesota", "uuid": "99478fff-8058-47c6-b691-5793b4c198d2"}
+{"sub_label": "Sonar Kollektiv", "obj_label": "Berlin", "uuid": "d68570dc-b308-4f19-b093-5572f8d220db"}
+{"sub_label": "Dirge Within", "obj_label": "Chicago", "uuid": "08be758a-f5a4-4e43-97a5-473b91a8f130"}
+{"sub_label": "Chipotle Mexican Grill", "obj_label": "Denver", "uuid": "c80dba5c-342e-4852-8495-6069c0359dfb"}
+{"sub_label": "Realtek", "obj_label": "Taiwan", "uuid": "6e963a81-3b05-4e3c-b5cb-f83d1b8b11c3"}
+{"sub_label": "Arch Enemy", "obj_label": "Sweden", "uuid": "22962166-f828-470c-bac2-e22acbe9fc39"}
+{"sub_label": "Being as an Ocean", "obj_label": "Alpine", "uuid": "71aa4c4e-1ed5-4e9a-8b7e-3f7b00be8e42"}
+{"sub_label": "OK Go", "obj_label": "Chicago", "uuid": "1360b09b-0b01-421e-bbfa-05ea0b0501cd"}
+{"sub_label": "Adam and the Ants", "obj_label": "London", "uuid": "9da7d13a-15c2-496c-a303-88e15a2e458f"}
+{"sub_label": "Visma", "obj_label": "Oslo", "uuid": "e9755c9b-27c3-49c5-b286-86c87aa799cb"}
+{"sub_label": "Marianne Mendt", "obj_label": "Vienna", "uuid": "986ddb0c-5387-451f-93f3-016468dfb841"}
+{"sub_label": "Demon Hunter", "obj_label": "Seattle", "uuid": "54451b0b-9c17-40cb-a494-ebc35c30a167"}
+{"sub_label": "The Clientele", "obj_label": "London", "uuid": "03b9ad9d-5ae9-44f9-8bdc-6150b7dc7674"}
+{"sub_label": "Metronapoli", "obj_label": "Naples", "uuid": "e0f443cf-b4d5-474d-9776-7aeb86a70f41"}
+{"sub_label": "The Kelly Springfield Tire Company", "obj_label": "Springfield", "uuid": "3bad094d-f95c-4418-a1ed-a258705365b8"}
+{"sub_label": "Edison Lighthouse", "obj_label": "London", "uuid": "e6bce53b-da99-450b-ab74-2234cda01561"}
+{"sub_label": "Telefilm Canada", "obj_label": "Montreal", "uuid": "0047068a-7139-40b2-bb51-21e702467895"}
+{"sub_label": "Harvey Danger", "obj_label": "Seattle", "uuid": "9cbad201-322a-4256-98f5-bd37abbacf08"}
+{"sub_label": "Caspian Airlines", "obj_label": "Tehran", "uuid": "7d603718-81ce-433c-907f-5861da9b98cb"}
+{"sub_label": "Marathon Oil", "obj_label": "Houston", "uuid": "1a7a2f11-c122-4ab8-b948-5b47318ccc34"}
+{"sub_label": "A Pale Horse Named Death", "obj_label": "Brooklyn", "uuid": "d7a6e572-8766-4ca5-857f-1f4e8dcc6fc0"}
+{"sub_label": "Miracle Fortress", "obj_label": "Montreal", "uuid": "3713369a-a6d0-455b-9142-fb39433abbbd"}
+{"sub_label": "Wolf Gang", "obj_label": "London", "uuid": "b44e9e9b-aa58-45ce-b0f0-f162b1437ffc"}
+{"sub_label": "Trenitalia", "obj_label": "Rome", "uuid": "78c9088e-3f1f-4372-b7d0-1e1ea15f0d97"}
+{"sub_label": "Skeletonwitch", "obj_label": "Athens", "uuid": "aad994fd-6a23-411c-83c9-e122f2030689"}
+{"sub_label": "SIE Bend Studio", "obj_label": "Bend", "uuid": "23d5840e-9b52-4318-a917-25f36e7be1c6"}
+{"sub_label": "Coldplay", "obj_label": "London", "uuid": "976340f5-c9d8-4fe8-959d-c4bbbfb0fbd9"}
+{"sub_label": "The Squires", "obj_label": "Bristol", "uuid": "918884db-9ee6-40c2-9fcf-b3ec08593f7d"}
+{"sub_label": "Abraham & Straus", "obj_label": "Brooklyn", "uuid": "f7dae830-49b4-4457-bfd5-4ad9a4531bb7"}
+{"sub_label": "Esselte", "obj_label": "Stockholm", "uuid": "1199c451-f758-4742-8b5e-e7b7ebc0b8af"}
+{"sub_label": "Boucheron", "obj_label": "Paris", "uuid": "25082249-1974-411e-bf5d-9415a7376eff"}
+{"sub_label": "The Fleetwoods", "obj_label": "Olympia", "uuid": "c839535d-3c08-409c-a261-2c62205c878e"}
+{"sub_label": "Black Box Recorder", "obj_label": "London", "uuid": "76c043bf-f209-4c9a-b3b7-ee774b0dd0a9"}
+{"sub_label": "Mexx", "obj_label": "Netherlands", "uuid": "0c6a1c5b-ac64-4cbc-ab94-f9b6e09f9aea"}
+{"sub_label": "LZ7", "obj_label": "Manchester", "uuid": "18c6ea4a-8bb2-4fa4-9130-2486b17db592"}
+{"sub_label": "Ivoryline", "obj_label": "Tyler", "uuid": "051c6919-9609-49fc-90f3-12581e810587"}
+{"sub_label": "Circa Survive", "obj_label": "Philadelphia", "uuid": "ee53b3ab-b134-408d-a2e4-009c95c2a582"}
+{"sub_label": "Bain Capital", "obj_label": "Boston", "uuid": "7c46d3fc-ec78-45da-a87f-4400d8254ab2"}
+{"sub_label": "Dandi Wind", "obj_label": "Vancouver", "uuid": "95600ec7-9579-40d7-a259-fadbbc1b5fc7"}
+{"sub_label": "Horslips", "obj_label": "Dublin", "uuid": "c187b954-bfb3-4b62-983d-be9615ffa823"}
+{"sub_label": "Xerox", "obj_label": "Rochester", "uuid": "fbcff702-e1ad-4d9e-8de5-ad78d10e9540"}
+{"sub_label": "The Three Johns", "obj_label": "Leeds", "uuid": "ba2fe9e0-eedd-40f9-813a-51a171050576"}
+{"sub_label": "Mansun", "obj_label": "Chester", "uuid": "89bc2550-a7bf-4973-b21e-25f8aa1e8139"}
+{"sub_label": "Flotation Toy Warning", "obj_label": "London", "uuid": "b5725c4f-86e2-49d6-92ba-8bd464d65035"}
+{"sub_label": "Ayria", "obj_label": "Toronto", "uuid": "e085da33-1f4b-4713-a9b6-16ea7bfe2cc0"}
+{"sub_label": "The Real Kids", "obj_label": "Boston", "uuid": "0cfc1b09-ce8c-4f39-b88c-9b223b4333b2"}
+{"sub_label": "Chaos Divine", "obj_label": "Perth", "uuid": "cc8d0fcb-5de9-4eba-ab0d-196f6617f328"}
+{"sub_label": "MewithoutYou", "obj_label": "Philadelphia", "uuid": "980cbc8c-88a3-4511-8a03-3628a8bec19a"}
+{"sub_label": "Walker Digital", "obj_label": "Stamford", "uuid": "7092a08f-7a6f-4629-aac1-c8febb4aeff2"}
+{"sub_label": "Stinking Lizaveta", "obj_label": "Philadelphia", "uuid": "d068f214-a5d1-444c-9921-51a2878f9c7c"}
+{"sub_label": "Osibisa", "obj_label": "London", "uuid": "992d70df-a6fc-4007-83d7-0fc02ff5291b"}
+{"sub_label": "Akai", "obj_label": "Tokyo", "uuid": "a2c388f5-b88d-4c62-a439-428f07221ddb"}
+{"sub_label": "16bit", "obj_label": "London", "uuid": "e14b73e4-5773-4ff8-8184-f8027f67d880"}
+{"sub_label": "United Continental Holdings", "obj_label": "Chicago", "uuid": "3268f36d-db8b-4c93-8db6-1aaccc7a9d8e"}
+{"sub_label": "Zonophone", "obj_label": "Camden", "uuid": "6dfcd85f-d05f-406e-bb5b-44261dcd4dac"}
+{"sub_label": "Siemens", "obj_label": "Berlin", "uuid": "7e3f7986-44a1-4659-a865-656327afec52"}
+{"sub_label": "Class Editori", "obj_label": "Milan", "uuid": "02055fcc-bab0-41d2-a7f5-856c6cebd16b"}
+{"sub_label": "Stack Waddy", "obj_label": "Manchester", "uuid": "dd78cd3d-e809-4ba6-b037-0be18a6d623e"}
+{"sub_label": "The Morning Chronicle", "obj_label": "London", "uuid": "a0b2c884-27b7-4013-9991-13892e6ce11c"}
+{"sub_label": "Lands' End", "obj_label": "Chicago", "uuid": "f4e0b494-a2a6-4df4-b5ca-655a02c71d20"}
+{"sub_label": "Grocon", "obj_label": "Melbourne", "uuid": "26e1d830-d581-4201-97e7-5ca73996d6ef"}
+{"sub_label": "The Dunwells", "obj_label": "Leeds", "uuid": "e7f65948-c09e-4106-88ed-df62cfb196d1"}
+{"sub_label": "Berliner Maschinenbau", "obj_label": "Berlin", "uuid": "3ff90843-c7aa-429a-8652-2fc1ccdc144b"}
+{"sub_label": "The Goats", "obj_label": "Philadelphia", "uuid": "ac973bdf-70f3-46f8-911e-3aaa54f95afe"}
+{"sub_label": "Johnny Foreigner", "obj_label": "Birmingham", "uuid": "bfbcdd35-5bf4-4fcb-ae88-003c64150fe0"}
+{"sub_label": "Das Racist", "obj_label": "Brooklyn", "uuid": "4f775823-112a-4d60-b2e5-6bb9c6f7ef36"}
+{"sub_label": "Pigface", "obj_label": "Chicago", "uuid": "68c8c6e9-00bb-46ea-a531-1f355281cdad"}
+{"sub_label": "July Talk", "obj_label": "Toronto", "uuid": "5600acc1-1191-4cab-a3a3-76ecf4793260"}
+{"sub_label": "Innocenti", "obj_label": "Milan", "uuid": "c2def884-d046-4db2-b4c6-8ed0ad7a3564"}
+{"sub_label": "Miami Horror", "obj_label": "Melbourne", "uuid": "13d18e5a-2cd8-4c1f-9376-d37069112303"}
+{"sub_label": "Five Stairsteps", "obj_label": "Chicago", "uuid": "cee9f395-6d0e-4aca-819a-f3b88f2e0ece"}
+{"sub_label": "Base Ball Bear", "obj_label": "Tokyo", "uuid": "c6a60d60-1ff1-44ad-af0e-c70d003dc64a"}
+{"sub_label": "The Suicide File", "obj_label": "Boston", "uuid": "cd6f4b51-75b4-4686-9a14-2dd881cdbabf"}
+{"sub_label": "Greenpeace", "obj_label": "Vancouver", "uuid": "299b0c4f-66de-40c1-bb1e-6c766142ec3c"}
+{"sub_label": "Rolls-Royce", "obj_label": "Manchester", "uuid": "891e501a-5b37-4013-8ff1-f505e9c5e1a8"}
+{"sub_label": "MyChildren MyBride", "obj_label": "Madison", "uuid": "f58cb2e0-0bc1-4999-8a56-db57edfea2f0"}
+{"sub_label": "Opeth", "obj_label": "Sweden", "uuid": "fa0c037e-e0b0-457b-b72c-93972a77cca8"}
+{"sub_label": "Alex Kapranos", "obj_label": "Glasgow", "uuid": "9f636833-ec9b-4d25-a7ff-51c6c65ecba5"}
+{"sub_label": "Xiaomi", "obj_label": "Beijing", "uuid": "16c9fa8e-f62c-41a5-b849-5265ff31b5e4"}
+{"sub_label": "Starclub", "obj_label": "England", "uuid": "ba3508a7-804c-4c7f-8347-16d52ed86cca"}
+{"sub_label": "Fnac", "obj_label": "Paris", "uuid": "3104f689-b3d1-42d6-b337-de04259d727f"}
+{"sub_label": "W Motors", "obj_label": "Lebanon", "uuid": "e617c0d9-b122-44c8-af8f-7f77586d14c2"}
+{"sub_label": "Ansett Australia", "obj_label": "Melbourne", "uuid": "a2c5b848-4cba-4464-a994-3beb12dfa257"}
+{"sub_label": "Guster", "obj_label": "Boston", "uuid": "83954b37-3248-421d-9957-19d6e1dbf239"}
+{"sub_label": "Test Icicles", "obj_label": "London", "uuid": "f2b08ca7-3136-4d51-8554-88b849e4a05f"}
+{"sub_label": "Gripin", "obj_label": "Istanbul", "uuid": "5141a9ce-8864-4b68-8324-4abeb6d2bfe7"}
+{"sub_label": "The Duke Spirit", "obj_label": "London", "uuid": "cde2b3a4-aa2c-421e-aa26-d8c608fe855c"}
+{"sub_label": "Vivian Girls", "obj_label": "Brooklyn", "uuid": "d5a582b0-1b7e-45c9-bbc8-97612d010517"}
+{"sub_label": "Smirnoff", "obj_label": "Moscow", "uuid": "5de304a7-2212-4dbd-8997-b0ac186d4bf2"}
+{"sub_label": "Gayngs", "obj_label": "Minneapolis", "uuid": "5edac822-023c-4c6a-96b5-7e907ce31bf0"}
+{"sub_label": "Selig Polyscope Company", "obj_label": "Chicago", "uuid": "1244cd29-cc4a-47d9-9617-d29e7f97ea73"}
+{"sub_label": "Suicidal Tendencies", "obj_label": "Venice", "uuid": "c78c452c-8694-4fb7-82dc-e97e6e6e11be"}
+{"sub_label": "John Schumann and the Vagabond Crew", "obj_label": "Adelaide", "uuid": "13a9ed25-c76f-4339-aa31-8eee171b0a26"}
+{"sub_label": "FIFA", "obj_label": "Paris", "uuid": "77c99860-bf17-4897-b7e2-193c80e5ab48"}
+{"sub_label": "Gilera", "obj_label": "Milan", "uuid": "e01cc634-1614-457e-847a-5035d16391b2"}
+{"sub_label": "Ivan & Alyosha", "obj_label": "Seattle", "uuid": "fdacc75c-9a68-41f7-8e6d-23065b7d27e2"}
+{"sub_label": "Tooth & Nail Records", "obj_label": "California", "uuid": "d6c3e620-4130-4069-9379-acf67fab905a"}
+{"sub_label": "The Long Winters", "obj_label": "Seattle", "uuid": "552a1b6f-a3e2-45cc-9f39-064754746e31"}
+{"sub_label": "Mischief Brew", "obj_label": "Philadelphia", "uuid": "81971dda-dea6-498b-a568-fb91904cd8d0"}
+{"sub_label": "Fiorucci", "obj_label": "Milan", "uuid": "02b76174-cb61-42a0-a4c1-46f9923bab9a"}
+{"sub_label": "Simca", "obj_label": "Paris", "uuid": "b2f30e93-ee50-4d0a-b19b-15faaaacebe7"}
+{"sub_label": "Queenadreena", "obj_label": "London", "uuid": "eddf264b-4684-4a6e-86e2-3d0c468e2e23"}
+{"sub_label": "Gnarwolves", "obj_label": "Brighton", "uuid": "d0c2624e-0132-4346-8b0e-60c040cfe617"}
+{"sub_label": "Alabama Shakes", "obj_label": "Athens", "uuid": "df7dc58b-08d5-4734-a0f5-27f7b34bd3b2"}
+{"sub_label": "Beat Circus", "obj_label": "Boston", "uuid": "b9930423-3fc6-4f13-a936-43d01aa67bc7"}
+{"sub_label": "Van der Graaf Generator", "obj_label": "Manchester", "uuid": "5b6d74c6-324b-4ccb-8902-21638509727d"}
+{"sub_label": "Madcon", "obj_label": "Oslo", "uuid": "315f4712-1076-482d-ae7c-a8fb4c7f6397"}
+{"sub_label": "Linhof", "obj_label": "Munich", "uuid": "dd0a8da9-8ca9-40da-ba30-8ee9fc91d9ca"}
+{"sub_label": "Freelance Whales", "obj_label": "Queens", "uuid": "0c1c06b6-f5b8-4758-b79e-576a5abc20a6"}
+{"sub_label": "The Hollies", "obj_label": "Manchester", "uuid": "3546feee-d11b-46fd-a59e-29708faf8ae6"}
+{"sub_label": "Fruehauf Trailer Corporation", "obj_label": "Detroit", "uuid": "6141e9b4-2be0-431b-a730-818703bb5553"}
+{"sub_label": "The Scene Aesthetic", "obj_label": "Seattle", "uuid": "7291fd9d-99d6-4626-af27-0073f618071a"}
+{"sub_label": "The Home Depot", "obj_label": "Atlanta", "uuid": "4eec012f-63d2-40c9-a72d-1f46e656f80c"}
+{"sub_label": "And So I Watch You From Afar", "obj_label": "Belfast", "uuid": "46b14493-beec-4221-9cd5-ecbf8d0274ac"}
+{"sub_label": "Faema", "obj_label": "Milan", "uuid": "6fe2e231-3347-4f97-b6b7-96e2149c05d9"}
+{"sub_label": "Heartless Bastards", "obj_label": "Cincinnati", "uuid": "90c1dc33-05ab-4db2-9319-834ac18e925e"}
+{"sub_label": "Rabbit Junk", "obj_label": "Seattle", "uuid": "b3ab1ee9-b366-4511-bb80-48d51d234703"}
+{"sub_label": "Stravaganzza", "obj_label": "Madrid", "uuid": "baf8e828-35ea-4689-acff-2587db2b0bd4"}
+{"sub_label": "Gay Dad", "obj_label": "London", "uuid": "ad2c2efd-5a55-4eee-8a3d-e3326c2030bf"}
+{"sub_label": "Pentagram", "obj_label": "London", "uuid": "5fe86282-9a5d-4a01-92ac-4875cdae6821"}
+{"sub_label": "Jemini", "obj_label": "Liverpool", "uuid": "df8e7d50-a733-45b8-8108-0c78f9e0fc00"}
+{"sub_label": "The U-Men", "obj_label": "Seattle", "uuid": "2023d301-e8c5-4de0-82ad-d075c4188a6a"}
+{"sub_label": "Altera Enigma", "obj_label": "Melbourne", "uuid": "ae3ee232-5db5-483a-9fc9-55aee5c6726d"}
+{"sub_label": "Milton Bradley Company", "obj_label": "Springfield", "uuid": "d3f9290d-740f-4ca9-afd5-ded1d951cc58"}
+{"sub_label": "Spyderco", "obj_label": "Golden", "uuid": "bfc80186-9048-4b98-982c-3fe75a980f2a"}
+{"sub_label": "Banca Commerciale Italiana", "obj_label": "Milan", "uuid": "e256333e-dc54-46f6-9894-f54e5f5a1ff1"}
+{"sub_label": "Vega4", "obj_label": "London", "uuid": "e4b6787f-8791-4d61-9224-8abff73ac0a5"}
+{"sub_label": "Billy Talent", "obj_label": "Canada", "uuid": "f48aebe2-1d4c-430c-ab6f-1943eb36b2b0"}
+{"sub_label": "Agonoize", "obj_label": "Berlin", "uuid": "d9e7c8de-5f2b-4ce9-9dc1-2e220b223aa4"}
+{"sub_label": "Solex", "obj_label": "Paris", "uuid": "132b10ae-8042-4f2f-a281-474caf2d436c"}
+{"sub_label": "An Angle", "obj_label": "Sacramento", "uuid": "db54ec57-9ef9-41d0-ad04-af06fa2d82ae"}
+{"sub_label": "Eksi Ekso", "obj_label": "Boston", "uuid": "eaac712d-ebe5-472c-892e-1d0647c9653e"}
+{"sub_label": "Carter the Unstoppable Sex Machine", "obj_label": "London", "uuid": "4af0494f-365b-4f56-b012-9e43c84950da"}
+{"sub_label": "Tonite Only", "obj_label": "Sydney", "uuid": "3af0bab4-62b6-4862-a599-99656e5f4648"}
+{"sub_label": "Rimmel", "obj_label": "London", "uuid": "1804ecce-87d8-4be2-a73b-0305d30e3264"}
+{"sub_label": "Black Merda", "obj_label": "Detroit", "uuid": "bd516425-17c3-46c2-a5c8-53e0f50f43d5"}
+{"sub_label": "Walla!", "obj_label": "Israel", "uuid": "f3934ad1-4fca-4b07-8f32-d5feb812f09c"}
+{"sub_label": "Pitsj", "obj_label": "Oslo", "uuid": "8e135ffb-57d9-41d6-b4a2-2e7fbb1baf07"}
+{"sub_label": "Scandal'us", "obj_label": "Australia", "uuid": "c803e517-2062-4891-b389-ec4809d3a4e8"}
+{"sub_label": "Fatal Flowers", "obj_label": "Amsterdam", "uuid": "93f6f3ab-5384-4bef-a9a5-5c57570deb23"}
+{"sub_label": "Primal Scream", "obj_label": "Glasgow", "uuid": "fa14d420-4af6-41fd-a5a5-bae57fa94947"}
+{"sub_label": "Electrolux", "obj_label": "Stockholm", "uuid": "2fad65ab-c82d-44c7-9ce1-574ed59b798f"}
+{"sub_label": "Lykke Li", "obj_label": "Sweden", "uuid": "223ca493-ad3a-484e-a847-99f538688839"}
+{"sub_label": "Lippincott Williams & Wilkins", "obj_label": "Philadelphia", "uuid": "777fde56-d8e2-48fa-b80a-30324d662d8d"}
+{"sub_label": "Berliner Verkehrsbetriebe", "obj_label": "Berlin", "uuid": "5d2b747e-1079-42ee-b0fd-85fed68fc3a2"}
+{"sub_label": "Meliah Rage", "obj_label": "Boston", "uuid": "27dcc636-1b71-4672-b493-57cb216e7b64"}
+{"sub_label": "Odesza", "obj_label": "Seattle", "uuid": "23c174b0-b3fc-4af3-a58a-48a769e13883"}
+{"sub_label": "Powerman 5000", "obj_label": "Boston", "uuid": "495b6c46-0da7-4d38-b437-0fc4bc67297a"}
+{"sub_label": "Husky Rescue", "obj_label": "Helsinki", "uuid": "c4399a43-97e8-4a2f-82a9-9abcf3aa42f6"}
+{"sub_label": "Standard Bank", "obj_label": "London", "uuid": "d3838a5b-6427-453e-8af4-00e16f31ddcb"}
+{"sub_label": "Dynaco", "obj_label": "Philadelphia", "uuid": "d7a81e1e-fb96-4435-ae13-8890e9101979"}
+{"sub_label": "Herpa Wings", "obj_label": "Germany", "uuid": "0c08aa55-0968-4836-81e1-0f64edd333c7"}
+{"sub_label": "LVMH", "obj_label": "Paris", "uuid": "e04a516c-723b-4d5b-a5a3-2f8f7835c957"}
+{"sub_label": "Strawbs", "obj_label": "England", "uuid": "087122dc-250a-48fb-9f4d-504370b506a1"}
+{"sub_label": "Culcha Candela", "obj_label": "Berlin", "uuid": "434240ad-9506-4b2d-83db-6b06c571d8cd"}
+{"sub_label": "Sleater-Kinney", "obj_label": "Olympia", "uuid": "dcfc7537-ca6c-4e34-aca7-7be1e839931d"}
+{"sub_label": "Delta 5", "obj_label": "Leeds", "uuid": "a489977b-dfa3-417a-884a-37b4b4999cb6"}
+{"sub_label": "Finntroll", "obj_label": "Helsinki", "uuid": "c7974c1c-9555-46a6-b65b-8fc0ca2128dc"}
+{"sub_label": "The Pastels", "obj_label": "Glasgow", "uuid": "5c972a75-f417-4181-abc0-874da9000f93"}
+{"sub_label": "Jaguar Love", "obj_label": "Seattle", "uuid": "b84f237e-981a-4ae6-95b0-7a25cad1b4b1"}
+{"sub_label": "Rizzle Kicks", "obj_label": "Brighton", "uuid": "b5cd1be3-a6c1-45b1-bce2-0f0d7ff6ca4d"}
+{"sub_label": "Advertising.com", "obj_label": "Baltimore", "uuid": "14dd62ae-b808-45f8-b4ee-5ae6f7f5ef60"}
+{"sub_label": "The Onset", "obj_label": "Liverpool", "uuid": "67683100-49ca-4e7a-8bad-dc45ed237d9c"}
+{"sub_label": "Eldorado Resorts", "obj_label": "Reno", "uuid": "deb31c5b-9039-4dbe-bc5f-f9e56b2a071f"}
+{"sub_label": "Helloween", "obj_label": "Hamburg", "uuid": "8f28bd9c-e19f-4b0a-8f8a-a99c16fb72f0"}
+{"sub_label": "The Stingrays", "obj_label": "Bristol", "uuid": "4f37831a-f412-438a-9642-1b6eaa713f60"}
+{"sub_label": "Sarke", "obj_label": "Oslo", "uuid": "e81e30c9-ed27-45e6-9216-0f55bf21a9e4"}
+{"sub_label": "Man Man", "obj_label": "Philadelphia", "uuid": "d8ea10c5-bc13-4900-9a3c-9cf7ccd0b481"}
+{"sub_label": "Loose Fur", "obj_label": "Chicago", "uuid": "af3060e5-2248-4ad6-b39a-e194d234f71c"}
+{"sub_label": "808 State", "obj_label": "Manchester", "uuid": "6e30986a-0aa2-496f-8dc6-8fbb49a176ee"}
+{"sub_label": "Ducks Deluxe", "obj_label": "London", "uuid": "91d1d8fb-f72f-499b-a50b-4038c75fca67"}
+{"sub_label": "Tiger Please", "obj_label": "Cardiff", "uuid": "b84beaf3-bc3f-4eb6-81d1-8d42d2664fb3"}
+{"sub_label": "Wizzard", "obj_label": "Birmingham", "uuid": "e756ed0d-9e1e-40f5-8a22-de5732fdad0c"}
+{"sub_label": "Rezonance Q", "obj_label": "Liverpool", "uuid": "52c05301-7104-412b-8aa0-c0e96c0c1378"}
+{"sub_label": "Native Instruments", "obj_label": "Berlin", "uuid": "061807f8-7532-433d-8ab1-ad3779dcb6a4"}
+{"sub_label": "Ikegami Tsushinki", "obj_label": "Tokyo", "uuid": "72f2a2f8-0624-4648-966d-b19886c0a968"}
+{"sub_label": "Verkehrsverbund Berlin-Brandenburg", "obj_label": "Berlin", "uuid": "fa5ade89-c18d-412e-a2bf-97a557e20384"}
+{"sub_label": "TISM", "obj_label": "Melbourne", "uuid": "7d688ec7-05f0-4906-9187-37150ce03ca7"}
+{"sub_label": "Grammatrain", "obj_label": "Seattle", "uuid": "adaf4fac-756c-4275-83dc-91f78e51492b"}
+{"sub_label": "Gossip", "obj_label": "Olympia", "uuid": "b1187734-068c-413e-808f-bc02d6758f40"}
+{"sub_label": "OceanLab", "obj_label": "London", "uuid": "5d01f908-4e21-4597-8128-eb90fd5b0e63"}
+{"sub_label": "Sevendust", "obj_label": "Atlanta", "uuid": "29018688-f868-42cd-8f1a-94564747aa48"}
+{"sub_label": "System Divide", "obj_label": "Belgium", "uuid": "5649b7ed-0a75-4b84-acce-333a61ebf83f"}
+{"sub_label": "Frankfurt School", "obj_label": "Frankfurt", "uuid": "99720b8f-7d24-4819-924d-a592b9d45dd4"}
+{"sub_label": "Institut Polaire", "obj_label": "Perth", "uuid": "ad555f68-f46f-4620-97e9-b9d73eb44d94"}
+{"sub_label": "Dexys Midnight Runners", "obj_label": "Birmingham", "uuid": "948d1fb1-3be3-439a-bf58-3375b2815afa"}
+{"sub_label": "BlackGirl", "obj_label": "Atlanta", "uuid": "bf26692e-6cdd-4d13-9d12-77ca6097a2b2"}
+{"sub_label": "Nevada Bachelors", "obj_label": "Seattle", "uuid": "b999cb73-3ab0-45fe-b973-baceec9985ff"}
+{"sub_label": "controller.controller", "obj_label": "Canada", "uuid": "183f2651-d9a6-4584-935b-fdfc0edb2c91"}
+{"sub_label": "Heyday Films", "obj_label": "London", "uuid": "69ca7046-2f36-46aa-8267-7d124bf70f19"}
+{"sub_label": "Swim Deep", "obj_label": "Birmingham", "uuid": "76d17e87-959e-4570-96a5-dad7733cc471"}
+{"sub_label": "Little Birdy", "obj_label": "Perth", "uuid": "c11e908a-6a4a-4119-883f-53f839e18ea7"}
+{"sub_label": "Zeds Dead", "obj_label": "Toronto", "uuid": "f3d80c57-c813-4e2e-ae72-e39cce388c97"}
+{"sub_label": "Piasecki Helicopter Corporation", "obj_label": "Philadelphia", "uuid": "c44bd020-1396-4a71-987b-efcc9eb60205"}
+{"sub_label": "The Long Blondes", "obj_label": "Sheffield", "uuid": "a7f1442b-f620-4df0-9f48-25afc9570846"}
+{"sub_label": "scouting", "obj_label": "England", "uuid": "65e7d3b1-3f92-4ca4-8d26-e6dd298b5d4e"}
+{"sub_label": "Salvatore Ferragamo Italia S.p.A.", "obj_label": "Florence", "uuid": "03cefa0b-cc08-4e21-95d7-124347d3faea"}
+{"sub_label": "Evry", "obj_label": "Oslo", "uuid": "ffb68a1a-1db8-4e5c-b415-c9fb2d992305"}
+{"sub_label": "Guilt Machine", "obj_label": "Netherlands", "uuid": "3c43a6db-1ca6-4946-8bcd-ff36e959bbe6"}
+{"sub_label": "Qatargas", "obj_label": "Qatar", "uuid": "9eef416b-dec0-4847-a318-52c91b30ceea"}
+{"sub_label": "Rogers Media", "obj_label": "Toronto", "uuid": "f9c77542-65f1-499b-b796-b381ba06abcb"}
+{"sub_label": "American Hi-Fi", "obj_label": "Boston", "uuid": "439a0393-78bc-472c-ad75-874ce4c50dde"}
+{"sub_label": "Nexstar Media Group", "obj_label": "Irving", "uuid": "05462ea1-5cc0-44d3-b867-5b46f6c1e333"}
+{"sub_label": "Alien Ant Farm", "obj_label": "Riverside", "uuid": "38af2993-b5d5-4b9e-8d93-a4ad63ffd151"}
+{"sub_label": "Nico & Vinz", "obj_label": "Oslo", "uuid": "b439cd28-c5b5-4bb5-a95e-27a745c15ab8"}
+{"sub_label": "Hellenic Broadcasting Corporation", "obj_label": "Athens", "uuid": "89dafed5-8827-47d1-844f-0f701311bc8b"}
+{"sub_label": "Robomodo", "obj_label": "Chicago", "uuid": "c3b12fed-a023-49c6-b4fa-9afb5718f6c8"}
+{"sub_label": "Rousseau Institute", "obj_label": "Geneva", "uuid": "635cc73f-d2c1-4cdd-a00d-8cb8db1c57d3"}
+{"sub_label": "Mingxing Film Company", "obj_label": "Shanghai", "uuid": "00f0918f-d2d5-4126-93c3-df7d62831f49"}
+{"sub_label": "Wolfson Microelectronics", "obj_label": "Edinburgh", "uuid": "3044b8e6-db22-4fd4-a359-aca1eb5a1e69"}
+{"sub_label": "The Apartments", "obj_label": "Brisbane", "uuid": "7011114e-47ba-4f01-aacf-ebbda709cb0d"}
+{"sub_label": "The Raconteurs", "obj_label": "Detroit", "uuid": "18b9ef38-a09c-49c7-8f13-108d4a303226"}
+{"sub_label": "Bee Gees", "obj_label": "Manchester", "uuid": "4aeeaa28-2d02-4f1d-ac68-61a8a5c6f66c"}
+{"sub_label": "Blackberry Smoke", "obj_label": "Atlanta", "uuid": "c3f61d37-b0e7-4387-a26c-df35a8e79ccf"}
+{"sub_label": "The Poodles", "obj_label": "Sweden", "uuid": "fb65d390-e4a4-492f-932c-a37b75deafb5"}
+{"sub_label": "Xentrix", "obj_label": "Preston", "uuid": "fd3e9ff7-3d73-4785-945e-788e7e2a16bc"}
+{"sub_label": "Gambro", "obj_label": "Lund", "uuid": "f06ba627-4eea-4537-b0d3-e797e1dddb85"}
+{"sub_label": "Neiman Marcus", "obj_label": "Dallas", "uuid": "38bd9056-1da9-4ff0-899d-f22652cd2aa4"}
+{"sub_label": "NTL Ireland", "obj_label": "Dublin", "uuid": "b91100e4-d300-4039-bd86-aa3c09d5a0d0"}
+{"sub_label": "Element Eighty", "obj_label": "Tyler", "uuid": "849c93e7-7762-4de3-9313-c2311ef150fb"}
+{"sub_label": "Dark Funeral", "obj_label": "Stockholm", "uuid": "88284beb-32ac-4e7f-913c-bced50615167"}
+{"sub_label": "Orica", "obj_label": "Australia", "uuid": "8089f4e8-34a9-4d93-a3b7-ffd97f72050f"}
+{"sub_label": "BYG Actuel", "obj_label": "Paris", "uuid": "1940a5f4-1ba2-4717-aeae-7bff156ea1e6"}
+{"sub_label": "Cadbury", "obj_label": "Birmingham", "uuid": "74d4842c-1763-47ba-96b1-2c80f3514fe7"}
+{"sub_label": "John Player & Sons", "obj_label": "Nottingham", "uuid": "4c72ffca-1041-4a5f-942e-cd26ba9fbe5a"}
+{"sub_label": "Timoteij", "obj_label": "Sweden", "uuid": "c33b8071-fd7d-4be0-985a-8a0376162ecd"}
+{"sub_label": "Pony Up", "obj_label": "Montreal", "uuid": "09c6eace-84a1-4d8b-aa4d-7680320f89ce"}
+{"sub_label": "Cake", "obj_label": "Sacramento", "uuid": "e559b2da-35fe-4027-8758-7397b91a2402"}
+{"sub_label": "String Driven Thing", "obj_label": "Scotland", "uuid": "5207a6ce-8ea2-4247-9307-2253f0c8ccb8"}
+{"sub_label": "One Hundred Dollars", "obj_label": "Toronto", "uuid": "4ad70f46-3493-418a-bc89-3c7310d27b6a"}
+{"sub_label": "On Broken Wings", "obj_label": "Hull", "uuid": "ec1a8b78-0973-42e3-abb7-02d35909e43d"}
+{"sub_label": "Mosfilm", "obj_label": "Moscow", "uuid": "f1a344de-a888-46a8-a5bd-e2b21a1b9cff"}
+{"sub_label": "Theatre of Hate", "obj_label": "London", "uuid": "e2233286-e1b6-41a1-bc4e-73ed122bf28a"}
+{"sub_label": "Timber Timbre", "obj_label": "Toronto", "uuid": "b42a78fe-f293-4060-909b-926a2db4cf34"}
+{"sub_label": "116 Clique", "obj_label": "Dallas", "uuid": "f9c65711-3ac7-4415-ba98-f636be8a877e"}
+{"sub_label": "RM Education", "obj_label": "Oxford", "uuid": "139706b8-622c-4011-9a52-b65502bcb7ef"}
+{"sub_label": "Acrassicauda", "obj_label": "Baghdad", "uuid": "188c3104-da7b-41bc-adbe-f5b337a3ef69"}
+{"sub_label": "Hot Chip", "obj_label": "London", "uuid": "4e06a2ec-849c-4191-88e9-44c543698d6a"}
+{"sub_label": "Boeing", "obj_label": "Seattle", "uuid": "4806382c-1dd3-4623-ba3f-939f550e4b88"}
+{"sub_label": "Azure Ray", "obj_label": "Athens", "uuid": "c6b481ed-c4eb-419b-b72b-a523a9026de7"}
+{"sub_label": "Massachusetts Mutual Life Insurance Company", "obj_label": "Springfield", "uuid": "546289bd-5755-4cf7-a221-ce434c73b596"}
+{"sub_label": "Nakamichi", "obj_label": "Tokyo", "uuid": "f8a6d887-c8fc-479c-9e7c-528741dfe46c"}
+{"sub_label": "The Georgia Satellites", "obj_label": "Atlanta", "uuid": "459c53bb-9b2a-4664-98c7-0fa05055f900"}
+{"sub_label": "Lacuna Coil", "obj_label": "Milan", "uuid": "c5981859-eb0c-426f-b02f-a1cac3d5322e"}
+{"sub_label": "Bausch & Lomb", "obj_label": "Rochester", "uuid": "fd78d1de-f959-47a1-89dc-e58e111642af"}
+{"sub_label": "Tuff Crew", "obj_label": "Philadelphia", "uuid": "96844c92-fa7e-473e-b387-c774deb8dd6f"}
+{"sub_label": "Big Fish Games", "obj_label": "Seattle", "uuid": "d91f0c84-3788-402a-b86b-db69fa56684e"}
+{"sub_label": "Plotly", "obj_label": "Montreal", "uuid": "5a72c3e9-3cb7-441c-afdd-0ee113a755d3"}
+{"sub_label": "Root!", "obj_label": "Melbourne", "uuid": "64e60e97-afd1-4164-a1de-ab29874ed87a"}
+{"sub_label": "Bank Polska Kasa Opieki", "obj_label": "Warsaw", "uuid": "2173ce11-4302-44ed-ac6c-8ded1fca629f"}
+{"sub_label": "Sinai Beach", "obj_label": "Riverside", "uuid": "bbe074c9-c60e-462b-9a98-c223b8475135"}
+{"sub_label": "Hell Within", "obj_label": "Lowell", "uuid": "9084e374-5dca-4b56-bb97-89a74912fb81"}
+{"sub_label": "Cloud Nothings", "obj_label": "Cleveland", "uuid": "b8381cff-2244-4d24-b6c4-8739e8880049"}
+{"sub_label": "Fayard", "obj_label": "Paris", "uuid": "c5418f71-a153-46e4-844d-13eaf8cff4fb"}
+{"sub_label": "Papa Roach", "obj_label": "California", "uuid": "3c8e3fcf-e89f-4baf-a429-19d971a3b3c6"}
+{"sub_label": "Klopka Za Pionira", "obj_label": "Serbia", "uuid": "795d4d24-5186-4c9f-9b82-f78d42ef6252"}
+{"sub_label": "Procor", "obj_label": "Canada", "uuid": "368c76ae-daec-4d51-85bd-ccda12c2eaa4"}
+{"sub_label": "Koerner, Ray & Glover", "obj_label": "Minneapolis", "uuid": "b79a9a18-c327-4231-b00c-6789cf199a15"}
+{"sub_label": "Sinclair Radionics", "obj_label": "Cambridge", "uuid": "1861395c-fa68-4fcc-a6f9-3522da7b3f59"}
+{"sub_label": "Cosworth", "obj_label": "London", "uuid": "3f79fe41-b103-43b7-90b4-2a007171753a"}
+{"sub_label": "Lordi", "obj_label": "Helsinki", "uuid": "9fbdb4ab-81b6-475f-bdd9-491ad3a38ce3"}
+{"sub_label": "Howling Bells", "obj_label": "Sydney", "uuid": "affd4c1e-fedd-4b84-ad37-ace498310d10"}
+{"sub_label": "Bank Negara Indonesia", "obj_label": "Indonesia", "uuid": "dd20728a-a437-4fff-8645-656c3f8c1464"}
+{"sub_label": "Loewe AG", "obj_label": "Berlin", "uuid": "33b4e398-dca8-446b-b28d-765b31987c66"}
+{"sub_label": "The Dubliners", "obj_label": "Dublin", "uuid": "96b64d02-e3de-468d-8c63-613881fc9df2"}
+{"sub_label": "Bandai Co., Ltd.", "obj_label": "Tokyo", "uuid": "c70173b6-82b7-4e2c-b574-d2da4e7021fa"}
+{"sub_label": "The Pop Group", "obj_label": "Bristol", "uuid": "1a9f9d82-7231-48ab-8be5-f5deacfbb859"}
+{"sub_label": "Framestore", "obj_label": "London", "uuid": "cec7b55b-5feb-469b-b895-d0dc7f9feb89"}
+{"sub_label": "Eureka Machines", "obj_label": "Leeds", "uuid": "d9f49dcc-d4e8-49f4-90e5-6311e90aee6d"}
+{"sub_label": "Therefore I Am", "obj_label": "Boston", "uuid": "14c62831-678b-41ec-9d1c-e2f89ab252e9"}
+{"sub_label": "Revolverheld", "obj_label": "Hamburg", "uuid": "c62cd2ed-5eb9-4eca-a3e5-cbc295337f8a"}
+{"sub_label": "The Idle Race", "obj_label": "Birmingham", "uuid": "3988e985-ac70-47c0-88ff-50a3197f3f6a"}
+{"sub_label": "The Four Aces", "obj_label": "Chester", "uuid": "f4ee6fde-76bc-4bbc-921e-f1e5e69f5623"}
+{"sub_label": "Lady Antebellum", "obj_label": "Nashville", "uuid": "63f45c35-5933-4ee9-bd7d-71d50c60a95b"}
+{"sub_label": "The Struts", "obj_label": "Derby", "uuid": "b6178f78-9410-4dac-b9b8-fab7caa9f698"}
+{"sub_label": "Bhayanak Maut", "obj_label": "Mumbai", "uuid": "089fb62a-772e-480a-9376-badfc97faf70"}
+{"sub_label": "The Jezabels", "obj_label": "Sydney", "uuid": "2ed29baf-2d1b-420e-8daa-4c3e591d1a5d"}
+{"sub_label": "The Fleur de Lys", "obj_label": "Southampton", "uuid": "f21e1dcd-a947-427c-ba0d-72e304246f53"}
+{"sub_label": "Beacon Street Union", "obj_label": "Boston", "uuid": "bcabad58-73ae-437b-8913-347f188f0c6c"}
+{"sub_label": "Beat Union", "obj_label": "Birmingham", "uuid": "52f145d1-7dfb-4f08-9228-b9b65cd4231c"}
+{"sub_label": "Burger King", "obj_label": "Miami", "uuid": "0fa09622-b341-4b2c-8b13-91f898c1d74c"}
+{"sub_label": "ST Aerospace", "obj_label": "Singapore", "uuid": "44e18272-2b5e-45e8-9231-4a5f284f6bbf"}
+{"sub_label": "Atlas Genius", "obj_label": "Adelaide", "uuid": "ee397802-9467-46c5-ab0b-1c6087ed35fa"}
+{"sub_label": "Ozric Tentacles", "obj_label": "Somerset", "uuid": "b76dfcb2-17e1-4d18-a4ff-3d94d0a5b481"}
+{"sub_label": "Sunn O)))", "obj_label": "Seattle", "uuid": "13b8948e-cf27-42d0-85ec-6f3ec49241aa"}
+{"sub_label": "Sohodolls", "obj_label": "London", "uuid": "970d74ea-bc35-4ae2-b1a9-e4cb8262a3c6"}
+{"sub_label": "Shearing Pinx", "obj_label": "Vancouver", "uuid": "0fcacf41-c812-4184-8712-59146f692c52"}
+{"sub_label": "Planet Soul", "obj_label": "Miami", "uuid": "94a7d7bd-e91e-4371-a5f0-f492673264ec"}
+{"sub_label": "Sidley Austin", "obj_label": "Chicago", "uuid": "02b3fd0a-dfba-4380-ae35-8cc264679d2c"}
+{"sub_label": "Los Bravos", "obj_label": "Madrid", "uuid": "a50ab9e5-7ba0-4a8c-b97b-003e9bc4c0fa"}
+{"sub_label": "Marks & Spencer", "obj_label": "Leeds", "uuid": "53e8e061-94af-452e-9256-564d785b4a8b"}
+{"sub_label": "Capital Punishment Organization", "obj_label": "Compton", "uuid": "832b42d5-0ea3-4932-9509-be3dcd9d0ec9"}
+{"sub_label": "Rammstein", "obj_label": "Berlin", "uuid": "ddc3416e-c090-4ba9-b090-95073afa9277"}
+{"sub_label": "Great Western Railway", "obj_label": "Bristol", "uuid": "87d4920a-491b-451d-85f0-0b04005f417c"}
+{"sub_label": "Crown The Empire", "obj_label": "Dallas", "uuid": "25e7bc6d-b45c-4a0d-8c02-d643383cad03"}
+{"sub_label": "The Original Rudeboys", "obj_label": "Dublin", "uuid": "b0ccc820-401b-494e-9823-dfca13a99aee"}
+{"sub_label": "N M Rothschild & Sons", "obj_label": "London", "uuid": "7d8a0624-34d2-4c09-9496-05e4417cb51a"}
+{"sub_label": "De Press", "obj_label": "Oslo", "uuid": "0c6a9323-c390-4df1-9755-2610cf56955a"}
+{"sub_label": "Rich Kids", "obj_label": "London", "uuid": "928cfe78-ffed-4d89-93eb-5d00f0824bbc"}
+{"sub_label": "Secret Trial Five", "obj_label": "Vancouver", "uuid": "dab2476f-2143-4d7a-b5cd-f424651bc816"}
+{"sub_label": "Simple Minds", "obj_label": "Glasgow", "uuid": "2e4f6017-be70-4171-b185-2a9fa02697a3"}
+{"sub_label": "Scary Kids Scaring Kids", "obj_label": "Gilbert", "uuid": "3754e561-cfb8-4a88-9b7b-2eef4a3a945b"}
+{"sub_label": "Don Broco", "obj_label": "Bedford", "uuid": "ee09e643-27c8-4691-a56a-5cb6c8908f96"}
+{"sub_label": "Cheers Beacon Hill", "obj_label": "Boston", "uuid": "6b65c3bb-d2b7-46d7-bfc3-1a514532fc64"}
+{"sub_label": "Van She", "obj_label": "Sydney", "uuid": "0e16eee6-022b-433d-82a9-3fae54c9ad2f"}
+{"sub_label": "Bianchi Bicycles", "obj_label": "Milan", "uuid": "00ed5490-f1da-431d-a8e4-140052e810ed"}
+{"sub_label": "Miss May I", "obj_label": "Troy", "uuid": "ddf5822e-dc9b-48ed-85c7-0b2bc1136637"}
+{"sub_label": "Another Bad Creation", "obj_label": "Atlanta", "uuid": "9a1b25b9-485c-4362-8473-0c5b0926c8c1"}
+{"sub_label": "Electric Light Orchestra", "obj_label": "Birmingham", "uuid": "7ecca885-41dd-4559-a8cc-55600f7a1c9e"}
+{"sub_label": "This Et Al", "obj_label": "Leeds", "uuid": "a7f659c9-f291-4fee-91bf-a11515888e4d"}
+{"sub_label": "Tokyo Metropolitan Bureau of Transportation", "obj_label": "Tokyo", "uuid": "e54a5932-7bfd-4b50-a971-fe1fb5640651"}
+{"sub_label": "Otis Williams", "obj_label": "Detroit", "uuid": "17264ba7-3d35-4986-9c8a-f26231a13731"}
+{"sub_label": "Chatto & Windus", "obj_label": "London", "uuid": "e694e656-857b-4120-84b6-92b2e93a15dd"}
+{"sub_label": "Urban Outfitters", "obj_label": "Philadelphia", "uuid": "578e4e1b-d836-4498-84aa-d8317d14db5e"}
+{"sub_label": "Vorkreist", "obj_label": "Paris", "uuid": "e0585cb5-e930-44d3-b635-5f0b0944f33d"}
+{"sub_label": "Philadelphia Media Holdings", "obj_label": "Philadelphia", "uuid": "7c4cdccf-a803-4e22-bae5-b07bbff5f11b"}
+{"sub_label": "Aunty Disco Project", "obj_label": "Karachi", "uuid": "4bc7690a-5eb9-4d02-ba71-afdd5616c8a0"}
+{"sub_label": "Bloodshot Records", "obj_label": "Chicago", "uuid": "c4c814a9-f03f-4efe-ab93-5f72186b7b08"}
+{"sub_label": "Cunningham automobile", "obj_label": "Rochester", "uuid": "66cfc10b-ec12-47a1-aee2-f80a7cff5570"}
+{"sub_label": "North Side Gang", "obj_label": "Chicago", "uuid": "bcd2893e-ab79-410d-bbdf-4d35b1380ffd"}
+{"sub_label": "Working for a Nuclear Free City", "obj_label": "Manchester", "uuid": "4d1ba83b-f1fc-4436-aefc-b6fd9cb5c012"}
+{"sub_label": "The Antlers", "obj_label": "Brooklyn", "uuid": "19a11ebd-9f98-4985-8090-7ff67364ff9e"}
+{"sub_label": "Mudvayne", "obj_label": "Illinois", "uuid": "bd2efba7-cc45-4ac2-bde8-3e7470ef6bf0"}
+{"sub_label": "The Chalets", "obj_label": "Dublin", "uuid": "43923417-577a-4c22-8af4-e74c1cac6c7c"}
+{"sub_label": "The Creepshow", "obj_label": "Burlington", "uuid": "a88e9305-d78c-4ff5-ba61-122ec62c2504"}
+{"sub_label": "Prada", "obj_label": "Milan", "uuid": "2a3ee89f-a087-4f08-8252-9e6b103c6537"}
+{"sub_label": "The Soviettes", "obj_label": "Minneapolis", "uuid": "ad9607ad-15fa-4388-9874-7de8942dc5cd"}
+{"sub_label": "The Exploited", "obj_label": "Edinburgh", "uuid": "c017f4a9-1457-4e18-8bd0-9e42ec2f8849"}
+{"sub_label": "Pride Fighting Championships", "obj_label": "Tokyo", "uuid": "5dd61b42-2c24-4433-abb4-36715f359b68"}
+{"sub_label": "With Blood Comes Cleansing", "obj_label": "Albany", "uuid": "c54ff80b-b0fa-4bd4-8f5a-3ce0f3781931"}
+{"sub_label": "Future Islands", "obj_label": "Baltimore", "uuid": "797f5960-6293-4879-b0c2-c779a1723e9e"}
+{"sub_label": "All About She", "obj_label": "London", "uuid": "aefb0895-6edf-4469-a12c-46d9b6ac2e3e"}
+{"sub_label": "Odakyu Electric Railway", "obj_label": "Tokyo", "uuid": "361eebc2-52a2-424e-97d0-bc77e1e29884"}
+{"sub_label": "Ziff Davis", "obj_label": "Chicago", "uuid": "9cf2a84d-3dfc-4ebf-8cf6-84b038efb782"}
+{"sub_label": "I Am Kloot", "obj_label": "Manchester", "uuid": "55a32b1a-ae1d-430d-9b30-eda3e1d1e255"}
+{"sub_label": "BC Apollo", "obj_label": "Amsterdam", "uuid": "8bb54162-7fa5-4f3a-9f96-9e019e8995de"}
+{"sub_label": "Westminster Chorus", "obj_label": "Westminster", "uuid": "fa7b6a47-fef7-4224-b894-aa72575b7b86"}
+{"sub_label": "Valspar", "obj_label": "Boston", "uuid": "e8d2e33c-4784-465f-bd38-7d80dbd477f8"}
+{"sub_label": "Slowdive", "obj_label": "Reading", "uuid": "9e9834be-9d07-4946-81a1-bd0f7f384b50"}
+{"sub_label": "Audioweb", "obj_label": "Manchester", "uuid": "a9c8dc64-e63b-4897-9dd2-ecef827fcae7"}
+{"sub_label": "EZ Basic", "obj_label": "Budapest", "uuid": "f43a0233-fb98-4cdc-94ed-c800808fb256"}
+{"sub_label": "Labelle", "obj_label": "Philadelphia", "uuid": "fd6b4331-c934-4e73-a54a-c8ac314d2ae7"}
+{"sub_label": "Madfly", "obj_label": "Atlanta", "uuid": "5c365022-0beb-43d8-a484-fdd242cbd529"}
+{"sub_label": "Techint", "obj_label": "Milan", "uuid": "22a2bae6-0247-4cfe-bac4-29edc34a28e4"}
+{"sub_label": "The Presets", "obj_label": "Sydney", "uuid": "9fe147b2-4d7e-42a8-afe8-ad37232d13db"}
+{"sub_label": "Bird Blobs", "obj_label": "Melbourne", "uuid": "349ed883-befc-4932-b452-5fca9ac74b7c"}
+{"sub_label": "Ronan and Erwan Bouroullec", "obj_label": "Paris", "uuid": "a6f607e4-4b96-415d-bc56-c94fc0b1a323"}
+{"sub_label": "Baldwin Piano Company", "obj_label": "Cincinnati", "uuid": "9b268890-d7d4-4b5e-a2f6-fb010fdbd61c"}
+{"sub_label": "Alice in Chains", "obj_label": "Seattle", "uuid": "dfe8f930-f882-4036-8905-5941b6e3e61b"}
+{"sub_label": "Anaal Nathrakh", "obj_label": "Birmingham", "uuid": "dc24623c-f2fe-48b7-89d7-66acbdf50e9b"}
+{"sub_label": "Les Discrets", "obj_label": "France", "uuid": "e2bdc1b1-f248-43d5-b6e6-7cafe8c47bb2"}
+{"sub_label": "Nylon", "obj_label": "Iceland", "uuid": "22d4acb7-e166-4cda-b8b6-bf1829234a19"}
+{"sub_label": "The Constellations", "obj_label": "Atlanta", "uuid": "be6db716-8788-4617-9fdd-bae1ea28c91b"}
+{"sub_label": "Clonaid", "obj_label": "Bahamas", "uuid": "d0027ade-89d4-4c7e-bbaf-285c307f037b"}
+{"sub_label": "Institut d'Estudis Catalans", "obj_label": "Barcelona", "uuid": "6b993c94-b732-4d78-b4e3-7cc3f984af2a"}
+{"sub_label": "I Monster", "obj_label": "Sheffield", "uuid": "90aac9c3-37e8-4267-a33d-22599bfb722e"}
+{"sub_label": "The Cape Race", "obj_label": "Manchester", "uuid": "8b1c37a7-39e9-4734-ad9c-6e464088fddd"}
+{"sub_label": "Atlassian", "obj_label": "Sydney", "uuid": "1874ba88-44e9-48b9-aef4-960c41a90c37"}
+{"sub_label": "Suicide City", "obj_label": "Brooklyn", "uuid": "efe53319-ecc0-463d-82be-a7647850adbc"}
+{"sub_label": "Feeding Fingers", "obj_label": "Atlanta", "uuid": "3e26bf29-000b-4888-957e-9e97aa24f173"}
+{"sub_label": "United State of Electronica", "obj_label": "Seattle", "uuid": "177b33cf-4b10-4cd4-836d-3aa9d96613df"}
+{"sub_label": "The Reputation", "obj_label": "Chicago", "uuid": "88dc6cf4-3c31-4d7b-831c-edec556bb60d"}
+{"sub_label": "SHINee", "obj_label": "Seoul", "uuid": "61b7c7ae-4150-4058-9caa-a1b6ee7c42c9"}
+{"sub_label": "Send More Paramedics", "obj_label": "Leeds", "uuid": "ef8e4a19-9b7e-4028-8753-0748180d4c2e"}
+{"sub_label": "Bultaco", "obj_label": "Barcelona", "uuid": "ae1c4cff-d414-4b6c-9cdc-0a8d78315114"}
+{"sub_label": "The Pictures", "obj_label": "Melbourne", "uuid": "fd516fa5-cfc5-4cb8-bb48-12b78c25ebe6"}
+{"sub_label": "Long Fin Killie", "obj_label": "Scotland", "uuid": "5dcaa664-66a3-4bc9-9791-07e3cab14b38"}
+{"sub_label": "Dead Milkmen", "obj_label": "Philadelphia", "uuid": "8560fa58-e10f-4edd-81f5-b670c0d9af3c"}
+{"sub_label": "Wizard Sleeve", "obj_label": "Miami", "uuid": "c5520656-466f-402f-a20c-35fc2667f758"}
+{"sub_label": "The Sunshine Underground", "obj_label": "Leeds", "uuid": "ec0496d9-1fd9-4749-a633-491b87c0274e"}
+{"sub_label": "Lubin Manufacturing Company", "obj_label": "Philadelphia", "uuid": "96db4b6c-5a9a-46bc-98b1-a42b430ea5f4"}
+{"sub_label": "News Corp Australia", "obj_label": "Adelaide", "uuid": "c738a936-8db8-4bfc-b17b-938253c8ab6a"}
+{"sub_label": "War Babies", "obj_label": "Seattle", "uuid": "6eba140e-d9a6-4025-9091-1c481f5a7ece"}
+{"sub_label": "Bamboo Shoots", "obj_label": "Brooklyn", "uuid": "a8cbf016-84b3-45e5-b21a-04e4b6382df4"}
+{"sub_label": "Jonezetta", "obj_label": "Clinton", "uuid": "b8059430-82d7-4f4d-80b1-e4afc0d47e30"}
+{"sub_label": "The Waking Eyes", "obj_label": "Winnipeg", "uuid": "a78f2e75-9cda-41b3-9582-c34671e26e9c"}
+{"sub_label": "Escada SE", "obj_label": "Munich", "uuid": "78f4d5ba-0d03-46f3-9af4-31a71b36ee02"}
+{"sub_label": "Kahvas Jute", "obj_label": "Sydney", "uuid": "8d27db2c-fa8e-424d-9adf-2a5e6b146660"}
+{"sub_label": "The Electric Soft Parade", "obj_label": "Brighton", "uuid": "d216fd76-5967-45f2-9a55-9cde73ad26bf"}
+{"sub_label": "Arkells", "obj_label": "Hamilton", "uuid": "ecb57d4a-6bf5-41ca-b3ad-0871d0fed582"}
+{"sub_label": "Attic Lights", "obj_label": "Glasgow", "uuid": "be648a1f-0f53-4ba4-bf19-794d7c00701e"}
+{"sub_label": "AIDS Wolf", "obj_label": "Montreal", "uuid": "0426eb64-51fc-44b8-861a-8a0d4d11a935"}
+{"sub_label": "The Microphones", "obj_label": "Olympia", "uuid": "7998edba-de24-461b-8608-263e25408ca4"}
+{"sub_label": "Soulbender", "obj_label": "Seattle", "uuid": "ee392011-733d-483b-b6da-74d4a486faa5"}
+{"sub_label": "White Rabbits", "obj_label": "Columbia", "uuid": "77bc493b-3375-403f-a913-0ecc1ac6571d"}
+{"sub_label": "Quirk Books", "obj_label": "Philadelphia", "uuid": "c4773701-6cc3-4666-9950-2cb6d943f88f"}
+{"sub_label": "Scars", "obj_label": "Edinburgh", "uuid": "a678757e-3af9-4e39-a8a1-8f2c77252dbd"}
+{"sub_label": "Alestorm", "obj_label": "Perth", "uuid": "4b1063a6-daaa-4354-ae1c-5316bfd6a879"}
+{"sub_label": "Ikarus", "obj_label": "Budapest", "uuid": "1b041820-9a0b-4b40-a0a4-c3ecd82569e0"}
+{"sub_label": "TCF Bank", "obj_label": "Minneapolis", "uuid": "06258487-8117-4190-aa80-f832f317e561"}
+{"sub_label": "Yves Klein Blue", "obj_label": "Brisbane", "uuid": "d347dc02-49e7-4400-bcba-4a8b7a1c486e"}
+{"sub_label": "Jazzpunkensemblet", "obj_label": "Oslo", "uuid": "4f9ce922-ca56-4b39-bf1a-b5196ef264f5"}
+{"sub_label": "The Fratellis", "obj_label": "Glasgow", "uuid": "a5c74129-2862-4bf7-bd20-6b3752fa7272"}
+{"sub_label": "IndusInd Bank", "obj_label": "Mumbai", "uuid": "9d310d0a-c28b-430c-889a-60064becd342"}
+{"sub_label": "33Miles", "obj_label": "Franklin", "uuid": "7dd6148a-724d-48a2-9744-9f72fde52d72"}
+{"sub_label": "Pentacon", "obj_label": "Dresden", "uuid": "17eec55f-0159-4a64-88c9-73b12170ae48"}
+{"sub_label": "McFadden & Whitehead", "obj_label": "Philadelphia", "uuid": "d48cb082-3ec3-40d1-86be-4238893489da"}
+{"sub_label": "Anvil Publishing", "obj_label": "Philippines", "uuid": "d374fcc3-69fe-44ed-b70b-465feaef4a66"}
+{"sub_label": "Fantasia Festival", "obj_label": "Montreal", "uuid": "0b82202e-4af2-47c3-8c2a-e7bc17e3a628"}
+{"sub_label": "Banco di Napoli", "obj_label": "Naples", "uuid": "5b7a6bc2-0455-4921-880a-c80ada3a1e3d"}
+{"sub_label": "Crate & Barrel", "obj_label": "Chicago", "uuid": "ad8a0ffe-6261-480c-aebf-c337ae9bef5d"}
+{"sub_label": "Pizzicato Five", "obj_label": "Tokyo", "uuid": "6a41e7cf-0b1b-4dec-9906-18ae73a4249a"}
+{"sub_label": "Youngblood Brass Band", "obj_label": "Oregon", "uuid": "824ecc0d-ebc6-428f-848e-d4e0c89cd2af"}
+{"sub_label": "Title Fight", "obj_label": "Kingston", "uuid": "529b50df-4411-41fe-a9e9-f3703a76d6e7"}
+{"sub_label": "Braids", "obj_label": "Calgary", "uuid": "304e271a-dc51-4487-ba65-8be4d40f62e6"}
+{"sub_label": "Brothers Past", "obj_label": "Philadelphia", "uuid": "0f4281a0-f54e-43b9-8f9a-f62d411726cb"}
+{"sub_label": "Mitsubishi Electric", "obj_label": "Tokyo", "uuid": "af097eac-f1f0-4080-8187-810e8a4eaee0"}
+{"sub_label": "Pattern Is Movement", "obj_label": "Philadelphia", "uuid": "37829562-bba1-40c5-89ef-4cc57fc6067e"}
+{"sub_label": "BLS AG", "obj_label": "Bern", "uuid": "c79bfac4-a473-4ad2-964b-7b6e3bddac9d"}
+{"sub_label": "Auburn Automobile", "obj_label": "Auburn", "uuid": "5b3166c6-74ad-4d10-8fe9-e8be3a5e7238"}
+{"sub_label": "Icarus Witch", "obj_label": "Pittsburgh", "uuid": "a5a4b6b8-a510-4281-bab8-14f4541f5640"}
+{"sub_label": "Liberty X", "obj_label": "London", "uuid": "e0c07597-3d05-4703-a80f-ef0d895a82e6"}
+{"sub_label": "Glass Cloud", "obj_label": "Hampton", "uuid": "ecd035ba-74ab-489d-bc89-3930df37d344"}
+{"sub_label": "Delhi 2 Dublin", "obj_label": "Vancouver", "uuid": "af9259cf-2420-4949-9f3d-b1517d8188e7"}
+{"sub_label": "The Prefects", "obj_label": "Birmingham", "uuid": "f73ca114-579b-4289-b027-d76e4d95d260"}
+{"sub_label": "Sylencer", "obj_label": "Chicago", "uuid": "3f265ebf-6cd5-4549-8d39-541582b7b87d"}
+{"sub_label": "Accademia Pontaniana", "obj_label": "Naples", "uuid": "e8127a28-5642-4aa2-b895-3e7bc0ccf94d"}
+{"sub_label": "Chamillionaire", "obj_label": "Houston", "uuid": "46b9eab7-1442-4333-868a-96e85950167e"}
+{"sub_label": "Horsehead Corporation", "obj_label": "Pittsburgh", "uuid": "b66f6192-cc9b-42fc-876a-4cf8cfd4d551"}
+{"sub_label": "Concrete Sox", "obj_label": "Nottingham", "uuid": "00b80c73-0bea-4a75-a2ba-846101b7b30a"}
+{"sub_label": "Foo Fighters", "obj_label": "Seattle", "uuid": "b5d9a4d7-bcd5-456d-a569-a69f35ef41a6"}
+{"sub_label": "Cerebral Bore", "obj_label": "Glasgow", "uuid": "4f8e7200-d307-49a8-ac36-471313ee57f6"}
+{"sub_label": "San Miguel Corporation", "obj_label": "Manila", "uuid": "96816823-d928-432f-93db-46e98776011b"}
+{"sub_label": "This Day Forward", "obj_label": "Philadelphia", "uuid": "83e1f2fa-7430-4981-823c-33f8d39fd303"}
+{"sub_label": "The Who", "obj_label": "London", "uuid": "7df04926-59b7-424b-a015-23de3f252724"}
+{"sub_label": "Beshara", "obj_label": "Birmingham", "uuid": "09033631-5b4f-4a89-89bd-55419bd36ae8"}
+{"sub_label": "MSC Cruises", "obj_label": "Naples", "uuid": "f55b4b7c-c4cc-4d71-9a9c-3ba9a52443c5"}
+{"sub_label": "Bandai Channel", "obj_label": "Japan", "uuid": "45ef6929-4614-40fd-a8e6-de02a95b43e7"}
+{"sub_label": "Red Robin", "obj_label": "Seattle", "uuid": "898542ae-7f16-4830-b93c-47faf11b27c2"}
+{"sub_label": "Big Daddy Weave", "obj_label": "Mobile", "uuid": "20efb05a-e856-4f42-8080-818a56e4a9e3"}
+{"sub_label": "The Rural Alberta Advantage", "obj_label": "Toronto", "uuid": "b7157c56-cb27-4e89-b21e-828ff99fba05"}
+{"sub_label": "The Bevis Frond", "obj_label": "London", "uuid": "6ed4b5f8-39c5-4419-b74e-480d0fc826b1"}
+{"sub_label": "Seventh Wonder", "obj_label": "Stockholm", "uuid": "9e0b24c3-274a-4ad2-ad24-06207cbab47e"}
+{"sub_label": "Eddie Bauer Holdings, Inc.", "obj_label": "Seattle", "uuid": "c6750b3d-ccb1-46bf-bf7d-b63ce08cc4fb"}
+{"sub_label": "Bromheads Jacket", "obj_label": "Sheffield", "uuid": "e3c4706a-8a17-4189-be2f-417ab57b4eab"}
+{"sub_label": "Rotting Christ", "obj_label": "Athens", "uuid": "1c4ea78f-82e3-4e19-b06a-c432cb2ab578"}
+{"sub_label": "Amiata Records", "obj_label": "Florence", "uuid": "3f40201f-70de-4fa6-b0da-e5b2d2cad213"}
+{"sub_label": "Ooberman", "obj_label": "Liverpool", "uuid": "9991b9a4-a0c8-4ab5-83d6-62260fb67c70"}
+{"sub_label": "Murata Manufacturing", "obj_label": "Kyoto", "uuid": "a13bb9b1-b77a-4c85-82c5-7afae80368f0"}
+{"sub_label": "Jets Overhead", "obj_label": "Victoria", "uuid": "f5ccabd5-ef9e-4ef7-8f40-bf97062f84c9"}
+{"sub_label": "Cinnabon", "obj_label": "Seattle", "uuid": "eec51980-c0a6-484d-aef4-faa7c66589fc"}
+{"sub_label": "La Bouche", "obj_label": "Frankfurt", "uuid": "333859af-8a76-4a76-bd63-ef3bbf9aab33"}
+{"sub_label": "A Bathing Ape", "obj_label": "Japan", "uuid": "e9ffe2e1-1606-41b7-a15f-536b211e9f05"}
+{"sub_label": "Disco Biscuits", "obj_label": "Philadelphia", "uuid": "f288c5f4-2c43-4bdb-8ce2-20a2caf482e2"}
+{"sub_label": "We Are Wolves", "obj_label": "Montreal", "uuid": "b9a3add3-96a0-48b8-960b-5be11f9c64ef"}
+{"sub_label": "Joell Ortiz", "obj_label": "Brooklyn", "uuid": "8508e1b1-57fc-4196-a61f-821d640cd23f"}
+{"sub_label": "Avedis Zildjian Company", "obj_label": "Istanbul", "uuid": "fff976dc-bdfc-452b-aa79-ec334f9a325c"}
+{"sub_label": "Children Collide", "obj_label": "Melbourne", "uuid": "bd059107-8b49-4170-b9eb-430e553e221b"}
+{"sub_label": "Radical Axis", "obj_label": "Atlanta", "uuid": "012c0dce-7315-44ba-99d3-1645482f8666"}
+{"sub_label": "Air Dubai", "obj_label": "Denver", "uuid": "45ee50b8-ada6-4094-86e5-36e552423422"}
+{"sub_label": "Rheinmetall MAN Military Vehicles", "obj_label": "Munich", "uuid": "24681014-c852-400d-b4c7-8d56d1b28a51"}
+{"sub_label": "SouthFM", "obj_label": "Dallas", "uuid": "ebffe9c2-1805-4142-9413-cbd250494c48"}
+{"sub_label": "thelastplaceyoulook", "obj_label": "Houston", "uuid": "f1ce21be-3c7d-48dc-b5cb-79cb4dddaa2d"}
+{"sub_label": "Rothmans International", "obj_label": "London", "uuid": "69bd40d5-247e-4c5a-9f9e-315fe83f08b1"}
+{"sub_label": "Grand General", "obj_label": "Norway", "uuid": "1f807b27-a615-465d-a8e0-fe91990b15e1"}
+{"sub_label": "The Pinker Tones", "obj_label": "Barcelona", "uuid": "824fca30-2ff0-41fe-9bd1-f42c21f9b7af"}
+{"sub_label": "Majorette", "obj_label": "Lyon", "uuid": "436ef5f7-8923-4cbb-8027-f1960f007ed4"}
+{"sub_label": "Biff Bang Pow!", "obj_label": "London", "uuid": "fc3239d2-68e1-4f09-b252-8fc7c48c7556"}
+{"sub_label": "A.F.C. Ajax", "obj_label": "Amsterdam", "uuid": "2a4a6ed2-b225-4586-a6ae-21b729ae8850"}
+{"sub_label": "Deutsche Bahn", "obj_label": "Berlin", "uuid": "638a1f9a-b217-4965-999e-67d5df8b8b7f"}
+{"sub_label": "Rock Plaza Central", "obj_label": "Toronto", "uuid": "da618ad0-3930-46a6-9d73-ff6c8aa1e58f"}
+{"sub_label": "Piper Jaffray", "obj_label": "Minneapolis", "uuid": "f7f79513-3aa4-4b7f-9947-82fbeac998a2"}
+{"sub_label": "Man Must Die", "obj_label": "Glasgow", "uuid": "9d20982c-19de-4fe9-9781-dbe53a065e2b"}
+{"sub_label": "Sega", "obj_label": "Tokyo", "uuid": "1882f9aa-2111-400b-ab57-3f1e9630e753"}
+{"sub_label": "Dizmas", "obj_label": "Lancaster", "uuid": "af4e38e4-22b9-4adf-9008-07cdbe4d2d66"}
+{"sub_label": "Ivyrise", "obj_label": "Portsmouth", "uuid": "7c4965bd-d342-4b4e-8a36-6750e6daab8e"}
+{"sub_label": "The Woodentops", "obj_label": "London", "uuid": "a72be9cd-dc8c-45fa-b90d-a3453d725433"}
+{"sub_label": "The Damnwells", "obj_label": "Brooklyn", "uuid": "c71b2729-5044-4dcb-83ae-d55804360771"}
+{"sub_label": "Sinclair Research", "obj_label": "Cambridge", "uuid": "bf31e531-c787-4764-a585-68983b73e224"}
+{"sub_label": "Twelve Foot Ninja", "obj_label": "Melbourne", "uuid": "4f7b3178-0f67-4f29-8d78-0b1305f44704"}
+{"sub_label": "Nintendo Software Planning & Development", "obj_label": "Japan", "uuid": "4f8780f5-e7b8-4095-9b4c-79edeb0c6ea6"}
+{"sub_label": "The Wilde Flowers", "obj_label": "Canterbury", "uuid": "79f5ec22-9ea8-4b40-bfd0-b81f75ef5fde"}
+{"sub_label": "Death Grips", "obj_label": "Sacramento", "uuid": "daaf7afe-4116-479a-99ad-7f62df74a81e"}
+{"sub_label": "Brookes Brothers", "obj_label": "London", "uuid": "55270b51-76d2-48ee-8a75-63c0b8ec17c4"}
+{"sub_label": "The Idoru", "obj_label": "Budapest", "uuid": "4df0fd72-a553-4c75-bf12-d7932d21ef72"}
+{"sub_label": "Circle II Circle", "obj_label": "Tampa", "uuid": "8a4a047f-a3f6-4ffe-b2c5-1ddae42c2e6a"}
+{"sub_label": "The Vaselines", "obj_label": "Glasgow", "uuid": "1dbe4f18-7496-4adc-94c2-88ddadb3eafb"}
+{"sub_label": "Propellerhead Software", "obj_label": "Stockholm", "uuid": "bfec05bc-a85c-4c42-9fea-5f8689da97c9"}
+{"sub_label": "Gugun Blues Shelter", "obj_label": "Jakarta", "uuid": "542d79a2-337c-4ab5-a950-edb2dde91b42"}
+{"sub_label": "My Favorite Highway", "obj_label": "Fairfax", "uuid": "d50ead93-b829-4071-8895-eaaf5223eeda"}
+{"sub_label": "Inventel", "obj_label": "Paris", "uuid": "d978381f-68ec-427c-aab3-50cc3e73a2dd"}
+{"sub_label": "Sherwin-Williams", "obj_label": "Cleveland", "uuid": "46006be8-4f69-4ef2-95b6-8e3de443e0cf"}
+{"sub_label": "Transports Metropolitans de Barcelona", "obj_label": "Barcelona", "uuid": "984e7463-b45e-4638-879a-3392256536d5"}
+{"sub_label": "Manischewitz", "obj_label": "Cincinnati", "uuid": "faa85e23-e332-45de-8864-661e9314155e"}
+{"sub_label": "Aston Martin Lagonda", "obj_label": "London", "uuid": "cc2b71e6-8fad-42d3-b7a3-e37abcb82bb7"}
+{"sub_label": "MTU Aero Engines", "obj_label": "Munich", "uuid": "b493f2a7-3cc0-4847-9dca-70c7fde3d749"}
+{"sub_label": "The Kinetiks", "obj_label": "Dublin", "uuid": "8c8223ca-8388-49cd-a380-72c8fbeabbbd"}
+{"sub_label": "Telarc International Corporation", "obj_label": "Cleveland", "uuid": "5418d1b9-5e6d-4155-b0d4-c08e6d68889f"}
+{"sub_label": "Platnum", "obj_label": "Manchester", "uuid": "e584e1d1-0969-4506-afbe-e7d9e9c4100d"}
+{"sub_label": "Mediaset S.p.A.", "obj_label": "Milan", "uuid": "c9111902-4d85-4c0d-8208-8aa401a12f51"}
+{"sub_label": "Ballboy", "obj_label": "Edinburgh", "uuid": "342d3aa1-7324-4fa5-989f-b82bdc598006"}
+{"sub_label": "The Holy Fire", "obj_label": "Detroit", "uuid": "ec986670-ed0c-462e-9e6e-3adf449c5599"}
+{"sub_label": "Roxy Music", "obj_label": "London", "uuid": "e1a25f71-6e7b-4750-ae42-9a1d438e613f"}
+{"sub_label": "RBC Information Systems", "obj_label": "Moscow", "uuid": "3b9b0fc9-7879-4d3a-9c59-a92120665c6e"}
+{"sub_label": "Fratelli Fabbri Editori", "obj_label": "Milan", "uuid": "b88056ee-a0f3-4cc9-bd5a-f22d7df9e588"}
+{"sub_label": "Crispy Ambulance", "obj_label": "Manchester", "uuid": "36447204-5f61-484d-94ce-392d156221de"}
+{"sub_label": "Magneta Lane", "obj_label": "Toronto", "uuid": "83944723-18fa-4be6-b3bd-6809026d99bb"}
+{"sub_label": "Polish Press Agency", "obj_label": "Warsaw", "uuid": "8de63e5b-18ba-47b0-95b1-e93c4285af9e"}
+{"sub_label": "Mentors", "obj_label": "Seattle", "uuid": "044fd095-521e-4db3-99e1-0d8e5b640007"}
+{"sub_label": "Animal Alpha", "obj_label": "Norway", "uuid": "0db9af55-5532-47ba-a5ea-c26563b75062"}
+{"sub_label": "Lync", "obj_label": "Olympia", "uuid": "397f9530-1998-45d3-b757-f31f6f4c0fd9"}
+{"sub_label": "The Shizit", "obj_label": "Seattle", "uuid": "71fd0fb5-3c1d-4bbe-867d-02591585b31b"}
+{"sub_label": "Simian Mobile Disco", "obj_label": "London", "uuid": "7680496a-91c3-48a0-bf83-e982fdff43fa"}
+{"sub_label": "Tender Trap", "obj_label": "London", "uuid": "5ac9e3b9-b283-4a88-a99b-5298fa9b9180"}
+{"sub_label": "Business Development Bank of Canada", "obj_label": "Montreal", "uuid": "aab1a633-f313-4be3-98bf-c7339c250423"}
+{"sub_label": "1300 Oslo", "obj_label": "Oslo", "uuid": "c9c98303-5cd1-413b-be97-891ffc064c11"}
+{"sub_label": "Selfish Cunt", "obj_label": "London", "uuid": "ae176f1d-91f6-4a4c-ad95-56b123dc2935"}
+{"sub_label": "Drowning Pool", "obj_label": "Dallas", "uuid": "c7a700a6-77b1-4f7b-857f-d8a4a2e7e73d"}
+{"sub_label": "Arctic Monkeys", "obj_label": "Sheffield", "uuid": "6f29922d-1111-4321-8bd1-663529506e96"}
+{"sub_label": "Gloria Estefan", "obj_label": "Miami", "uuid": "1e8a6516-d458-4682-92ee-327eace76979"}
+{"sub_label": "myGRAIN", "obj_label": "Helsinki", "uuid": "05c96e03-d471-4074-b219-212ace5e466e"}
+{"sub_label": "Kataklysm", "obj_label": "Montreal", "uuid": "7a14c94c-f0fb-41ef-a414-85a1d1e990d7"}
+{"sub_label": "Echo Orbiter", "obj_label": "Philadelphia", "uuid": "f7c4ff4d-a355-4053-8479-2150cc6ec1a9"}
+{"sub_label": "Human Head Studios", "obj_label": "Madison", "uuid": "74c66206-e196-485a-b4de-750f32ee29f2"}
+{"sub_label": "Sledgeback", "obj_label": "Seattle", "uuid": "89125d30-cd76-4b91-a987-afce75889c88"}
+{"sub_label": "Recycled Paper Greetings", "obj_label": "Chicago", "uuid": "aec886c7-3921-471a-a001-ef82c69322b9"}
+{"sub_label": "Trollfest", "obj_label": "Oslo", "uuid": "7c64e0b3-d0e4-42c1-b5f6-69c7f43630fe"}
+{"sub_label": "Krauss-Maffei", "obj_label": "Munich", "uuid": "fee37269-b99d-4def-9745-7a59b5fc4771"}
+{"sub_label": "Demonic Resurrection", "obj_label": "Mumbai", "uuid": "ef28dec4-1600-437d-9485-c742b4354fed"}
+{"sub_label": "Typical Cats", "obj_label": "Chicago", "uuid": "f6c4f1b4-108e-48f9-af7b-6dfc68fe17eb"}
+{"sub_label": "Dungeon Family", "obj_label": "Atlanta", "uuid": "5b20baa0-159b-46c4-b57e-998c02f10f7e"}
+{"sub_label": "Boomzap Entertainment", "obj_label": "Singapore", "uuid": "837e3c9d-d1c9-4239-9bd0-91207cf2a3ad"}
+{"sub_label": "The Brakes", "obj_label": "Philadelphia", "uuid": "943cc069-9d2b-453d-860a-7ee4430e3977"}
+{"sub_label": "Die Goldenen Zitronen", "obj_label": "Hamburg", "uuid": "9157e6f5-916e-4bda-b499-3a5052140689"}
+{"sub_label": "Conrad Editora", "obj_label": "Brazil", "uuid": "370a864a-6dbb-4e5e-8957-93de2e683bbe"}
+{"sub_label": "The Preytells", "obj_label": "Perth", "uuid": "b972535c-8fa5-4982-82db-4f8bbdfca108"}
+{"sub_label": "All Sons & Daughters", "obj_label": "Franklin", "uuid": "f985fa77-3155-4224-aa1d-d2e8f3b440ff"}
+{"sub_label": "Arkhon Infaustus", "obj_label": "Paris", "uuid": "c4a2408d-3ef7-4140-a3c7-0054c53f0207"}
+{"sub_label": "Stutz Motor Company", "obj_label": "Indianapolis", "uuid": "04579e4b-4cce-4d29-ac5e-827eb9c96978"}
+{"sub_label": "Sam Cooke", "obj_label": "Chicago", "uuid": "8d64a7a0-5f44-4bf4-92cc-04df5af2dea0"}
+{"sub_label": "Hines Interests Limited Partnership", "obj_label": "Houston", "uuid": "65da9884-936d-4002-96fe-e0a2398fbd5b"}
+{"sub_label": "Pale Saints", "obj_label": "Leeds", "uuid": "88e434c4-d049-43ef-8f9d-47bbe162cd95"}
+{"sub_label": "Earthride", "obj_label": "Maryland", "uuid": "d72f063a-0091-444f-8c25-2b69efd6b184"}
+{"sub_label": "PVRIS", "obj_label": "Lowell", "uuid": "dc549f05-78c9-4bda-b3b4-b8ec924c6dc2"}
+{"sub_label": "Evinrude Outboard Motors", "obj_label": "Milwaukee", "uuid": "e7442c9f-b44c-44d9-a830-8d768e5cfa24"}
+{"sub_label": "Cerebral Fix", "obj_label": "Birmingham", "uuid": "f4d0bee6-8c93-4ce6-a576-3bdcc3bc0192"}
+{"sub_label": "Sound Transit", "obj_label": "Seattle", "uuid": "670ab8ea-3681-4122-a5df-11ada7481141"}
+{"sub_label": "This Providence", "obj_label": "Seattle", "uuid": "eadd3c64-8f09-4d1c-a2d2-9983719c2cdd"}
+{"sub_label": "The Wanted", "obj_label": "England", "uuid": "469bc358-d008-46e9-91be-06bbb495f50a"}
+{"sub_label": "Sieges Even", "obj_label": "Munich", "uuid": "0c6d9d93-0130-45ae-92c7-3d6a0bb368ac"}
+{"sub_label": "Optimus Rhyme", "obj_label": "Seattle", "uuid": "f62e07a8-6d8d-401d-a790-4847869d6ff3"}
+{"sub_label": "Olympia Press", "obj_label": "Paris", "uuid": "26287af7-e147-44c3-a737-21a8d88fda65"}
+{"sub_label": "Webley & Scott", "obj_label": "Birmingham", "uuid": "34897f61-6c46-452d-b890-a870e65fd1d5"}
+{"sub_label": "Napalm Death", "obj_label": "Birmingham", "uuid": "57ac558d-e311-4394-b3cc-b65b81d454e0"}
+{"sub_label": "Immaculate Machine", "obj_label": "Victoria", "uuid": "f673ec54-88ae-43a8-a629-6b7bca63b51a"}
+{"sub_label": "Les Colocs", "obj_label": "Montreal", "uuid": "f252a32e-fad1-449e-b37d-2340a033df0d"}
+{"sub_label": "OSRAM Licht AG", "obj_label": "Munich", "uuid": "e38ba7fd-c448-456f-b0e1-64a56b09bb11"}
+{"sub_label": "Nippon Yusen", "obj_label": "Tokyo", "uuid": "92e45834-cccd-4b0c-8379-184a87bf55d8"}
+{"sub_label": "Fan Death", "obj_label": "Brooklyn", "uuid": "e8fe9ad0-8519-4b01-a8d9-488ee204fde1"}
+{"sub_label": "Charanga Habanera", "obj_label": "Havana", "uuid": "3134679f-1f31-4825-b12f-494df2213a91"}
+{"sub_label": "Falck Group", "obj_label": "Milan", "uuid": "94db9132-8da0-4f1d-ab4c-de6110f14812"}
+{"sub_label": "Boss Volenti", "obj_label": "Dublin", "uuid": "9204b75a-e3ba-42fd-bf8c-a028e15fbf9c"}
+{"sub_label": "The Blue Nile", "obj_label": "Glasgow", "uuid": "66a2af8a-690c-4840-8d64-a2101842d4d4"}
+{"sub_label": "Rollerblade", "obj_label": "Minneapolis", "uuid": "ec7422b0-c0d9-4632-ae39-31870226acc7"}
+{"sub_label": "iRobot", "obj_label": "Bedford", "uuid": "a85c4ac5-894b-48e0-aa21-0afdd5e857fd"}
+{"sub_label": "Rogers Radio", "obj_label": "Toronto", "uuid": "80410c26-87e1-4208-8a72-324172028fba"}
+{"sub_label": "Mark Jansen", "obj_label": "Netherlands", "uuid": "26e5b977-9460-4d89-8d88-fabde04408ad"}
+{"sub_label": "Union Films", "obj_label": "Jakarta", "uuid": "7487c73d-6621-4f8d-a4a3-893a3cbfd54d"}
+{"sub_label": "Organized Noize", "obj_label": "Atlanta", "uuid": "61c7d486-7f76-4d7f-8a25-2c0222f60d03"}
+{"sub_label": "Legg Mason", "obj_label": "Baltimore", "uuid": "3bbce344-2a1a-4a12-befc-c535732fd708"}
+{"sub_label": "Afro-dite", "obj_label": "Sweden", "uuid": "51e6b72d-dffe-4c80-afdd-8f79938c9ea0"}
+{"sub_label": "EMI", "obj_label": "London", "uuid": "c2dc3593-152f-4f5a-b097-de60cae7fdd7"}
+{"sub_label": "Peckett and Sons", "obj_label": "Bristol", "uuid": "eb377012-a5b9-4514-ac76-acd7c219fcf9"}
+{"sub_label": "Dole Food Company", "obj_label": "Hawaii", "uuid": "75ca23ae-8296-49f0-8dfe-ae7c514c0cc8"}
+{"sub_label": "Half Japanese", "obj_label": "Maryland", "uuid": "91a5b009-d0be-429c-92aa-a04dd23401ff"}
+{"sub_label": "The Consumer Goods", "obj_label": "Winnipeg", "uuid": "35c7276c-f026-461f-b262-83b399d7356c"}
+{"sub_label": "Grasim Industries", "obj_label": "Mumbai", "uuid": "af407633-f0eb-4a48-94a4-203aa78e2b61"}
+{"sub_label": "Gallon Drunk", "obj_label": "London", "uuid": "3657cbc1-0a63-4baa-a137-6cb72da6fb0d"}
+{"sub_label": "Johnny Panic", "obj_label": "London", "uuid": "fdb62609-f7d9-460c-bc18-e6123c747f57"}
+{"sub_label": "Toei Company", "obj_label": "Tokyo", "uuid": "ee7c1fb0-c7bd-4867-af3b-d8ef661892bf"}
+{"sub_label": "Grupo Globo", "obj_label": "Brazil", "uuid": "f9ca2f48-9f95-42f8-b8e5-6b0c2a4e299b"}
+{"sub_label": "Labbayk", "obj_label": "London", "uuid": "f365cb92-5b56-49cc-8512-b71f422f7634"}
+{"sub_label": "Modern Love Records", "obj_label": "Manchester", "uuid": "84bc50f1-e459-44be-a97b-3f272680bfb6"}
+{"sub_label": "Stonegard", "obj_label": "Oslo", "uuid": "7941a850-957d-4a55-a328-765a0fb77079"}
+{"sub_label": "Mis-Teeq", "obj_label": "London", "uuid": "3a0fa363-ae79-4a12-9af4-8d4810affc3a"}
+{"sub_label": "Eagulls", "obj_label": "Leeds", "uuid": "f42c82b6-81cb-4a1f-8586-3419a33130ef"}
+{"sub_label": "Buhl Aircraft Company", "obj_label": "Detroit", "uuid": "3e60e94f-2a23-45da-ade7-942fc6e63cb9"}
+{"sub_label": "Pillsbury Company", "obj_label": "Minneapolis", "uuid": "23aa9fab-3c52-4d0f-af93-5f83aa72e3c1"}
+{"sub_label": "Peab", "obj_label": "Sweden", "uuid": "f413629b-ec15-4f81-aecb-cd6c432ee7d3"}
+{"sub_label": "The Distractions", "obj_label": "Manchester", "uuid": "9cda1783-7b85-465d-945d-e51c7d5d6131"}
+{"sub_label": "Lhasa de Sela", "obj_label": "Mexico", "uuid": "85315d82-6724-49da-95a9-43490e46e621"}
+{"sub_label": "Big Leaves", "obj_label": "Wales", "uuid": "4a2ad287-9276-4432-8620-316d4e25647e"}
+{"sub_label": "Spin Master", "obj_label": "Toronto", "uuid": "7d0ef19d-7af7-4de2-b1dd-914db32567f7"}
+{"sub_label": "Murlyn Music Group", "obj_label": "Sweden", "uuid": "e5ba64fb-c7a6-4a6d-a71e-d57f9da543a3"}
+{"sub_label": "Chin Up Chin Up", "obj_label": "Chicago", "uuid": "0f154884-1a74-4870-89eb-8c9491152b39"}
+{"sub_label": "Blakfish", "obj_label": "Birmingham", "uuid": "a4351cad-43b7-4132-bef4-022c6b9b7260"}
+{"sub_label": "The Qemists", "obj_label": "Brighton", "uuid": "54c02486-0ac2-4679-8e3b-4255b78aaef4"}
+{"sub_label": "Ultrabeat", "obj_label": "Liverpool", "uuid": "8f0eaa68-2800-43ee-8031-85494ff1ec48"}
+{"sub_label": "TD Canada Trust", "obj_label": "Toronto", "uuid": "bdd94043-7f19-4b7b-a196-f26e9c569441"}
+{"sub_label": "Royal Gibraltar Post Office", "obj_label": "Gibraltar", "uuid": "893fecc4-3f1c-4236-b6e8-b39f7fbaa426"}
+{"sub_label": "Duran Duran", "obj_label": "Birmingham", "uuid": "73c650ec-59f3-4f68-9c84-471e85a6766b"}
+{"sub_label": "Man from Delmonte", "obj_label": "Manchester", "uuid": "c632d169-d811-47a0-b27e-35b2f788a762"}
+{"sub_label": "Virt Records", "obj_label": "Seattle", "uuid": "28c0f1d3-ce4d-4958-a965-eb2116645c5b"}
+{"sub_label": "Spiritualized", "obj_label": "Rugby", "uuid": "8e051f96-8a82-4c73-81cf-e1c895b7f079"}
+{"sub_label": "Llwybr Llaethog", "obj_label": "Wales", "uuid": "6fe6bffb-e626-4c45-9eac-36b3946bae7d"}
+{"sub_label": "Black Stone Cherry", "obj_label": "Edmonton", "uuid": "8759f92a-c1aa-48c9-8364-a66797fff967"}
+{"sub_label": "Batagraf", "obj_label": "Oslo", "uuid": "fc97eedf-ec6d-494e-b566-8406940aa974"}
+{"sub_label": "PLDT", "obj_label": "Manila", "uuid": "b7b0da3d-74e9-462b-9258-b768353db5b3"}
+{"sub_label": "Sirens Sister", "obj_label": "Seattle", "uuid": "46a84c04-adee-45f4-8b02-0f02a4a4cad3"}
+{"sub_label": "Faber Drive", "obj_label": "Mission", "uuid": "e4208c79-1b3c-453b-a4fa-9f1fc0646601"}
+{"sub_label": "Games Workshop", "obj_label": "London", "uuid": "3e7ad506-7ac9-4c8a-ad61-48a510e5ec4c"}
+{"sub_label": "Pengrowth Energy", "obj_label": "Calgary", "uuid": "fb0e735c-7efe-48d0-a7d6-15e722b3216b"}
+{"sub_label": "East Japan Railway Company", "obj_label": "Tokyo", "uuid": "66527c5b-5c0c-4db9-b6e7-d2cc02739f39"}
+{"sub_label": "The Steepwater Band", "obj_label": "Chicago", "uuid": "e533e050-04c1-4f42-a6cb-ed5be3a49aed"}
+{"sub_label": "REWE Group", "obj_label": "Cologne", "uuid": "a58a5c91-ec57-4958-aa5d-6b3826a3db5c"}
+{"sub_label": "Crane & Co.", "obj_label": "Dalton", "uuid": "75378792-b8b1-4bf4-83ac-3f7580355385"}
+{"sub_label": "NRJ Group", "obj_label": "Paris", "uuid": "09d8adc3-fbd5-42e2-80d5-5fc4ae3cf978"}
+{"sub_label": "The Mighty Mighty Bosstones", "obj_label": "Boston", "uuid": "aac22f08-fdeb-44c2-9670-18d551df45bc"}
+{"sub_label": "Pitchshifter", "obj_label": "Nottingham", "uuid": "cf3529c5-1bb0-46c0-b9d3-df1fb547bb4c"}
+{"sub_label": "Reverie Sound Revue", "obj_label": "Calgary", "uuid": "1d19f67b-be16-45b9-9bef-9d1114e57b22"}
+{"sub_label": "Aerosvit Airlines", "obj_label": "Kiev", "uuid": "de32763e-badd-4269-a069-bd4211ccef4d"}
+{"sub_label": "SK Slavia Prague", "obj_label": "Prague", "uuid": "0b7216ca-d0c3-487d-ab8e-750fd1ea497c"}
+{"sub_label": "Xmal Deutschland", "obj_label": "Hamburg", "uuid": "3b2a9cee-5ceb-415c-982a-406a34e3cfa5"}
+{"sub_label": "Italian National Labor Bank", "obj_label": "Rome", "uuid": "9bd26a39-3438-4a93-8369-6bd98dfec76e"}
+{"sub_label": "GEDI Gruppo Editoriale", "obj_label": "Rome", "uuid": "985b620b-fadc-4dba-928a-e6fc74f419e7"}
+{"sub_label": "Gluecifer", "obj_label": "Oslo", "uuid": "68d3fe08-c5a3-4981-9791-ffe3a45c8164"}
+{"sub_label": "The Misunderstood", "obj_label": "Riverside", "uuid": "8950af53-ca70-4ebd-9d90-7baa189c9189"}
+{"sub_label": "The Waltones", "obj_label": "Manchester", "uuid": "35d4dd2d-9724-4341-8975-ab38f5bbc6a8"}
+{"sub_label": "Pony Canyon", "obj_label": "Tokyo", "uuid": "9b8e2047-4afc-46d6-9e42-a935cb757c73"}
+{"sub_label": "Sharp, Stewart and Company", "obj_label": "Manchester", "uuid": "81c17752-2ab0-4744-bc25-726d41cfe03b"}
+{"sub_label": "Seattle Computer Products", "obj_label": "Seattle", "uuid": "2a8195b6-80ea-4c95-a1fa-5fd3081a9f49"}
+{"sub_label": "Irrational Games", "obj_label": "Boston", "uuid": "7010d80c-e561-4b7b-aacf-1c733f341501"}
+{"sub_label": "Ball Park Music", "obj_label": "Brisbane", "uuid": "ed387f7d-9c94-4dce-aed8-38db9160f89d"}
+{"sub_label": "Stiff Valentine", "obj_label": "Vancouver", "uuid": "e6159e3d-69b4-463c-82af-83f9c71987ce"}
+{"sub_label": "Transport for London", "obj_label": "London", "uuid": "3d43232a-71d9-4673-93ad-5198e368feb6"}
+{"sub_label": "Hydro One", "obj_label": "Toronto", "uuid": "1d504b74-527b-4c1e-b2fe-653637cd72a7"}
+{"sub_label": "Dark Time Sunshine", "obj_label": "Seattle", "uuid": "344ca206-89a5-4aad-901b-48d55c46bd59"}
+{"sub_label": "Pekinel sisters", "obj_label": "Istanbul", "uuid": "e95673c0-0b4a-43e5-96be-bc8cfb87c087"}
+{"sub_label": "Orange Juice", "obj_label": "Glasgow", "uuid": "560f68cd-192a-4677-b335-49a8df98b831"}
+{"sub_label": "Ass Ponys", "obj_label": "Cincinnati", "uuid": "d2c469e3-b0c5-495c-8221-e817fe1c1ce7"}
+{"sub_label": "Echo & the Bunnymen", "obj_label": "Liverpool", "uuid": "2b14f615-547e-4651-8e47-ef0f5ad8e230"}
+{"sub_label": "Embryo", "obj_label": "Munich", "uuid": "a2727f39-cda5-4196-90d3-7d05436687f8"}
+{"sub_label": "Eastern Conference Champions", "obj_label": "Philadelphia", "uuid": "1a145987-e998-4c85-9273-19322dadbe78"}
+{"sub_label": "LBi", "obj_label": "Amsterdam", "uuid": "44a4bdec-879d-4a33-a207-93df83c92382"}
+{"sub_label": "Larsen & Toubro", "obj_label": "Mumbai", "uuid": "48fd5cba-ee56-47e5-801c-9a18be28204b"}
+{"sub_label": "Ladies' Alpine Club", "obj_label": "London", "uuid": "4fcfb641-9f14-4f13-85ba-69638b6ec589"}
+{"sub_label": "London Stock Exchange", "obj_label": "London", "uuid": "e5ed7863-5140-4d5a-a076-8eb4d04699c3"}
+{"sub_label": "TELUS Mobility", "obj_label": "Edmonton", "uuid": "f2ac7242-dc0c-41e1-b04b-10d4c9e77bdd"}
+{"sub_label": "Echolyn", "obj_label": "Pennsylvania", "uuid": "f463c799-ce77-45a6-8e0d-4bc86ca025d1"}
+{"sub_label": "Eclection", "obj_label": "London", "uuid": "44b9c7a6-bacb-4930-9f6a-a647cb34d90c"}
+{"sub_label": "Ex Deo", "obj_label": "Montreal", "uuid": "10e81537-8c0d-41b1-9a09-520f2b9d57a0"}
+{"sub_label": "Schvendes", "obj_label": "Perth", "uuid": "880c8789-ca2f-4c6e-b053-38d217497027"}
+{"sub_label": "Sandvine", "obj_label": "Waterloo", "uuid": "78a8a7e4-4da1-4f7b-b560-2413f8ab41de"}
+{"sub_label": "The Stone Roses", "obj_label": "Manchester", "uuid": "cabbb574-9488-40a7-ae12-3c758fd08b2b"}
+{"sub_label": "Miranda Sex Garden", "obj_label": "London", "uuid": "30af8372-14e1-447b-8abe-015d8d665ea3"}
+{"sub_label": "Silicon Graphics", "obj_label": "California", "uuid": "3ae591e5-f6d1-47ed-8751-4a690c2bb470"}
+{"sub_label": "M.A.D", "obj_label": "London", "uuid": "ec8ace82-d429-474e-996b-9fbdf026c876"}
+{"sub_label": "I Fight Dragons", "obj_label": "Chicago", "uuid": "230376a3-f9fb-4fea-9c1a-e8468a4e82b3"}
+{"sub_label": "Shubb", "obj_label": "California", "uuid": "377cfa22-4877-4c0c-bf66-c0d07f24064c"}
+{"sub_label": "Spectrum-X", "obj_label": "Italy", "uuid": "5c3e78ed-92ed-4b20-824b-3c6315f27619"}
+{"sub_label": "Nation of Gods and Earths", "obj_label": "Harlem", "uuid": "de1f4b96-2fee-4021-b1e9-9ba0080650e5"}
+{"sub_label": "Chanel", "obj_label": "Paris", "uuid": "d601f426-6a59-4a44-8183-07d97ef6e225"}
+{"sub_label": "Spiderweb Software", "obj_label": "Seattle", "uuid": "70a65c6a-1302-42f4-8e62-a1f643c7c667"}
+{"sub_label": "Groove Armada", "obj_label": "London", "uuid": "e4d458e9-58a5-4e60-89e0-6677cea71ffb"}
+{"sub_label": "Steinway & Sons", "obj_label": "Manhattan", "uuid": "4454eda7-6764-42ef-84ba-35c895242d63"}
+{"sub_label": "These Arms Are Snakes", "obj_label": "Seattle", "uuid": "fc8aa17f-fdee-4d9d-8bf6-d8af8897bb4c"}
+{"sub_label": "RapidMind", "obj_label": "Waterloo", "uuid": "4f60445d-5041-409d-8dfb-11bda003618f"}
+{"sub_label": "The Rasmus", "obj_label": "Helsinki", "uuid": "58423b0e-1f3d-43c1-9240-9b5de7e740ed"}
+{"sub_label": "Ensiferum", "obj_label": "Helsinki", "uuid": "7c701e43-30ff-4840-bde0-93ef30ea29ef"}
+{"sub_label": "Sug", "obj_label": "Japan", "uuid": "f3de7f13-f1a5-4e83-93c9-f1a2af786306"}
+{"sub_label": "The Postal Service", "obj_label": "Seattle", "uuid": "2f4f07e3-5a2c-4c7a-9c79-9c2311de2b19"}
+{"sub_label": "Pearson Yachts", "obj_label": "Bristol", "uuid": "fb9beb2a-c2f5-47f4-9418-9251d60a1e2a"}
+{"sub_label": "Sugababes", "obj_label": "London", "uuid": "ffe05b8c-e27d-4885-8ae0-d5bd75a80f8f"}
+{"sub_label": "T\u014dh\u014d", "obj_label": "Tokyo", "uuid": "08d7a43a-c4d5-4681-85a2-1f1fb45f47d6"}
+{"sub_label": "Deaf School", "obj_label": "Liverpool", "uuid": "3d40ba3b-b6f7-407b-bc15-2db367c4282f"}
+{"sub_label": "Dem Franchize Boyz", "obj_label": "Atlanta", "uuid": "f547ae79-333d-49bf-965a-8ff83f71b1ba"}
+{"sub_label": "China National Nuclear Corporation", "obj_label": "Beijing", "uuid": "a8f02fec-dc70-4fd5-bdd8-17593d2d26fc"}
+{"sub_label": "Cool & Dre", "obj_label": "Miami", "uuid": "92b0f4f9-8aef-475a-b261-56b9314f8968"}
+{"sub_label": "National Iranian Oil Company", "obj_label": "Tehran", "uuid": "51f29628-aa5e-4d13-ab8c-874a1723a2d8"}
+{"sub_label": "Deacon Blue", "obj_label": "Glasgow", "uuid": "b0c416b1-a310-455d-9dfd-8dc57232fd95"}
+{"sub_label": "Stardust Five", "obj_label": "Melbourne", "uuid": "04f6ba4a-761b-4680-b247-0b6a30caf68e"}
+{"sub_label": "Kid British", "obj_label": "Manchester", "uuid": "5faaad3d-d2cd-4e13-b3dd-81c0d5473bb1"}
+{"sub_label": "Def Leppard", "obj_label": "Sheffield", "uuid": "8571560c-ac9a-44e5-be28-9a6d607ea827"}
+{"sub_label": "Girls' Generation", "obj_label": "Seoul", "uuid": "91c408ca-a109-42ca-a442-fda7a12d8e76"}
+{"sub_label": "Massimo Dutti", "obj_label": "Barcelona", "uuid": "4b656ca4-8aee-446b-890f-70bdfd3005b9"}
+{"sub_label": "Midnight Youth", "obj_label": "Auckland", "uuid": "332a1ed4-93e7-4595-9430-dfe3911f4043"}
+{"sub_label": "Dominion", "obj_label": "Toronto", "uuid": "cca3d554-ffcb-448b-9df8-a188e02c275a"}
+{"sub_label": "Royal Mint", "obj_label": "London", "uuid": "19f58894-c875-4c99-ae02-4aa0bb84e567"}
+{"sub_label": "Nikon", "obj_label": "Tokyo", "uuid": "3db72385-9ac2-4c76-a844-42be58b4592a"}
+{"sub_label": "Shirehorses", "obj_label": "Manchester", "uuid": "c9741518-94e0-4c02-8b04-637989f62d4a"}

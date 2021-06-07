@@ -1,0 +1,950 @@
+{"sub_label": "Paraguay", "obj_label": "Germany", "uuid": "eb823ce6-9b85-493d-9342-dd379e8963d4"}
+{"sub_label": "Libya", "obj_label": "Brazil", "uuid": "ace84050-20ca-499b-a133-69504f7f7398"}
+{"sub_label": "Australia", "obj_label": "Romania", "uuid": "93414034-feba-4e0d-a3e3-33011ee3b649"}
+{"sub_label": "Saudi Arabia", "obj_label": "Lebanon", "uuid": "041a0432-236f-4a66-981d-189aa155161b"}
+{"sub_label": "Belarus", "obj_label": "Serbia", "uuid": "f4710b14-62f2-40c6-b5ea-a32c8e472b61"}
+{"sub_label": "Yemen", "obj_label": "Syria", "uuid": "c5e0b3de-cac4-48c0-a98a-0ad238735343"}
+{"sub_label": "Brazil", "obj_label": "Venezuela", "uuid": "0631adbe-9473-4acb-a5e0-59808e54c2ee"}
+{"sub_label": "People's Republic of China", "obj_label": "Germany", "uuid": "ac6922a1-6699-428a-98dc-05e0729e35bf"}
+{"sub_label": "Ireland", "obj_label": "Italy", "uuid": "c54c33a0-08cc-4676-9a5f-897da31886cc"}
+{"sub_label": "Italy", "obj_label": "Peru", "uuid": "20b4fc0d-4944-4e88-bd03-c332261a092c"}
+{"sub_label": "Estonia", "obj_label": "Australia", "uuid": "ba97ecba-11c8-4ac0-a50e-8c32b4326a06"}
+{"sub_label": "Syria", "obj_label": "Egypt", "uuid": "ba4f22d0-9d25-4a43-955c-00e984519586"}
+{"sub_label": "Israel", "obj_label": "Ethiopia", "uuid": "959d2737-95be-4e9e-a8af-5b56b1ce726d"}
+{"sub_label": "Zambia", "obj_label": "Australia", "uuid": "a5f14f9f-f6ce-431e-a18d-9126995f6c76"}
+{"sub_label": "Peru", "obj_label": "Italy", "uuid": "af8b0bc6-f4c9-4094-bf4a-c2557db48baa"}
+{"sub_label": "Ukraine", "obj_label": "Kenya", "uuid": "238851f0-2ab0-4179-a1fe-3a8fefba68d4"}
+{"sub_label": "Andorra", "obj_label": "Italy", "uuid": "190697f3-9e00-4f83-a9e1-d7264d52f6eb"}
+{"sub_label": "Ukraine", "obj_label": "Serbia", "uuid": "6bf153f4-ab23-447c-a296-9ee53127f58a"}
+{"sub_label": "Holy See", "obj_label": "Poland", "uuid": "67b19fe5-8eed-4bb5-87d0-6267f3793ce3"}
+{"sub_label": "Libya", "obj_label": "Italy", "uuid": "d8d64a5c-4010-4da8-bef0-fa87fb7fe034"}
+{"sub_label": "Israel", "obj_label": "Greece", "uuid": "eb7282b5-8cbe-4ff8-8776-fbf2ec5f5f56"}
+{"sub_label": "Germany", "obj_label": "Mali", "uuid": "443493dc-adb2-4234-9e6c-4a354df187ba"}
+{"sub_label": "Germany", "obj_label": "Singapore", "uuid": "d071e68c-eb72-4341-9895-4a49ba4e3639"}
+{"sub_label": "Soviet Union", "obj_label": "Canada", "uuid": "3c8d1c17-2375-4072-bbfb-30781fc156a0"}
+{"sub_label": "Saudi Arabia", "obj_label": "Tanzania", "uuid": "487720b8-26d0-4921-a732-72c863f7692d"}
+{"sub_label": "Brazil", "obj_label": "Chile", "uuid": "768bf25f-9aee-46d8-b48a-30f6a0e548dc"}
+{"sub_label": "Canada", "obj_label": "Pakistan", "uuid": "ac9e4bcc-757b-4ca3-8e06-8c5600886731"}
+{"sub_label": "Australia", "obj_label": "Jordan", "uuid": "3c4fbc53-0136-4e4d-b466-fae0ee4b985a"}
+{"sub_label": "Belarus", "obj_label": "Cuba", "uuid": "2941ff3e-608f-4753-8c8e-2a75e890c623"}
+{"sub_label": "Australia", "obj_label": "Indonesia", "uuid": "24e497b5-4b12-4812-89fd-54f806531175"}
+{"sub_label": "Benin", "obj_label": "Brazil", "uuid": "4f514354-6831-4eaa-8211-379ff5a668f1"}
+{"sub_label": "Jordan", "obj_label": "Germany", "uuid": "18be0712-0cab-4b4d-a2be-28a9e81076be"}
+{"sub_label": "Australia", "obj_label": "Vietnam", "uuid": "c800ac2c-5164-489d-8112-781aad3786bc"}
+{"sub_label": "Taiwan", "obj_label": "Panama", "uuid": "fe31647a-bd98-4ae0-a279-b66e8c52af02"}
+{"sub_label": "Zambia", "obj_label": "Brazil", "uuid": "fedc5778-56db-4192-ac22-38f657a7d804"}
+{"sub_label": "Germany", "obj_label": "Cuba", "uuid": "c788fa96-7248-48ff-aaec-b4b184fd6dde"}
+{"sub_label": "Australia", "obj_label": "Lebanon", "uuid": "ff837009-4db9-4987-88a6-662d42b0b4f8"}
+{"sub_label": "Vanuatu", "obj_label": "Australia", "uuid": "419ea1d2-1813-4bf9-9897-986e42595cd5"}
+{"sub_label": "Germany", "obj_label": "Norway", "uuid": "573a9b6f-c584-482f-9b20-399615f40886"}
+{"sub_label": "European Union", "obj_label": "Brazil", "uuid": "f7b6bc4d-f4cd-47a2-ac56-bee5bfb7de30"}
+{"sub_label": "Panama", "obj_label": "Germany", "uuid": "cbc95de1-69ca-4f11-9187-8c968efcc205"}
+{"sub_label": "Holy See", "obj_label": "Algeria", "uuid": "ff0c9af3-3b20-434d-a7c2-597cd2d4466f"}
+{"sub_label": "Kenya", "obj_label": "Egypt", "uuid": "368586ae-26ef-4305-8218-677978f40528"}
+{"sub_label": "Guyana", "obj_label": "Brazil", "uuid": "a8051e06-bb64-4650-b804-4dca4e7944f2"}
+{"sub_label": "Australia", "obj_label": "Uruguay", "uuid": "c2a829dd-639c-4813-8610-41177ef838d7"}
+{"sub_label": "Syria", "obj_label": "Yemen", "uuid": "9ecec0db-032b-4bc8-97a1-bbea57de95c2"}
+{"sub_label": "Italy", "obj_label": "Turkey", "uuid": "f4d4b955-07c6-48e6-b61c-1cbe3ff3e879"}
+{"sub_label": "Australia", "obj_label": "Tanzania", "uuid": "f4b3aa26-0f5e-440d-8f61-646b53acee2c"}
+{"sub_label": "Cyprus", "obj_label": "Australia", "uuid": "f07f222d-edf5-44c5-aeea-84b5422086f9"}
+{"sub_label": "Iceland", "obj_label": "Italy", "uuid": "fd8a2143-8678-4bc6-b96b-3b2246d76a7a"}
+{"sub_label": "Benin", "obj_label": "Germany", "uuid": "a87efa75-3f42-4a19-af2f-f350a9d1b367"}
+{"sub_label": "Saudi Arabia", "obj_label": "Laos", "uuid": "5660c66a-10e0-43bc-b35f-4f495e96c6bf"}
+{"sub_label": "Brazil", "obj_label": "Russia", "uuid": "6b12dd0d-20b8-4c60-83c1-d7d0d42fb9d0"}
+{"sub_label": "Mexico", "obj_label": "Australia", "uuid": "9f7ffbd4-6fc5-46b7-a894-28ede8276ebb"}
+{"sub_label": "Algeria", "obj_label": "Germany", "uuid": "fcdff951-c434-4b47-b54b-46c1f9540741"}
+{"sub_label": "Venezuela", "obj_label": "Brazil", "uuid": "ed54cece-76cf-4bab-9df1-b4596dfc7502"}
+{"sub_label": "South Korea", "obj_label": "Germany", "uuid": "b6db328a-63a6-4c9d-bf41-6a054db41520"}
+{"sub_label": "United Kingdom", "obj_label": "Lithuania", "uuid": "9beefbaa-bed3-4054-847a-adb781c70197"}
+{"sub_label": "Russia", "obj_label": "Serbia", "uuid": "6cbcea8c-e3b6-40cf-b932-45794e0a1597"}
+{"sub_label": "Ireland", "obj_label": "Australia", "uuid": "66df88c4-4c8a-450f-8813-0e9e0cbfa26b"}
+{"sub_label": "Denmark", "obj_label": "Germany", "uuid": "dacaf159-a589-4cb0-af5c-fba04078b00e"}
+{"sub_label": "Angola", "obj_label": "Australia", "uuid": "3b03ac32-2cc2-4dfd-a652-dbd8d4c24535"}
+{"sub_label": "Ukraine", "obj_label": "Turkey", "uuid": "3997cfb4-ed04-48c2-8858-cb930a6692b6"}
+{"sub_label": "Romania", "obj_label": "Italy", "uuid": "dc7ad0f0-d3ea-4dc8-be29-0de899536765"}
+{"sub_label": "Liechtenstein", "obj_label": "Germany", "uuid": "b74befd0-8010-47f5-a6b7-95e2c7dce2fd"}
+{"sub_label": "Greece", "obj_label": "Italy", "uuid": "6a063299-711a-4a03-8617-d5bc8ee2217d"}
+{"sub_label": "New Caledonia", "obj_label": "Australia", "uuid": "4a2972c0-4b92-472c-964a-5ddea2ca58be"}
+{"sub_label": "Zambia", "obj_label": "Ireland", "uuid": "25f77321-23af-4a0a-a461-e461b9c666f8"}
+{"sub_label": "Czech Republic", "obj_label": "Israel", "uuid": "865c89bf-f25b-405c-86eb-fd2d3a316749"}
+{"sub_label": "Hong Kong", "obj_label": "Australia", "uuid": "8e60c84b-de57-4d3e-a2de-d514379ac5ad"}
+{"sub_label": "Nepal", "obj_label": "Australia", "uuid": "0d5902c6-419a-4235-b4cb-deeba94e362c"}
+{"sub_label": "Austria", "obj_label": "France", "uuid": "793875a8-11c4-42d0-b1b4-8a40ef5d4fc4"}
+{"sub_label": "Ukraine", "obj_label": "Slovakia", "uuid": "95120ce9-0272-481d-aa76-8afb04844fc0"}
+{"sub_label": "Kenya", "obj_label": "Italy", "uuid": "bf6a6f66-78a2-4f36-a60b-4dda32e2e151"}
+{"sub_label": "Saudi Arabia", "obj_label": "Netherlands", "uuid": "b271a314-783d-4b67-8dd5-77bc00e7443d"}
+{"sub_label": "Australia", "obj_label": "Austria", "uuid": "d470cf51-a237-41fd-875b-8d1e7c38179c"}
+{"sub_label": "Brazil", "obj_label": "India", "uuid": "1b8754a5-7647-4262-b94c-f15239699a15"}
+{"sub_label": "Italy", "obj_label": "Iran", "uuid": "8e8c541f-e7c7-4cd4-b4b5-adeaefcc1f30"}
+{"sub_label": "Ukraine", "obj_label": "Belarus", "uuid": "f9dfb316-0332-4f5e-ac32-f930d171a66d"}
+{"sub_label": "Germany", "obj_label": "Angola", "uuid": "b8e49e44-7bf3-4541-a08f-982a10b8735a"}
+{"sub_label": "United Arab Emirates", "obj_label": "Yemen", "uuid": "1e4b0ad0-0ffb-479c-9ed5-242b943bb981"}
+{"sub_label": "Liechtenstein", "obj_label": "Belgium", "uuid": "044e1ee9-e1ee-47c3-b24d-fa1381996803"}
+{"sub_label": "United States of America", "obj_label": "Afghanistan", "uuid": "719a58e7-1154-450d-9087-d2b9e5dfcc5a"}
+{"sub_label": "Slovakia", "obj_label": "Germany", "uuid": "2032dfb8-4f13-4691-ab5a-a1eeb57ea1dc"}
+{"sub_label": "Italy", "obj_label": "Pakistan", "uuid": "47a96f58-839d-472a-9a55-6e5dba6ac5c1"}
+{"sub_label": "Jamaica", "obj_label": "Brazil", "uuid": "3743997c-7123-4cd5-9fcf-3c40acbb0701"}
+{"sub_label": "Egypt", "obj_label": "Germany", "uuid": "73485036-c4ad-4333-bd69-72c16e5aca5d"}
+{"sub_label": "Australia", "obj_label": "Slovenia", "uuid": "79045a37-d692-44bb-8740-34c0c5c1f7de"}
+{"sub_label": "Holy See", "obj_label": "Italy", "uuid": "7a6d35af-d3e8-4e4f-a615-f5fc76572f9d"}
+{"sub_label": "Syria", "obj_label": "Iraq", "uuid": "ed3fe4b7-319b-488b-9156-3182ebffe7db"}
+{"sub_label": "Philippines", "obj_label": "Italy", "uuid": "ba0fd252-3845-46ec-b745-80521b9eda0b"}
+{"sub_label": "Zambia", "obj_label": "Ethiopia", "uuid": "929ef1a6-e0a5-41f7-891b-bed56b8b1e5b"}
+{"sub_label": "East Timor", "obj_label": "Australia", "uuid": "432f9e0e-6f13-41bc-a821-e00743ee71c8"}
+{"sub_label": "Iran", "obj_label": "Israel", "uuid": "d5794a7f-2102-407a-acdd-1cb01d0d788b"}
+{"sub_label": "Australia", "obj_label": "Qatar", "uuid": "c783dd45-4d85-4f5b-a8d1-7507aaf8aee9"}
+{"sub_label": "South Africa", "obj_label": "Italy", "uuid": "e465c90c-b7f0-4b82-9d7e-420f997433e4"}
+{"sub_label": "Andorra", "obj_label": "France", "uuid": "e1bc7e93-c0a9-43ac-bb61-1db4bc20027d"}
+{"sub_label": "Canada", "obj_label": "Panama", "uuid": "185502cc-892a-49eb-a0c2-dffe1b0b9405"}
+{"sub_label": "Malta", "obj_label": "Italy", "uuid": "4b1fd585-72f2-4dad-bc0c-d85881dbf17a"}
+{"sub_label": "Germany", "obj_label": "Thailand", "uuid": "daf3569f-47ee-4e54-8cbf-3a4a95dab9d1"}
+{"sub_label": "Cape Verde", "obj_label": "France", "uuid": "fb41e502-7c4d-4885-9a95-3d4837c82a1d"}
+{"sub_label": "Australia", "obj_label": "Nepal", "uuid": "3dbaa32b-f016-4dca-818b-406d268f390d"}
+{"sub_label": "Australia", "obj_label": "Ukraine", "uuid": "be227807-74a3-43e4-969a-3913f9e193ee"}
+{"sub_label": "Italy", "obj_label": "Spain", "uuid": "e41a2c44-76f4-4c15-8212-d1c357edec4a"}
+{"sub_label": "Brazil", "obj_label": "Indonesia", "uuid": "1e008674-7c15-4064-b52f-d7c65156f06e"}
+{"sub_label": "Holy See", "obj_label": "Taiwan", "uuid": "7e8c8333-4a1a-42d6-9c55-ef3fb088f30e"}
+{"sub_label": "Mongolia", "obj_label": "Turkey", "uuid": "18a3ee66-c401-4905-80ee-f1632a40188a"}
+{"sub_label": "France", "obj_label": "Serbia", "uuid": "3b32ae53-f51b-4dbe-a4b0-ba88fbafc4bc"}
+{"sub_label": "Brazil", "obj_label": "Bolivia", "uuid": "58f2e862-976d-4d66-b4c6-b4cf16cbf1be"}
+{"sub_label": "Uganda", "obj_label": "Germany", "uuid": "97f6c92d-63df-480c-97a8-7b24ef9e7ba4"}
+{"sub_label": "Cyprus", "obj_label": "Greece", "uuid": "90263470-a8a6-4a3d-b61a-014330fa1d67"}
+{"sub_label": "Netherlands", "obj_label": "Germany", "uuid": "011fef13-df5e-43cd-8d39-705714c71174"}
+{"sub_label": "Italy", "obj_label": "Thailand", "uuid": "39715e22-bc38-4014-9d66-f8dd9446c1eb"}
+{"sub_label": "Ukraine", "obj_label": "Latvia", "uuid": "bfa08e12-aa1b-4c7e-ad08-f848b721ca37"}
+{"sub_label": "Bulgaria", "obj_label": "Italy", "uuid": "df1f02a1-7a8a-4ccf-b5dc-6fa8d3470089"}
+{"sub_label": "Italy", "obj_label": "Denmark", "uuid": "063f988b-fc31-483d-af28-e094ba57a06b"}
+{"sub_label": "India", "obj_label": "Brazil", "uuid": "e1712c91-b119-4cc5-ab16-dd6a3a489d7c"}
+{"sub_label": "Saudi Arabia", "obj_label": "Bahrain", "uuid": "cbf503fd-dbe6-45f0-87a1-8664a7ca9e29"}
+{"sub_label": "Ethiopia", "obj_label": "Israel", "uuid": "fa157b0d-f6f3-4b0b-80d2-ffb1b414807b"}
+{"sub_label": "Latvia", "obj_label": "Australia", "uuid": "c3e2a9d0-8c4e-4737-879d-cc928b632b18"}
+{"sub_label": "Israel", "obj_label": "Iran", "uuid": "47f4b04b-e034-4560-a640-14de94fdd688"}
+{"sub_label": "Central African Republic", "obj_label": "Nigeria", "uuid": "7f5068da-2a80-4dd9-81a0-f99cacb23450"}
+{"sub_label": "Australia", "obj_label": "Nicaragua", "uuid": "a2dea6f5-fa82-48e1-9289-28003fc78d46"}
+{"sub_label": "Ukraine", "obj_label": "Algeria", "uuid": "2d2ef851-7797-48c7-9ce1-ef5c682183b8"}
+{"sub_label": "United States of America", "obj_label": "Germany", "uuid": "7b2c56d3-4a0b-4425-bab9-6222543be42e"}
+{"sub_label": "Cape Verde", "obj_label": "Angola", "uuid": "70b03281-563e-49d5-92a6-f34e87c1d871"}
+{"sub_label": "Liechtenstein", "obj_label": "Austria", "uuid": "947615e4-52de-4314-ac63-8bdcb03ba4f6"}
+{"sub_label": "Australia", "obj_label": "Philippines", "uuid": "3cdb6b59-cef0-41e5-b9f9-af6241226b07"}
+{"sub_label": "Paraguay", "obj_label": "Brazil", "uuid": "46469868-c10b-4199-9002-b8a493de7555"}
+{"sub_label": "Italy", "obj_label": "Sweden", "uuid": "1f938762-7840-4ced-960a-54f6c03f537a"}
+{"sub_label": "Italy", "obj_label": "Mexico", "uuid": "7db64adc-ddb7-4097-9303-238f0f2f6b22"}
+{"sub_label": "Cape Verde", "obj_label": "Portugal", "uuid": "cfdb37f5-9691-445a-8ed7-fbb2fb9669e3"}
+{"sub_label": "Singapore", "obj_label": "Malaysia", "uuid": "d90b18e2-d1af-40c1-8e7e-98bdc961296b"}
+{"sub_label": "Poland", "obj_label": "Canada", "uuid": "238244fb-6dcb-46d7-8a7a-14e8950858f8"}
+{"sub_label": "Germany", "obj_label": "Azerbaijan", "uuid": "cdc43e9b-ad1b-41d5-b3ec-5c4d33a6f7da"}
+{"sub_label": "Ecuador", "obj_label": "Germany", "uuid": "9cd5549c-c106-4b24-80ad-78a5d152f09d"}
+{"sub_label": "Italy", "obj_label": "Malta", "uuid": "b2f22436-e350-428d-8878-088a74d7a687"}
+{"sub_label": "Kenya", "obj_label": "Tanzania", "uuid": "891fce9a-d978-4640-bc23-7b553e617a19"}
+{"sub_label": "Italy", "obj_label": "Norway", "uuid": "7637eacd-1887-4e63-9a8c-b2922856c28f"}
+{"sub_label": "Trinidad and Tobago", "obj_label": "Australia", "uuid": "7d41cf86-d343-4935-aee3-378f5e74e10d"}
+{"sub_label": "Ethiopia", "obj_label": "Australia", "uuid": "0df1fa08-c0d7-40b9-a611-afd3a4ed4983"}
+{"sub_label": "Italy", "obj_label": "Greece", "uuid": "7581f37d-f74a-4e83-a806-97aaac79d879"}
+{"sub_label": "Holy See", "obj_label": "Greece", "uuid": "f26b743d-59e1-405f-8cee-51b4186b543e"}
+{"sub_label": "Australia", "obj_label": "India", "uuid": "0cdde56d-6d22-4bc7-a7b4-8130238ed27d"}
+{"sub_label": "Holy See", "obj_label": "Argentina", "uuid": "5815d8b6-9b40-423f-ac78-da08394b0960"}
+{"sub_label": "Australia", "obj_label": "Cyprus", "uuid": "70168311-9089-4750-bacc-e6a86e076f58"}
+{"sub_label": "Central African Republic", "obj_label": "Egypt", "uuid": "628412fd-3d9c-4346-8257-746a1a04f9ad"}
+{"sub_label": "Canada", "obj_label": "Morocco", "uuid": "ef602df6-5520-438a-9e1c-6f162d9f9b4a"}
+{"sub_label": "Sweden", "obj_label": "Italy", "uuid": "9b66bfb3-32c7-449b-a286-973f9075f01a"}
+{"sub_label": "Canada", "obj_label": "Denmark", "uuid": "47c3f258-4d4e-4551-ba54-3684325e73b6"}
+{"sub_label": "Ukraine", "obj_label": "Egypt", "uuid": "065f2278-f9a4-43af-b957-ad9bbdeafcca"}
+{"sub_label": "Ukraine", "obj_label": "Italy", "uuid": "ec121d6a-917d-4dc8-8e90-35a1635728f0"}
+{"sub_label": "Portugal", "obj_label": "Australia", "uuid": "ea7fd1a2-b515-42f3-8d38-e22d155815d5"}
+{"sub_label": "Colombia", "obj_label": "Italy", "uuid": "ad3a4e6f-44ed-4a45-9ff9-2a5a17340f5c"}
+{"sub_label": "Finland", "obj_label": "Canada", "uuid": "283245f6-11b5-46e2-8f43-07a0f3e17f2b"}
+{"sub_label": "United States of America", "obj_label": "Yemen", "uuid": "e44a84ca-c2a0-4535-ad0f-793522835129"}
+{"sub_label": "Brazil", "obj_label": "Iran", "uuid": "704b735f-9455-40d3-9c01-7b73c742f2df"}
+{"sub_label": "Tanzania", "obj_label": "Germany", "uuid": "58facfbd-534c-4840-ab71-791ac3a05e76"}
+{"sub_label": "Zambia", "obj_label": "Libya", "uuid": "581078df-fc03-44e4-85d7-94302c512db9"}
+{"sub_label": "German Democratic Republic", "obj_label": "Germany", "uuid": "9ea20f4d-bbdc-4e20-b7ac-9ad91ce23a3a"}
+{"sub_label": "Brazil", "obj_label": "Argentina", "uuid": "a638628d-11af-41be-8d02-ac018a631eb8"}
+{"sub_label": "Cuba", "obj_label": "Brazil", "uuid": "69416808-fddb-431b-a3e6-1949a0ffff21"}
+{"sub_label": "Canada", "obj_label": "Norway", "uuid": "7f6247f2-ad9e-4280-afe9-4253481a7e62"}
+{"sub_label": "Yemen", "obj_label": "Oman", "uuid": "56552697-a84a-4ede-82d0-a4c8e3101f01"}
+{"sub_label": "Albania", "obj_label": "Afghanistan", "uuid": "9a22eba2-b7c8-49bb-aa6d-d7addfff8f7a"}
+{"sub_label": "North Macedonia", "obj_label": "Australia", "uuid": "37da1f09-5328-4015-9412-73e46eb22d1d"}
+{"sub_label": "Philippines", "obj_label": "Indonesia", "uuid": "68b804dc-9b60-4942-a7b5-42d34be33ea1"}
+{"sub_label": "Pakistan", "obj_label": "Germany", "uuid": "c8269316-d297-41c5-ac16-50ca8c4c9c4f"}
+{"sub_label": "Cyprus", "obj_label": "Italy", "uuid": "e8d29276-8c2e-463f-9535-aad68e9e2b51"}
+{"sub_label": "Australia", "obj_label": "Argentina", "uuid": "c29c2b91-f058-4a31-9099-9d2b59ee04e8"}
+{"sub_label": "Botswana", "obj_label": "Australia", "uuid": "6b9dfe9a-c763-40df-91fb-271de3d8f2e7"}
+{"sub_label": "Belarus", "obj_label": "Finland", "uuid": "32f84b6c-7402-4d44-8fb1-f5e0011a2740"}
+{"sub_label": "Russia", "obj_label": "Canada", "uuid": "2cf956a5-0c9e-4419-818d-650bc20444f7"}
+{"sub_label": "Zambia", "obj_label": "Angola", "uuid": "db3bf183-9c5b-4784-9774-222bd0d52825"}
+{"sub_label": "Belarus", "obj_label": "Netherlands", "uuid": "a4165cd5-53af-4cad-abf0-53146301966e"}
+{"sub_label": "Ukraine", "obj_label": "Malta", "uuid": "2b234795-e955-433d-b1fa-615613138b34"}
+{"sub_label": "Holy See", "obj_label": "Croatia", "uuid": "b268ee19-c442-46c1-ad78-625c46f77034"}
+{"sub_label": "Australia", "obj_label": "Canada", "uuid": "611a09b8-ba6b-45ae-a0f3-476b4db6ce7c"}
+{"sub_label": "Russia", "obj_label": "Japan", "uuid": "8ef90846-1feb-48af-b3bd-ef135af90dd5"}
+{"sub_label": "Vietnam", "obj_label": "Germany", "uuid": "b0757f5d-2cf7-4cd9-81ad-cbc9c71ed764"}
+{"sub_label": "Australia", "obj_label": "Netherlands", "uuid": "59bcd31d-d639-4671-9f0e-43ae8c108a2b"}
+{"sub_label": "Afghanistan", "obj_label": "Italy", "uuid": "729cc949-33f2-4ae2-a4d1-01c6eb0fee2c"}
+{"sub_label": "Honduras", "obj_label": "Germany", "uuid": "8463cf7d-4bc3-4834-b163-dd9b5353c36c"}
+{"sub_label": "People's Republic of China", "obj_label": "Italy", "uuid": "6104865c-467b-4d87-b9e5-c06d097ea555"}
+{"sub_label": "Spain", "obj_label": "Australia", "uuid": "8e3c5718-0311-4a33-b759-b20811a8040d"}
+{"sub_label": "Colombia", "obj_label": "Brazil", "uuid": "2c8d0b4b-1e2c-4375-ac16-8ccb15c9ba19"}
+{"sub_label": "South Korea", "obj_label": "Russia", "uuid": "215d1758-db42-485b-85da-3f438e70dd90"}
+{"sub_label": "Iraq", "obj_label": "Australia", "uuid": "06501efe-340e-4864-bea4-78829fd347f0"}
+{"sub_label": "Botswana", "obj_label": "Germany", "uuid": "7b09dd57-7a84-459b-ae3f-68797ef875c4"}
+{"sub_label": "Brazil", "obj_label": "Mexico", "uuid": "aaebff75-8a5c-4215-9899-dba204b9b838"}
+{"sub_label": "New Zealand", "obj_label": "Australia", "uuid": "4bd30fcd-c886-4216-8dec-10f26d182dc1"}
+{"sub_label": "Cyprus", "obj_label": "Canada", "uuid": "aaf27ae1-cab2-45be-90d3-9b9e0e5cbf54"}
+{"sub_label": "Canada", "obj_label": "Finland", "uuid": "f08e1809-1ad8-48c4-ada1-0383ff8caaf7"}
+{"sub_label": "Egypt", "obj_label": "Canada", "uuid": "a36e2139-44b9-4c04-bcbf-f65eaeb4afd2"}
+{"sub_label": "Italy", "obj_label": "Kosovo", "uuid": "6cf4d306-2bc3-4a79-add5-9103c8a17ff4"}
+{"sub_label": "Iraq", "obj_label": "Yemen", "uuid": "2ec759b6-8fb5-44fb-807a-2b4618a77150"}
+{"sub_label": "Brazil", "obj_label": "Serbia", "uuid": "0e80383c-c854-4e29-8677-95d38c14cd4f"}
+{"sub_label": "Jordan", "obj_label": "Australia", "uuid": "515c1343-93e1-4631-975d-251cf1950c74"}
+{"sub_label": "Laos", "obj_label": "Australia", "uuid": "5ed2544b-4b6d-4eff-a192-9e00daada683"}
+{"sub_label": "Saudi Arabia", "obj_label": "Turkey", "uuid": "079e52e7-27ff-423b-9b0d-58fbcec0d4e6"}
+{"sub_label": "Saudi Arabia", "obj_label": "Pakistan", "uuid": "3e7beac1-90c5-4b24-94c2-1a726cfbf59f"}
+{"sub_label": "Brazil", "obj_label": "Jamaica", "uuid": "538cb45f-d29a-4546-8142-5238af1a8186"}
+{"sub_label": "Belarus", "obj_label": "Slovenia", "uuid": "dbb91048-cc3e-424b-a6de-596dfcb29256"}
+{"sub_label": "Kosovo", "obj_label": "Australia", "uuid": "6c15393b-505a-4887-9995-f64141791ff5"}
+{"sub_label": "Russia", "obj_label": "Cuba", "uuid": "a5a8360e-4cfe-498c-9201-9414f52286cc"}
+{"sub_label": "Norway", "obj_label": "Germany", "uuid": "78f6d3b5-e3f7-484e-a83e-e6c50a228d14"}
+{"sub_label": "Burkina Faso", "obj_label": "Germany", "uuid": "995f5542-14b1-4861-b809-8d627e668b7d"}
+{"sub_label": "Uganda", "obj_label": "Kenya", "uuid": "3fa31e0a-9749-4db3-9163-1fc50fa7be5d"}
+{"sub_label": "Mexico", "obj_label": "Italy", "uuid": "bbb3d916-c599-4675-8c64-ba2884b86a86"}
+{"sub_label": "Thailand", "obj_label": "Italy", "uuid": "191dbde9-d93b-4f59-95c1-b71ff38d1685"}
+{"sub_label": "Bangladesh", "obj_label": "Germany", "uuid": "6e679ce8-757c-44c5-a93d-844fb6c4b0ea"}
+{"sub_label": "Ukraine", "obj_label": "Angola", "uuid": "16577dbb-ee0a-4ff8-84d9-93f29e758b39"}
+{"sub_label": "People's Republic of China", "obj_label": "Australia", "uuid": "0ea4c8bb-6982-4861-b34e-82af569e6c74"}
+{"sub_label": "Philippines", "obj_label": "Israel", "uuid": "2e7e6877-3d8b-4dbc-a7a9-c183efa31c38"}
+{"sub_label": "Mauritius", "obj_label": "Australia", "uuid": "88e89d48-ad40-46ac-a417-8c1e137c5eff"}
+{"sub_label": "Malaysia", "obj_label": "Canada", "uuid": "043dc600-e360-47b6-a791-f4263de4dd9a"}
+{"sub_label": "Soviet Union", "obj_label": "Romania", "uuid": "60504aca-43ba-436e-8673-88f2af44d0d5"}
+{"sub_label": "Ukraine", "obj_label": "Bulgaria", "uuid": "51beb6ef-0bcc-4e05-b604-354a64ffe59b"}
+{"sub_label": "Brazil", "obj_label": "Armenia", "uuid": "d05dad67-f06e-4465-8498-e4ad66512072"}
+{"sub_label": "Australia", "obj_label": "Ghana", "uuid": "2b0b8806-f462-4b20-acfe-aefe9475c114"}
+{"sub_label": "Egypt", "obj_label": "Russia", "uuid": "8e754d04-dc15-4a6b-b840-3a3f9638a91f"}
+{"sub_label": "Germany", "obj_label": "Peru", "uuid": "6edfc3e7-7f6d-4ce6-9dcc-5d930a9884bc"}
+{"sub_label": "Germany", "obj_label": "Cameroon", "uuid": "d3e42df0-c56b-4c3c-b786-a69cb5c43067"}
+{"sub_label": "Italy", "obj_label": "Finland", "uuid": "301ea86c-8eb4-4696-a25b-6f99fdfa56a3"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "Italy", "uuid": "2ac28906-daaf-46bd-ac18-f024a7b6b770"}
+{"sub_label": "Ukraine", "obj_label": "Finland", "uuid": "0e187391-7af0-439f-8cc6-109ac36c7ecb"}
+{"sub_label": "Russia", "obj_label": "India", "uuid": "7673653b-2a4c-4b35-9199-84f48da99c1c"}
+{"sub_label": "Australia", "obj_label": "Zimbabwe", "uuid": "146742e8-7124-4a70-af0e-5bc017e372b6"}
+{"sub_label": "Lebanon", "obj_label": "Brazil", "uuid": "8e411598-2752-48db-8cd3-f2fde5e1393b"}
+{"sub_label": "Holy See", "obj_label": "Germany", "uuid": "ad6a67c1-fa91-4f1a-8c3d-8b6d0b71ae7c"}
+{"sub_label": "Australia", "obj_label": "Croatia", "uuid": "a0382b3b-3566-42e8-a594-8eaf558a1938"}
+{"sub_label": "Germany", "obj_label": "Jordan", "uuid": "2117ff76-edbc-4c0e-930a-e11886ddae9e"}
+{"sub_label": "Germany", "obj_label": "Kenya", "uuid": "40940d89-1b94-41a2-b469-9a9745599ceb"}
+{"sub_label": "Brazil", "obj_label": "Canada", "uuid": "e012364b-31e7-464a-ad26-f28d7a15c9c2"}
+{"sub_label": "Saudi Arabia", "obj_label": "Afghanistan", "uuid": "1982fe33-1de9-48be-a14d-21db795d680d"}
+{"sub_label": "Ukraine", "obj_label": "France", "uuid": "28bc5b8f-7baf-4da6-aabc-7e0cc739e6c9"}
+{"sub_label": "Ireland", "obj_label": "Germany", "uuid": "bbb4e110-696b-4280-baf0-2f7aac502c62"}
+{"sub_label": "Samoa", "obj_label": "Australia", "uuid": "52828b3d-d17b-474f-bbd3-32c66e9f8938"}
+{"sub_label": "Tonga", "obj_label": "Australia", "uuid": "3f827084-e0b1-499b-8493-514237caec81"}
+{"sub_label": "Australia", "obj_label": "Kosovo", "uuid": "1501abfe-3138-44c5-9f82-a51e4774a473"}
+{"sub_label": "Saudi Arabia", "obj_label": "Oman", "uuid": "9dc6529a-326f-4b0f-836d-b4404821d718"}
+{"sub_label": "Russia", "obj_label": "France", "uuid": "464514fb-cbe9-45c2-b214-d36e62d7da56"}
+{"sub_label": "Turkey", "obj_label": "Russia", "uuid": "e8f17160-01f6-4088-9f8f-9d3965a58421"}
+{"sub_label": "Philippines", "obj_label": "Japan", "uuid": "dbf222b1-ed2f-43fc-8757-29a9676e85ca"}
+{"sub_label": "Germany", "obj_label": "Australia", "uuid": "b13acf8d-45e5-4b34-af3d-63f66858a75c"}
+{"sub_label": "Finland", "obj_label": "Italy", "uuid": "8ceeb4a0-115f-4e64-9936-40a2dd2ce04b"}
+{"sub_label": "Italy", "obj_label": "Somalia", "uuid": "381d7de3-c2e3-483e-a5dc-882281f059e7"}
+{"sub_label": "Iran", "obj_label": "Brazil", "uuid": "76349d85-77d4-4b79-9320-dfecc62d90e8"}
+{"sub_label": "Germany", "obj_label": "Ghana", "uuid": "b2c43374-6cdd-4073-963c-93eeb024a420"}
+{"sub_label": "Malaysia", "obj_label": "Germany", "uuid": "120f67ac-1c03-4cf1-b165-e39a8e3bf26b"}
+{"sub_label": "Syria", "obj_label": "Qatar", "uuid": "727721d5-4489-4cb9-825e-7a334eaed002"}
+{"sub_label": "Germany", "obj_label": "Belgium", "uuid": "d251a72d-6f1a-470b-8ce9-1e14d276245f"}
+{"sub_label": "India", "obj_label": "Australia", "uuid": "eb7088b2-ed36-4808-ac12-12d459376530"}
+{"sub_label": "Serbia", "obj_label": "Russia", "uuid": "c77b3666-270f-4318-ba25-70d1014a1324"}
+{"sub_label": "Australia", "obj_label": "Japan", "uuid": "28d52b65-6aa5-4c69-a77c-774d1e2ab02a"}
+{"sub_label": "Saudi Arabia", "obj_label": "Greece", "uuid": "a4a99ca3-e040-4199-a585-40634b3893ae"}
+{"sub_label": "South Korea", "obj_label": "Canada", "uuid": "bb67d5e6-d9f9-4e2b-b623-ea8e5559583c"}
+{"sub_label": "Ukraine", "obj_label": "Denmark", "uuid": "2a9d851f-483f-44eb-b6ef-9435c4d5f89c"}
+{"sub_label": "Thailand", "obj_label": "Australia", "uuid": "fca6f615-5b7d-49ff-b4a0-4f48e7c48bbe"}
+{"sub_label": "Syria", "obj_label": "Greece", "uuid": "88a1210e-219f-4544-bbef-4b8723917926"}
+{"sub_label": "Austria", "obj_label": "Kenya", "uuid": "763b3b1d-a277-4ef9-944c-81d5a92c3148"}
+{"sub_label": "Saudi Arabia", "obj_label": "Kenya", "uuid": "4cd0fa04-ccfc-4469-8afb-3f0891387109"}
+{"sub_label": "Madagascar", "obj_label": "Germany", "uuid": "1b446866-f7f6-432a-86cd-41f2fa5dbe2d"}
+{"sub_label": "Honduras", "obj_label": "Australia", "uuid": "79662ccb-45fc-4ac1-81c6-307d6a72ee1e"}
+{"sub_label": "Guatemala", "obj_label": "Germany", "uuid": "79a662e3-720d-492e-9585-88b111b9fbb5"}
+{"sub_label": "Holy See", "obj_label": "India", "uuid": "3ae80467-df0e-4866-9c38-b9b92b7b9f89"}
+{"sub_label": "Germany", "obj_label": "Bulgaria", "uuid": "b197adee-4a7f-4c06-aed0-1272cb42e676"}
+{"sub_label": "Italy", "obj_label": "France", "uuid": "a6196c7f-957c-453a-89c5-a9fc56440003"}
+{"sub_label": "Saudi Arabia", "obj_label": "France", "uuid": "dec5c265-8f07-4c65-8891-807019b06869"}
+{"sub_label": "Australia", "obj_label": "Singapore", "uuid": "04db81ce-03e0-4a85-b325-fb6243213b05"}
+{"sub_label": "Pakistan", "obj_label": "Brazil", "uuid": "9cbb6c7f-18f6-46cd-8b46-53ff774f37ab"}
+{"sub_label": "Yemen", "obj_label": "Italy", "uuid": "dedb0dce-09e2-4431-b463-4089fc1c1088"}
+{"sub_label": "South Africa", "obj_label": "Canada", "uuid": "35acbd0e-9bb3-4b6f-aee7-8edfa71bdd66"}
+{"sub_label": "Australia", "obj_label": "Bangladesh", "uuid": "9bafae99-44b4-4e0a-af71-6befcc9dc223"}
+{"sub_label": "Kenya", "obj_label": "Nigeria", "uuid": "e50efeab-bc45-4d20-b284-120bb43fd00d"}
+{"sub_label": "Australia", "obj_label": "Thailand", "uuid": "44bfb6c0-03bb-4c46-b6ee-1d1727c71a8c"}
+{"sub_label": "Germany", "obj_label": "Uganda", "uuid": "2f9f2652-7a34-49ee-a418-ea05f6020525"}
+{"sub_label": "Saudi Arabia", "obj_label": "Canada", "uuid": "2156d52d-fe31-4a69-b56c-1f11a15898bf"}
+{"sub_label": "Germany", "obj_label": "Iran", "uuid": "49738bc3-30fb-42ca-9bcf-632393ea3d45"}
+{"sub_label": "Pakistan", "obj_label": "Australia", "uuid": "e4a5f6d0-cbb6-4aa5-ba08-296ef264f164"}
+{"sub_label": "New Zealand", "obj_label": "Canada", "uuid": "a5cecc45-9b8c-43ff-b62b-57623499b56b"}
+{"sub_label": "Costa Rica", "obj_label": "Australia", "uuid": "3e9ccb34-a63e-4dc4-8654-2d9c906c26c9"}
+{"sub_label": "Serbia", "obj_label": "Australia", "uuid": "c758b9fe-5f31-404f-9adc-c4d6b837b919"}
+{"sub_label": "Australia", "obj_label": "Kuwait", "uuid": "2c2474dd-e342-4767-ad88-c1aa929e7608"}
+{"sub_label": "Slovenia", "obj_label": "Israel", "uuid": "35b71d57-5ae2-4895-9699-46ae5122465c"}
+{"sub_label": "Germany", "obj_label": "Algeria", "uuid": "063784f5-87a3-4c11-a0e7-c1cd211d239a"}
+{"sub_label": "Austria", "obj_label": "Serbia", "uuid": "b8bef185-c615-48c1-b008-cbeac1c87ddd"}
+{"sub_label": "Greece", "obj_label": "Australia", "uuid": "c4cad9f3-57fe-4943-9f6c-3fa6dd1425a2"}
+{"sub_label": "Poland", "obj_label": "Brazil", "uuid": "60c25142-21ad-4fcf-9e91-53ce4b5b1d77"}
+{"sub_label": "People's Republic of China", "obj_label": "Brazil", "uuid": "8a1c7ac1-2eb5-4a00-9487-d760271017a5"}
+{"sub_label": "Iran", "obj_label": "Australia", "uuid": "c5269bf8-1475-45d6-8677-5151bc160218"}
+{"sub_label": "Sweden", "obj_label": "Philippines", "uuid": "8a1eb2bf-dac3-4ceb-80ce-1b6b713d9c81"}
+{"sub_label": "United Arab Emirates", "obj_label": "Canada", "uuid": "ae55bbbb-e2b1-4b0e-974a-4fa622e02c91"}
+{"sub_label": "Iraq", "obj_label": "Italy", "uuid": "f17da778-c87b-40a3-8f8f-8cc5aa34a1c3"}
+{"sub_label": "Tunisia", "obj_label": "Germany", "uuid": "cd0f2640-7123-483c-bc9d-437cbd5bc8b1"}
+{"sub_label": "Australia", "obj_label": "Turkey", "uuid": "21be35a5-ad1b-4a3f-aa69-ae4c17f0f734"}
+{"sub_label": "Germany", "obj_label": "Hungary", "uuid": "aeb3826f-3c0f-48bb-b897-fadd4337f01a"}
+{"sub_label": "Russia", "obj_label": "Egypt", "uuid": "43e59660-633f-4b1a-85ed-e1f8671f4d2c"}
+{"sub_label": "Belarus", "obj_label": "Pakistan", "uuid": "9749ced8-07e4-4992-b1a8-8d08806e2396"}
+{"sub_label": "Brazil", "obj_label": "Honduras", "uuid": "c1dad9de-ea45-414d-83dc-df7293e5448d"}
+{"sub_label": "Saudi Arabia", "obj_label": "Syria", "uuid": "82465c33-dbce-4e75-87da-5838122b91ac"}
+{"sub_label": "African Union", "obj_label": "Brazil", "uuid": "c310f53d-9bd8-48ab-94c1-94726ab779e9"}
+{"sub_label": "Indonesia", "obj_label": "Germany", "uuid": "ef91c6fd-db21-4bb3-a375-8226afecc367"}
+{"sub_label": "Brazil", "obj_label": "Turkey", "uuid": "822080ac-c3c3-48ec-a444-9db0453266d3"}
+{"sub_label": "Italy", "obj_label": "Armenia", "uuid": "4916d60e-f603-4c3b-aa3a-5755361095ad"}
+{"sub_label": "Japan", "obj_label": "Israel", "uuid": "24660cd9-b9ca-45fd-8988-35cb85022661"}
+{"sub_label": "Luxembourg", "obj_label": "France", "uuid": "198fc4da-e460-416b-b9db-8209d0ffa6d5"}
+{"sub_label": "Yemen", "obj_label": "Turkey", "uuid": "39d8bf17-7cab-4410-a656-3f038524caae"}
+{"sub_label": "Australia", "obj_label": "Taiwan", "uuid": "11d7ad97-3014-4f05-aed7-2a8f5182910a"}
+{"sub_label": "Ukraine", "obj_label": "Argentina", "uuid": "e3711577-6d47-4ad5-b6aa-14270953bbcf"}
+{"sub_label": "Kuwait", "obj_label": "Australia", "uuid": "6e86b00f-c1bd-4a19-9f03-ff48848c5143"}
+{"sub_label": "Colombia", "obj_label": "Australia", "uuid": "e6888e04-572e-4221-bc0c-9a3f5ac56c89"}
+{"sub_label": "Saudi Arabia", "obj_label": "Malaysia", "uuid": "31c8c98c-f244-4b37-8952-412b427ffab9"}
+{"sub_label": "Canada", "obj_label": "Germany", "uuid": "c0f2f8e8-22a2-4232-b85d-69223d7bf520"}
+{"sub_label": "Belarus", "obj_label": "Lithuania", "uuid": "3450e78c-0153-4ddc-bc22-5a087bbd83db"}
+{"sub_label": "France", "obj_label": "Ireland", "uuid": "bfcee56b-c045-4892-906f-27f063a52cc4"}
+{"sub_label": "Namibia", "obj_label": "Australia", "uuid": "29e063d0-bee9-4490-86eb-e6cd6ce8d127"}
+{"sub_label": "Afghanistan", "obj_label": "Albania", "uuid": "cfdb9405-e1a0-4079-8043-46de3b6e0cc3"}
+{"sub_label": "Pakistan", "obj_label": "Canada", "uuid": "99ff580e-3274-4abc-a730-56f3fc6b9d2f"}
+{"sub_label": "Australia", "obj_label": "Ireland", "uuid": "dfedaaf4-fb2f-4b52-974a-65f9aed0a307"}
+{"sub_label": "Angola", "obj_label": "Germany", "uuid": "21dffcbf-4038-400e-8fad-538164d69687"}
+{"sub_label": "United States of America", "obj_label": "India", "uuid": "7779bdf9-11e1-4d7b-b352-a2a4fb761dc7"}
+{"sub_label": "Germany", "obj_label": "Ireland", "uuid": "799a9bde-67f1-4e63-a65a-ed30ef386523"}
+{"sub_label": "Luxembourg", "obj_label": "Germany", "uuid": "bdb2dd5c-e329-4092-87a6-9f086699e1ad"}
+{"sub_label": "Canada", "obj_label": "Italy", "uuid": "dc9e9b0d-5b2a-4b66-8afd-2d0cc96478f2"}
+{"sub_label": "Germany", "obj_label": "Turkey", "uuid": "d047695e-c485-442d-92fd-5bbae2b355e4"}
+{"sub_label": "Serbia", "obj_label": "Ukraine", "uuid": "69d17818-8269-4811-8a53-6e80623a3289"}
+{"sub_label": "Brazil", "obj_label": "Japan", "uuid": "dcf4be79-adb6-4cbc-a57d-b7f8f89dc85e"}
+{"sub_label": "Germany", "obj_label": "Sweden", "uuid": "a01a1500-553a-4e3c-9e21-f36affe46a2a"}
+{"sub_label": "Mozambique", "obj_label": "Canada", "uuid": "71f2d050-a7ae-4c01-a619-f282bbec7f78"}
+{"sub_label": "Holy See", "obj_label": "Pakistan", "uuid": "7f774dae-2e10-46a4-87ff-06b8c0b329ef"}
+{"sub_label": "Ukraine", "obj_label": "Lithuania", "uuid": "5a2c0804-0e4d-47fe-b620-10cdea887c83"}
+{"sub_label": "Argentina", "obj_label": "Italy", "uuid": "c052687f-22f1-45fb-90cc-809fda9db52c"}
+{"sub_label": "South Africa", "obj_label": "Germany", "uuid": "24594557-2880-45d3-80c9-606538d93f2f"}
+{"sub_label": "Ukraine", "obj_label": "Estonia", "uuid": "8c82725b-d240-45d6-a798-cd6c31c912d4"}
+{"sub_label": "Singapore", "obj_label": "Australia", "uuid": "5b2bacd9-4c06-46cd-87c9-c0e205a790e1"}
+{"sub_label": "Australia", "obj_label": "Italy", "uuid": "b937ed52-30c3-4952-b9ce-815c1a3f4e77"}
+{"sub_label": "Ghana", "obj_label": "Australia", "uuid": "2afcf010-9863-421a-99b9-5062220b02b0"}
+{"sub_label": "Russia", "obj_label": "Mongolia", "uuid": "0bddae81-94b3-4c6b-bdf8-ea0042d09989"}
+{"sub_label": "Italy", "obj_label": "Romania", "uuid": "d6014cd1-6f6f-49c9-9596-470f09e86382"}
+{"sub_label": "Ukraine", "obj_label": "Poland", "uuid": "8154f8c1-7e17-4fd8-8e1a-587dfe5cae86"}
+{"sub_label": "Kenya", "obj_label": "Sudan", "uuid": "d65a4a38-9659-473f-bab5-079576390456"}
+{"sub_label": "Switzerland", "obj_label": "Germany", "uuid": "e677e9a9-3c0d-4bb7-8d0e-c25ae6139256"}
+{"sub_label": "Belarus", "obj_label": "Ireland", "uuid": "10162cb5-3e6b-4928-ae26-817541d96248"}
+{"sub_label": "Malaysia", "obj_label": "Indonesia", "uuid": "79fd038f-ccea-4a2c-a4e2-f354dfac46cc"}
+{"sub_label": "Australia", "obj_label": "Bahamas", "uuid": "4cf5dcac-d2dd-448d-9ebb-4e0395fb774a"}
+{"sub_label": "Spain", "obj_label": "Brazil", "uuid": "f3064f88-08bb-4756-ba55-302cb0283d12"}
+{"sub_label": "Australia", "obj_label": "Norway", "uuid": "29742a07-97de-4cb8-b90f-f78666f797bd"}
+{"sub_label": "Brazil", "obj_label": "Denmark", "uuid": "69da00e3-b1b4-463a-b853-da34c35f962c"}
+{"sub_label": "Lebanon", "obj_label": "Italy", "uuid": "6e9262a8-9b04-4d59-84f5-341843b9a063"}
+{"sub_label": "Croatia", "obj_label": "Italy", "uuid": "66ee30c7-ba2b-4ff4-b166-af797c694c7b"}
+{"sub_label": "Iran", "obj_label": "Italy", "uuid": "ec9a92ef-3061-4bd4-a1be-894af8ea39a0"}
+{"sub_label": "Ukraine", "obj_label": "Sweden", "uuid": "561c896d-641f-4cb3-8df4-02e63eddf0a5"}
+{"sub_label": "Serbia", "obj_label": "France", "uuid": "37c33bed-ef6c-45dc-bf97-196512d1cfe8"}
+{"sub_label": "Brazil", "obj_label": "Angola", "uuid": "213ff42a-23ac-41a5-a15e-2e6148a75db0"}
+{"sub_label": "Vietnam", "obj_label": "Australia", "uuid": "31790ac4-10eb-45f1-b68a-7f13e256750e"}
+{"sub_label": "Belarus", "obj_label": "Latvia", "uuid": "397566c8-003a-4ac2-9321-a49e2f46da12"}
+{"sub_label": "Serbia", "obj_label": "Austria", "uuid": "c942c0d5-c1f6-422c-b681-34fe3a830b63"}
+{"sub_label": "Bhutan", "obj_label": "Germany", "uuid": "34406912-8486-405c-8c2d-fb35b3609b26"}
+{"sub_label": "Indonesia", "obj_label": "Australia", "uuid": "b4ee2c03-6693-4313-87c3-c0a1783b0297"}
+{"sub_label": "Mongolia", "obj_label": "France", "uuid": "c6196699-7640-4e44-bf84-f36b6bee80c5"}
+{"sub_label": "Malaysia", "obj_label": "Australia", "uuid": "39836ec3-c127-4052-a03c-2c124a59a529"}
+{"sub_label": "Ukraine", "obj_label": "Singapore", "uuid": "573ef7ac-216d-4ada-a1c2-7e13e793ccc5"}
+{"sub_label": "Israel", "obj_label": "Philippines", "uuid": "56a1b2ab-ebea-435c-be52-1dee4c48e777"}
+{"sub_label": "Australia", "obj_label": "Colombia", "uuid": "d76f9549-9eee-4c45-bfb8-9ab870231fc5"}
+{"sub_label": "Greece", "obj_label": "Israel", "uuid": "bbc27a3a-7a64-46f7-9641-575fc442cfc5"}
+{"sub_label": "Cape Verde", "obj_label": "Senegal", "uuid": "d77687f2-d4b4-4e09-829a-4f9f214f0233"}
+{"sub_label": "Afghanistan", "obj_label": "Germany", "uuid": "1b15869a-bb9a-46d6-9b2e-652dc5546414"}
+{"sub_label": "Holy See", "obj_label": "Russia", "uuid": "8629f5e1-2687-4924-ad31-eaaddf79a780"}
+{"sub_label": "Italy", "obj_label": "Netherlands", "uuid": "1c0d8cc1-2f3f-489d-a610-e17589932410"}
+{"sub_label": "Italy", "obj_label": "Canada", "uuid": "56429959-501c-4e65-9b53-3e14cb6917a5"}
+{"sub_label": "Chile", "obj_label": "Germany", "uuid": "3cb2d8f6-7eaa-4450-9cc2-3c66cc649b73"}
+{"sub_label": "Iran", "obj_label": "Afghanistan", "uuid": "614d71cc-1a43-42a4-be93-7157afc69c20"}
+{"sub_label": "Israel", "obj_label": "Canada", "uuid": "5c6e47e9-1e19-4118-ab02-cabd883010e1"}
+{"sub_label": "Australia", "obj_label": "Cambodia", "uuid": "01450382-08f1-4752-b496-ae0b638bc8fa"}
+{"sub_label": "Israel", "obj_label": "India", "uuid": "65f72232-a2a7-4184-81e6-af446d389824"}
+{"sub_label": "France", "obj_label": "Austria", "uuid": "09aa6ba7-31ad-4e6e-af09-bf67388e413d"}
+{"sub_label": "Djibouti", "obj_label": "Australia", "uuid": "4a49671c-c7f1-4d8d-a774-bd583c1089ca"}
+{"sub_label": "Italy", "obj_label": "Hungary", "uuid": "4b618b56-b646-4a1d-9840-c64427d6871d"}
+{"sub_label": "Australia", "obj_label": "Iran", "uuid": "9ee39db8-9eb5-425a-8bfd-6750b2d84ad9"}
+{"sub_label": "Armenia", "obj_label": "Italy", "uuid": "3d87e154-c056-4359-961f-58be52b99290"}
+{"sub_label": "Belgium", "obj_label": "Luxembourg", "uuid": "4d110d51-60eb-4aaf-b56c-0e21da564f65"}
+{"sub_label": "Italy", "obj_label": "Israel", "uuid": "fba0a761-1ac9-4903-afe2-6dec9cdfbb69"}
+{"sub_label": "South Sudan", "obj_label": "Germany", "uuid": "837849ee-579a-4996-bf5e-16a6c769aa89"}
+{"sub_label": "United States of America", "obj_label": "Lithuania", "uuid": "804b3ab5-fd92-45af-9064-5f3d97245d1b"}
+{"sub_label": "Italy", "obj_label": "Iceland", "uuid": "22ed6cf5-4c8e-4593-bfa0-fe57f91d75d6"}
+{"sub_label": "Canada", "obj_label": "Mongolia", "uuid": "0cf5f56a-a5eb-4c94-abe4-669c81afe168"}
+{"sub_label": "Ukraine", "obj_label": "Belgium", "uuid": "8c69ddac-1759-424c-8637-5d8071c92e21"}
+{"sub_label": "Italy", "obj_label": "Egypt", "uuid": "13fd980c-9ca9-43c5-b293-1e3443c7db93"}
+{"sub_label": "Israel", "obj_label": "Australia", "uuid": "83d667e9-bbb7-402e-9ad6-a5c2d0818f1c"}
+{"sub_label": "Saudi Arabia", "obj_label": "Vietnam", "uuid": "c0901de6-209e-4569-a984-78d119547ba7"}
+{"sub_label": "Ukraine", "obj_label": "Romania", "uuid": "493514eb-e7d9-416f-b203-a53ec97bd96e"}
+{"sub_label": "Italy", "obj_label": "Slovakia", "uuid": "87b5cc08-0819-4908-a8ff-6e262739e89e"}
+{"sub_label": "Bulgaria", "obj_label": "Germany", "uuid": "4768db20-8846-4096-9bcd-4e220632ac19"}
+{"sub_label": "Saudi Arabia", "obj_label": "Cuba", "uuid": "20ea0661-8491-42cd-9bdd-715421aee4b9"}
+{"sub_label": "Israel", "obj_label": "Lebanon", "uuid": "f8d57188-e6b7-45a2-a6c0-d315bcb515b1"}
+{"sub_label": "Germany", "obj_label": "Serbia", "uuid": "936ecb69-96a6-4b0c-9e29-7286314de2f3"}
+{"sub_label": "Saudi Arabia", "obj_label": "Austria", "uuid": "aa8cb022-a9a4-481c-970d-3566d1f17541"}
+{"sub_label": "Ukraine", "obj_label": "Georgia", "uuid": "7cd48754-19e3-40ff-921a-9a958bc2fb30"}
+{"sub_label": "Saudi Arabia", "obj_label": "India", "uuid": "f5d83805-3de8-404c-a426-fdf62846b441"}
+{"sub_label": "Ukraine", "obj_label": "Portugal", "uuid": "4f2657ae-5ad6-4881-a5d7-e845e272b7f3"}
+{"sub_label": "Chad", "obj_label": "Germany", "uuid": "16d10b47-6c65-4534-b42a-43047d0d4745"}
+{"sub_label": "Germany", "obj_label": "Belarus", "uuid": "78c7282f-022a-4bdd-b6a7-8d80ac5ccbec"}
+{"sub_label": "Italy", "obj_label": "Philippines", "uuid": "29b232a3-e700-4b71-b8d5-192e8ef1844b"}
+{"sub_label": "Australia", "obj_label": "Senegal", "uuid": "c7c8f85e-fc9f-445e-bbd3-33bbf43ab3e7"}
+{"sub_label": "Turkey", "obj_label": "Brazil", "uuid": "36fe5d2e-da7d-47b7-8beb-04c430c6d445"}
+{"sub_label": "Italy", "obj_label": "Uruguay", "uuid": "07cfb80f-cc63-440e-82b1-90db65d2a929"}
+{"sub_label": "Germany", "obj_label": "Bangladesh", "uuid": "d42a36b6-8788-4c3b-b120-05b3168629e3"}
+{"sub_label": "Russia", "obj_label": "Venezuela", "uuid": "f5819aac-284e-4f03-a466-4cb66d35c664"}
+{"sub_label": "Brazil", "obj_label": "Cuba", "uuid": "b713171b-e329-4d4a-a112-8e58b9b7d10f"}
+{"sub_label": "Australia", "obj_label": "Malta", "uuid": "91a3034a-e5c5-43fd-8430-401c659ffb94"}
+{"sub_label": "Lebanon", "obj_label": "Syria", "uuid": "42a65938-4804-4b84-82c9-f9221cc27ee5"}
+{"sub_label": "Austria", "obj_label": "Italy", "uuid": "7cc9c35f-bae1-4d39-a9b8-44efc4db9424"}
+{"sub_label": "Australia", "obj_label": "Chile", "uuid": "fb013ddd-7264-4a74-a185-f4810e2df705"}
+{"sub_label": "Zambia", "obj_label": "Denmark", "uuid": "52180d81-7a27-4245-8639-af84fc8dd20c"}
+{"sub_label": "Switzerland", "obj_label": "Italy", "uuid": "92797ef8-9120-40c5-a02b-871cec231b34"}
+{"sub_label": "Australia", "obj_label": "Sweden", "uuid": "e259295e-1d48-4dc3-a34c-855345ecd7f7"}
+{"sub_label": "Portugal", "obj_label": "Germany", "uuid": "0882595a-a3a2-4657-9552-04130ff3441d"}
+{"sub_label": "Holy See", "obj_label": "Bangladesh", "uuid": "e9b6c4e1-0100-467f-97dc-2a2765a37bb9"}
+{"sub_label": "Central African Republic", "obj_label": "France", "uuid": "f6e354b7-920c-4979-bde3-7da9d80f8b90"}
+{"sub_label": "Australia", "obj_label": "Greece", "uuid": "61ac6ec1-9cb8-4ec2-819d-f78031a15bf5"}
+{"sub_label": "Argentina", "obj_label": "Israel", "uuid": "e958319a-9593-417e-b4a2-d14560459773"}
+{"sub_label": "Mongolia", "obj_label": "Australia", "uuid": "fce15f9e-fed5-4a7c-8029-197fb6dba0f0"}
+{"sub_label": "Canada", "obj_label": "Romania", "uuid": "18334952-345b-4884-9368-92c7127254e9"}
+{"sub_label": "Italy", "obj_label": "Colombia", "uuid": "aaa3d05f-410e-4054-85a5-44cba44538fc"}
+{"sub_label": "Kenya", "obj_label": "Algeria", "uuid": "49d5bff8-063e-4b00-afec-3fbe7756d34e"}
+{"sub_label": "Japan", "obj_label": "Italy", "uuid": "13d0a4ec-ec2f-41fc-bcbd-c4f1a859cf24"}
+{"sub_label": "Ukraine", "obj_label": "Canada", "uuid": "38bb7355-d731-4e48-83b1-b896c410d951"}
+{"sub_label": "Sweden", "obj_label": "Australia", "uuid": "dc12ad88-14a7-4529-ac68-76d48be38ffb"}
+{"sub_label": "Czech Republic", "obj_label": "Brazil", "uuid": "46a77b45-ad84-478e-8721-a3f8c5043dae"}
+{"sub_label": "Saudi Arabia", "obj_label": "Croatia", "uuid": "10496e79-2b19-4c39-b5f8-91e15ceedb4f"}
+{"sub_label": "Rwanda", "obj_label": "Germany", "uuid": "54f10fc2-66b4-42d8-9d3f-3be35ab5b3b6"}
+{"sub_label": "Brazil", "obj_label": "Lebanon", "uuid": "a0558c56-f4ec-4a3b-b091-8285add595b7"}
+{"sub_label": "Japan", "obj_label": "Azerbaijan", "uuid": "635d5a16-725f-43a9-81f8-f8942fc14cc2"}
+{"sub_label": "Holy See", "obj_label": "Jordan", "uuid": "9643211c-dc1d-4c03-b623-b8b49c40aa50"}
+{"sub_label": "Saudi Arabia", "obj_label": "Indonesia", "uuid": "69d5fdd9-bf1b-4c70-9853-fa9587101d7c"}
+{"sub_label": "Slovakia", "obj_label": "Italy", "uuid": "c6521c9a-080a-4b33-9835-19beb80e4a92"}
+{"sub_label": "Finland", "obj_label": "Germany", "uuid": "b9e2276b-f433-4564-97f1-5756fbd57399"}
+{"sub_label": "Morocco", "obj_label": "Germany", "uuid": "12e7a51c-c99e-429c-8c6e-e283df97095a"}
+{"sub_label": "Germany", "obj_label": "Switzerland", "uuid": "94fbff61-7cf2-4327-9305-3322981476af"}
+{"sub_label": "Serbia", "obj_label": "Switzerland", "uuid": "98b93afd-4849-426b-bbfb-ceb30b371262"}
+{"sub_label": "Belarus", "obj_label": "Brazil", "uuid": "81deb340-eb67-4da4-90a3-b3953d421b50"}
+{"sub_label": "Brazil", "obj_label": "Germany", "uuid": "fc1d6f35-098c-4a36-8a0b-8a3ab8e0e052"}
+{"sub_label": "Uruguay", "obj_label": "Australia", "uuid": "3252857d-9fd5-4cf7-9bf6-53094f27439b"}
+{"sub_label": "Namibia", "obj_label": "Germany", "uuid": "d4b3b47a-aa26-4a62-99d5-b63dcca9f8d0"}
+{"sub_label": "People's Republic of China", "obj_label": "Serbia", "uuid": "a5e71379-6b93-440b-b1c6-638d9499ba2b"}
+{"sub_label": "Germany", "obj_label": "Honduras", "uuid": "280055d6-8457-4c0b-9fac-5631e5374aff"}
+{"sub_label": "Australia", "obj_label": "Kenya", "uuid": "bf816703-810e-4412-88b4-3827f7bd79f4"}
+{"sub_label": "Abkhazia", "obj_label": "Russia", "uuid": "3ef54ea3-ba1f-4ec9-9838-c6a2b1483be7"}
+{"sub_label": "Ukraine", "obj_label": "Russia", "uuid": "b05da69d-e9d7-445d-8dda-5fbfd8171fba"}
+{"sub_label": "Cape Verde", "obj_label": "Cuba", "uuid": "b102c441-6298-431f-833c-3b8c497c176a"}
+{"sub_label": "Italy", "obj_label": "Russia", "uuid": "d8758f0b-5298-4ca8-8ba1-6d7a970804d7"}
+{"sub_label": "Brazil", "obj_label": "Peru", "uuid": "4ad9506b-184c-454a-9cdb-e3fe53e39b5c"}
+{"sub_label": "Canada", "obj_label": "Turkey", "uuid": "bd02d29b-9267-4449-9795-6179644ea8ff"}
+{"sub_label": "Mongolia", "obj_label": "Canada", "uuid": "a3fa8226-bd7d-4c3e-8e98-a6af985dab0e"}
+{"sub_label": "Canada", "obj_label": "Brazil", "uuid": "b8722c7f-853d-4ae2-a0a6-41e227d176e4"}
+{"sub_label": "Venezuela", "obj_label": "Germany", "uuid": "edce4f7b-0645-4794-acf9-20175636a049"}
+{"sub_label": "Belgium", "obj_label": "Germany", "uuid": "cb94ff74-feca-4813-94a1-3194b15578be"}
+{"sub_label": "Russia", "obj_label": "Azerbaijan", "uuid": "1d0483bd-3ff6-429c-bd6a-f2af003674bc"}
+{"sub_label": "Brazil", "obj_label": "Libya", "uuid": "0c0633c0-827a-48f3-97a7-91b54d173d5a"}
+{"sub_label": "Italy", "obj_label": "Austria", "uuid": "40213966-b6c8-4511-b65d-85c9e5a3851c"}
+{"sub_label": "Chile", "obj_label": "Australia", "uuid": "3f51ac4e-229f-4fe5-9a08-0135493a1e8a"}
+{"sub_label": "People's Republic of China", "obj_label": "Yemen", "uuid": "15cd381c-d056-475f-a7b7-fc2a8bd0e3a7"}
+{"sub_label": "Belarus", "obj_label": "Poland", "uuid": "11fbba04-e056-4aa6-9c76-3faccdd05ca8"}
+{"sub_label": "Syria", "obj_label": "Armenia", "uuid": "6318958b-e5ed-4bda-a56d-0831ffbcad2a"}
+{"sub_label": "Saudi Arabia", "obj_label": "Kazakhstan", "uuid": "8d1ba17e-e200-4cd3-b30f-2aa8ac80e090"}
+{"sub_label": "Germany", "obj_label": "Indonesia", "uuid": "35516172-7ab7-44e3-a91f-767d479af268"}
+{"sub_label": "Belgium", "obj_label": "Australia", "uuid": "ef296b85-4744-48de-be0d-107a34583387"}
+{"sub_label": "Germany", "obj_label": "Israel", "uuid": "27ba678c-5f50-444a-82ff-9e7358f0ac66"}
+{"sub_label": "Germany", "obj_label": "Madagascar", "uuid": "b3183331-bf5a-4412-bcca-6982d6d6f577"}
+{"sub_label": "Somalia", "obj_label": "Italy", "uuid": "eb7520a8-1de8-4e58-b47c-385c8d468846"}
+{"sub_label": "Kosovo", "obj_label": "Italy", "uuid": "494490ba-283b-4a80-aeac-a027cc1b2779"}
+{"sub_label": "India", "obj_label": "Germany", "uuid": "ecce6027-589e-4db9-a38b-4916bed0b25a"}
+{"sub_label": "Saudi Arabia", "obj_label": "Philippines", "uuid": "43224603-b565-4b35-9f80-8274919591bb"}
+{"sub_label": "Senegal", "obj_label": "Australia", "uuid": "c66e059e-0bbc-4cdd-9e2a-ad9260df23dd"}
+{"sub_label": "Switzerland", "obj_label": "Canada", "uuid": "f63cfff4-378a-42fa-b76d-0f29eaa531e2"}
+{"sub_label": "Kenya", "obj_label": "Germany", "uuid": "0595e5d8-0d37-4585-9337-8ef9aae1e4a8"}
+{"sub_label": "Turkey", "obj_label": "Australia", "uuid": "6c8268b0-ea22-471f-8d06-07e7c9c1deea"}
+{"sub_label": "Sweden", "obj_label": "Canada", "uuid": "38e78062-caf3-419c-baaa-dd7c70af62e2"}
+{"sub_label": "Lithuania", "obj_label": "Australia", "uuid": "52785d6a-0149-47aa-9669-041c70986499"}
+{"sub_label": "Iran", "obj_label": "Yemen", "uuid": "f2889d26-4f99-4773-b203-ca2af54cf41f"}
+{"sub_label": "Ukraine", "obj_label": "Albania", "uuid": "2d9831b3-0091-48a3-8402-a38129be5c53"}
+{"sub_label": "Germany", "obj_label": "Somalia", "uuid": "ecf257fa-aea7-4853-980b-860b7efd6f70"}
+{"sub_label": "Vietnam", "obj_label": "Italy", "uuid": "7b53d83e-23d0-402d-bf09-fce8dfa8b997"}
+{"sub_label": "Colombia", "obj_label": "Germany", "uuid": "38d7a581-3bd9-4169-8ccf-1375765de68a"}
+{"sub_label": "Canada", "obj_label": "Russia", "uuid": "b52b5c5b-a7a1-4c44-b148-3aec23f46bf4"}
+{"sub_label": "Guyana", "obj_label": "Australia", "uuid": "cbf2b173-124f-4aa2-a2a2-d5cbb737a514"}
+{"sub_label": "Turkey", "obj_label": "Germany", "uuid": "bf520760-63c5-4830-a02e-81a15a1d9f7d"}
+{"sub_label": "United States of America", "obj_label": "Italy", "uuid": "7a241ee8-37fe-4a52-9895-1fee9ec61c52"}
+{"sub_label": "Germany", "obj_label": "Panama", "uuid": "cf943fbc-c0a7-44c9-b85c-f700f16b54cc"}
+{"sub_label": "Australia", "obj_label": "Uganda", "uuid": "fb14ce1c-84cc-406c-ac96-09532b068b24"}
+{"sub_label": "Ukraine", "obj_label": "Israel", "uuid": "d229b7ee-02ad-4a04-9457-f4708e2badf0"}
+{"sub_label": "Belarus", "obj_label": "Russia", "uuid": "5aff4576-1222-484d-bf2a-c3b82772720a"}
+{"sub_label": "Norway", "obj_label": "Canada", "uuid": "a00bb3d9-d5b0-45a3-b5ce-bfa127035eb0"}
+{"sub_label": "Denmark", "obj_label": "Brazil", "uuid": "9c5df883-8f69-44b9-b1e3-6258869ec452"}
+{"sub_label": "Czech Republic", "obj_label": "Italy", "uuid": "1bb20143-3a92-4389-8afa-0830769aba01"}
+{"sub_label": "United Kingdom", "obj_label": "Israel", "uuid": "bd236a6c-d62b-4d5e-86ee-789ebdd5dcf2"}
+{"sub_label": "Ukraine", "obj_label": "Norway", "uuid": "ab118f02-53af-4695-85f8-eec64cacbfd9"}
+{"sub_label": "Saudi Arabia", "obj_label": "Germany", "uuid": "4befec71-0469-4487-82c4-d1e0e508811d"}
+{"sub_label": "Gambia", "obj_label": "Germany", "uuid": "80b87482-de2f-4f9e-a283-1a71b5cea05a"}
+{"sub_label": "Brazil", "obj_label": "Colombia", "uuid": "79d5a6b6-ad96-40f3-b6f3-928961ea28ff"}
+{"sub_label": "Brazil", "obj_label": "France", "uuid": "3a057dfa-8a4a-44bf-baf5-89fe08f21f04"}
+{"sub_label": "People's Republic of China", "obj_label": "Israel", "uuid": "92fee095-101a-4d9e-9fdf-70c5452da2b0"}
+{"sub_label": "Serbia", "obj_label": "Sweden", "uuid": "a326f09d-9fb9-4ba9-a411-6d14f29d1ef2"}
+{"sub_label": "Qatar", "obj_label": "Australia", "uuid": "aed0635a-4a39-4e48-a1cd-c46139e3acb6"}
+{"sub_label": "Nicaragua", "obj_label": "Germany", "uuid": "23a86f3a-85ae-4979-9c54-327430dcea6f"}
+{"sub_label": "Republic of the Congo", "obj_label": "Germany", "uuid": "c70c22d9-54b0-484b-a815-9be225437fa1"}
+{"sub_label": "Brazil", "obj_label": "Portugal", "uuid": "28cdfe40-30d5-42ee-b47b-e87b4a3eb1f9"}
+{"sub_label": "Philippines", "obj_label": "Spain", "uuid": "bcc15f03-0765-44f8-83c7-5d58a406429c"}
+{"sub_label": "Belarus", "obj_label": "Iran", "uuid": "8e68b9a4-6081-428a-b53b-03c058207340"}
+{"sub_label": "Holy See", "obj_label": "Indonesia", "uuid": "79e6aaa6-f338-4c59-98ba-df1f5ca94574"}
+{"sub_label": "Holy See", "obj_label": "Spain", "uuid": "e9e4c2b0-5041-442e-a483-c50842200724"}
+{"sub_label": "United States of America", "obj_label": "Argentina", "uuid": "4edfc9ed-24b2-4f87-b376-82965de6fd7a"}
+{"sub_label": "Paraguay", "obj_label": "Australia", "uuid": "4a479cab-fee2-46c5-8db8-8342906993d6"}
+{"sub_label": "Uruguay", "obj_label": "Canada", "uuid": "84d8cebd-5993-49e9-9540-b707bd6fe9e6"}
+{"sub_label": "Kenya", "obj_label": "Libya", "uuid": "ef7a6a56-309d-44df-99d2-54eed6afed18"}
+{"sub_label": "United States of America", "obj_label": "Israel", "uuid": "f770a318-1c01-4e3c-b4cc-8a83725beac8"}
+{"sub_label": "Germany", "obj_label": "Poland", "uuid": "5c70ebdf-b4f9-49af-8920-cfc249f529d2"}
+{"sub_label": "Argentina", "obj_label": "Germany", "uuid": "29194d9d-5971-4abd-b5c4-d401f43d1186"}
+{"sub_label": "Italy", "obj_label": "Belarus", "uuid": "69103a5f-20bb-4de1-9bbd-cb16a082f5d3"}
+{"sub_label": "Malta", "obj_label": "Australia", "uuid": "4f36919d-f57e-4d34-8be3-69cdf81b3786"}
+{"sub_label": "Egypt", "obj_label": "Israel", "uuid": "e11be190-d3b5-4338-b394-d4eaedc887d3"}
+{"sub_label": "Belgium", "obj_label": "Italy", "uuid": "3aae96a6-b790-4552-bc17-6d6f383e26eb"}
+{"sub_label": "Australia", "obj_label": "Fiji", "uuid": "ad96d0c7-b9db-4812-935b-062d9edeb6e7"}
+{"sub_label": "Holy See", "obj_label": "Philippines", "uuid": "d8e6dd60-4dd4-4aca-a4e3-29ceddfe37ab"}
+{"sub_label": "Belarus", "obj_label": "Libya", "uuid": "cb13c60a-1a14-4ac2-976a-9e9e4ec09197"}
+{"sub_label": "Central African Republic", "obj_label": "Chad", "uuid": "d0098150-acab-47bf-87c0-1df4c128b7a7"}
+{"sub_label": "Suriname", "obj_label": "Germany", "uuid": "a17a7967-ccec-4b6a-9176-7f46f9a8531d"}
+{"sub_label": "Liechtenstein", "obj_label": "Switzerland", "uuid": "9a0aee82-bce4-49ec-b8fe-17f19486c15a"}
+{"sub_label": "Argentina", "obj_label": "Brazil", "uuid": "26613e90-d2bb-4b16-a944-105ce17c59b4"}
+{"sub_label": "Ivory Coast", "obj_label": "Germany", "uuid": "b25deed2-cc7c-49ba-b41f-7369b6dd2198"}
+{"sub_label": "Albania", "obj_label": "Italy", "uuid": "09e1b9d1-eb45-472d-adad-0d7389a33824"}
+{"sub_label": "Romania", "obj_label": "Germany", "uuid": "9622b4f4-157c-4c42-ada7-24a96a8e191b"}
+{"sub_label": "Holy See", "obj_label": "Australia", "uuid": "9767e7e2-1e61-40cb-a02a-ed98e7caf45b"}
+{"sub_label": "Brazil", "obj_label": "Pakistan", "uuid": "2b79e85c-2358-44ff-a3e1-f586bffa9ee5"}
+{"sub_label": "Israel", "obj_label": "France", "uuid": "a37a7794-e2df-4e92-b6de-b511f52e59b2"}
+{"sub_label": "Grenada", "obj_label": "Australia", "uuid": "dfce12b4-b0a7-4433-982b-70340eb56bc4"}
+{"sub_label": "Albania", "obj_label": "Germany", "uuid": "053d3d05-070b-49fd-b054-c333647c34ae"}
+{"sub_label": "Saudi Arabia", "obj_label": "Kuwait", "uuid": "ec8e3c37-8ed2-4804-af9a-dac42f5364de"}
+{"sub_label": "Oman", "obj_label": "Yemen", "uuid": "481b89e4-6daa-45b3-bd1d-6f65d1a63560"}
+{"sub_label": "South Korea", "obj_label": "Philippines", "uuid": "f41057fb-5a0c-483e-9182-7b8639f9fc93"}
+{"sub_label": "Germany", "obj_label": "Guatemala", "uuid": "7a45636a-5927-414d-9eae-6113e9ee483e"}
+{"sub_label": "Germany", "obj_label": "Iraq", "uuid": "de2851b6-6d2b-4aa3-b57c-d8d3b9e37940"}
+{"sub_label": "Saudi Arabia", "obj_label": "Mongolia", "uuid": "6794dabc-1d20-4849-82c7-131549f288e5"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "Australia", "uuid": "6f1a8c9c-88f9-41fb-802c-ec5b3e667468"}
+{"sub_label": "Poland", "obj_label": "Australia", "uuid": "6caf1985-4840-49ff-8557-841fb4c355f0"}
+{"sub_label": "Holy See", "obj_label": "Mexico", "uuid": "1256ddd1-4df8-4b6f-b633-a498a74a8cbe"}
+{"sub_label": "Azerbaijan", "obj_label": "Japan", "uuid": "ed2cfd24-fadd-4036-91e9-ae59a7e01d16"}
+{"sub_label": "Mongolia", "obj_label": "Japan", "uuid": "0ef0beb9-9375-41ad-9a3c-72f2ecca1558"}
+{"sub_label": "Australia", "obj_label": "Angola", "uuid": "32496fa8-7dbc-4434-988e-7519e6dd9362"}
+{"sub_label": "United Arab Emirates", "obj_label": "Australia", "uuid": "57f5a296-edb7-4af1-805a-29e4bab6b612"}
+{"sub_label": "Israel", "obj_label": "Argentina", "uuid": "cac163ef-a15c-45fb-8ff6-b8cce5e4a269"}
+{"sub_label": "Germany", "obj_label": "Colombia", "uuid": "946e8dd4-0851-4253-943d-b96f0a045584"}
+{"sub_label": "France", "obj_label": "Armenia", "uuid": "73dfe10c-842c-41be-aff7-fb8fc6ce9f49"}
+{"sub_label": "Italy", "obj_label": "Bulgaria", "uuid": "876d0ded-25ba-4e14-92b9-ae490b084739"}
+{"sub_label": "Uganda", "obj_label": "Australia", "uuid": "6e23d0f7-31ca-4a33-abaa-af7248c9d5ba"}
+{"sub_label": "Holy See", "obj_label": "Canada", "uuid": "9d9e2816-2591-4857-b15e-0c4324e48444"}
+{"sub_label": "Togo", "obj_label": "Germany", "uuid": "cb1c38c4-0e89-4d02-a54f-a71383a620fe"}
+{"sub_label": "Japan", "obj_label": "France", "uuid": "ae3ac208-a4e3-4efb-87e5-eb89a4781127"}
+{"sub_label": "Spain", "obj_label": "Italy", "uuid": "543c868f-f25c-4d10-8dc8-c15d0d47e4c4"}
+{"sub_label": "Belarus", "obj_label": "Sweden", "uuid": "843add19-14a8-4765-9d62-3054e6d55b32"}
+{"sub_label": "South Korea", "obj_label": "Australia", "uuid": "bee6854c-0e2b-4ced-a026-6fdc8e8ad4d5"}
+{"sub_label": "Argentina", "obj_label": "Russia", "uuid": "fa228c6c-bb37-4698-b606-fc04e68ac945"}
+{"sub_label": "Canada", "obj_label": "Ethiopia", "uuid": "f3a0090a-ba86-47b5-a42e-2afcad610a45"}
+{"sub_label": "Brazil", "obj_label": "Iraq", "uuid": "03b10370-5674-4ac1-bae6-d5768a5791ca"}
+{"sub_label": "Federated States of Micronesia", "obj_label": "Australia", "uuid": "e9ed42ec-020a-4c15-b722-045ca63edb10"}
+{"sub_label": "European Union", "obj_label": "Canada", "uuid": "42243231-e510-4571-96d2-13525db11fb0"}
+{"sub_label": "Japan", "obj_label": "Australia", "uuid": "39aa8242-302c-4c82-a0ca-98310065bf31"}
+{"sub_label": "Italy", "obj_label": "Portugal", "uuid": "47154cd4-6dc6-4d2f-8692-0aa79bbd0eef"}
+{"sub_label": "South Korea", "obj_label": "Japan", "uuid": "4dc643ff-432c-4ca7-a260-8a8b157dd41f"}
+{"sub_label": "Belize", "obj_label": "Germany", "uuid": "adea630d-cad7-4f35-9ef6-1cd527bbc769"}
+{"sub_label": "South Africa", "obj_label": "Australia", "uuid": "82e0faf7-741e-4cf5-86c0-b4220102fc15"}
+{"sub_label": "North Korea", "obj_label": "Germany", "uuid": "2a6e7fe5-1108-47e7-888d-5bf9f3da4538"}
+{"sub_label": "Ecuador", "obj_label": "Brazil", "uuid": "a67df8e0-27b3-4d82-907c-491527dda51d"}
+{"sub_label": "Poland", "obj_label": "Italy", "uuid": "c3484d8f-40a5-4bfe-883d-552ab5739d82"}
+{"sub_label": "Germany", "obj_label": "Japan", "uuid": "e358a1ec-2eb9-459e-a0ee-8d3de8583bcb"}
+{"sub_label": "Australia", "obj_label": "Laos", "uuid": "e7adc447-7804-4e62-9bf6-587d145932f3"}
+{"sub_label": "Norway", "obj_label": "Sweden", "uuid": "05d194e2-2f60-4164-a4b6-d72f509d100d"}
+{"sub_label": "Syria", "obj_label": "Japan", "uuid": "d63fd1e6-e365-4fda-85a1-8e1561f8ae40"}
+{"sub_label": "Moldova", "obj_label": "Italy", "uuid": "7d10d4ef-6872-4169-a443-a55a23ddfcf1"}
+{"sub_label": "Mali", "obj_label": "Germany", "uuid": "5c7087ce-5012-4da0-b24c-e59346d7d5c6"}
+{"sub_label": "Zambia", "obj_label": "Zimbabwe", "uuid": "308a19c5-1086-46d8-8d32-7f63e468893a"}
+{"sub_label": "Kazakhstan", "obj_label": "Germany", "uuid": "c5838276-90bd-4a36-b6b3-259559dd0133"}
+{"sub_label": "Italy", "obj_label": "Lithuania", "uuid": "e792f606-3435-4b5e-a9a1-d0aa59fab19d"}
+{"sub_label": "Luxembourg", "obj_label": "Belgium", "uuid": "350dea67-596d-4440-876c-8d4c999d875f"}
+{"sub_label": "Belarus", "obj_label": "Ukraine", "uuid": "083bc1f4-14b5-4b62-a97f-3788b7625824"}
+{"sub_label": "Germany", "obj_label": "Ukraine", "uuid": "376b05d8-daed-4972-867b-f40974922694"}
+{"sub_label": "Jordan", "obj_label": "Syria", "uuid": "01825f45-f3c4-434e-9948-fdba5b5c6f13"}
+{"sub_label": "Singapore", "obj_label": "Germany", "uuid": "f46cfca1-5344-472e-b075-aeab0e8cb3e1"}
+{"sub_label": "United Arab Emirates", "obj_label": "Germany", "uuid": "0c97f771-97ef-46fe-a538-3836b5f2c2d1"}
+{"sub_label": "Australia", "obj_label": "Malaysia", "uuid": "2ae7aca2-5cb4-4b12-b37c-ce959bf3ef1e"}
+{"sub_label": "Austria", "obj_label": "Australia", "uuid": "66de62cc-1577-41cd-a2c4-6f45a781d15a"}
+{"sub_label": "Germany", "obj_label": "Tunisia", "uuid": "22e2dd08-d4d8-4c6c-be0c-971e951dab8a"}
+{"sub_label": "Czech Republic", "obj_label": "Australia", "uuid": "950b4112-e5f2-4669-9ff3-88f8df5a4ee3"}
+{"sub_label": "France", "obj_label": "Israel", "uuid": "df9e85f7-583d-40e5-9b17-fd5c97124d70"}
+{"sub_label": "Yemen", "obj_label": "Iran", "uuid": "e2ec77c5-1a97-4e16-b0cd-071f83f572f0"}
+{"sub_label": "Estonia", "obj_label": "Italy", "uuid": "a2cfcacc-f2eb-4c4b-be32-80cb218aa8dd"}
+{"sub_label": "Australia", "obj_label": "Bulgaria", "uuid": "d4555048-0698-4805-94e0-f66f38da42a5"}
+{"sub_label": "Czech Republic", "obj_label": "Canada", "uuid": "a299d0a1-4cfb-464c-a832-49f4323f3d28"}
+{"sub_label": "Azerbaijan", "obj_label": "Italy", "uuid": "079c7fbc-9511-49f2-a29c-615b629c5841"}
+{"sub_label": "Germany", "obj_label": "Cyprus", "uuid": "50ca5161-858a-41cc-9e9d-6bc180d59173"}
+{"sub_label": "Cameroon", "obj_label": "Germany", "uuid": "d1f4c5b6-642b-425f-9e9a-dbc294e89a54"}
+{"sub_label": "Brazil", "obj_label": "Egypt", "uuid": "56839eb6-0b70-4fc8-8092-513812282a50"}
+{"sub_label": "United States of America", "obj_label": "Australia", "uuid": "0223b046-f6e4-4f3a-b08a-dfc1c99ddea2"}
+{"sub_label": "Greece", "obj_label": "Brazil", "uuid": "2c6567fc-c5cc-4ff7-aa7a-a94a5df58051"}
+{"sub_label": "Czech Republic", "obj_label": "Slovakia", "uuid": "af781228-541f-42d4-8a31-cf10f88ad735"}
+{"sub_label": "Russia", "obj_label": "Turkey", "uuid": "f23a30bc-66ba-455f-9a35-a2e76fc2f467"}
+{"sub_label": "Zambia", "obj_label": "Canada", "uuid": "95a6575d-6cfa-49f7-a4db-268a5765526d"}
+{"sub_label": "Saudi Arabia", "obj_label": "Cambodia", "uuid": "d74fc485-54c3-42c9-ba4e-50cb5c64e42c"}
+{"sub_label": "Italy", "obj_label": "Slovenia", "uuid": "fd354264-48e6-4045-b66d-566038a61480"}
+{"sub_label": "Egypt", "obj_label": "Italy", "uuid": "04812cd1-b627-454e-8157-ef1037ebdb6d"}
+{"sub_label": "Lithuania", "obj_label": "Italy", "uuid": "1fa23942-395a-40b7-9196-bea72160f98c"}
+{"sub_label": "Egypt", "obj_label": "Brazil", "uuid": "88ff4338-6c36-44fa-ae54-556e52c152fb"}
+{"sub_label": "South Sudan", "obj_label": "Brazil", "uuid": "29ee7746-d651-4049-8518-ea500511c9d2"}
+{"sub_label": "Zambia", "obj_label": "Germany", "uuid": "7926df46-0409-419f-a834-7da095d0e894"}
+{"sub_label": "Sudan", "obj_label": "Germany", "uuid": "3074f17c-f8b6-4e1b-8a43-655ef64d3eec"}
+{"sub_label": "Indonesia", "obj_label": "Italy", "uuid": "d82ed5dc-31aa-4de6-a7e3-56b6b4c23eaf"}
+{"sub_label": "Papua New Guinea", "obj_label": "Australia", "uuid": "1ec82248-96c5-48df-bbb1-3269671a84ff"}
+{"sub_label": "Monaco", "obj_label": "Italy", "uuid": "fb78d6de-b4d4-4e21-8ddb-70bf47f568ae"}
+{"sub_label": "Germany", "obj_label": "Uruguay", "uuid": "b9c66533-63a8-46a5-9808-a987bc773cfd"}
+{"sub_label": "Australia", "obj_label": "Germany", "uuid": "d7c0047f-b628-4f25-b81b-ba9daac53be8"}
+{"sub_label": "Slovenia", "obj_label": "Germany", "uuid": "77cbd058-0709-4e04-9128-f20f96db8f9c"}
+{"sub_label": "India", "obj_label": "Italy", "uuid": "0d083d7f-5a1b-4edf-9fcd-a8387f1eeca5"}
+{"sub_label": "Italy", "obj_label": "Vietnam", "uuid": "dbf5c43c-1127-480f-b445-c861b028a569"}
+{"sub_label": "Latvia", "obj_label": "Italy", "uuid": "21b51520-108a-4e5d-810e-1f87f7ebf0e0"}
+{"sub_label": "Italy", "obj_label": "Estonia", "uuid": "16cd83d5-7880-4546-8a58-073e1e6923e3"}
+{"sub_label": "Spain", "obj_label": "Germany", "uuid": "c0eacf99-41d1-4d8a-a65d-99b54a28f675"}
+{"sub_label": "Belarus", "obj_label": "Denmark", "uuid": "8ddf3a5a-58d0-4402-89fa-83865c00941f"}
+{"sub_label": "Belarus", "obj_label": "Slovakia", "uuid": "ac985649-af67-4994-937b-eb88d18ca909"}
+{"sub_label": "Australia", "obj_label": "Israel", "uuid": "361f8e1b-823d-475f-8299-60d7c15510a0"}
+{"sub_label": "South Africa", "obj_label": "Brazil", "uuid": "b6aadbb6-623f-4b67-825e-6643d28c49dd"}
+{"sub_label": "Colombia", "obj_label": "Canada", "uuid": "38774e55-86b4-4e1d-bc6f-2dec4ac42973"}
+{"sub_label": "Cuba", "obj_label": "Germany", "uuid": "45830989-c168-4f6b-b16f-0b15f73f7a48"}
+{"sub_label": "Hong Kong", "obj_label": "Canada", "uuid": "cf043fa0-8062-4733-b752-3bb0fd606953"}
+{"sub_label": "France", "obj_label": "Mongolia", "uuid": "d7570a85-32ec-4e7a-86d6-8c0536ac8cc8"}
+{"sub_label": "Italy", "obj_label": "Serbia", "uuid": "f11add78-fd18-4164-b0f3-9a602679f715"}
+{"sub_label": "Haiti", "obj_label": "Brazil", "uuid": "fd550855-4709-492b-9e62-e5b75ba9846f"}
+{"sub_label": "Zambia", "obj_label": "Israel", "uuid": "ef659d85-6741-459d-bf55-ba38b6507061"}
+{"sub_label": "Holy See", "obj_label": "Lebanon", "uuid": "a039caeb-78b6-4272-bb3c-0ab10ae476f9"}
+{"sub_label": "Austria", "obj_label": "Germany", "uuid": "613fabe8-812b-4442-ad9e-ce6e1fcd39b2"}
+{"sub_label": "Australia", "obj_label": "Afghanistan", "uuid": "c5f1469c-91e7-4fbf-b737-3f52e54e8df1"}
+{"sub_label": "Australia", "obj_label": "Ecuador", "uuid": "f4e0145d-11c3-4aba-a1d2-1959f6e8ec2d"}
+{"sub_label": "El Salvador", "obj_label": "Australia", "uuid": "15b97ba0-f092-4ace-90d7-e13820194d7a"}
+{"sub_label": "Ukraine", "obj_label": "Vietnam", "uuid": "1dd694c2-0154-4ae7-881c-c6657390120e"}
+{"sub_label": "Australia", "obj_label": "Russia", "uuid": "d9392499-2ee7-412a-a9ac-a166af22dd8b"}
+{"sub_label": "Philippines", "obj_label": "Sweden", "uuid": "cc4b5a28-2e7e-4092-ade8-15fceb091757"}
+{"sub_label": "Serbia", "obj_label": "Norway", "uuid": "fe053d60-95b2-483c-8b1c-d1d224795428"}
+{"sub_label": "Ukraine", "obj_label": "Greece", "uuid": "f7cfa3af-dc6c-4111-b439-9c4a7dd93304"}
+{"sub_label": "Tunisia", "obj_label": "France", "uuid": "e223a1a9-80e1-4911-a784-b34a7e66d353"}
+{"sub_label": "Egypt", "obj_label": "Australia", "uuid": "8d210591-f5f5-4e55-bae3-5074668a42be"}
+{"sub_label": "Ireland", "obj_label": "Canada", "uuid": "b926dcfc-2947-4dbf-b3af-2c733e336c52"}
+{"sub_label": "United Kingdom", "obj_label": "Australia", "uuid": "9674a4f4-6630-48da-9f7e-f0d9678d401a"}
+{"sub_label": "Ukraine", "obj_label": "Mexico", "uuid": "4aedc2a3-824f-42d9-b1cb-022aeaa15d71"}
+{"sub_label": "Qatar", "obj_label": "Canada", "uuid": "e3cabe75-917c-4b04-b699-47fa92811846"}
+{"sub_label": "Saudi Arabia", "obj_label": "Yemen", "uuid": "a2ae042b-0f9b-4e5f-a46f-7fccdde61eda"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "Germany", "uuid": "e86e5c2b-220f-4470-ac51-f50db5d82808"}
+{"sub_label": "Holy See", "obj_label": "Nepal", "uuid": "ba0fc30f-7d77-40dd-b1b5-a471a3f1dfbd"}
+{"sub_label": "Germany", "obj_label": "Rwanda", "uuid": "c4d33376-7c54-4c72-afbb-0c7410bba915"}
+{"sub_label": "Italy", "obj_label": "Lebanon", "uuid": "67ae7751-a0f1-41e9-90d4-da06dd808687"}
+{"sub_label": "Namibia", "obj_label": "Canada", "uuid": "8c4b1efe-c926-4840-b3c3-fec51504e610"}
+{"sub_label": "Germany", "obj_label": "Slovenia", "uuid": "2a9615f5-0bcf-4048-af6a-b5dd64f13ebe"}
+{"sub_label": "San Marino", "obj_label": "Germany", "uuid": "af53015a-4bad-4811-944e-d6deb495ca71"}
+{"sub_label": "Holy See", "obj_label": "Iran", "uuid": "5fa2d439-e2f3-48de-8aac-cf24cf4ac6f7"}
+{"sub_label": "Germany", "obj_label": "Ethiopia", "uuid": "b7f70b15-194f-49ec-95e8-607ae8337fdd"}
+{"sub_label": "Israel", "obj_label": "Italy", "uuid": "96d89e7b-57b8-49dc-9c64-d6d52c053148"}
+{"sub_label": "Mozambique", "obj_label": "Brazil", "uuid": "d6b824cf-8253-4576-a22e-4086366ec0c4"}
+{"sub_label": "Saudi Arabia", "obj_label": "Norway", "uuid": "9f20b392-8d34-4881-99e8-0c68efc37e67"}
+{"sub_label": "Germany", "obj_label": "Greece", "uuid": "0a494a67-d4b0-42eb-8df9-31a5b1ca1073"}
+{"sub_label": "Belarus", "obj_label": "India", "uuid": "7dc3206a-2e5c-4d67-96bd-269ec1251388"}
+{"sub_label": "Australia", "obj_label": "Nigeria", "uuid": "2c60ab7f-cdef-4849-8598-c9f13b5adf1e"}
+{"sub_label": "North Korea", "obj_label": "Italy", "uuid": "0c08f1c7-f29f-4514-af34-d86b2cc60adf"}
+{"sub_label": "Cameroon", "obj_label": "Australia", "uuid": "87cf9aa3-cea5-4015-9979-c5d7823098c7"}
+{"sub_label": "Mozambique", "obj_label": "Germany", "uuid": "99d3c923-737c-4bb8-af8e-616f5733391f"}
+{"sub_label": "Angola", "obj_label": "Brazil", "uuid": "d7b8eb1c-5c20-4354-8399-829a7ed3ea1c"}
+{"sub_label": "Germany", "obj_label": "Chad", "uuid": "dee489d5-78b1-45e2-8b20-ad9c2fd9e069"}
+{"sub_label": "Dominican Republic", "obj_label": "Germany", "uuid": "9c0be87b-a444-414d-ad72-245b76a60ca5"}
+{"sub_label": "Lebanon", "obj_label": "Israel", "uuid": "e95675de-da95-4f7d-b681-e94230f2ff85"}
+{"sub_label": "France", "obj_label": "Australia", "uuid": "75fbaebc-34e6-4d3b-b0db-81270e25421a"}
+{"sub_label": "Jamaica", "obj_label": "Australia", "uuid": "4edc3a22-2996-432b-b476-24cb3594a807"}
+{"sub_label": "Brazil", "obj_label": "Haiti", "uuid": "2a400caa-693f-4a34-be0b-cbf520aae3ca"}
+{"sub_label": "Central African Republic", "obj_label": "Belgium", "uuid": "8dc6c863-fd82-4886-8bc5-aee42ade43fd"}
+{"sub_label": "Israel", "obj_label": "Germany", "uuid": "219c28e5-7263-497c-b770-a3f0aa0ecfc5"}
+{"sub_label": "Yemen", "obj_label": "Bahrain", "uuid": "8fa25491-9074-4279-ac54-23e1e26b0eee"}
+{"sub_label": "France", "obj_label": "Brazil", "uuid": "ef469fe6-7645-40c7-af39-3c5d14866f66"}
+{"sub_label": "Peru", "obj_label": "Germany", "uuid": "7830d777-5a8a-433d-a743-518b883844c7"}
+{"sub_label": "Mongolia", "obj_label": "Germany", "uuid": "128e73a3-071e-489c-b674-e747fc16c96a"}
+{"sub_label": "Palau", "obj_label": "Australia", "uuid": "f99b8945-fed9-4f7b-b3f7-12f2e57e3c9f"}
+{"sub_label": "Brazil", "obj_label": "Italy", "uuid": "b65c5864-09f9-436b-b6eb-7379208fd2d1"}
+{"sub_label": "Thailand", "obj_label": "Germany", "uuid": "59e33619-8172-4763-93fa-98475a96f8a6"}
+{"sub_label": "Honduras", "obj_label": "Brazil", "uuid": "7d018a05-1d0b-4cc8-9e19-d6955754766a"}
+{"sub_label": "Germany", "obj_label": "Denmark", "uuid": "1eb61c18-603c-45c6-869e-559266d255f7"}
+{"sub_label": "Serbia", "obj_label": "Germany", "uuid": "d30f5a75-e8ec-4a3d-acb5-9de9e723be57"}
+{"sub_label": "Nigeria", "obj_label": "Australia", "uuid": "41b81a14-985f-4dc4-8cd3-406d9ebd10a3"}
+{"sub_label": "Canada", "obj_label": "Switzerland", "uuid": "20f87974-76a4-45b2-bd98-0470dd671f9c"}
+{"sub_label": "Ukraine", "obj_label": "Ethiopia", "uuid": "23516baf-a2ec-4ec5-9134-0d79fd3b200b"}
+{"sub_label": "Morocco", "obj_label": "Canada", "uuid": "0ac65453-739a-4ba6-a64c-83aa3e762d62"}
+{"sub_label": "Ukraine", "obj_label": "Malaysia", "uuid": "59c0e60e-309c-444b-a5a4-b040d025bf65"}
+{"sub_label": "Australia", "obj_label": "Peru", "uuid": "262e87fd-4238-418e-adb1-bbbcda76849e"}
+{"sub_label": "Norway", "obj_label": "Australia", "uuid": "3b0034d7-072d-4360-abca-02e0ef3f7168"}
+{"sub_label": "Bolivia", "obj_label": "Brazil", "uuid": "f4d597ab-4af1-4026-81fa-3ed7571a98af"}
+{"sub_label": "Djibouti", "obj_label": "Philippines", "uuid": "e7fb621e-558f-4f78-ba51-14bbfcbe9c63"}
+{"sub_label": "Tunisia", "obj_label": "Italy", "uuid": "5c1d6b1f-2f02-42a9-9753-1899f9bad299"}
+{"sub_label": "Ukraine", "obj_label": "Ireland", "uuid": "66c4d964-aa2e-48a6-a333-adce43f16332"}
+{"sub_label": "Japan", "obj_label": "Mongolia", "uuid": "e3fe15c5-6a28-44fa-8211-9343c500487f"}
+{"sub_label": "Uruguay", "obj_label": "Germany", "uuid": "33a7c832-347f-41db-acb7-32cbb58645fa"}
+{"sub_label": "Belarus", "obj_label": "Argentina", "uuid": "2a756997-5a3c-4042-b94c-7a5bd8d574e3"}
+{"sub_label": "Turkey", "obj_label": "Mongolia", "uuid": "f515b26c-be9e-4111-934d-9512a3407b04"}
+{"sub_label": "Italy", "obj_label": "Tunisia", "uuid": "57b3d5a4-6603-4de4-8d3e-3bc628621147"}
+{"sub_label": "Peru", "obj_label": "Australia", "uuid": "ef53e1b9-85ce-44ad-ad5d-03d34e51380e"}
+{"sub_label": "Belarus", "obj_label": "Germany", "uuid": "f7edc0a5-926b-4b1a-a2da-6c8c165fbf95"}
+{"sub_label": "Nicaragua", "obj_label": "Australia", "uuid": "a89043bd-e1c7-498c-abb7-cde617951ffe"}
+{"sub_label": "Ukraine", "obj_label": "Bangladesh", "uuid": "71b8ef0b-2ece-44c2-a747-03da6a5d007b"}
+{"sub_label": "Germany", "obj_label": "Chile", "uuid": "5326180b-3f46-4eb8-9150-3dd9e88478f1"}
+{"sub_label": "Zambia", "obj_label": "Russia", "uuid": "8c38c689-a5bb-4557-8b47-606f68477a66"}
+{"sub_label": "Jordan", "obj_label": "Israel", "uuid": "857d13c4-37c7-4fb5-b631-acb05f3daeb1"}
+{"sub_label": "Bolivia", "obj_label": "Germany", "uuid": "8a9a9ac3-015f-4b96-b5a6-60393f028a54"}
+{"sub_label": "Holy See", "obj_label": "Israel", "uuid": "b7e1c5ad-be70-4d16-89d2-ee4225715b96"}
+{"sub_label": "Belarus", "obj_label": "Bangladesh", "uuid": "5723fd0a-7f39-448c-bd48-e6f9658f8fd9"}
+{"sub_label": "Central African Republic", "obj_label": "Sudan", "uuid": "1c00726c-d71d-4136-b102-bbdd7386d641"}
+{"sub_label": "Ukraine", "obj_label": "Iraq", "uuid": "677293f5-b1d7-4a56-b188-056ba5d70ad1"}
+{"sub_label": "Germany", "obj_label": "Brazil", "uuid": "1e738817-89c3-4341-a2ee-cfa08fc8e5d1"}
+{"sub_label": "Sri Lanka", "obj_label": "Australia", "uuid": "1d4d6f96-a832-464c-9666-43fc8ad554ef"}
+{"sub_label": "Germany", "obj_label": "Mongolia", "uuid": "db962700-3dc4-4df5-8667-4ccc40e86d3a"}
+{"sub_label": "Syria", "obj_label": "Jordan", "uuid": "864ea14f-f7cd-4df3-bf92-00c16a0b3b6a"}
+{"sub_label": "Australia", "obj_label": "Serbia", "uuid": "88769823-e527-433e-9a59-8953797de827"}
+{"sub_label": "Liechtenstein", "obj_label": "Italy", "uuid": "802e1fbe-377a-4081-bb10-a16a7aa7f056"}
+{"sub_label": "Italy", "obj_label": "Poland", "uuid": "e8d5548d-aad1-4341-935e-8e43d5bc7440"}
+{"sub_label": "Saudi Arabia", "obj_label": "Mexico", "uuid": "9b0fb455-9773-49ee-be91-c79f97141821"}
+{"sub_label": "Saudi Arabia", "obj_label": "Sudan", "uuid": "2406d472-ba0e-4ff4-be63-b23da60f9d0f"}
+{"sub_label": "Saudi Arabia", "obj_label": "Morocco", "uuid": "a86eef2a-eb74-4fbe-a53e-d7655455a220"}
+{"sub_label": "Monaco", "obj_label": "Germany", "uuid": "51e7005c-0a1c-485c-bd70-183cfd081ca8"}
+{"sub_label": "Australia", "obj_label": "Egypt", "uuid": "bba4900f-bf12-4ad1-bf45-f48ca6f92698"}
+{"sub_label": "Peru", "obj_label": "Brazil", "uuid": "fd5fc4ec-ed54-4f83-89c0-ebfbd448fefa"}
+{"sub_label": "Croatia", "obj_label": "Germany", "uuid": "71c5471d-6442-4ca8-8537-95b08d78fc28"}
+{"sub_label": "Canada", "obj_label": "Sweden", "uuid": "f2ef615d-47ad-4b06-bc09-6bd722599336"}
+{"sub_label": "Germany", "obj_label": "Kazakhstan", "uuid": "fad6112d-8d8e-40a2-8462-d99171f8b420"}
+{"sub_label": "Turkey", "obj_label": "Canada", "uuid": "51f0c41d-8eca-4f88-b0c4-1d8a3fdd7e29"}
+{"sub_label": "Saudi Arabia", "obj_label": "Australia", "uuid": "1f8e5b85-867c-4523-bd94-795be46538df"}
+{"sub_label": "Taiwan", "obj_label": "Australia", "uuid": "5e9062e7-0e22-453c-938f-a6c1a661dc13"}
+{"sub_label": "Ghana", "obj_label": "Germany", "uuid": "e6dfc2b5-6027-4a9d-9cda-73b77c8c3ce5"}
+{"sub_label": "Cape Verde", "obj_label": "Germany", "uuid": "fe3e9a87-fe15-4351-8309-ab0445e10ec5"}
+{"sub_label": "Indonesia", "obj_label": "Canada", "uuid": "a5817e29-1004-433e-bcb8-ca03b621f4b6"}
+{"sub_label": "Germany", "obj_label": "Argentina", "uuid": "502666cc-fd71-49dc-a60a-ad35c7d36ddc"}
+{"sub_label": "Uzbekistan", "obj_label": "Germany", "uuid": "4eab7301-5862-4856-b417-1871f5c5c390"}
+{"sub_label": "Israel", "obj_label": "Egypt", "uuid": "3e1de940-6d44-45f7-8114-6502b9f0c6b4"}
+{"sub_label": "Holy See", "obj_label": "Romania", "uuid": "8424daec-b189-496b-8516-2c581a15fc35"}
+{"sub_label": "Australia", "obj_label": "Lithuania", "uuid": "57185f62-2cc3-4b5b-9668-5ac7186d43c0"}
+{"sub_label": "Romania", "obj_label": "Australia", "uuid": "76228b99-e387-4fa6-a586-dae32aae498c"}
+{"sub_label": "France", "obj_label": "Italy", "uuid": "a8df3dcb-d16d-46c1-9f81-419cea776c9c"}
+{"sub_label": "Saudi Arabia", "obj_label": "Singapore", "uuid": "4af19199-5a70-489d-91fc-10a378719496"}
+{"sub_label": "Belarus", "obj_label": "Malta", "uuid": "635d9aee-7dfc-4fc7-8aa9-78eed417cfc5"}
+{"sub_label": "Brazil", "obj_label": "Uruguay", "uuid": "297ce950-68b1-400f-8ff6-7a47c02868ab"}
+{"sub_label": "Canada", "obj_label": "Malaysia", "uuid": "62d6d6e4-4442-4eac-89db-7c6f2a99aa0c"}
+{"sub_label": "Australia", "obj_label": "Spain", "uuid": "eb3c86b3-96f2-4a1c-a5d9-2156c85ddbbf"}
+{"sub_label": "Bolivia", "obj_label": "Australia", "uuid": "e75a0631-6b43-46c8-b31f-b53fb439122d"}
+{"sub_label": "United Kingdom", "obj_label": "Italy", "uuid": "2e8ba6bd-850c-41a7-90af-1c2f82d5e711"}
+{"sub_label": "Australia", "obj_label": "Portugal", "uuid": "eda23d0a-88a1-4008-852c-68d4b021b5c9"}
+{"sub_label": "Yemen", "obj_label": "Russia", "uuid": "2753c561-75aa-470b-ac78-8ef33f6a7a26"}
+{"sub_label": "Hungary", "obj_label": "Italy", "uuid": "f3f64ea0-21b8-4daf-84e7-ffb5c6fc3b73"}
+{"sub_label": "Syria", "obj_label": "Russia", "uuid": "ed34d6e4-8a22-41a6-8cad-e76f5974042d"}
+{"sub_label": "France", "obj_label": "Germany", "uuid": "4111571c-2c20-4371-8a35-298035898406"}
+{"sub_label": "United Kingdom", "obj_label": "Yemen", "uuid": "e142b0dd-ce48-444e-bddc-69a985f701c8"}
+{"sub_label": "Netherlands", "obj_label": "Australia", "uuid": "39c5a6d2-4d40-4c77-847e-8263f46abe51"}
+{"sub_label": "Italy", "obj_label": "Australia", "uuid": "b98dc2d0-53ec-4399-aae6-780d5554b241"}
+{"sub_label": "Burundi", "obj_label": "Germany", "uuid": "ed1b16cc-5b0e-4007-ac0e-745489472f2b"}
+{"sub_label": "Ukraine", "obj_label": "Netherlands", "uuid": "ffd1a7cf-98ab-4d1f-8bd9-e7a46bbe3b4b"}
+{"sub_label": "Sweden", "obj_label": "Germany", "uuid": "580777a5-8f8d-44d9-a8f6-f16f34235585"}
+{"sub_label": "Lebanon", "obj_label": "Iran", "uuid": "5c22d45c-5753-4048-b755-a587f2e9ca9c"}
+{"sub_label": "Germany", "obj_label": "Mexico", "uuid": "0f05ac0c-f5ed-4e81-a54b-37d5662e0bd8"}
+{"sub_label": "Somalia", "obj_label": "Germany", "uuid": "cf2e8c72-9719-4371-92a1-ffd26b31630e"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "Croatia", "uuid": "a1e31bcc-b4fd-4629-a481-a07f41ca8ee8"}
+{"sub_label": "Norway", "obj_label": "Italy", "uuid": "0f8ef7b3-19ad-4cec-9663-9868ec28b7a6"}
+{"sub_label": "Fiji", "obj_label": "Australia", "uuid": "11fc104b-bba2-412c-b2d7-cf06cd2bd715"}
+{"sub_label": "Canada", "obj_label": "Cyprus", "uuid": "6d6e8328-29ce-4e0d-b652-04a461ccd3a7"}
+{"sub_label": "Ukraine", "obj_label": "Croatia", "uuid": "b151fdca-b6f3-466e-937d-6e8d55294b4a"}
+{"sub_label": "Andorra", "obj_label": "Germany", "uuid": "c1b0773a-950b-469e-a26f-3e68793efc62"}
+{"sub_label": "Qatar", "obj_label": "Yemen", "uuid": "ee6271bb-2b77-4e31-9b7c-e1fb0e5daf1a"}
+{"sub_label": "European Union", "obj_label": "Belarus", "uuid": "6544431d-ae31-43c5-9c4e-a0deacfd0b2a"}
+{"sub_label": "Germany", "obj_label": "Portugal", "uuid": "bf4e5f52-37fb-4f2e-af16-4899f5418e0d"}
+{"sub_label": "Turkey", "obj_label": "Greece", "uuid": "602fb5bc-ade7-42e9-ba19-dad9dde14c1a"}
+{"sub_label": "European Union", "obj_label": "Ukraine", "uuid": "8e722846-c8a5-4397-bbf7-3255769caad8"}
+{"sub_label": "Germany", "obj_label": "Finland", "uuid": "4dc70acc-5b8f-45ed-af3c-bd529f3766fa"}
+{"sub_label": "Holy See", "obj_label": "Turkey", "uuid": "a896b32c-7b4c-469a-b59d-380dafede009"}
+{"sub_label": "Argentina", "obj_label": "Australia", "uuid": "0fdbf06d-a37a-4897-8906-6cde501adfec"}
+{"sub_label": "Holy See", "obj_label": "Ireland", "uuid": "d027c48d-648f-485a-9c94-7a34ba744a02"}
+{"sub_label": "Senegal", "obj_label": "Germany", "uuid": "87c0d41f-da59-4c6d-8a71-50de15cea0e6"}
+{"sub_label": "Malawi", "obj_label": "Australia", "uuid": "0a353946-df7c-4be6-8360-d2e7b41bba61"}
+{"sub_label": "United States of America", "obj_label": "Japan", "uuid": "b70505ef-bae4-46e8-a512-0b5e0b6d658b"}
+{"sub_label": "United Kingdom", "obj_label": "Ukraine", "uuid": "68e53e0d-133c-4e75-aec2-69ca63aae1b4"}
+{"sub_label": "Philippines", "obj_label": "Canada", "uuid": "bdb4c05b-7d29-4cf1-84c4-54436634c09b"}
+{"sub_label": "Russia", "obj_label": "Italy", "uuid": "ccbaba6c-d175-4d9a-a49d-51283e0af099"}
+{"sub_label": "Australia", "obj_label": "Switzerland", "uuid": "121b2c85-6d32-4f58-a87a-12432d59ebfa"}
+{"sub_label": "Canada", "obj_label": "Colombia", "uuid": "44d6cede-6690-4db8-9eeb-6b4b34d26b5c"}
+{"sub_label": "Israel", "obj_label": "Singapore", "uuid": "29c15570-4213-46da-8bde-c13c85484cd1"}
+{"sub_label": "San Marino", "obj_label": "Italy", "uuid": "668d8952-3e10-4bf3-b0c8-8602bc0b80eb"}
+{"sub_label": "Singapore", "obj_label": "Canada", "uuid": "95c51970-bdd3-49f3-b9d1-ed90b0aa389d"}
+{"sub_label": "Iran", "obj_label": "Iraq", "uuid": "ea92047d-cae9-450e-b683-2eff8bff28a9"}
+{"sub_label": "Guatemala", "obj_label": "Mexico", "uuid": "53c421ce-4c90-42e6-9eca-a269138e51dc"}
+{"sub_label": "Belarus", "obj_label": "Greece", "uuid": "434c32a3-2d53-42bd-844d-a537915b0738"}
+{"sub_label": "Ukraine", "obj_label": "Australia", "uuid": "5022c964-68a2-4822-980e-45e9045e0dba"}
+{"sub_label": "Italy", "obj_label": "Yemen", "uuid": "c0572f9e-5da9-4156-ac43-d6faa3215754"}
+{"sub_label": "Yemen", "obj_label": "Libya", "uuid": "2dad6d9d-a167-4d9f-97c8-77ac8277014b"}
+{"sub_label": "Italy", "obj_label": "Germany", "uuid": "592a4103-4b29-47d5-8dea-32e6a8eef442"}
+{"sub_label": "Ukraine", "obj_label": "Armenia", "uuid": "1aa978d8-5d12-4136-932f-45c2724fbb60"}
+{"sub_label": "Australia", "obj_label": "Samoa", "uuid": "f9274bd2-1a61-4d51-9ed3-9c43488608b8"}
+{"sub_label": "Kenya", "obj_label": "Rwanda", "uuid": "2756edb3-b2d0-484f-9aa6-4a5b3c45f470"}
+{"sub_label": "United States of America", "obj_label": "Russia", "uuid": "a204cb4e-6287-4ae8-9ee4-7923d05df519"}
+{"sub_label": "Slovenia", "obj_label": "Italy", "uuid": "33ac8792-236f-4358-afc9-dbf84f6d9ac8"}
+{"sub_label": "Canada", "obj_label": "Australia", "uuid": "c5e5a6eb-b13d-4fb9-828f-b4ddfdbec71a"}
+{"sub_label": "People's Republic of China", "obj_label": "Singapore", "uuid": "feda0c0c-25d5-450f-ba92-07f99711561f"}
+{"sub_label": "North Korea", "obj_label": "Russia", "uuid": "56e0ef64-d80b-4ccc-aa71-1b41ba446685"}
+{"sub_label": "Russia", "obj_label": "Argentina", "uuid": "7dbbd5dc-0e7e-40fd-85f0-69060953d76d"}
+{"sub_label": "Belarus", "obj_label": "Croatia", "uuid": "4ceef18b-827c-4eea-ad0b-ffbcc916a9bb"}
+{"sub_label": "Italy", "obj_label": "Afghanistan", "uuid": "8a220f4a-25a5-47d8-b707-d3870ac5d3b3"}
+{"sub_label": "Portugal", "obj_label": "Italy", "uuid": "c8041a82-c605-46ed-bde6-d121b73e19a0"}
+{"sub_label": "Yemen", "obj_label": "Qatar", "uuid": "af630121-8769-4401-93c9-875abf7b380a"}
+{"sub_label": "Greece", "obj_label": "Germany", "uuid": "a0b2ec61-fb8a-44dc-8679-7d9f826e83bd"}
+{"sub_label": "Italy", "obj_label": "Monaco", "uuid": "0f0c4d2a-ac0d-4d96-b62f-5b225e6181cd"}
+{"sub_label": "Central African Republic", "obj_label": "Cameroon", "uuid": "1b677f35-70d0-4882-9af4-9fd674f85578"}
+{"sub_label": "French Polynesia", "obj_label": "Australia", "uuid": "b63ec7bf-9ccf-4920-bcf5-e41ceb5bcedc"}
+{"sub_label": "Yemen", "obj_label": "Iraq", "uuid": "27c8055c-d485-49fd-ad4c-398d4a21c478"}
+{"sub_label": "Ukraine", "obj_label": "Azerbaijan", "uuid": "9a56b9b5-9293-43c9-9262-400865e64ca0"}
+{"sub_label": "Kenya", "obj_label": "Ethiopia", "uuid": "9e64933b-bb63-4164-b4d1-0aec13383d41"}
+{"sub_label": "Yemen", "obj_label": "Pakistan", "uuid": "e15d0489-bd3f-43ca-921e-74182254bc9c"}
+{"sub_label": "Germany", "obj_label": "Bolivia", "uuid": "f96dfc19-b9ea-4524-a7f3-aae1f38b3619"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "Slovenia", "uuid": "dbf3d37e-f4f8-44ba-b0ff-a13d5915819a"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "England", "uuid": "67af6213-3650-481c-90f6-41655969b157"}
+{"sub_label": "Canada", "obj_label": "Israel", "uuid": "9cf1987f-9668-4387-8584-6bac18d41689"}
+{"sub_label": "Ukraine", "obj_label": "Austria", "uuid": "d15d2603-fe01-4ecf-bdaf-51f3582f8a5a"}
+{"sub_label": "Germany", "obj_label": "Italy", "uuid": "ab029f73-53e7-4a0c-b689-e41ff134e4b0"}
+{"sub_label": "Russia", "obj_label": "Israel", "uuid": "4842850b-593b-4b0a-8b06-db2792bd70ca"}
+{"sub_label": "North Korea", "obj_label": "Brazil", "uuid": "cab8b37c-011c-423a-b2fd-6462c2d8de18"}
+{"sub_label": "United States of America", "obj_label": "Brazil", "uuid": "0765efcd-a326-4ea1-b15c-35220e14f194"}
+{"sub_label": "Netherlands", "obj_label": "Italy", "uuid": "e316cf55-cfc9-4242-bfe4-9b27b6ce713a"}
+{"sub_label": "Iraq", "obj_label": "Brazil", "uuid": "71c60291-ca35-494a-882b-09401bca59b6"}
+{"sub_label": "Nauru", "obj_label": "Australia", "uuid": "5db67feb-9046-4de6-9b02-937ce6fa2d34"}
+{"sub_label": "Italy", "obj_label": "Libya", "uuid": "48615529-49d3-40ea-80fe-a9197dfda332"}
+{"sub_label": "Italy", "obj_label": "Indonesia", "uuid": "c84cc473-18d4-4f39-8311-7b2398b43437"}
+{"sub_label": "Mexico", "obj_label": "Germany", "uuid": "ea377833-288b-4884-bb8a-497702383f4f"}
+{"sub_label": "Australia", "obj_label": "Denmark", "uuid": "cd16cd80-ada9-4c22-a3a5-c249aeb80ba9"}
+{"sub_label": "Guyana", "obj_label": "Germany", "uuid": "22e5c807-4662-4d20-a172-a31c5bd21fb0"}
+{"sub_label": "Australia", "obj_label": "Guatemala", "uuid": "9664cd4d-12f0-4bda-a2d2-d7720c42cd34"}
+{"sub_label": "Australia", "obj_label": "Ethiopia", "uuid": "6b046d14-bfaf-4b35-af46-163dd1c15b1c"}
+{"sub_label": "Saudi Arabia", "obj_label": "Nepal", "uuid": "13114c89-55a5-4b67-9b72-80db321cf6bc"}
+{"sub_label": "Sudan", "obj_label": "Brazil", "uuid": "abe0e40e-f5cc-49af-a523-ec2541c02cd2"}
+{"sub_label": "Germany", "obj_label": "Albania", "uuid": "05573a46-b8f2-4eb7-98ac-352defccd4fe"}
+{"sub_label": "Russia", "obj_label": "Brazil", "uuid": "e4e2d971-0f07-4f50-b26b-040915fef596"}
+{"sub_label": "Germany", "obj_label": "Venezuela", "uuid": "fd437182-e1af-4a6b-8db7-830f28314f2a"}
+{"sub_label": "Australia", "obj_label": "Poland", "uuid": "6832a960-b7e1-438a-905e-a277a44f44d8"}
+{"sub_label": "Italy", "obj_label": "Ukraine", "uuid": "c29ddb1d-f821-443f-a11f-7dbc269351f1"}
+{"sub_label": "Saudi Arabia", "obj_label": "Romania", "uuid": "79b02d1c-befd-4018-a921-67595c016441"}
+{"sub_label": "Zambia", "obj_label": "Nigeria", "uuid": "10bf8d5c-581c-40d4-9ef6-8a10a7368d44"}
+{"sub_label": "Iceland", "obj_label": "Germany", "uuid": "a33f7c65-f224-4cd3-816d-fceea66f7acb"}
+{"sub_label": "Kenya", "obj_label": "Australia", "uuid": "4b90fd10-c8d0-42be-9f5d-cfc78cbce968"}
+{"sub_label": "Kenya", "obj_label": "Zimbabwe", "uuid": "cbcb1d29-d2f2-44a0-82ba-5ce1adf18bf9"}
+{"sub_label": "Germany", "obj_label": "Senegal", "uuid": "df8efe1a-a926-45ef-b25a-f4c1c0109ef3"}
+{"sub_label": "Germany", "obj_label": "Spain", "uuid": "18ee2db5-70d1-4f1c-a113-82c4c97b1351"}
+{"sub_label": "Afghanistan", "obj_label": "Canada", "uuid": "7825a999-ad86-4c30-9ba7-8032a713fdb8"}
+{"sub_label": "Iran", "obj_label": "Azerbaijan", "uuid": "4e6b7dd7-467c-437e-b980-a5e00df359e1"}
+{"sub_label": "India", "obj_label": "Russia", "uuid": "62c12318-0f3c-43f0-9c32-3ff56bd270bf"}
+{"sub_label": "Holy See", "obj_label": "Venezuela", "uuid": "8234b195-a2b3-4982-938e-2e54493a6b2d"}
+{"sub_label": "Germany", "obj_label": "Austria", "uuid": "f8ae9f4e-8b95-4a07-be50-fc90d28dbe29"}
+{"sub_label": "Ukraine", "obj_label": "Pakistan", "uuid": "4ae3865f-b3d2-41b6-a53d-5806dc8bac57"}
+{"sub_label": "Kenya", "obj_label": "Uganda", "uuid": "95a89acd-a9f5-4ee1-a9b6-f2d23fdbcf0e"}
+{"sub_label": "Bosnia and Herzegovina", "obj_label": "France", "uuid": "04ab44eb-2279-4bdb-9109-ca1d6e54b802"}
+{"sub_label": "Ethiopia", "obj_label": "Germany", "uuid": "b6c25322-be18-4d65-93e2-e034a45e74f9"}
+{"sub_label": "Japan", "obj_label": "Russia", "uuid": "bd352df1-6e81-43c8-aacf-d534bd35d44a"}
+{"sub_label": "Italy", "obj_label": "Cyprus", "uuid": "b25b5924-1d3d-4965-a250-0de11162ec16"}
+{"sub_label": "Zambia", "obj_label": "Tanzania", "uuid": "d85cb7e9-94bf-47e2-bc5c-882c6a7d7af4"}
+{"sub_label": "Cyprus", "obj_label": "Israel", "uuid": "8ea7195a-5b41-4d8b-95e0-2e20dcd8cb1b"}
+{"sub_label": "Ukraine", "obj_label": "India", "uuid": "b9801742-466f-467b-8d14-95b99f6363cd"}
+{"sub_label": "Australia", "obj_label": "Belgium", "uuid": "daa1ce5b-a702-4f1e-a7a0-8f4432b1dc8d"}
+{"sub_label": "Guinea-Bissau", "obj_label": "Germany", "uuid": "0d5289ab-efec-4f53-a5f3-e6186aa0a473"}
+{"sub_label": "Guatemala", "obj_label": "Australia", "uuid": "11da94a1-9fb1-41ec-b6ea-daba48f0d338"}
+{"sub_label": "Canada", "obj_label": "Poland", "uuid": "3e4a38a3-3227-4c4a-a73e-f30f14044e93"}
+{"sub_label": "Nigeria", "obj_label": "Germany", "uuid": "57785e6d-a8a9-4524-aa4f-28fccf3bb44c"}
+{"sub_label": "Pakistan", "obj_label": "Yemen", "uuid": "15fae0e7-cc71-4470-a0c2-2d87c4241ad6"}
+{"sub_label": "Denmark", "obj_label": "Canada", "uuid": "6dddb277-1da8-4644-9553-0d07c34923d0"}
+{"sub_label": "Cuba", "obj_label": "Russia", "uuid": "947c9ab6-5399-4b42-b033-f35725448dea"}
+{"sub_label": "Nigeria", "obj_label": "Brazil", "uuid": "e35aa50a-89a5-405f-b255-299004a9eff1"}
+{"sub_label": "Canada", "obj_label": "Egypt", "uuid": "c6e97d46-a394-4ed1-89c1-278afb2cc402"}
+{"sub_label": "Bhutan", "obj_label": "Brazil", "uuid": "b9a67bf3-5f9c-45ac-9ca8-fffa90bf4baf"}
+{"sub_label": "Turkey", "obj_label": "Italy", "uuid": "93b24d04-14aa-480e-a382-be96281378df"}
+{"sub_label": "France", "obj_label": "Russia", "uuid": "03dea07e-798e-41cd-bd5d-1d4b1f65e4e9"}
+{"sub_label": "United Kingdom", "obj_label": "France", "uuid": "296d1aba-4b59-4480-b035-6c13dbd7d562"}
+{"sub_label": "Uruguay", "obj_label": "Brazil", "uuid": "5aae1995-a4ad-4f1a-862e-3266cb4ba6ff"}
+{"sub_label": "Zambia", "obj_label": "Kenya", "uuid": "90b9fb46-093f-4d85-8957-78678126c837"}
+{"sub_label": "Central African Republic", "obj_label": "Russia", "uuid": "73cb5888-3fc2-41a6-8eb5-57efaa8b1f36"}
+{"sub_label": "Zambia", "obj_label": "India", "uuid": "7b1100b0-d0c1-4936-983d-862163232f18"}
+{"sub_label": "Australia", "obj_label": "Brazil", "uuid": "103c6e9a-89a1-43f7-9f72-208960b7c978"}
+{"sub_label": "Germany", "obj_label": "Malta", "uuid": "7cde846c-4ed3-499b-97e3-72a907b10da5"}
+{"sub_label": "United States of America", "obj_label": "Albania", "uuid": "7ca638df-3f16-4466-98d6-97e247f5f1aa"}
+{"sub_label": "Mozambique", "obj_label": "Australia", "uuid": "8f787c0f-cd77-41e0-9b4b-8003d73bf8e2"}
+{"sub_label": "Finland", "obj_label": "Australia", "uuid": "e4f5637a-1566-4e6a-9af8-e97381ad11b0"}
+{"sub_label": "Ireland", "obj_label": "Russia", "uuid": "cc5c36c1-e997-4187-bea0-2bd7f2ca4176"}
+{"sub_label": "Indonesia", "obj_label": "Russia", "uuid": "a5845ab9-5de3-4840-82f8-335542648a25"}
+{"sub_label": "People's Republic of China", "obj_label": "Russia", "uuid": "31230999-55eb-409a-bc02-a7448e0d73e2"}
+{"sub_label": "Brazil", "obj_label": "Nigeria", "uuid": "94be72c6-a101-40bc-b56c-867669fddd68"}
+{"sub_label": "France", "obj_label": "Japan", "uuid": "ca338572-8c22-4777-b8fa-4f69f14f86f0"}
+{"sub_label": "Germany", "obj_label": "Netherlands", "uuid": "ec0b338d-d3f3-4fd4-9223-e5adeddec440"}
+{"sub_label": "Dominican Republic", "obj_label": "Australia", "uuid": "0550a9d4-c2b3-493b-995e-59528ce6a0c9"}
+{"sub_label": "Germany", "obj_label": "Croatia", "uuid": "ea2f6336-332d-4c72-9f3d-fbf445fd408b"}
+{"sub_label": "Italy", "obj_label": "Switzerland", "uuid": "b1a7003b-b5e7-4564-b9a0-556309486789"}
+{"sub_label": "Switzerland", "obj_label": "Australia", "uuid": "9d125139-186c-4408-8c3a-6f398accdd94"}
+{"sub_label": "Belarus", "obj_label": "Algeria", "uuid": "505da784-b449-4d01-b08c-b26f1011965d"}
+{"sub_label": "Lebanon", "obj_label": "Australia", "uuid": "7b872615-a318-4471-99fb-17162cd81086"}
+{"sub_label": "Germany", "obj_label": "Luxembourg", "uuid": "3673e154-801f-42c6-aa16-465b95469d95"}
+{"sub_label": "Bangladesh", "obj_label": "Australia", "uuid": "151e37cd-907a-40cc-9ecf-3bda00145ac2"}
+{"sub_label": "Belarus", "obj_label": "France", "uuid": "978fdf03-091f-4eaa-ab1a-45a25bfc0dc7"}
+{"sub_label": "United Kingdom", "obj_label": "Germany", "uuid": "d926c140-bb7f-4300-ab34-8a8d8f1e9c76"}
+{"sub_label": "Russia", "obj_label": "Australia", "uuid": "a1b270d2-c2df-4d41-9432-4c413f0fec3a"}
+{"sub_label": "Slovenia", "obj_label": "Croatia", "uuid": "c2534a6e-8e28-4280-a18c-2a8e85bc95a0"}
+{"sub_label": "Germany", "obj_label": "Zimbabwe", "uuid": "7ff938cd-ed8b-43a4-822e-7bee87e419bb"}
+{"sub_label": "Holy See", "obj_label": "France", "uuid": "8ab9b2c6-ec4c-442c-8d15-e346e884bf23"}
+{"sub_label": "Germany", "obj_label": "Monaco", "uuid": "43a17ba7-2acc-4189-b298-bc5c743d7c98"}
+{"sub_label": "Armenia", "obj_label": "France", "uuid": "29af121b-fc6d-468d-85e5-c7bbea59c659"}
+{"sub_label": "Zimbabwe", "obj_label": "Australia", "uuid": "e8f0bd8e-b1e7-42dd-8d3f-41d883897489"}
+{"sub_label": "Saudi Arabia", "obj_label": "Ukraine", "uuid": "05b1b156-0af1-494f-8967-0be6ebe0205f"}
+{"sub_label": "United States of America", "obj_label": "Iraq", "uuid": "1d4be239-daf9-45f7-a607-a025eff9fe96"}
+{"sub_label": "Italy", "obj_label": "Ireland", "uuid": "1405d78e-025c-4d0c-914f-b9d8dbbe574f"}
+{"sub_label": "Iran", "obj_label": "Germany", "uuid": "37b48e02-bdd8-4141-a2eb-e3dc7c1e57a3"}
+{"sub_label": "Bangladesh", "obj_label": "Sweden", "uuid": "73671483-7736-46d3-afb3-a1af1f70d582"}
+{"sub_label": "Hungary", "obj_label": "Serbia", "uuid": "9e79514b-7de8-4c47-a50e-50150c93b54e"}
+{"sub_label": "Israel", "obj_label": "Jordan", "uuid": "13195683-f52a-4fb6-897c-f0ac7b2ed723"}
+{"sub_label": "Bahamas", "obj_label": "Australia", "uuid": "a16c7547-61ad-4370-8224-4f57a6118c41"}
+{"sub_label": "Barbados", "obj_label": "Australia", "uuid": "26bf7a76-5d38-40fb-96fb-e64ec8f6a67e"}
+{"sub_label": "Brazil", "obj_label": "Sudan", "uuid": "782009b7-dd63-4914-8636-e47cc1a5b1cc"}
+{"sub_label": "Germany", "obj_label": "Egypt", "uuid": "7d25ff39-11ea-417f-aff7-0f2b6f0ef350"}
+{"sub_label": "Moldova", "obj_label": "Germany", "uuid": "5ab00971-487b-4ac2-a08f-7c30ebbe46b7"}
+{"sub_label": "Cape Verde", "obj_label": "Brazil", "uuid": "d29778d2-5352-4082-ad9a-1d5cba3d7eaf"}
+{"sub_label": "Israel", "obj_label": "Turkey", "uuid": "5d386179-4e33-4591-91a3-c6edc4c724ce"}
+{"sub_label": "Saudi Arabia", "obj_label": "Sweden", "uuid": "d4f9cc16-bf44-43a9-9256-cbece02c7a09"}
+{"sub_label": "Syria", "obj_label": "Lebanon", "uuid": "292909a9-ebe2-4894-a767-280686007f9d"}
+{"sub_label": "Ecuador", "obj_label": "Australia", "uuid": "2cd3c417-3369-4591-8a12-52cb1473e367"}
+{"sub_label": "Gabon", "obj_label": "Germany", "uuid": "d69ba524-b547-41d3-812d-78094e5987a1"}
+{"sub_label": "Germany", "obj_label": "Libya", "uuid": "e80474d0-ac3e-47a4-bed7-03c5b37c0db2"}
+{"sub_label": "France", "obj_label": "Luxembourg", "uuid": "dc3602aa-49f5-442a-91b6-9f78051178d7"}
+{"sub_label": "Costa Rica", "obj_label": "Germany", "uuid": "4ac1f977-0432-4415-ad11-54c34f8900c0"}
+{"sub_label": "Ukraine", "obj_label": "Kazakhstan", "uuid": "f4dec17b-195e-449d-aae3-1d57034344c4"}
+{"sub_label": "Solomon Islands", "obj_label": "Australia", "uuid": "6458474b-4061-4ac4-acaf-2fe078c9a138"}
+{"sub_label": "Canada", "obj_label": "Philippines", "uuid": "9bf57699-1745-4d63-8fa2-650b219fcf27"}
+{"sub_label": "Brazil", "obj_label": "Australia", "uuid": "cf206020-ebc7-4a78-be75-793c5f540620"}
+{"sub_label": "Ukraine", "obj_label": "Germany", "uuid": "73681a5b-2272-408a-a26b-81d9ff1ea528"}
+{"sub_label": "Australia", "obj_label": "Honduras", "uuid": "96f68d30-af30-4695-a581-af8a4a609d93"}
+{"sub_label": "Australia", "obj_label": "Pakistan", "uuid": "c9cf5fb7-4add-4e96-a77a-32badbec0768"}
+{"sub_label": "Kenya", "obj_label": "Austria", "uuid": "50675bf9-91e6-4f64-93a7-5f091c931d57"}
+{"sub_label": "Chile", "obj_label": "Brazil", "uuid": "39a4658a-f6de-4c76-86a9-faaa7f246bea"}
+{"sub_label": "Serbia", "obj_label": "Hungary", "uuid": "ae3f3dc7-8397-4120-8b83-65fa7cd1771f"}
+{"sub_label": "Italy", "obj_label": "Albania", "uuid": "8a947f54-fd79-4efc-b8e9-10376aa6891a"}
+{"sub_label": "Brunei", "obj_label": "Australia", "uuid": "0a0e964b-87fd-489e-b0d3-695d0960d2ae"}

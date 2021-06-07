@@ -317,6 +317,7 @@ $RECYCLE.BIN/
 data/*
 !data/pattern_data/
 !data/unpattern_data/
+!data/trex_lms_vocab/
 .idea/
 wandb/
 subscription.json

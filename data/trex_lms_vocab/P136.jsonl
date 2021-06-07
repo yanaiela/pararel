@@ -1,0 +1,859 @@
+{"sub_label": "John Cage", "obj_label": "opera", "uuid": "07392dcb-a4be-430c-9ffe-d5fe802c5646"}
+{"sub_label": "Herbie Mann", "obj_label": "jazz", "uuid": "b2e3fc81-440e-4ed5-b30e-52fe8da3f635"}
+{"sub_label": "William Bolcom", "obj_label": "opera", "uuid": "12856973-4c36-43d4-b1e9-3464d80df708"}
+{"sub_label": "Original Dixieland Jass Band", "obj_label": "jazz", "uuid": "735a9298-f001-4dde-b764-b37e51727063"}
+{"sub_label": "Jean-Michel Pilc", "obj_label": "jazz", "uuid": "53c41bb1-7c39-49f7-869a-a1a73f81c5cf"}
+{"sub_label": "Giulio Caccini", "obj_label": "opera", "uuid": "d6206e16-62bc-4ee2-975d-a8ea2649f58c"}
+{"sub_label": "Nicolas Dalayrac", "obj_label": "opera", "uuid": "10f658c3-3bcf-4527-96da-941db3f8d181"}
+{"sub_label": "Hamish MacCunn", "obj_label": "opera", "uuid": "db7665a2-f344-47e6-82eb-0dcb5d9165be"}
+{"sub_label": "Frank Teschemacher", "obj_label": "jazz", "uuid": "c0f97cf3-008c-430b-906c-3e7e4244f5e6"}
+{"sub_label": "Georgie Auld", "obj_label": "jazz", "uuid": "858072dd-a2bd-4988-a381-32ec298e1b06"}
+{"sub_label": "Chess Records", "obj_label": "jazz", "uuid": "ff29369e-10f6-4b20-80b4-963603a12fb4"}
+{"sub_label": "Natalie Dessay", "obj_label": "opera", "uuid": "b6aeacb5-e8ea-4a6d-b20f-cb0ced333934"}
+{"sub_label": "Reynaldo Hahn", "obj_label": "opera", "uuid": "ea25912e-5e5a-4842-a8f0-f99f932d17df"}
+{"sub_label": "Chick Corea", "obj_label": "jazz", "uuid": "46b86603-1074-458c-97c7-e11a4d0e41cc"}
+{"sub_label": "Benedetto Marcello", "obj_label": "opera", "uuid": "eacbe53c-235d-408b-b2d4-e06b32c28c6b"}
+{"sub_label": "World of Ice and Fire", "obj_label": "fantasy", "uuid": "674784a7-4c48-4448-aaa3-d5e2b639fc98"}
+{"sub_label": "Naxos Records", "obj_label": "jazz", "uuid": "f09c68a7-e6aa-4565-968d-1c6c4bcb2961"}
+{"sub_label": "Vinnie Burke", "obj_label": "jazz", "uuid": "27182775-e84b-4060-a7da-7d3ae23f9fb7"}
+{"sub_label": "Bob Enevoldsen", "obj_label": "jazz", "uuid": "9a7bfdfd-6d98-472f-9b6c-dc47f2961fb3"}
+{"sub_label": "Heath Brothers", "obj_label": "jazz", "uuid": "ec1cf383-84e6-42cc-bb0d-b4c289349fe0"}
+{"sub_label": "Darryl Jones", "obj_label": "jazz", "uuid": "744b87e2-459e-4cfb-bce4-11ab7596d710"}
+{"sub_label": "Mainstream Records", "obj_label": "jazz", "uuid": "9d36488c-cb23-48ba-8b38-6892fb2c7b49"}
+{"sub_label": "Jonathan Coe", "obj_label": "satire", "uuid": "7b4f4cac-5c47-4413-a5a3-8de044bb6108"}
+{"sub_label": "Jam Session", "obj_label": "jazz", "uuid": "ff659306-f4ac-4573-baa5-10583940a662"}
+{"sub_label": "Steve Lacy", "obj_label": "jazz", "uuid": "1c7fdd97-fcf1-4bab-8ff9-89c536c3885e"}
+{"sub_label": "Einojuhani Rautavaara", "obj_label": "opera", "uuid": "0881ba3b-199b-417a-baa4-519d0b85d08d"}
+{"sub_label": "Jules Massenet", "obj_label": "opera", "uuid": "085c25f9-60a6-4073-8684-cf604683e234"}
+{"sub_label": "Jean-Joseph Mouret", "obj_label": "opera", "uuid": "f79357f8-b5ea-441a-9cfc-ab33f0399fa5"}
+{"sub_label": "Snub Mosley", "obj_label": "jazz", "uuid": "e42afe11-c5c5-4a7e-b232-291819c6fe29"}
+{"sub_label": "Gary Burton", "obj_label": "jazz", "uuid": "1388bf94-7dbd-4a3e-9bc3-e4908ebf1c93"}
+{"sub_label": "Johnny Smith", "obj_label": "jazz", "uuid": "b3d138ef-21c0-42f4-8acc-134a5df094fc"}
+{"sub_label": "Buzzy Drootin", "obj_label": "jazz", "uuid": "640be8ca-9cf4-4e9d-880c-0ee14e8399d4"}
+{"sub_label": "Ambrose Akinmusire", "obj_label": "jazz", "uuid": "828970e9-87ad-4311-a2f9-0150bfb2f9dc"}
+{"sub_label": "Jean Cras", "obj_label": "opera", "uuid": "352b6fc3-09fa-43ed-be5e-6481636e5fd9"}
+{"sub_label": "Weather Report", "obj_label": "jazz", "uuid": "7512a919-3e18-4ae9-8e85-fd2fc9bce0c3"}
+{"sub_label": "Henri Rabaud", "obj_label": "opera", "uuid": "2def5145-17eb-4dd3-ad5f-6bab44915492"}
+{"sub_label": "Nick Brignola", "obj_label": "jazz", "uuid": "a4105e08-5706-4b5c-bd5f-72ed194935da"}
+{"sub_label": "Sal Salvador", "obj_label": "jazz", "uuid": "77a31aca-97a4-4e72-b240-ca38be5da517"}
+{"sub_label": "Charles Wuorinen", "obj_label": "opera", "uuid": "5725eca3-3cc4-4a3f-aa79-37ce4c2906b5"}
+{"sub_label": "William Michael Rooke", "obj_label": "opera", "uuid": "d6dd2458-15fd-46cf-a50f-aad0cda91bb1"}
+{"sub_label": "Mark Helias", "obj_label": "jazz", "uuid": "6254c79c-bd0a-4e40-ad86-84f79ee09955"}
+{"sub_label": "Airplane!", "obj_label": "parody", "uuid": "d20b0037-298e-4603-ad73-a41cdf7fa6e0"}
+{"sub_label": "Ola Kvernberg", "obj_label": "jazz", "uuid": "2bd80dee-72d6-460d-9417-cd3db202cb1a"}
+{"sub_label": "Better Off Ted", "obj_label": "sitcom", "uuid": "ec851760-a87b-40b3-80cc-054974d0c8d0"}
+{"sub_label": "Marvin David Levy", "obj_label": "opera", "uuid": "eb9aa616-5090-45a0-96e2-10beb8faa5ce"}
+{"sub_label": "Red Mitchell", "obj_label": "jazz", "uuid": "83c8c0cd-db2b-4740-ad72-ad0f9ac4a525"}
+{"sub_label": "Al Haig", "obj_label": "jazz", "uuid": "ede15848-6381-4186-92e9-e2aa8cf872f3"}
+{"sub_label": "Bluebird Records", "obj_label": "jazz", "uuid": "ed6f737f-f7fe-4a5b-bf47-78e29b4a1465"}
+{"sub_label": "Frank Marocco", "obj_label": "jazz", "uuid": "bf5e0c0e-cc9f-4490-98f4-71d167397659"}
+{"sub_label": "Humphrey Lyttelton", "obj_label": "jazz", "uuid": "a6fef520-ff7f-45c2-a56d-ddfdced1b499"}
+{"sub_label": "Igor Stravinsky", "obj_label": "opera", "uuid": "b36d168e-1da2-4841-a0ff-6b6f29debb58"}
+{"sub_label": "Dial M for Murder", "obj_label": "thriller", "uuid": "0913fed0-c180-4fa7-b505-fdf4b5df5c06"}
+{"sub_label": "Lee Konitz", "obj_label": "jazz", "uuid": "c561958b-a570-40ed-9e8d-8f51e390f923"}
+{"sub_label": "Pierre-Alexandre Monsigny", "obj_label": "opera", "uuid": "14856247-226c-4a31-8988-cfa5e1967ba5"}
+{"sub_label": "The Crazy Ones", "obj_label": "sitcom", "uuid": "e229c0be-1ad9-4319-8ea8-17cbd41e40b7"}
+{"sub_label": "Dhoom 3", "obj_label": "thriller", "uuid": "43c073e7-81f2-4f5d-a4d7-1363f2544947"}
+{"sub_label": "Fraser MacPherson", "obj_label": "jazz", "uuid": "26816fdd-5094-41b3-9b7f-c44d1689e755"}
+{"sub_label": "Rabih Abou-Khalil", "obj_label": "jazz", "uuid": "dcacdacf-b0a4-47ca-b18e-d67237bf80bd"}
+{"sub_label": "Ronnie Scott", "obj_label": "jazz", "uuid": "22ad1a0a-34f5-4fd1-9984-7b1d56545e76"}
+{"sub_label": "Buster Bailey", "obj_label": "jazz", "uuid": "9076b81b-6c2b-4e27-8191-f9a3aab98247"}
+{"sub_label": "Something Wilder", "obj_label": "sitcom", "uuid": "b96966e2-0453-4e23-bf83-c3ed85eba83e"}
+{"sub_label": "Antonio Smareglia", "obj_label": "opera", "uuid": "47737cd0-5cba-423a-9970-14d2b179e273"}
+{"sub_label": "SFJAZZ Collective", "obj_label": "jazz", "uuid": "bcefaeb3-924a-4fe3-b0f4-3def48ff9db6"}
+{"sub_label": "De-Phazz", "obj_label": "jazz", "uuid": "3d4acceb-cf73-4f6d-84b7-74cf99b58f68"}
+{"sub_label": "Anja Eline Skybakmoen", "obj_label": "jazz", "uuid": "b661649d-eb0b-4141-aaac-46ef3c1c4d0d"}
+{"sub_label": "Aldo Romano", "obj_label": "jazz", "uuid": "175e0eee-1406-4a55-8700-52197c13ca92"}
+{"sub_label": "Orpheus Music", "obj_label": "jazz", "uuid": "bb90dfef-2355-491b-b7c0-678295eb84ed"}
+{"sub_label": "The Jazz Messengers", "obj_label": "jazz", "uuid": "0b0295df-af54-41a3-ad41-b1fe3cb05594"}
+{"sub_label": "Friedrich Gulda", "obj_label": "jazz", "uuid": "aaeaa3fa-925a-4856-af92-45fcead9d979"}
+{"sub_label": "Jerome Hines", "obj_label": "opera", "uuid": "2bde60a6-be84-4bfd-980a-256497223d46"}
+{"sub_label": "The Simpsons", "obj_label": "sitcom", "uuid": "57d9532e-1b06-4969-81ca-bc05d9ae0605"}
+{"sub_label": "Liquid Gold", "obj_label": "disco", "uuid": "b6a78ac0-d1f4-4a70-bd78-ef3debd8b4e6"}
+{"sub_label": "Tony Gilroy", "obj_label": "thriller", "uuid": "c6639bdf-82e9-4029-8c8c-65803ce7773c"}
+{"sub_label": "The Domino Principle", "obj_label": "thriller", "uuid": "268980d3-b423-466c-aeb1-ce16908e2ee6"}
+{"sub_label": "Eddie Barefield", "obj_label": "jazz", "uuid": "34876805-7a83-4419-b72c-976afde28967"}
+{"sub_label": "Lenny Breau", "obj_label": "jazz", "uuid": "80329660-af10-4a45-aa11-0014ed14e30d"}
+{"sub_label": "Kenny Werner", "obj_label": "jazz", "uuid": "3ea8354f-3618-49dc-8e96-3dd3d86ab0e2"}
+{"sub_label": "Solveig Slettahjell", "obj_label": "jazz", "uuid": "3ea97eef-7329-4517-b82f-0015ed28a452"}
+{"sub_label": "Tiny Grimes", "obj_label": "jazz", "uuid": "0ce8c4e8-9a5c-4468-a57f-8b36b8ee5090"}
+{"sub_label": "Eyran Katsenelenbogen", "obj_label": "jazz", "uuid": "2eca3574-ba92-4c1a-871b-131f48b09ae0"}
+{"sub_label": "The Complete Compleat Enchanter", "obj_label": "fantasy", "uuid": "b74c16af-0904-4fd3-8c78-2add3595cb73"}
+{"sub_label": "Raina Kabaivanska", "obj_label": "opera", "uuid": "1f7c8322-5a58-4a12-b338-b577329f2d8e"}
+{"sub_label": "Orest Kiprensky", "obj_label": "portrait", "uuid": "ed979806-09a3-4be4-b785-14b65cbc6397"}
+{"sub_label": "Keter Betts", "obj_label": "jazz", "uuid": "ed414145-8d94-442f-9e8e-2b155704164c"}
+{"sub_label": "George Avakian", "obj_label": "jazz", "uuid": "b01f3bf0-2a4d-456f-948d-14418adcda07"}
+{"sub_label": "Harlem Hamfats", "obj_label": "jazz", "uuid": "53407c90-4657-4b33-b778-bec13ddb55a5"}
+{"sub_label": "JazzKamikaze", "obj_label": "jazz", "uuid": "15ca792b-9f3f-4096-9bbe-64cb17664313"}
+{"sub_label": "Danny Barker", "obj_label": "jazz", "uuid": "f744efb2-eb4d-45bc-a678-06af05bb7d8f"}
+{"sub_label": "Johann Adolph Hasse", "obj_label": "opera", "uuid": "d517d165-03c9-42bf-b548-97b9aa72fde9"}
+{"sub_label": "Kenny Drew", "obj_label": "jazz", "uuid": "fb8fba40-8cd7-4e00-b7e3-b89f7114545f"}
+{"sub_label": "Ricky Ford", "obj_label": "jazz", "uuid": "2afe9a44-3caa-48ac-8411-64c8f029f98f"}
+{"sub_label": "Casa Loma Orchestra", "obj_label": "jazz", "uuid": "ac4d29b1-d55a-4f78-a913-f21ab60e77e2"}
+{"sub_label": "Giuseppe Scarlatti", "obj_label": "opera", "uuid": "2767ffbf-80a6-4035-ac8b-ef44d07d3635"}
+{"sub_label": "The Squadronaires", "obj_label": "jazz", "uuid": "cdedb7db-3bfe-47d1-b44b-ab98c052ef56"}
+{"sub_label": "Cyrus Chestnut", "obj_label": "jazz", "uuid": "d2f9a465-d21c-4c15-b0d5-4f56febbc32e"}
+{"sub_label": "Ottawan", "obj_label": "disco", "uuid": "52675caa-df6a-4bd6-8fde-4f1b1986aaee"}
+{"sub_label": "Virgil", "obj_label": "pastoral", "uuid": "fe0084a3-2d25-4a0e-bf23-cf4754e2dcad"}
+{"sub_label": "Bryn Terfel", "obj_label": "opera", "uuid": "f30fb090-b5d8-4409-a432-8de0f3a3becc"}
+{"sub_label": "Byard Lancaster", "obj_label": "jazz", "uuid": "b7328b81-be63-42d8-9095-aebd6a611f89"}
+{"sub_label": "Sonny Boy Williamson I", "obj_label": "blues", "uuid": "0b8eb790-a670-45b2-a6e9-0c04d37a2d19"}
+{"sub_label": "Frank Strazzeri", "obj_label": "jazz", "uuid": "d3823057-d836-497b-b269-e0e646efead2"}
+{"sub_label": "Jonah Jones", "obj_label": "jazz", "uuid": "8ef4bbc1-c154-4640-ab2e-d8972ab5b60e"}
+{"sub_label": "Joseph Carl Breil", "obj_label": "opera", "uuid": "20d0186c-6490-4b3e-95c7-fe2e464028c1"}
+{"sub_label": "Addison Farmer", "obj_label": "jazz", "uuid": "5bb98d22-9229-4e52-b663-318b89c3d0cf"}
+{"sub_label": "Vernon Alley", "obj_label": "jazz", "uuid": "743cd012-0519-4ad0-b423-68d53f64d650"}
+{"sub_label": "Hazel Scott", "obj_label": "jazz", "uuid": "0ae78615-f14a-4bdf-a134-300d75aa4ae3"}
+{"sub_label": "Adam Makowicz", "obj_label": "jazz", "uuid": "f2df4328-2429-4046-bb70-7a2406a338f4"}
+{"sub_label": "Yerba Buena Jazz Band", "obj_label": "jazz", "uuid": "17b9cfd8-eccc-4103-83b2-d6384fa2624c"}
+{"sub_label": "Frank Jakobsen", "obj_label": "jazz", "uuid": "da633bcc-3424-44f0-b176-5a968120d9f8"}
+{"sub_label": "Aribert Reimann", "obj_label": "opera", "uuid": "1f03a455-6711-4d03-9cde-c1a107fb0a35"}
+{"sub_label": "Double-Time Records", "obj_label": "jazz", "uuid": "638f8fcd-6e3d-4128-b315-d5cb884e61e1"}
+{"sub_label": "Charlie Ventura", "obj_label": "jazz", "uuid": "ed4d90c8-ac45-411d-a225-f8465054ad17"}
+{"sub_label": "704 Hauser", "obj_label": "sitcom", "uuid": "581fae0b-6a59-4d24-8561-d89f47295f46"}
+{"sub_label": "Joe Wilder", "obj_label": "jazz", "uuid": "9634fccb-2d5c-4a1d-bf84-24b045c4648c"}
+{"sub_label": "Sharon Freeman", "obj_label": "jazz", "uuid": "8525322d-7230-4ef9-b5b7-9b2c6e4c6535"}
+{"sub_label": "David Sanborn", "obj_label": "jazz", "uuid": "e28f1103-37c9-4623-887c-b90067efcb9e"}
+{"sub_label": "Dazz Band", "obj_label": "funk", "uuid": "c1410ab0-abaa-4c38-9d21-28286945d400"}
+{"sub_label": "Contemporary Records", "obj_label": "jazz", "uuid": "0b915641-a41e-4437-9c5a-311ba26687b2"}
+{"sub_label": "Art Davis", "obj_label": "jazz", "uuid": "02a0367d-60bf-4afc-bf1b-f269f38ccb96"}
+{"sub_label": "Bobbi Humphrey", "obj_label": "jazz", "uuid": "728a2df2-a400-4026-a8a2-e855012397b9"}
+{"sub_label": "Preservation Hall Jazz Band", "obj_label": "jazz", "uuid": "cae305ce-0511-4684-a6ac-9890491880d3"}
+{"sub_label": "Chessmaster", "obj_label": "chess", "uuid": "8f256906-8dfb-4cf4-8dd1-3a0576c4d1f7"}
+{"sub_label": "We Are All Legends", "obj_label": "fantasy", "uuid": "99a8563d-a6ab-461b-9204-c1b561751134"}
+{"sub_label": "Aziz Nesin", "obj_label": "satire", "uuid": "734429d7-792c-4309-9c0e-13a32ec92e6c"}
+{"sub_label": "Jeff Coffin", "obj_label": "jazz", "uuid": "51f4ac3d-8428-4d6d-b2f6-baa8d8ed60d2"}
+{"sub_label": "Ivo Perelman", "obj_label": "jazz", "uuid": "97163790-757a-4152-b45b-0d0eebac2778"}
+{"sub_label": "Henry Kimball Hadley", "obj_label": "opera", "uuid": "f23193e5-e130-4b7c-a744-c121340a40e1"}
+{"sub_label": "Xavier Leroux", "obj_label": "opera", "uuid": "91e42e24-8796-4b94-a9e1-e05ebec686c0"}
+{"sub_label": "Orphan Black", "obj_label": "thriller", "uuid": "952c3535-8ae3-429d-94a0-4c5169771241"}
+{"sub_label": "Francesco Cilea", "obj_label": "opera", "uuid": "f53e7a20-841a-4ff1-969c-1a06386ac229"}
+{"sub_label": "The Glam Metal Detectives", "obj_label": "sitcom", "uuid": "64c7db77-3e75-41c1-92a7-adfe803edde1"}
+{"sub_label": "Lettuce", "obj_label": "funk", "uuid": "ab9568d0-f8d3-4ed2-817b-7b6a0f6eec9b"}
+{"sub_label": "Mocean Worker", "obj_label": "jazz", "uuid": "25541983-ac0e-467e-b2a4-f8c72e5e2bed"}
+{"sub_label": "Mika Pohjola", "obj_label": "jazz", "uuid": "7a439e75-b031-41e4-9414-45f96f1afef4"}
+{"sub_label": "Antonio Lotti", "obj_label": "opera", "uuid": "b1f7432b-016f-495a-8da3-7ec0edb3ea81"}
+{"sub_label": "Kane O'Hara", "obj_label": "opera", "uuid": "ddf3b635-d82a-4deb-8c10-930769210679"}
+{"sub_label": "Salvador Espriu", "obj_label": "poetry", "uuid": "3bdc681d-761c-49c5-a791-c11163060b3c"}
+{"sub_label": "Morty Corb", "obj_label": "jazz", "uuid": "58d734fd-4672-45a3-9d18-b77f644f2609"}
+{"sub_label": "Doublemoon", "obj_label": "jazz", "uuid": "f106440a-913f-4aaa-a937-8c8f848dad57"}
+{"sub_label": "Jack Parnell", "obj_label": "jazz", "uuid": "2a5655cb-51fd-452b-ab2f-0b358c30e2cc"}
+{"sub_label": "Joseph Haydn", "obj_label": "opera", "uuid": "25d5f1e4-d291-4337-90b7-e8491c64ce17"}
+{"sub_label": "Barbara Dennerlein", "obj_label": "jazz", "uuid": "6dd6b13a-1322-43d1-b758-a1269d7fed26"}
+{"sub_label": "Adam Taubitz", "obj_label": "jazz", "uuid": "f3e7d9fe-ac39-4e4c-96a1-25642b2adf61"}
+{"sub_label": "The Carpet People", "obj_label": "fantasy", "uuid": "52e232b6-1826-4e5d-b741-f28b2e0a8dff"}
+{"sub_label": "Jonathan Tunick", "obj_label": "musical", "uuid": "5e7f06bf-e1ad-4fb5-8b4a-f2f03653c2ae"}
+{"sub_label": "Suddenly Susan", "obj_label": "sitcom", "uuid": "bbb0fc8f-7da6-4296-8c2d-a53611429bf9"}
+{"sub_label": "Embryo Records", "obj_label": "jazz", "uuid": "0b0e46be-b99e-49a7-8d5e-1f8e913afca9"}
+{"sub_label": "Lynn Seaton", "obj_label": "jazz", "uuid": "03cb3d9c-6a09-4d80-b131-2c5e2b5fc864"}
+{"sub_label": "Alfred Bruneau", "obj_label": "opera", "uuid": "55aadc8d-cfa5-4ab0-8b1c-d5aa2760d165"}
+{"sub_label": "I Loves You, Porgy", "obj_label": "opera", "uuid": "e4557cf1-0d56-488c-a2fc-e5a681c77766"}
+{"sub_label": "Jon Larsen", "obj_label": "jazz", "uuid": "08c2f85d-96ff-4421-9d9b-7e401c109a9d"}
+{"sub_label": "Luigi Denza", "obj_label": "opera", "uuid": "0d04cb8a-f87c-4b16-b06c-1b043963d45d"}
+{"sub_label": "Ron Affif", "obj_label": "jazz", "uuid": "48ba8a57-f063-4fe5-ae8b-65dcb459282f"}
+{"sub_label": "Mad About You", "obj_label": "sitcom", "uuid": "839bfa99-8aa8-447c-9e92-9a4cdf94eb78"}
+{"sub_label": "Soweto Kinch", "obj_label": "jazz", "uuid": "0730a5bb-d9a2-438b-9c4a-a925ecf0a747"}
+{"sub_label": "Zynga Poker", "obj_label": "poker", "uuid": "369ab70a-e2f5-4599-b2dc-0921b61d63b2"}
+{"sub_label": "Anything but Love", "obj_label": "sitcom", "uuid": "1b874475-a304-4901-badd-e9d3158823b7"}
+{"sub_label": "Gian Francesco Malipiero", "obj_label": "opera", "uuid": "606c295e-6584-4837-9a2f-8b59696d3683"}
+{"sub_label": "My Family", "obj_label": "sitcom", "uuid": "2f08633c-f9fa-4907-967c-93323e9e5164"}
+{"sub_label": "Chelmsford 123", "obj_label": "sitcom", "uuid": "29a04c96-1a2b-4b02-83c0-872033ed8a7a"}
+{"sub_label": "Eyes of Laura Mars", "obj_label": "thriller", "uuid": "28f9fd79-bb2e-4704-92cf-a8ef642d812b"}
+{"sub_label": "David Fiuczynski", "obj_label": "jazz", "uuid": "476a99d5-e8c0-4f21-a37d-3d0c50c829cc"}
+{"sub_label": "Warhammer 40,000", "obj_label": "fantasy", "uuid": "06fc52b6-0f42-471a-8048-b1b28ece6085"}
+{"sub_label": "Steve Swell", "obj_label": "jazz", "uuid": "51aa98fe-11fe-4cb3-b76c-f35e82d48a65"}
+{"sub_label": "John Stubblefield", "obj_label": "jazz", "uuid": "0349290f-dd8a-4701-8209-297fc57926b4"}
+{"sub_label": "Dave Liebman", "obj_label": "jazz", "uuid": "e0ffa1a7-7eed-49b5-8d88-c33cede0380c"}
+{"sub_label": "Doc Evans", "obj_label": "jazz", "uuid": "e9e51465-516b-4bbf-a634-9a1757bd90d3"}
+{"sub_label": "Chris Barber", "obj_label": "jazz", "uuid": "07808440-4f24-4b90-a18f-a17737042ef7"}
+{"sub_label": "Hubert Laws", "obj_label": "jazz", "uuid": "65590809-b9b5-41f9-9036-8cbd24ed67e5"}
+{"sub_label": "Bill Anschell", "obj_label": "jazz", "uuid": "572b36f8-652b-4006-ad28-6af5bbf73dc7"}
+{"sub_label": "Spanky Wilson", "obj_label": "jazz", "uuid": "894d6ef0-a94e-4784-9b49-5d732cec67c0"}
+{"sub_label": "Curtis Clark", "obj_label": "jazz", "uuid": "4694de5a-3c1e-4ceb-9d34-a240f2a86fdb"}
+{"sub_label": "Putter Smith", "obj_label": "jazz", "uuid": "fbed76fe-2997-4725-a5c6-296e7b41f40d"}
+{"sub_label": "Louis Cottrell, Jr.", "obj_label": "jazz", "uuid": "fb39856a-ef64-4436-9fa8-d09da0e81f33"}
+{"sub_label": "Idina Menzel", "obj_label": "orchestra", "uuid": "8b40a05e-0e6f-4db8-9629-b2400756963b"}
+{"sub_label": "God Made Me Funky", "obj_label": "funk", "uuid": "6cf3ead5-723e-4036-9dd0-2ae32363f20b"}
+{"sub_label": "Dennis Rowland", "obj_label": "jazz", "uuid": "54c574c6-5e97-4536-a4c3-15cf257865c6"}
+{"sub_label": "Dupree Bolton", "obj_label": "jazz", "uuid": "cf14f3d2-529e-4de7-ba3f-00007c4afe8b"}
+{"sub_label": "Billy Eckstine", "obj_label": "jazz", "uuid": "1f83d831-1f54-4acf-bfb8-661cc854b2f0"}
+{"sub_label": "Leo Blech", "obj_label": "opera", "uuid": "d4a50003-5529-4ab9-90bf-b083d3342602"}
+{"sub_label": "Ken Vandermark", "obj_label": "jazz", "uuid": "fa7f8ff5-bd42-446c-b172-99dce922149a"}
+{"sub_label": "Boney James", "obj_label": "jazz", "uuid": "594aeec4-43a0-448d-8549-60c0b7268420"}
+{"sub_label": "Giuseppe Verdi", "obj_label": "opera", "uuid": "a435fd67-8445-4a13-bc67-42fe288d34e2"}
+{"sub_label": "Steve Cardenas", "obj_label": "jazz", "uuid": "c99956d3-ce51-47c1-8a58-c7447f017d0e"}
+{"sub_label": "The Beatles", "obj_label": "blues", "uuid": "5ff03e36-af73-46a7-9df1-73438412ab22"}
+{"sub_label": "Billy Liar", "obj_label": "sitcom", "uuid": "8cce6ee0-1f0b-40af-bbd6-ba7006690995"}
+{"sub_label": "Rick Margitza", "obj_label": "jazz", "uuid": "06df163d-3a96-42b3-b2b7-caacf2677d82"}
+{"sub_label": "Cadet Records", "obj_label": "jazz", "uuid": "bedb6dd5-c83e-48e5-800f-01c0102e536f"}
+{"sub_label": "Jiggs Whigham", "obj_label": "jazz", "uuid": "88c5cc50-478f-4340-a827-08923d1e4ea8"}
+{"sub_label": "Ry\u014d Kawasaki", "obj_label": "jazz", "uuid": "59e3545c-b688-4b8e-85f7-1f7d4b6fb2fd"}
+{"sub_label": "Helge Schneider", "obj_label": "jazz", "uuid": "cf78ebd8-5b1b-4b2f-9f47-8d23dca52694"}
+{"sub_label": "The Belgariad", "obj_label": "fantasy", "uuid": "ce3e575e-3777-4cfd-acaf-c6c97be04905"}
+{"sub_label": "I'm Your Boogie Man", "obj_label": "disco", "uuid": "926627e9-737c-4e2b-8ea1-51bac1de3361"}
+{"sub_label": "Rising Damp", "obj_label": "BBC", "uuid": "8e051f47-dd1b-44f4-8af1-95a7c0d86786"}
+{"sub_label": "Paddy Milner", "obj_label": "jazz", "uuid": "e48d7851-d95b-4b77-bec6-70e1d44d9496"}
+{"sub_label": "Trend Records", "obj_label": "jazz", "uuid": "34b84eb0-a83e-4fcb-a9bc-99313862eaaa"}
+{"sub_label": "Arthur Goring Thomas", "obj_label": "opera", "uuid": "da057ae3-8ac0-40ab-854c-17b4dd4b457c"}
+{"sub_label": "Jim Pugliese", "obj_label": "jazz", "uuid": "247ace03-cd5b-4b85-8d91-e45a253abbe6"}
+{"sub_label": "The Jazztet", "obj_label": "jazz", "uuid": "3dd218c7-6b12-4c23-95aa-cfe150f29a4e"}
+{"sub_label": "Flying Dutchman Records", "obj_label": "jazz", "uuid": "cf3ca105-52e0-4bb8-a49b-5f1395e744b6"}
+{"sub_label": "Garnett Brown", "obj_label": "jazz", "uuid": "27ff05a9-b57a-49b0-8327-ac65ea74c793"}
+{"sub_label": "Magni Wentzel", "obj_label": "jazz", "uuid": "5fc8f9b0-834b-4c04-925e-d27f5bfd46e8"}
+{"sub_label": "Call Cobbs, Jr.", "obj_label": "jazz", "uuid": "7efc4db2-03be-4f4f-b138-070e4c20a986"}
+{"sub_label": "Dinnerladies", "obj_label": "sitcom", "uuid": "50d8de9d-5049-433b-938d-339c9f72ca93"}
+{"sub_label": "Acker Bilk", "obj_label": "jazz", "uuid": "ffb9dccd-ca9e-4478-b27c-51f249e4076e"}
+{"sub_label": "John Bernard Riley", "obj_label": "jazz", "uuid": "2c375f3b-edf1-4e08-a053-03d90616c505"}
+{"sub_label": "I Married Joan", "obj_label": "sitcom", "uuid": "7cfa58cc-bca0-4373-8574-ea355e3a51cd"}
+{"sub_label": "Satires", "obj_label": "satire", "uuid": "c71caf83-0d6a-45a9-b19c-5277c4f2bdf6"}
+{"sub_label": "Tohpati", "obj_label": "jazz", "uuid": "89f84598-cbac-4ecb-b9c4-d6954b719597"}
+{"sub_label": "Pascal Dusapin", "obj_label": "opera", "uuid": "986d5bd1-cc1d-4ba8-8e68-9240430c54cf"}
+{"sub_label": "Pete La Roca", "obj_label": "jazz", "uuid": "882c97f7-f0b9-4131-8b23-78e77311310b"}
+{"sub_label": "Tommy Banks", "obj_label": "jazz", "uuid": "a7854503-d8d8-4f64-9a0a-fabdda9eadf2"}
+{"sub_label": "Jamie Cullum", "obj_label": "jazz", "uuid": "b3a6a7b1-a977-4694-9c26-e3b7ae21f88a"}
+{"sub_label": "Source Code", "obj_label": "thriller", "uuid": "367fd8f8-d987-465b-9bea-cc495d9c90e2"}
+{"sub_label": "Rune Grammofon", "obj_label": "jazz", "uuid": "9650434b-103f-411d-b76b-5b2fdb539677"}
+{"sub_label": "Dennis Rea", "obj_label": "jazz", "uuid": "bcf648df-b3c3-47eb-8edf-1969562f902e"}
+{"sub_label": "Paul Dessau", "obj_label": "opera", "uuid": "6bfa42de-c3ad-40c7-ab93-3782f0ed3ee7"}
+{"sub_label": "Les McCann", "obj_label": "jazz", "uuid": "9594c0c7-72de-409c-818a-bcc17007fae0"}
+{"sub_label": "Ole Mathisen", "obj_label": "jazz", "uuid": "b41e208e-b646-45c3-a664-90c7b2a034af"}
+{"sub_label": "Chaostar", "obj_label": "opera", "uuid": "a1291cfc-67ab-4e98-a129-3cd1631b5cf5"}
+{"sub_label": "Leo Parker", "obj_label": "jazz", "uuid": "c85ee0bf-9872-4a0d-bf07-05760ce4351a"}
+{"sub_label": "Lost Tribe", "obj_label": "trance", "uuid": "ba80b624-28b2-4377-af98-d32a689cd24f"}
+{"sub_label": "Salvatore Licitra", "obj_label": "opera", "uuid": "2f4f4b83-f47a-4471-a0fc-93d1eeac1148"}
+{"sub_label": "H. P. Lovecraft", "obj_label": "fantasy", "uuid": "df189056-049d-4510-8b1f-5138b370b593"}
+{"sub_label": "Arliss", "obj_label": "sitcom", "uuid": "19d4578e-bb9a-4445-ac4d-c8753f24ff6c"}
+{"sub_label": "Benny Golson", "obj_label": "jazz", "uuid": "8b19272f-2606-4c5c-9711-f26a52da1ea4"}
+{"sub_label": "Jiunie Booth", "obj_label": "jazz", "uuid": "62ea8764-7138-4a81-876e-e84bf085e3ce"}
+{"sub_label": "Ronnie Foster", "obj_label": "jazz", "uuid": "2b819b43-43d3-41e2-95aa-ea8a40e2df32"}
+{"sub_label": "Patricia Barber", "obj_label": "jazz", "uuid": "2c346041-1b0d-4652-ab70-9c9b6ccbb7ba"}
+{"sub_label": "Tim Garland", "obj_label": "jazz", "uuid": "1b447ca0-4b46-46f4-aecc-bb3c726ece3d"}
+{"sub_label": "Bobby Hackett", "obj_label": "jazz", "uuid": "cea21baa-46b2-45f5-bc55-4d654e4ce318"}
+{"sub_label": "Hugh Ragin", "obj_label": "jazz", "uuid": "f66dd305-687a-4269-92d2-5fd269df66c1"}
+{"sub_label": "Willie Ruff", "obj_label": "jazz", "uuid": "0331f7f4-bb18-488c-aae0-1e77746475af"}
+{"sub_label": "Dirty Dozen Brass Band", "obj_label": "jazz", "uuid": "4fad38ca-c71f-494e-9e2c-fb0d8c5536d8"}
+{"sub_label": "Tierney Sutton", "obj_label": "jazz", "uuid": "a51df3f9-9629-48d2-abb1-a7caac8c2bf7"}
+{"sub_label": "Martin France", "obj_label": "jazz", "uuid": "98080b6e-b352-42e8-9157-176054543214"}
+{"sub_label": "Peak Records", "obj_label": "jazz", "uuid": "d4d7e225-3f8d-411f-afc3-d90b9b3b9e68"}
+{"sub_label": "Stephen Storace", "obj_label": "opera", "uuid": "ae22aad0-aac8-40b4-afb3-19241c2cd2e8"}
+{"sub_label": "Alexander Knaifel", "obj_label": "opera", "uuid": "b2beed34-e063-43a9-8eb1-8431311658f2"}
+{"sub_label": "Poison Study", "obj_label": "fantasy", "uuid": "0264fc03-79ec-456d-b623-cd65eb71d0e2"}
+{"sub_label": "Duke Ellington", "obj_label": "jazz", "uuid": "59258496-16e5-46e0-9a0e-a6eb29eb9efb"}
+{"sub_label": "Nilva Records", "obj_label": "jazz", "uuid": "993d83cc-8f9d-4bd7-aae6-de0a98910a6e"}
+{"sub_label": "La fiamma", "obj_label": "opera", "uuid": "6596ab29-c993-447e-8b6e-0b0ec61dc970"}
+{"sub_label": "Willie Cook", "obj_label": "jazz", "uuid": "65e28fd0-fb29-49c9-9ade-4d75f06b22e6"}
+{"sub_label": "Michael Parsberg", "obj_label": "trance", "uuid": "0465813e-a58b-4866-bf65-c4007d08c09f"}
+{"sub_label": "Svend Asmussen", "obj_label": "jazz", "uuid": "1139eeee-9736-4e40-8e23-429a1cc88de9"}
+{"sub_label": "Time Lapse", "obj_label": "thriller", "uuid": "6aa8012e-be10-46c2-b74f-fe368d5d3b59"}
+{"sub_label": "Lu Watters", "obj_label": "jazz", "uuid": "9ca0eaaf-86b1-4f84-a4eb-cc99007eb607"}
+{"sub_label": "Sylvano Bussotti", "obj_label": "opera", "uuid": "68964479-4e09-4094-9ac3-0d7435878ba7"}
+{"sub_label": "Andy Milne", "obj_label": "jazz", "uuid": "daf8486b-6fe4-4572-944f-69c9e81badb4"}
+{"sub_label": "Jacqui Dankworth", "obj_label": "jazz", "uuid": "ceedd899-82b5-4ace-a9ba-ac7b607d71be"}
+{"sub_label": "Freddie Keppard", "obj_label": "jazz", "uuid": "0c8e8d7e-0a6f-4b61-add7-6314eb768d12"}
+{"sub_label": "De Werf", "obj_label": "jazz", "uuid": "1f845f12-3f69-4960-98f8-bea6ca670b1f"}
+{"sub_label": "Fast Five", "obj_label": "thriller", "uuid": "bd468783-2fe6-4a30-a43a-365708106ddd"}
+{"sub_label": "Olu Dara", "obj_label": "jazz", "uuid": "1d840370-0410-4442-b2bc-b7575240c8ad"}
+{"sub_label": "Count Basie", "obj_label": "jazz", "uuid": "ddc0ea17-06ec-4d4e-9e04-e6a21b104405"}
+{"sub_label": "The Tamuli", "obj_label": "fantasy", "uuid": "e6f39201-3875-49d9-a2bc-ac9fa0902c21"}
+{"sub_label": "Piirpauke", "obj_label": "jazz", "uuid": "79249283-fb3a-40ec-92a6-e14198a6d1f7"}
+{"sub_label": "Alberto Mazzucato", "obj_label": "opera", "uuid": "183dd7f0-0252-454e-a131-81df1ca57713"}
+{"sub_label": "Horizon Records", "obj_label": "jazz", "uuid": "c3d09d1f-d39c-45ba-bc46-28c271f7ec79"}
+{"sub_label": "Stephen Hough", "obj_label": "opera", "uuid": "6ec60dd7-8e71-41e8-bab3-f8dfd5ba753e"}
+{"sub_label": "Iain Ballamy", "obj_label": "jazz", "uuid": "1dc6f7d5-1a27-407c-840c-e7901a685e8e"}
+{"sub_label": "Soultrane", "obj_label": "jazz", "uuid": "9e7c8257-ac07-4fd2-a116-683bb4dbc6dc"}
+{"sub_label": "Laurdine \"Pat\" Patrick", "obj_label": "jazz", "uuid": "f161c48a-1a6f-41f4-85f3-565fea042b4f"}
+{"sub_label": "Neal Creque", "obj_label": "jazz", "uuid": "617abfe0-e688-4533-9227-311f03dbd1d3"}
+{"sub_label": "Pat Martino", "obj_label": "jazz", "uuid": "0441cae0-d0e9-4210-a6e1-55b6731d57c1"}
+{"sub_label": "Robert Asprin", "obj_label": "fantasy", "uuid": "8b1cbc01-7c8d-4aeb-9c0c-aa7dffde44f0"}
+{"sub_label": "Santa Esmeralda", "obj_label": "disco", "uuid": "2267cb9e-aa09-4bf4-84f7-f65998b32ce5"}
+{"sub_label": "Ralph Lyford", "obj_label": "opera", "uuid": "0b0012dc-b4ee-4efd-84a4-86abf75e22bc"}
+{"sub_label": "Big Pig", "obj_label": "funk", "uuid": "88a9b1f2-1ce6-4f1a-acaa-93ae3573b179"}
+{"sub_label": "Yulia Latynina", "obj_label": "fantasy", "uuid": "9ed5d16a-17b8-4475-a6c7-d3d4771139f5"}
+{"sub_label": "Doc Severinsen", "obj_label": "jazz", "uuid": "fd9ab7a4-86fe-4630-8cf4-9c934932d2c9"}
+{"sub_label": "Lorin Maazel", "obj_label": "opera", "uuid": "f5c14f91-80c3-494b-9d28-a6c2cdca6047"}
+{"sub_label": "The Incomplete Enchanter", "obj_label": "fantasy", "uuid": "0a5fdbae-019d-41c4-a0e8-98eb5b29c73f"}
+{"sub_label": "Tommy Bryant", "obj_label": "jazz", "uuid": "72e9c5b9-a930-4515-916b-46a1bd980ab9"}
+{"sub_label": "Pierre Montan Berton", "obj_label": "opera", "uuid": "2d38f701-405e-484e-9967-e6dc5f6da977"}
+{"sub_label": "Tuck Everlasting", "obj_label": "fantasy", "uuid": "07b87340-81e0-4e3b-a9d8-2fc330bcb8f7"}
+{"sub_label": "Point Break", "obj_label": "thriller", "uuid": "1affc657-4a51-4706-b315-009c64ac662d"}
+{"sub_label": "Milcho Leviev", "obj_label": "jazz", "uuid": "7a7693aa-da0a-4319-a03f-45adc880aff5"}
+{"sub_label": "The Goodies", "obj_label": "sitcom", "uuid": "21b2a274-1317-4b0e-863d-b13f82cdfcde"}
+{"sub_label": "Dave Gelly", "obj_label": "jazz", "uuid": "6dae052a-a0cf-4c8b-9ef5-09e65bdf2bbd"}
+{"sub_label": "Peter Josef von Lindpaintner", "obj_label": "opera", "uuid": "911adfaa-883c-47d9-8d11-dc344d422a7a"}
+{"sub_label": "Knut Kristiansen", "obj_label": "jazz", "uuid": "c86b7d2a-a0c3-441b-a222-badc94694d56"}
+{"sub_label": "Paul Dunmall", "obj_label": "jazz", "uuid": "d0c9c448-8200-4f38-8070-e39846adfde2"}
+{"sub_label": "Pan Ron", "obj_label": "jazz", "uuid": "a499ff09-346f-4751-9903-aff68d0b65fe"}
+{"sub_label": "Diedre Murray", "obj_label": "jazz", "uuid": "2989cbd3-5e2c-41a5-bf17-9d04dc27f124"}
+{"sub_label": "Moya Henderson", "obj_label": "opera", "uuid": "3845b337-6423-45d8-84d9-1d504e1d5302"}
+{"sub_label": "Sylvain Dupuis", "obj_label": "opera", "uuid": "e28702e0-51e0-4156-b08e-ff2d293b82ed"}
+{"sub_label": "Hot 8 Brass Band", "obj_label": "jazz", "uuid": "288e5717-49e5-47c3-acff-dc6d349bb62c"}
+{"sub_label": "Gunnar Andreas Berg", "obj_label": "jazz", "uuid": "a5fa63d0-7d7c-456f-a671-cbbff314c8f8"}
+{"sub_label": "Amici Forever", "obj_label": "opera", "uuid": "00b6585d-535f-43a9-88b1-8ffe262d9837"}
+{"sub_label": "Alex Skolnick", "obj_label": "jazz", "uuid": "5948243e-1310-4900-b728-9905b3a0fa83"}
+{"sub_label": "Matt Lavelle", "obj_label": "jazz", "uuid": "9dd4e2ce-71f3-4734-bb24-acff203739cf"}
+{"sub_label": "Matt Dennis", "obj_label": "jazz", "uuid": "123c9528-aaec-4d52-856b-dfd681b77134"}
+{"sub_label": "Rodolphe Kreutzer", "obj_label": "opera", "uuid": "5efcfaab-e92c-47e9-a80f-ea1b9e431684"}
+{"sub_label": "Bunky Green", "obj_label": "jazz", "uuid": "5a3dfa3b-bf00-49c0-a085-d2f0d49a2b4a"}
+{"sub_label": "Bootsie Barnes", "obj_label": "jazz", "uuid": "20ff6888-e2dc-4267-bfdd-3bb8298ed015"}
+{"sub_label": "Oofotr", "obj_label": "jazz", "uuid": "5c4be01f-bddc-4700-ad01-21a627bfca2c"}
+{"sub_label": "Red Nails", "obj_label": "fantasy", "uuid": "676c1077-9672-4448-a301-c5d775e6cf18"}
+{"sub_label": "The Nutty Squirrels", "obj_label": "jazz", "uuid": "e2034746-2528-4611-a566-c9b9c5307346"}
+{"sub_label": "Lizzie McGuire", "obj_label": "sitcom", "uuid": "52018bcd-071d-4ca6-9b04-7eda0b1abc98"}
+{"sub_label": "John Lunn", "obj_label": "opera", "uuid": "91eb8323-956e-46c1-af5d-2a4ad55d6afa"}
+{"sub_label": "Herman Foster", "obj_label": "jazz", "uuid": "384c8629-655c-4ce0-879e-3941807e92d8"}
+{"sub_label": "Irene Dalis", "obj_label": "opera", "uuid": "eaee9265-b010-415b-811a-93ecb9cd442b"}
+{"sub_label": "Markus Schulz", "obj_label": "trance", "uuid": "a85fd5e6-e709-45a3-bfe4-ef94d0a0a701"}
+{"sub_label": "Brush Strokes", "obj_label": "sitcom", "uuid": "0bf64b4e-a197-4ca1-b3b2-ff7552367a82"}
+{"sub_label": "Ole Thomsen", "obj_label": "jazz", "uuid": "f0847d20-3c81-44cc-84ff-b8b77188984c"}
+{"sub_label": "Baby Daddy", "obj_label": "sitcom", "uuid": "d04db74c-480c-434a-bcf5-d36036ed4f3f"}
+{"sub_label": "Jimmy Lyons", "obj_label": "jazz", "uuid": "a0c02710-0fe6-401c-a0a8-6461db4b2dd1"}
+{"sub_label": "The Elenium", "obj_label": "fantasy", "uuid": "76a395bb-cae4-42c5-8052-c28be2518e14"}
+{"sub_label": "Alfredo Keil", "obj_label": "opera", "uuid": "78fc656e-9634-4e9c-b049-8df20ffa1ce8"}
+{"sub_label": "Amilcare Ponchielli", "obj_label": "opera", "uuid": "ff190960-60ad-4e76-b577-bc7ded8a6212"}
+{"sub_label": "Georges Arvanitas", "obj_label": "jazz", "uuid": "532e5b8f-2a97-43cb-94b2-b4a80fc54548"}
+{"sub_label": "Art Farmer", "obj_label": "jazz", "uuid": "4aff136a-eb08-4bfa-847a-594cf0d4baac"}
+{"sub_label": "Adam Levy", "obj_label": "jazz", "uuid": "279c21e2-4e69-44f7-9148-01597c9f5bc9"}
+{"sub_label": "Jesse Davis", "obj_label": "jazz", "uuid": "dc5cb35f-0a3a-4e38-b02c-e8612b283534"}
+{"sub_label": "Ole Amund Gjersvik", "obj_label": "jazz", "uuid": "635d4db2-3360-4ee4-8cab-8dd4f381cf1b"}
+{"sub_label": "Healey Willan", "obj_label": "opera", "uuid": "37c3e20a-5ee3-4770-a2d3-12b69c149332"}
+{"sub_label": "Grant Green", "obj_label": "jazz", "uuid": "01e14655-175e-49d2-967b-73f40c92f836"}
+{"sub_label": "Emanem Records", "obj_label": "jazz", "uuid": "574e1879-0a20-478f-bc38-3f369949c181"}
+{"sub_label": "Robbie Jansen", "obj_label": "jazz", "uuid": "2d641b2a-1832-4055-92a6-9af307950564"}
+{"sub_label": "Pink Martini", "obj_label": "jazz", "uuid": "8c38dc3d-6a90-4ede-8462-5be0bdaeedaf"}
+{"sub_label": "Stefano di Battista", "obj_label": "jazz", "uuid": "f60e16b4-cdde-4e58-b47a-7f553e318038"}
+{"sub_label": "Carl Orff", "obj_label": "opera", "uuid": "dbb4a876-25ce-48a0-8110-0a947878d126"}
+{"sub_label": "Maria Callas", "obj_label": "opera", "uuid": "2088b1bc-eedd-434b-b9be-71aab1fd3be2"}
+{"sub_label": "Vecinos", "obj_label": "sitcom", "uuid": "f0336b44-5866-410a-a191-0683a7a42bdb"}
+{"sub_label": "Blackadder", "obj_label": "sitcom", "uuid": "bc64dc09-520b-4b89-b722-a9a420c2a52a"}
+{"sub_label": "Antonio Vivaldi", "obj_label": "opera", "uuid": "a8b444cd-7024-4aa1-a264-f26074bbbe23"}
+{"sub_label": "Plenty, Plenty Soul", "obj_label": "jazz", "uuid": "1dcd6abc-2152-4e20-83dd-6977b6d461f5"}
+{"sub_label": "Armen Donelian", "obj_label": "jazz", "uuid": "29a6e58c-b901-41b3-89ab-c69a0bb2e0e4"}
+{"sub_label": "Lirael", "obj_label": "fantasy", "uuid": "095dd3c1-a081-41b6-be32-abcccc4ee39f"}
+{"sub_label": "Hilding Rosenberg", "obj_label": "opera", "uuid": "e6ddcdec-1876-4096-bc38-f717368c376d"}
+{"sub_label": "Harold Dejan", "obj_label": "jazz", "uuid": "f30ce852-05bc-475c-a0f9-20442ae4b729"}
+{"sub_label": "Eumir Deodato", "obj_label": "jazz", "uuid": "e188fb08-fc27-4d63-b126-b39581f2f3e9"}
+{"sub_label": "Everett Barksdale", "obj_label": "jazz", "uuid": "dc7f029a-96af-4ee1-8abf-3b926153565d"}
+{"sub_label": "Jim Pepper", "obj_label": "jazz", "uuid": "dfa3197e-ce55-4589-b74a-9c94c9bc3a98"}
+{"sub_label": "Han Bennink", "obj_label": "jazz", "uuid": "4058f661-838e-4500-8063-0d7fe956aa60"}
+{"sub_label": "Kleeer", "obj_label": "funk", "uuid": "9190b4f7-aa44-4f20-ac6c-4bf78f62c8af"}
+{"sub_label": "Alban Berg", "obj_label": "opera", "uuid": "f7aee112-11af-4196-9218-7f614302b318"}
+{"sub_label": "Jiver Hutchinson", "obj_label": "jazz", "uuid": "2f70e234-acd8-4f76-a5fc-3c71f2a8d381"}
+{"sub_label": "Johnny Coles", "obj_label": "jazz", "uuid": "503d840c-18a8-4b34-84cf-b680eef51e75"}
+{"sub_label": "Bobby Timmons", "obj_label": "jazz", "uuid": "94607f21-09fd-4a33-bba7-0af83f7caf40"}
+{"sub_label": "Miles Smiles", "obj_label": "jazz", "uuid": "d5c19aa2-a89c-4452-9ab3-d848d95d2dc8"}
+{"sub_label": "The Enchanter Reborn", "obj_label": "fantasy", "uuid": "ffd375cf-5d95-4d91-8511-2531dcf377b3"}
+{"sub_label": "CIMP", "obj_label": "jazz", "uuid": "90217597-2c7c-401a-81b6-0a75b14f96ea"}
+{"sub_label": "Mike Mosiello", "obj_label": "jazz", "uuid": "a8009abe-aa48-4cd3-b3dd-8ea0dbc712ec"}
+{"sub_label": "Wilbur Sweatman", "obj_label": "jazz", "uuid": "6a8fc89f-b427-40eb-93da-63b7ba07435f"}
+{"sub_label": "Sonny Simmons", "obj_label": "jazz", "uuid": "c5e5b8a1-1f5b-4095-b9c5-324b43134e2c"}
+{"sub_label": "Toninho Horta", "obj_label": "jazz", "uuid": "c64dee2d-c081-451b-9944-17bfcecf7fb0"}
+{"sub_label": "John LaBarbera", "obj_label": "jazz", "uuid": "3474abb3-96c8-4de8-9b15-102f13588891"}
+{"sub_label": "Alberto Socarras", "obj_label": "jazz", "uuid": "a35eefeb-567d-4a37-ab3c-c839a83db63d"}
+{"sub_label": "Dianne Reeves", "obj_label": "jazz", "uuid": "73f7f2c6-7234-41ab-ad24-e7d55d643ce4"}
+{"sub_label": "Frank Catalano", "obj_label": "jazz", "uuid": "54708424-9b30-440d-9865-2bea71daebf4"}
+{"sub_label": "Three Up, Two Down", "obj_label": "sitcom", "uuid": "b9839294-2ec7-417f-a8c6-782db9c5bbb2"}
+{"sub_label": "Kyau & Albert", "obj_label": "trance", "uuid": "dfd494f7-bd78-44b5-9af8-5da593c3163b"}
+{"sub_label": "Madeleine Peyroux", "obj_label": "jazz", "uuid": "a41ead24-e107-46db-8dba-5eda496f1095"}
+{"sub_label": "Alex Sipiagin", "obj_label": "jazz", "uuid": "5fd1b50f-5b9e-439f-b58d-48f68a78eabc"}
+{"sub_label": "Going Straight", "obj_label": "sitcom", "uuid": "fc938f59-7d0d-4f52-8f35-fa002cc4e0a9"}
+{"sub_label": "Krzysztof Meyer", "obj_label": "opera", "uuid": "c75a48c8-d10f-4e46-b4fd-10ccc283a3a3"}
+{"sub_label": "Leon Haywood", "obj_label": "funk", "uuid": "113f7f72-d073-4dd5-8e19-7bc804ba2c80"}
+{"sub_label": "Stanley Clarke", "obj_label": "jazz", "uuid": "9aed28b7-918a-4d71-a3c8-e52e9e8311cc"}
+{"sub_label": "Pete Christlieb", "obj_label": "jazz", "uuid": "b3eeb55c-7483-4423-ad4f-70dc7c0a3fc5"}
+{"sub_label": "Todd Sickafoose", "obj_label": "jazz", "uuid": "02971172-dc27-44ac-b49e-0a8748d6675e"}
+{"sub_label": "Dave Samuels", "obj_label": "jazz", "uuid": "278b5a86-71a5-4d9a-b7e8-c625b6269549"}
+{"sub_label": "Dave Pike", "obj_label": "jazz", "uuid": "ba487206-91ca-4596-b5c7-353dcb714cb2"}
+{"sub_label": "Michael Mantler", "obj_label": "jazz", "uuid": "d7f07092-be2c-40f8-9a0e-36346b085898"}
+{"sub_label": "Saverio Mercadante", "obj_label": "opera", "uuid": "1e4200f3-c979-4717-ab7f-a2fdc4e501e0"}
+{"sub_label": "Antonio Sartorio", "obj_label": "opera", "uuid": "7fa4bb6c-6826-4928-95e6-129a678a8bce"}
+{"sub_label": "Joe Darensbourg", "obj_label": "jazz", "uuid": "b39dacfd-632a-40d4-a572-c0d55e9a483e"}
+{"sub_label": "Nasenbluten", "obj_label": "hardcore", "uuid": "7d087198-3fcd-4ccd-83a9-9ce98ca2510e"}
+{"sub_label": "The Paul Lynde Show", "obj_label": "sitcom", "uuid": "72b6714b-7a7b-455e-b7b1-c25f2e5749b7"}
+{"sub_label": "Blue Goose Records", "obj_label": "jazz", "uuid": "c1eede3e-a7a6-4c11-b2e6-92ce25a63785"}
+{"sub_label": "Don Lusher", "obj_label": "jazz", "uuid": "774fd47c-54aa-47f9-add6-0442666935c0"}
+{"sub_label": "Joni Mitchell", "obj_label": "jazz", "uuid": "28646828-e04b-4bf6-929b-cb8b52381e32"}
+{"sub_label": "Gerd Dudek", "obj_label": "jazz", "uuid": "eee2f3ff-5262-402a-9fd9-2be5df870951"}
+{"sub_label": "Pete York", "obj_label": "jazz", "uuid": "4258764a-749c-4492-8979-92e7a40107f9"}
+{"sub_label": "Alex Cline", "obj_label": "jazz", "uuid": "2837119d-51e9-478c-9aab-8c2ded0ab385"}
+{"sub_label": "Booker Ervin", "obj_label": "jazz", "uuid": "125c50ae-4ff4-4311-8d64-97d2348fe1e6"}
+{"sub_label": "Ed Greenwood", "obj_label": "fantasy", "uuid": "3fffc3ec-ae91-467c-9c71-1f66820b327c"}
+{"sub_label": "Neil Gaiman", "obj_label": "fantasy", "uuid": "5b32aded-bdb9-4310-a71e-33e0faea7d91"}
+{"sub_label": "Johann Christian Bach", "obj_label": "opera", "uuid": "2fb3abd4-c01d-4704-8ce2-2ee4234fef81"}
+{"sub_label": "Harry Somers", "obj_label": "opera", "uuid": "aa178f45-1fc5-4caf-8ff0-f185385c245d"}
+{"sub_label": "Lucky Louie", "obj_label": "sitcom", "uuid": "571ca46d-7c4b-43b7-af6c-baa5eb3680d8"}
+{"sub_label": "Catullus", "obj_label": "poetry", "uuid": "b22065c3-1904-40d1-b102-c11922d8ac50"}
+{"sub_label": "Rick Braun", "obj_label": "jazz", "uuid": "888cef64-f2a4-4392-a816-52fb6d74a505"}
+{"sub_label": "Christopher Paolini", "obj_label": "fantasy", "uuid": "01dd740f-826e-4404-a96b-1db9bd362293"}
+{"sub_label": "Bob Servant", "obj_label": "sitcom", "uuid": "8b78c7a7-cd10-486a-bcd1-bff2d37be644"}
+{"sub_label": "Jean-Baptiste Lully", "obj_label": "opera", "uuid": "f694be8c-ac55-4c8a-b382-92f08556a066"}
+{"sub_label": "EmArcy", "obj_label": "jazz", "uuid": "d491371f-f3c6-4ce5-b52a-43b5e051b98f"}
+{"sub_label": "Steve Nieve", "obj_label": "opera", "uuid": "6ea2beeb-172b-4902-9fec-d428b7016524"}
+{"sub_label": "Dag Arnesen", "obj_label": "jazz", "uuid": "ffd28a95-7fb8-4582-8ca8-e0233c713d93"}
+{"sub_label": "Curtis Amy", "obj_label": "jazz", "uuid": "18b5142a-d2e6-4abe-be55-1f6f01e8885d"}
+{"sub_label": "Frank Kimbrough", "obj_label": "jazz", "uuid": "06db3852-0414-4eba-85df-5c8f75324460"}
+{"sub_label": "Masada", "obj_label": "jazz", "uuid": "3ec3649d-7410-4189-83b7-64c50d1c7e31"}
+{"sub_label": "Bunny Berigan", "obj_label": "jazz", "uuid": "2ce43a22-7c49-42bb-bc70-2c2153693da5"}
+{"sub_label": "Joseph Jarman", "obj_label": "jazz", "uuid": "92cf6c66-7642-4711-901f-7a25180ce078"}
+{"sub_label": "Tone Center Records", "obj_label": "jazz", "uuid": "d386c39b-58f6-41b2-8a06-bf36c868b569"}
+{"sub_label": "The Jazz Knights", "obj_label": "jazz", "uuid": "7a5fd9fd-7955-4f58-a3b5-f362cb864f6b"}
+{"sub_label": "Nic Chagall", "obj_label": "trance", "uuid": "f8cd6440-4170-4b0f-a974-a38f6fddc303"}
+{"sub_label": "Wolfgang Fortner", "obj_label": "opera", "uuid": "280fe01d-e6fb-43e4-9e10-4fac64a36450"}
+{"sub_label": "Eivind Opsvik", "obj_label": "jazz", "uuid": "4dfee182-ae7e-4a58-8af1-1404f93eeb93"}
+{"sub_label": "Carol Welsman", "obj_label": "jazz", "uuid": "f303a232-098c-4f38-951c-16b161e5b150"}
+{"sub_label": "Andy Duguid", "obj_label": "trance", "uuid": "ece4c1fa-7f70-4f21-9654-84300c2da69e"}
+{"sub_label": "Simon Mayr", "obj_label": "opera", "uuid": "62cad599-d281-4e6c-a433-4ab978454928"}
+{"sub_label": "Sammy Davis Jr.", "obj_label": "jazz", "uuid": "babac99e-dc7c-4173-bfdf-a8ca7cbd854b"}
+{"sub_label": "Keshavan Maslak", "obj_label": "jazz", "uuid": "cb7da054-2915-48d8-bf47-544802dfa03e"}
+{"sub_label": "Till Death...", "obj_label": "sitcom", "uuid": "b6c76831-02e4-4465-9a33-16f0c1f3f061"}
+{"sub_label": "Eric Gale", "obj_label": "jazz", "uuid": "53350184-47d9-4c8d-bf2b-3e9b4f40f2fd"}
+{"sub_label": "Benjamin Godard", "obj_label": "opera", "uuid": "01633150-3929-41b8-ab50-fd9dc1afa246"}
+{"sub_label": "Casey Bill Weldon", "obj_label": "blues", "uuid": "1b245038-593d-40fd-9799-b96c8cad2981"}
+{"sub_label": "Edward Vesala", "obj_label": "jazz", "uuid": "160d8eda-241a-4d1c-8b93-40d3d73dc024"}
+{"sub_label": "Rhythm-a-Ning", "obj_label": "jazz", "uuid": "6e23ace2-453c-4f9a-99e5-753e821b70ac"}
+{"sub_label": "Dick Wellstood", "obj_label": "jazz", "uuid": "c5c4660a-c1ee-49dd-b743-e7170a0cfd84"}
+{"sub_label": "Wolfgang Hohlbein", "obj_label": "fantasy", "uuid": "b80a9d61-887e-45be-b0e2-d1d56fc8172c"}
+{"sub_label": "Marcus Rojas", "obj_label": "jazz", "uuid": "a32bcac8-29f6-4ae5-a550-e4086027636b"}
+{"sub_label": "Joey Baron", "obj_label": "jazz", "uuid": "95f02740-a357-44b0-beb0-7fdec3695bea"}
+{"sub_label": "Kevin Hays", "obj_label": "jazz", "uuid": "7f28232c-62c7-4d22-8f0f-0f3cde956139"}
+{"sub_label": "Jean-Philippe Rameau", "obj_label": "opera", "uuid": "23efdb7a-b78c-4d48-a2d8-dc57c51ae4d2"}
+{"sub_label": "Conjure Wife", "obj_label": "fantasy", "uuid": "b92f6207-6e58-4096-ae96-a7c2370dfc4c"}
+{"sub_label": "Doug Watkins", "obj_label": "jazz", "uuid": "556ba985-da32-413e-866a-3a43841d1c1b"}
+{"sub_label": "Ed Neumeister", "obj_label": "jazz", "uuid": "a817e524-6236-459f-9a8a-0d79cc9e4333"}
+{"sub_label": "Bodega Band", "obj_label": "jazz", "uuid": "9b985369-a0dc-4415-8296-0b4d8f9c8248"}
+{"sub_label": "The Rolling Stones", "obj_label": "blues", "uuid": "e8ea28bf-73bc-4bdc-9b82-f9561b6e0122"}
+{"sub_label": "James Patterson", "obj_label": "thriller", "uuid": "9d93f831-b434-449b-bcd2-b625a5ebf113"}
+{"sub_label": "Karl Goldmark", "obj_label": "opera", "uuid": "60689683-09d4-42f7-8c47-75805b0f215c"}
+{"sub_label": "Ray Copeland", "obj_label": "jazz", "uuid": "efa2bb36-d58c-4822-af24-943ecbec6a1e"}
+{"sub_label": "Skye Records", "obj_label": "jazz", "uuid": "f36c308e-1f35-46ae-a71f-9ba0f6b8980d"}
+{"sub_label": "Frode Gjerstad", "obj_label": "jazz", "uuid": "cf2bee12-29fc-44e4-a180-c465fcf74250"}
+{"sub_label": "Codename Coq Rouge", "obj_label": "thriller", "uuid": "65016f1b-d978-4e94-9e6c-2fb618a5b6ca"}
+{"sub_label": "Marilyn Mazur", "obj_label": "jazz", "uuid": "db07b6aa-cc48-443b-a3b6-e5e111b27d68"}
+{"sub_label": "Cymande", "obj_label": "funk", "uuid": "3126a43c-5c7d-4206-a125-7a14f43202ec"}
+{"sub_label": "Teddy Hill", "obj_label": "jazz", "uuid": "0fad17e5-5554-4ee9-988e-884a4b2e5d27"}
+{"sub_label": "Pakkins' Land", "obj_label": "fantasy", "uuid": "8b265cd9-ab93-48d1-9275-c0479da4b047"}
+{"sub_label": "Drowned Ammet", "obj_label": "fantasy", "uuid": "32fc28b5-12da-4b63-85c6-67d207f70d67"}
+{"sub_label": "Paul Le Flem", "obj_label": "opera", "uuid": "9873344f-730d-4390-aa73-7f3f0cb636ab"}
+{"sub_label": "Mork & Mindy", "obj_label": "sitcom", "uuid": "539e5f05-2f41-4d99-8b49-d4c579007e39"}
+{"sub_label": "Zutty Singleton", "obj_label": "jazz", "uuid": "aad42229-9f09-4e5d-8219-c734354398a9"}
+{"sub_label": "The Likely Lads", "obj_label": "sitcom", "uuid": "507f8634-de27-419f-9a83-be7629332df3"}
+{"sub_label": "Chris McGregor", "obj_label": "jazz", "uuid": "75b16b9b-3124-490f-a73e-92a2ee30c208"}
+{"sub_label": "Henry Threadgill", "obj_label": "jazz", "uuid": "5cf10f18-f8ce-4e54-9002-6c50a7f75164"}
+{"sub_label": "The Darrell Schweitzer Megapack", "obj_label": "fantasy", "uuid": "a95362c8-cb7b-4fbc-9e75-ef37e1599157"}
+{"sub_label": "Kris Davis", "obj_label": "jazz", "uuid": "da81a30d-c30d-4ffe-8bb8-553b2e59cf4a"}
+{"sub_label": "Erik Truffaz", "obj_label": "jazz", "uuid": "2d5b62d4-9e13-4fc1-a080-02078c1374c2"}
+{"sub_label": "Jean-Luc Ponty", "obj_label": "jazz", "uuid": "c29d8b33-efc4-4f01-b1b9-cfab94a37ac1"}
+{"sub_label": "Kurt Vonnegut", "obj_label": "satire", "uuid": "9a039c4d-ac7e-430e-b9f8-08e15f56dd5e"}
+{"sub_label": "Dena DeRose", "obj_label": "jazz", "uuid": "de3dc6ad-85fe-4639-8a1d-2893120caab3"}
+{"sub_label": "Paul Gonsalves", "obj_label": "jazz", "uuid": "1b9aac78-74c6-4bf8-a0ae-8f4f7e3b440e"}
+{"sub_label": "Grimus", "obj_label": "fantasy", "uuid": "3e768a2f-65d7-436b-902e-a0e904a9f06f"}
+{"sub_label": "The Alzheimer Case", "obj_label": "thriller", "uuid": "b36be2e2-2262-409a-a36d-1de90d10685f"}
+{"sub_label": "Rued Langgaard", "obj_label": "opera", "uuid": "a002be69-ee89-49f0-a6f3-aeb761033433"}
+{"sub_label": "Enhanced Music", "obj_label": "trance", "uuid": "0e6cd94c-3c1d-443e-ac8f-b13241c7b274"}
+{"sub_label": "Milt Larkin", "obj_label": "jazz", "uuid": "4c312156-bc79-4d68-9dfc-1f2eef0746ca"}
+{"sub_label": "Metalwood", "obj_label": "jazz", "uuid": "6e32f15a-2867-4d77-b7b1-82912fecb653"}
+{"sub_label": "Sabriel", "obj_label": "fantasy", "uuid": "ebd0cfe2-f162-4228-bc09-bf5f9d64e870"}
+{"sub_label": "Greg Cohen", "obj_label": "jazz", "uuid": "58b59b45-1515-426d-a4d7-3071f3eb1689"}
+{"sub_label": "Harold Land", "obj_label": "jazz", "uuid": "885d163a-8568-40f0-99ef-50fe64e8fdb5"}
+{"sub_label": "Funkadelic", "obj_label": "funk", "uuid": "bc8710ca-b1a6-486f-81e3-32a025b3083d"}
+{"sub_label": "Erik Nylander", "obj_label": "jazz", "uuid": "69b31266-2d3a-4b16-83c6-283a9c60ee2d"}
+{"sub_label": "Young-Holt Unlimited", "obj_label": "jazz", "uuid": "abba10c6-d8b4-493d-99f9-deff2ac388e6"}
+{"sub_label": "Dave McKenna", "obj_label": "jazz", "uuid": "50dcfc73-90d7-4e3d-b860-1afd921da80f"}
+{"sub_label": "King Kolax", "obj_label": "jazz", "uuid": "4bd35f11-2748-4460-82fc-684148964528"}
+{"sub_label": "Mario Del Monaco", "obj_label": "opera", "uuid": "d7687005-de62-45cf-af6e-92dd766afcfa"}
+{"sub_label": "Fyodor Ivanovich Shalyapin", "obj_label": "opera", "uuid": "8f69b463-8632-46ba-9dca-fdb2ac193b26"}
+{"sub_label": "The Office", "obj_label": "sitcom", "uuid": "a91f0095-1b6e-4e32-a47c-a41d194a5bf3"}
+{"sub_label": "Alexander O'Neal", "obj_label": "funk", "uuid": "0e8b49cb-1980-4589-bdf5-8730f114d7b9"}
+{"sub_label": "John Benson Brooks", "obj_label": "jazz", "uuid": "53204e60-a499-45a3-9299-e90e9c2ea7c1"}
+{"sub_label": "Les Elgart", "obj_label": "jazz", "uuid": "870c6a22-2b0b-45ef-bea9-0d6b91b694ea"}
+{"sub_label": "Susie Ibarra", "obj_label": "jazz", "uuid": "a0b95d90-47ef-49ad-9be5-3b8e171764c8"}
+{"sub_label": "Eureka Brass Band", "obj_label": "jazz", "uuid": "8ef95016-8648-4d01-9302-4ee78e50a117"}
+{"sub_label": "Frasier", "obj_label": "sitcom", "uuid": "5820a6ab-3168-4aa2-a26f-0767258702b2"}
+{"sub_label": "Astor Piazzolla", "obj_label": "opera", "uuid": "f36159c8-c97e-433a-8ed7-0ba053406a6f"}
+{"sub_label": "Hello, Love", "obj_label": "jazz", "uuid": "b9a40248-3fa1-487c-bcc1-abe74b5aa71f"}
+{"sub_label": "Kami-sama no Inai Nichiy\u014dbi", "obj_label": "fantasy", "uuid": "a082409a-afcb-4934-b3e1-52eeb3da5f43"}
+{"sub_label": "Alexander Borodin", "obj_label": "opera", "uuid": "6a3d8438-b822-486e-b420-8918b4d08c06"}
+{"sub_label": "Willie Dennis", "obj_label": "jazz", "uuid": "33bcbe79-551f-4431-aac4-4975568b1d0a"}
+{"sub_label": "Nino Rota", "obj_label": "opera", "uuid": "8afa30dd-9efe-492e-ba8a-46a3b38f56a5"}
+{"sub_label": "Kelly Link", "obj_label": "fantasy", "uuid": "b955686a-e8e8-4143-ad3a-b581ac5434dc"}
+{"sub_label": "Andrew Schultz", "obj_label": "opera", "uuid": "122451ed-8f79-475a-a8ae-324e6a0e4a16"}
+{"sub_label": "Domenico Cimarosa", "obj_label": "opera", "uuid": "b9b87fa0-467f-4800-803f-1305b9cb1d09"}
+{"sub_label": "Herbie Hancock", "obj_label": "funk", "uuid": "77660e7f-221f-41e9-9dbd-8c79f45de5a9"}
+{"sub_label": "Mike Stern", "obj_label": "jazz", "uuid": "ef5611a9-f3cd-4b0b-8e27-0679583b5dec"}
+{"sub_label": "Hamlet", "obj_label": "tragedy", "uuid": "441b8122-46a5-4418-a847-6461375649db"}
+{"sub_label": "Cobblestone Records", "obj_label": "jazz", "uuid": "3ef77efd-fa5a-4fc7-86bd-f097d0d5e0ee"}
+{"sub_label": "Chiaroscuro Records", "obj_label": "jazz", "uuid": "92cdca7e-196d-45a6-ba2f-a73ab49b69ca"}
+{"sub_label": "Mercer Ellington", "obj_label": "jazz", "uuid": "ecbeceba-7f90-4c7b-a488-46d9c8a81c8b"}
+{"sub_label": "Kamasi Washington", "obj_label": "jazz", "uuid": "505d5881-d468-45fd-bd74-88e98882efca"}
+{"sub_label": "Judi Silvano", "obj_label": "jazz", "uuid": "d0528956-7d85-41b2-ad7f-3cb6cdee21d4"}
+{"sub_label": "Ken Peplowski", "obj_label": "jazz", "uuid": "5566d3d1-52ea-4e2c-b446-3533eb6c038f"}
+{"sub_label": "Grey Gull Records", "obj_label": "jazz", "uuid": "de1242c4-8fbf-4e5a-b7f1-d81574ad1e15"}
+{"sub_label": "Wally Fawkes", "obj_label": "jazz", "uuid": "81e78cae-506b-4065-b001-cc113a3deea1"}
+{"sub_label": "Boys Town Gang", "obj_label": "disco", "uuid": "ca69e289-121b-4901-a66b-0d41cb738af7"}
+{"sub_label": "Geminiano Giacomelli", "obj_label": "opera", "uuid": "385e609b-8cdf-45ba-bfd2-c48c51d161d4"}
+{"sub_label": "Postcards Records", "obj_label": "jazz", "uuid": "29fcae0a-ee58-4bd4-8c81-8877589f7766"}
+{"sub_label": "Shafi Hadi", "obj_label": "jazz", "uuid": "51158f24-c0c9-48a1-9f35-7775338fa431"}
+{"sub_label": "Harry James", "obj_label": "jazz", "uuid": "5667ba51-9950-4a39-aa25-765c97eb486c"}
+{"sub_label": "Still Open All Hours", "obj_label": "sitcom", "uuid": "f14b3e46-3ed7-43f2-bc2e-af4616a3f0b0"}
+{"sub_label": "Peanuts Holland", "obj_label": "jazz", "uuid": "7981fad6-1227-458c-aed1-72a28e90da24"}
+{"sub_label": "Gary Unmarried", "obj_label": "sitcom", "uuid": "e02ff088-6d84-4000-82f1-d853f7721de3"}
+{"sub_label": "Shindig!", "obj_label": "variety", "uuid": "7a2794c8-ee09-4544-b838-6eaec68d24ed"}
+{"sub_label": "Abhorsen", "obj_label": "fantasy", "uuid": "801fb3f1-c0be-422e-950b-10d73cd317ca"}
+{"sub_label": "Boyd Raeburn", "obj_label": "jazz", "uuid": "467ce7da-428c-46a0-a540-007455565967"}
+{"sub_label": "Filles de Kilimanjaro", "obj_label": "jazz", "uuid": "c11e7cf9-042f-4365-b1d6-de3857a49772"}
+{"sub_label": "Carmen McRae", "obj_label": "jazz", "uuid": "d18d6405-7102-464e-ab28-21a9996560f9"}
+{"sub_label": "Clifford Brown", "obj_label": "jazz", "uuid": "75e4cd3e-6131-470f-8a87-0f25ea4c3e69"}
+{"sub_label": "Loris Tjeknavorian", "obj_label": "opera", "uuid": "9f32a7a1-5d01-4449-8a0f-015624e537f0"}
+{"sub_label": "Delightful Precipice", "obj_label": "jazz", "uuid": "80562b2f-82fe-496f-ab13-f31cab870e9f"}
+{"sub_label": "Landmark Records", "obj_label": "jazz", "uuid": "506dff7f-2649-45fb-9fb8-ec5bc7312764"}
+{"sub_label": "Raphe Malik", "obj_label": "jazz", "uuid": "7b4e43aa-c9fc-42dd-b7a0-649c36419049"}
+{"sub_label": "Sal Mosca", "obj_label": "jazz", "uuid": "109d3160-2b4d-40a5-9f49-59cee34cd3bb"}
+{"sub_label": "Cold Comfort Farm", "obj_label": "satire", "uuid": "4c018271-7b5f-4d04-ad61-b78a920c6c7c"}
+{"sub_label": "David Friesen", "obj_label": "jazz", "uuid": "de23bca0-9b26-49e9-bb76-bd46ae4165ca"}
+{"sub_label": "Joe Marsala", "obj_label": "jazz", "uuid": "efd8c262-6cf4-42e9-ba00-f745bc19ad93"}
+{"sub_label": "Wardell Gray", "obj_label": "jazz", "uuid": "b2cdbf5c-1535-456c-a946-13a6863ccbd9"}
+{"sub_label": "Jimmy Raney", "obj_label": "jazz", "uuid": "1ae04dff-dfca-41fe-9cee-05e78600ae50"}
+{"sub_label": "Peter Benoit", "obj_label": "opera", "uuid": "78fdb6ed-bbe5-448f-a00e-64ace5950a49"}
+{"sub_label": "Jimmy McGriff", "obj_label": "jazz", "uuid": "6798b8c0-fa21-476a-b90a-f838bdd3c5e1"}
+{"sub_label": "Babs Gonzales", "obj_label": "jazz", "uuid": "29208e16-08ae-45db-b5b6-eba4b14cfd5d"}
+{"sub_label": "Gothika", "obj_label": "thriller", "uuid": "c3870bec-66e7-45db-9908-952bec83b741"}
+{"sub_label": "Steps Ahead", "obj_label": "jazz", "uuid": "4c70aeec-5ebc-4b2f-bd1d-432a67b4d816"}
+{"sub_label": "Arthur Benjamin", "obj_label": "opera", "uuid": "4e18ec68-5fe9-44b8-ab71-08fc515082a8"}
+{"sub_label": "Philips Records", "obj_label": "jazz", "uuid": "36fd7f43-66db-4582-adfb-99d637c84fc8"}
+{"sub_label": "Louis Prima", "obj_label": "jazz", "uuid": "43fce492-e05c-41da-b5a3-497483d63bdc"}
+{"sub_label": "Jamil Nasser", "obj_label": "jazz", "uuid": "6e5c5987-5367-4143-b478-3bf71121167e"}
+{"sub_label": "Dominick Argento", "obj_label": "opera", "uuid": "5c41e088-d0f8-4828-89af-2cbf0895e2b2"}
+{"sub_label": "Wolfgang Muthspiel", "obj_label": "jazz", "uuid": "c070ab7d-d464-41a9-bd12-e68fc5739ae9"}
+{"sub_label": "Nick Travis", "obj_label": "jazz", "uuid": "7a106965-215a-468c-aab8-157232e4c968"}
+{"sub_label": "Memphis Minnie", "obj_label": "blues", "uuid": "baa6a26e-a6d1-45a0-8f4f-56b8edf92dc7"}
+{"sub_label": "Ron McClure", "obj_label": "jazz", "uuid": "cbe0c8c9-4941-42ab-af21-0a06452570cc"}
+{"sub_label": "The Cat Empire", "obj_label": "jazz", "uuid": "c3b27f78-77fe-4dde-8702-30d900ddf943"}
+{"sub_label": "Lewis Porter", "obj_label": "jazz", "uuid": "443fac9e-0d2a-4337-953f-6f1bea9ff328"}
+{"sub_label": "Cornelis van Haarlem", "obj_label": "portrait", "uuid": "c9e2302e-b7bb-421f-8e5f-9deee388a434"}
+{"sub_label": "The Army Game", "obj_label": "sitcom", "uuid": "83331b51-d555-4bf6-ad25-436337489f9b"}
+{"sub_label": "Enrique Granados", "obj_label": "opera", "uuid": "2969099a-3929-496d-9280-252b38acd419"}
+{"sub_label": "Tommy Vig", "obj_label": "jazz", "uuid": "0b9a2466-8f83-4d66-bde6-8704dc617375"}
+{"sub_label": "The Mighty Boosh", "obj_label": "sitcom", "uuid": "5163ece6-df98-435a-9dbc-56c69e3a858e"}
+{"sub_label": "Phone Booth", "obj_label": "thriller", "uuid": "31c9133b-570f-4ad5-9a5b-fe5b325d8e9c"}
+{"sub_label": "Alvino Rey", "obj_label": "jazz", "uuid": "2f1957b1-d159-44fd-95b7-8103f3f5d7b5"}
+{"sub_label": "Loose Tubes", "obj_label": "jazz", "uuid": "db83f25a-2ddf-430e-922e-e9b6c33ac9a0"}
+{"sub_label": "Khan Jamal", "obj_label": "jazz", "uuid": "c5acaa08-e236-40fe-ad6a-9dae7859e84e"}
+{"sub_label": "Lester Young", "obj_label": "jazz", "uuid": "148b5158-ee71-424d-bc39-086e7ebd414a"}
+{"sub_label": "The Dustbinmen", "obj_label": "sitcom", "uuid": "15932b78-8711-45d9-a638-f796189c7489"}
+{"sub_label": "Patty Waters", "obj_label": "jazz", "uuid": "a10c44a2-70f3-4162-92c1-65325b395ad4"}
+{"sub_label": "So Haunt Me", "obj_label": "sitcom", "uuid": "b141265b-0b36-444d-9234-b19e0878df55"}
+{"sub_label": "Chris Batchelor", "obj_label": "jazz", "uuid": "a3722d71-4969-4ebd-b385-6673af179d5f"}
+{"sub_label": "Candido Camero", "obj_label": "jazz", "uuid": "ce6da462-b34f-44f0-9d48-6c4692493f4e"}
+{"sub_label": "Jean-Joseph de Mondonville", "obj_label": "opera", "uuid": "95c1eeb5-87ac-4b1a-8aa5-e916afc78afc"}
+{"sub_label": "Fred Thelonious Baker", "obj_label": "jazz", "uuid": "c2eece76-b23a-463b-a0b2-8511ef59970d"}
+{"sub_label": "Audio Fidelity", "obj_label": "jazz", "uuid": "a6dc0aa0-757e-4508-8c50-b0b7b679e97c"}
+{"sub_label": "Theodosii Spassov", "obj_label": "jazz", "uuid": "ebbd2b67-5146-4d42-9eae-28dae2246326"}
+{"sub_label": "Gennett", "obj_label": "jazz", "uuid": "8ab80298-0cb0-43c8-9778-42c4ce31de3b"}
+{"sub_label": "Marshall Allen", "obj_label": "jazz", "uuid": "4fb660fe-f87e-407b-9cb0-0d06853c47b1"}
+{"sub_label": "Harold Arlen", "obj_label": "jazz", "uuid": "4fc61727-6542-4bf7-96c6-990fdbf08c36"}
+{"sub_label": "Dicky Wells", "obj_label": "jazz", "uuid": "7d2674b6-4767-400f-8b0b-0e13e1394140"}
+{"sub_label": "Edward Solomon", "obj_label": "opera", "uuid": "39d39a85-b4a2-4702-b29c-d68eba0bf0cf"}
+{"sub_label": "Sykes", "obj_label": "sitcom", "uuid": "af8c03cd-a30c-4dd8-8024-c2dbeb74b85b"}
+{"sub_label": "Philip Catherine", "obj_label": "jazz", "uuid": "9b652988-fcd4-427e-8a66-af3e1d39dc10"}
+{"sub_label": "Meet Mr. McNutley", "obj_label": "sitcom", "uuid": "c7e3ff5d-7f4e-4889-a735-0bec61121b56"}
+{"sub_label": "Ettore Panizza", "obj_label": "opera", "uuid": "3c7a3b53-46fd-41f3-b488-bb4664a17fbf"}
+{"sub_label": "Katherine Jenkins", "obj_label": "opera", "uuid": "3b6e6054-fcfa-4566-b63e-312d72a3d1ba"}
+{"sub_label": "Earth Is Room Enough", "obj_label": "anthology", "uuid": "eb4343fb-a39f-45ce-b631-d691d2cb510c"}
+{"sub_label": "Dinosaurs", "obj_label": "sitcom", "uuid": "23577861-5289-454c-861b-39b49c0895ec"}
+{"sub_label": "Tommy LiPuma", "obj_label": "jazz", "uuid": "fb290bda-b2e7-4437-9383-6fe46c52fb3c"}
+{"sub_label": "Steve Gadd", "obj_label": "jazz", "uuid": "b150aecb-e749-4521-84ee-199d9075bc38"}
+{"sub_label": "Johannes Eick", "obj_label": "jazz", "uuid": "f0f6607f-8fe6-4ec6-8b21-76f6bf2d5ccd"}
+{"sub_label": "Kelly Marie", "obj_label": "disco", "uuid": "9b9579e4-8ad6-419f-ad81-738aefad36da"}
+{"sub_label": "Harmolodics", "obj_label": "jazz", "uuid": "7bc25b27-9ecb-4015-9b7a-b3673f36e42e"}
+{"sub_label": "Rachael Price", "obj_label": "jazz", "uuid": "f538b7f8-eaf3-4fcc-9153-e7e55871616c"}
+{"sub_label": "Stefano Pavesi", "obj_label": "opera", "uuid": "a04b8c83-ffa0-4ec6-8f97-460a1835ec26"}
+{"sub_label": "Leon Breeden", "obj_label": "jazz", "uuid": "e9d1df38-9d40-4538-9e2c-503e48a09606"}
+{"sub_label": "Thomas Linley the elder", "obj_label": "opera", "uuid": "e98c5b98-4538-47ec-a131-6681bdb3a5c1"}
+{"sub_label": "Avni Mula", "obj_label": "opera", "uuid": "b60d76d8-eefc-4edf-b51f-ad8b874c6631"}
+{"sub_label": "Sleepy John Estes", "obj_label": "blues", "uuid": "88569fd5-f4d6-4b0e-9ef6-c9a17c3f926d"}
+{"sub_label": "Arnett Cobb", "obj_label": "jazz", "uuid": "3ee676cc-ad97-4eca-9485-605259a8cde9"}
+{"sub_label": "Kenny Wheeler", "obj_label": "jazz", "uuid": "3e6a0510-2e35-41db-8fec-76adf6a74d0c"}
+{"sub_label": "Pori Jazz", "obj_label": "jazz", "uuid": "e2190ef6-28c1-4220-a127-455a07c42ee8"}
+{"sub_label": "How I Met Your Mother", "obj_label": "sitcom", "uuid": "802f3818-0904-45df-b184-6cecee8048e7"}
+{"sub_label": "Fulfillingness' First Finale", "obj_label": "funk", "uuid": "2da9ce25-1b95-433f-85ab-417a458a6b2f"}
+{"sub_label": "Cy Coleman", "obj_label": "jazz", "uuid": "b70c7855-732b-4469-a2a2-35b10cdc5608"}
+{"sub_label": "Paul McCandless", "obj_label": "jazz", "uuid": "5e665ab6-d969-4fdb-a045-8257104828f1"}
+{"sub_label": "Jacintha Abisheganaden", "obj_label": "jazz", "uuid": "eccd8ee6-f6e5-467c-9bbf-93fbd8f44b83"}
+{"sub_label": "Hall Overton", "obj_label": "jazz", "uuid": "43887b0b-4f91-421d-826d-780462e9f0ea"}
+{"sub_label": "Les Double Six", "obj_label": "jazz", "uuid": "51b70816-4d12-4983-ada0-cf0913b93396"}
+{"sub_label": "Red Nichols", "obj_label": "jazz", "uuid": "d0fbaf8c-d214-43b6-8771-6c8774950b2e"}
+{"sub_label": "Peter Appleyard", "obj_label": "jazz", "uuid": "2223cbfe-353c-4c2e-b91f-c11c42bfd268"}
+{"sub_label": "Reinhard Keiser", "obj_label": "opera", "uuid": "a9dc7ca9-2db5-4b9a-aeb7-dfb5667ccd18"}
+{"sub_label": "Verve Records", "obj_label": "jazz", "uuid": "70594d31-710a-4f29-a6ae-4b9ccd838196"}
+{"sub_label": "Energy 52", "obj_label": "trance", "uuid": "b0316198-96b4-4d83-bd82-4f3fc7a583e8"}
+{"sub_label": "Kamaya Painters", "obj_label": "trance", "uuid": "42f15cc0-72a6-4470-95b9-ae9abb1914a3"}
+{"sub_label": "Lucky Thompson", "obj_label": "jazz", "uuid": "4322ed07-a6d9-45f5-b4e8-bb52e605452b"}
+{"sub_label": "Milt Hinton", "obj_label": "jazz", "uuid": "350774c2-f1a5-4f55-b512-06f81064f9b3"}
+{"sub_label": "Hank Garland", "obj_label": "jazz", "uuid": "3de39825-aa12-4f04-9cfb-1fefb2865ad6"}
+{"sub_label": "Claude Deppa", "obj_label": "jazz", "uuid": "5ecd9a95-3fd1-4bda-a1ef-2cbb1aee7375"}
+{"sub_label": "Unfinished Tales", "obj_label": "fantasy", "uuid": "c6186ca9-ef20-446b-8596-9e936e6e52bd"}
+{"sub_label": "Bobby Watson", "obj_label": "jazz", "uuid": "ebdcdc00-ad38-4ba5-be2e-3a77db2bffd4"}
+{"sub_label": "Fawlty Towers", "obj_label": "sitcom", "uuid": "c6acac6d-2303-44ce-a3ed-bd2338c37591"}
+{"sub_label": "Paul Whiteman", "obj_label": "jazz", "uuid": "df027afa-2417-4d1d-9e73-bb3c480efd3e"}
+{"sub_label": "RuneScape", "obj_label": "fantasy", "uuid": "b2f267d2-519e-403c-ba7e-a60d34faa221"}
+{"sub_label": "Jean Racine", "obj_label": "tragedy", "uuid": "9e7e000f-68e3-4688-8df9-11fbd4fb6f3e"}
+{"sub_label": "Blossom Dearie", "obj_label": "jazz", "uuid": "117b5fb7-0db9-4adc-9b28-c186686463cc"}
+{"sub_label": "Hans Koller", "obj_label": "jazz", "uuid": "fe25ee31-a4f5-4978-9f87-8455c9a655ac"}
+{"sub_label": "Suicide", "obj_label": "essay", "uuid": "97225b8a-ec38-421b-b8ae-8428e3b3e0d7"}
+{"sub_label": "Justine Suissa", "obj_label": "trance", "uuid": "16b589f2-aaec-4322-92d9-8150b26bee91"}
+{"sub_label": "Nighty Night", "obj_label": "sitcom", "uuid": "fbf807d9-0969-4bd9-ad9f-917533cd791f"}
+{"sub_label": "Platypus Man", "obj_label": "sitcom", "uuid": "2f709fb8-c50e-46c3-9fdf-7b248ebf4376"}
+{"sub_label": "Bert Joris", "obj_label": "jazz", "uuid": "8252207d-cfc5-412e-8b22-b1fe511f5bdb"}
+{"sub_label": "Blank & Jones", "obj_label": "trance", "uuid": "9b8b3794-6d61-47de-8d10-f99c0c328b02"}
+{"sub_label": "Teddy Kotick", "obj_label": "jazz", "uuid": "ccf54e42-994e-4b63-946f-7dc8099a6467"}
+{"sub_label": "Ahmed Abdullah", "obj_label": "jazz", "uuid": "d63f8172-6447-43c1-bfd7-df2d84f9dd96"}
+{"sub_label": "Robert Cambert", "obj_label": "opera", "uuid": "1c37656c-f8f4-4a57-a104-e9f09930e25b"}
+{"sub_label": "Jacques Offenbach", "obj_label": "opera", "uuid": "5db87925-e9a1-4cd1-a922-626305a8ddd1"}
+{"sub_label": "Daniel Kandi", "obj_label": "trance", "uuid": "e6d9a749-ded1-408b-89b1-5050292c989a"}
+{"sub_label": "Miles Davis", "obj_label": "jazz", "uuid": "21483f3d-405a-47b2-87b6-76e6a4e7692b"}
+{"sub_label": "Catalyst Records", "obj_label": "jazz", "uuid": "50b1afa3-c187-4c27-8c48-1b94e115c400"}
+{"sub_label": "227", "obj_label": "sitcom", "uuid": "5170973f-39df-46ee-9de8-349cd2d7d076"}
+{"sub_label": "Roy Hargrove", "obj_label": "jazz", "uuid": "22787ff1-78a3-40c3-980a-f2990236ff24"}
+{"sub_label": "Johnny Alegre Affinity", "obj_label": "jazz", "uuid": "8e201626-54b9-41be-a1f2-8eeab57bde90"}
+{"sub_label": "Eldar Djangirov", "obj_label": "jazz", "uuid": "2ac9587d-ab40-439d-83a3-d9cc607fac0e"}
+{"sub_label": "Franz Koglmann", "obj_label": "jazz", "uuid": "d3806f03-66c7-4d24-b87a-8d4fea01bb6e"}
+{"sub_label": "Bobina", "obj_label": "trance", "uuid": "7e22a307-f98e-4a39-ad9b-1583f7e4dd12"}
+{"sub_label": "Fess Williams", "obj_label": "jazz", "uuid": "4198689b-9a1e-4c30-936c-cebe15680b05"}
+{"sub_label": "Patrick Alavi", "obj_label": "funk", "uuid": "6062e52e-90b0-4c71-9415-dbb63e3d248a"}
+{"sub_label": "HighNote Records", "obj_label": "jazz", "uuid": "67bc2a5f-d8bc-45d8-a46f-ac65f7c8eabe"}
+{"sub_label": "Hesiod", "obj_label": "poetry", "uuid": "f13cdbf2-8b35-474f-bc2d-2b53cb4e0c93"}
+{"sub_label": "Don Grusin", "obj_label": "jazz", "uuid": "8783488e-3a79-4ec5-913e-3cb30e4890ba"}
+{"sub_label": "Giuseppe Gazzaniga", "obj_label": "opera", "uuid": "0e12be99-d2d3-4bd0-895f-92c91dddadad"}
+{"sub_label": "Lou Marini", "obj_label": "jazz", "uuid": "bc209198-a679-4bfd-aa2c-9cf8f5320987"}
+{"sub_label": "Al Hirt", "obj_label": "jazz", "uuid": "7bdc9b7d-aaec-4971-b632-a500f00bd551"}
+{"sub_label": "Gary Bartz", "obj_label": "jazz", "uuid": "726fe1aa-00a3-4510-9320-c7bb2a1044fc"}
+{"sub_label": "Maria Kannegaard", "obj_label": "jazz", "uuid": "48d6aeeb-a57d-46c3-a1ad-22448094bd26"}
+{"sub_label": "Benjamin Britten", "obj_label": "opera", "uuid": "9d654f1c-1381-4b82-8993-f942037ea026"}
+{"sub_label": "Urbie Green", "obj_label": "jazz", "uuid": "e52c070d-816f-436d-a02c-d01b39051768"}
+{"sub_label": "Vincent Herring", "obj_label": "jazz", "uuid": "c34d6dc5-f3ac-4603-b7ce-87640105f2e4"}
+{"sub_label": "Deborah Drattell", "obj_label": "opera", "uuid": "468f69bc-9542-4931-8c4b-13346dd61f28"}
+{"sub_label": "Fatma Mukhtarova", "obj_label": "opera", "uuid": "2f2fe2d6-0672-4c5e-9a59-539c5ca3bea1"}
+{"sub_label": "Taylor Eigsti", "obj_label": "jazz", "uuid": "f4bf30ed-ccf6-4778-a893-eafc69d57702"}
+{"sub_label": "Mark Bucci", "obj_label": "opera", "uuid": "d30df896-71fb-41b0-8fc8-396787abc5d6"}
+{"sub_label": "June Christy", "obj_label": "jazz", "uuid": "2c8211f8-7f4f-4c89-b835-7d06d35a403f"}
+{"sub_label": "George Frideric Handel", "obj_label": "opera", "uuid": "c09f871d-4fcc-49d2-ba56-3f3fc7fc6736"}
+{"sub_label": "Svensson, Svensson", "obj_label": "sitcom", "uuid": "71fee9fd-d989-4343-b09a-695ec15f16d0"}
+{"sub_label": "Roberta Gambarini", "obj_label": "jazz", "uuid": "bd5e5a58-408c-43e1-9fac-8edcd21222e6"}
+{"sub_label": "Sonny Bradshaw", "obj_label": "jazz", "uuid": "925f5cc4-f966-4864-a584-50b156e707ab"}
+{"sub_label": "Jimmie Noone", "obj_label": "jazz", "uuid": "9c9900af-5e32-4ab2-a04a-7198e1d38037"}
+{"sub_label": "Viktor Nessler", "obj_label": "opera", "uuid": "f0794166-7b02-4ac4-aa36-26ab2b2caf09"}
+{"sub_label": "Sadik Hakim", "obj_label": "jazz", "uuid": "1ef0a790-289b-4089-b292-a21d144ee7de"}
+{"sub_label": "Stafford James", "obj_label": "jazz", "uuid": "e892fd31-d2e2-474a-bb2f-3bc3624a0990"}
+{"sub_label": "Lorenzo Tio", "obj_label": "jazz", "uuid": "7569f3c0-cfb4-4945-af4d-8824e0237527"}
+{"sub_label": "Leonard Gaskin", "obj_label": "jazz", "uuid": "eb03fc41-59e8-47ee-8bcf-4be53fe05955"}
+{"sub_label": "Porter Records", "obj_label": "jazz", "uuid": "cb812882-af10-492e-afb9-6b6f646c5c13"}
+{"sub_label": "Digby Fairweather", "obj_label": "jazz", "uuid": "a8b37722-c93e-4001-aaea-920da5ceabaf"}
+{"sub_label": "Art Tatum", "obj_label": "jazz", "uuid": "52188e1c-cf74-41e7-93c0-497a40a1573c"}
+{"sub_label": "Ethel Waters", "obj_label": "jazz", "uuid": "03aa3c9d-7298-42b5-854c-65f4465212f3"}
+{"sub_label": "Gerald Veasley", "obj_label": "jazz", "uuid": "a18307a4-60c5-4986-8da7-ef2a9dfdefce"}
+{"sub_label": "32 Jazz", "obj_label": "jazz", "uuid": "02f0fcc8-3ed2-43d9-aafb-6a425a0781dc"}
+{"sub_label": "Bernard Herrmann", "obj_label": "opera", "uuid": "05cc6f14-fbea-4a4d-bd87-111788331716"}
+{"sub_label": "Three Drives", "obj_label": "trance", "uuid": "0b4d67b1-300c-4233-92df-be787dc0bd97"}
+{"sub_label": "Margit Sandemo", "obj_label": "fantasy", "uuid": "78690a3e-7766-4317-a646-5f8cf279cf22"}
+{"sub_label": "Steve Slagle", "obj_label": "jazz", "uuid": "2cf0e651-9cfc-4f53-8a7f-a7bd3f395504"}
+{"sub_label": "Tao Lin", "obj_label": "essay", "uuid": "dda3f303-6f11-4373-be09-1f4639a784b5"}
+{"sub_label": "Rob McConnell", "obj_label": "jazz", "uuid": "d35c746d-0daa-416a-8b92-5d1b8050d5c9"}
+{"sub_label": "Furry Lewis", "obj_label": "blues", "uuid": "6a321d5c-5b05-408c-b136-bb96280beb76"}
+{"sub_label": "Dido and Aeneas", "obj_label": "opera", "uuid": "30032c19-8140-4d8e-bdd2-3ba966f5f973"}
+{"sub_label": "Aka Moon", "obj_label": "jazz", "uuid": "9477f231-b5db-4d4b-b003-07316e11ab78"}
+{"sub_label": "Geraint Evans", "obj_label": "opera", "uuid": "0b623800-b760-478c-8f18-932084c98b44"}
+{"sub_label": "Roswell Rudd", "obj_label": "jazz", "uuid": "f843aeaa-3470-439d-b654-6a2e77bc73b1"}
+{"sub_label": "Vernel Fournier", "obj_label": "jazz", "uuid": "7d133c72-8b86-466b-8eb0-df3be5a2e58c"}
+{"sub_label": "The Flintstones", "obj_label": "sitcom", "uuid": "d487c148-0ada-4214-9128-2bd1120b5385"}
+{"sub_label": "Mel Powell", "obj_label": "jazz", "uuid": "59209f15-9138-4405-bbe6-05fa928cf2b3"}
+{"sub_label": "Frank Lowe", "obj_label": "jazz", "uuid": "72c93c9b-0f48-4970-87c3-1912bebc3d0d"}
+{"sub_label": "Allan Ganley", "obj_label": "jazz", "uuid": "b2c8658e-5778-4224-bf78-829712a2aef2"}
+{"sub_label": "Thelma Carpenter", "obj_label": "jazz", "uuid": "f8637a81-7135-4c92-976f-b49a77469022"}
+{"sub_label": "Montgomery Brothers", "obj_label": "jazz", "uuid": "3248d39a-bd08-4d00-8b66-1f86573689c4"}
+{"sub_label": "Jan Peerce", "obj_label": "opera", "uuid": "9ce1fa0c-fdbd-4a5b-b9c3-974c09ba6ddb"}
+{"sub_label": "Hugo Weisgall", "obj_label": "opera", "uuid": "c8845ba8-0cd6-4f7c-bd5d-2e726adc0a01"}
+{"sub_label": "Ted Gioia", "obj_label": "jazz", "uuid": "4403f5f1-0e75-4769-9a68-c21fe0180d46"}
+{"sub_label": "Jan Johnston", "obj_label": "trance", "uuid": "50a73c46-f3cf-4e62-a362-dac65623210d"}
+{"sub_label": "The Adjustment Bureau", "obj_label": "thriller", "uuid": "75950c70-44f3-43dc-976f-aecfbf093ea2"}
+{"sub_label": "Leo Wright", "obj_label": "jazz", "uuid": "b789b75d-2596-483c-a921-5f3f05de7ec1"}
+{"sub_label": "Marcel Samuel-Rousseau", "obj_label": "opera", "uuid": "2863d43f-28fc-4955-ac30-6a380534fc98"}
+{"sub_label": "Wes Montgomery", "obj_label": "jazz", "uuid": "6868c067-395a-4f8f-a7fa-2d4994f3e254"}
+{"sub_label": "The Worm Ouroboros", "obj_label": "fantasy", "uuid": "a1796609-9d72-4673-9678-2251a35b5203"}
+{"sub_label": "Maxine Sullivan", "obj_label": "jazz", "uuid": "d620ac53-d37d-41a5-bdaf-181fff0efb8c"}
+{"sub_label": "Cutting contest", "obj_label": "jazz", "uuid": "f1f526e4-52b2-478d-aff0-024f0861241b"}
+{"sub_label": "Craig S. Harris", "obj_label": "jazz", "uuid": "44c79c9b-f070-4332-a294-22ff77615d2e"}
+{"sub_label": "Fats Waller", "obj_label": "jazz", "uuid": "ea1ae217-b849-4fb1-afae-015562970dd9"}
+{"sub_label": "John Altenburgh", "obj_label": "jazz", "uuid": "b808a9d3-2562-4957-9b47-2fb693edd777"}
+{"sub_label": "Bendik Hofseth", "obj_label": "jazz", "uuid": "f4a2e891-33ab-43cf-93da-5bedb8a41b7e"}
+{"sub_label": "Henri Renaud", "obj_label": "jazz", "uuid": "0fad98f5-f144-4507-ba78-9a9a71791af6"}
+{"sub_label": "Donald Byrd", "obj_label": "jazz", "uuid": "d187df7c-f288-446c-9bd9-6029b5d05ed5"}
+{"sub_label": "East Wind Records", "obj_label": "jazz", "uuid": "275edf2b-7d26-48b6-afdd-3dea46e6b1df"}
+{"sub_label": "Law Abiding Citizen", "obj_label": "thriller", "uuid": "541de47a-b016-41b2-8827-660c0ceb1e06"}
+{"sub_label": "Keely Smith", "obj_label": "jazz", "uuid": "a296607f-7927-4f23-bc4c-6a7203254604"}
+{"sub_label": "Ivar Antonsen", "obj_label": "jazz", "uuid": "8e05ab5b-35eb-4523-b61c-54472b7f7022"}
+{"sub_label": "Drew Gress", "obj_label": "jazz", "uuid": "36b48e87-4b35-4321-a3a1-cfdd11b0e488"}
+{"sub_label": "Lena Horne", "obj_label": "jazz", "uuid": "54f89604-533f-42ce-9cae-31f24ead531f"}
+{"sub_label": "Don't Wait Up", "obj_label": "sitcom", "uuid": "24a7a2bc-fe88-4599-8c9b-366ccdfd64d2"}
+{"sub_label": "The Juror", "obj_label": "thriller", "uuid": "084e5f24-4a99-4234-8d91-bc9d3db5582d"}
+{"sub_label": "Dudu Pukwana", "obj_label": "jazz", "uuid": "c6dbc24c-bc7c-4205-89ef-8f60919b5ce7"}
+{"sub_label": "Jacques Morali", "obj_label": "disco", "uuid": "52c4750b-b094-427b-b87a-e119ec11b5a3"}
+{"sub_label": "The Bar-Kays", "obj_label": "funk", "uuid": "7ef0f34d-1a19-4326-bb95-459196b76881"}
+{"sub_label": "Dick Katz", "obj_label": "jazz", "uuid": "fca021db-da7d-40c1-86c5-b8cb014fe425"}
+{"sub_label": "A Love Trilogy", "obj_label": "disco", "uuid": "bf643550-7cac-412e-8173-fb86b70085fe"}
+{"sub_label": "Hilton Jefferson", "obj_label": "jazz", "uuid": "4b698f52-58f5-40d2-b3df-3ff3544af3df"}
+{"sub_label": "Wadada Leo Smith", "obj_label": "jazz", "uuid": "2740db51-0fef-48a1-ae7d-bb220dd306bb"}
+{"sub_label": "Carl Kress", "obj_label": "jazz", "uuid": "debdd770-c42f-4985-8684-b9e940ece8fa"}
+{"sub_label": "Bennie Wallace", "obj_label": "jazz", "uuid": "89107008-3b1e-494b-9c67-013d1e27a54a"}
+{"sub_label": "Artists House", "obj_label": "jazz", "uuid": "b4c59eb2-e033-4287-bbe7-2b0a98898744"}
+{"sub_label": "Rising Damp", "obj_label": "sitcom", "uuid": "965dff3c-a765-46ce-9600-59fae7ffa8e5"}
+{"sub_label": "Progressive Records", "obj_label": "jazz", "uuid": "5bcf8aa7-b110-4794-8451-03dc364d57f8"}
+{"sub_label": "Klaus Doldinger", "obj_label": "jazz", "uuid": "8affa26c-65b2-4b68-b822-4532e8e4256c"}
+{"sub_label": "Palatine Anthology", "obj_label": "anthology", "uuid": "36e5d674-59b3-4bfa-828a-42696e14ee2e"}
+{"sub_label": "Diff'rent Strokes", "obj_label": "sitcom", "uuid": "4c73db39-3920-43c5-8249-8e192c0a7c72"}
+{"sub_label": "Don Fagerquist", "obj_label": "jazz", "uuid": "1da3d9d2-b1a2-427a-850a-2c2d185ed788"}
+{"sub_label": "Don Byas", "obj_label": "jazz", "uuid": "aaac8f9f-c8fe-41c4-82e3-3995db807999"}
+{"sub_label": "MetroJazz Records", "obj_label": "jazz", "uuid": "3e18d988-b817-4bfe-a017-a4cab7011f69"}
+{"sub_label": "Jean-Yves Daniel-Lesur", "obj_label": "opera", "uuid": "b58a5345-3ebb-4dac-b565-ef81a20c09f0"}
+{"sub_label": "Virgilio Mazzocchi", "obj_label": "opera", "uuid": "8488c3be-37fd-4ec5-9901-26e9206f41c6"}
+{"sub_label": "Animal Room", "obj_label": "thriller", "uuid": "7d248d7e-71d2-4c9d-916a-b48a19e7d3aa"}
+{"sub_label": "Jacques Ibert", "obj_label": "opera", "uuid": "b5b30e52-ab9f-4720-b69d-329ca35d5990"}
+{"sub_label": "Paul Chambers", "obj_label": "jazz", "uuid": "46e34e52-7f85-429c-ab6f-d7b8201a4669"}
+{"sub_label": "Earl King", "obj_label": "blues", "uuid": "eb3ad7a2-f906-496f-a295-b74df60d2e97"}
+{"sub_label": "David DiChiera", "obj_label": "opera", "uuid": "83d3cde8-b0ac-496a-8c94-8567d97a7c78"}
+{"sub_label": "Anthony Braxton", "obj_label": "jazz", "uuid": "e961d9e1-e784-4e64-a4ce-a5e2586e8a5e"}
+{"sub_label": "Harrison Birtwistle", "obj_label": "opera", "uuid": "4fd821bf-a9f2-4ad4-a9f7-28fd35feef1b"}
+{"sub_label": "Wolter Wierbos", "obj_label": "jazz", "uuid": "404f7e41-8296-4a42-841f-65d1f22b21cc"}
+{"sub_label": "Lin Carter", "obj_label": "fantasy", "uuid": "1c0affca-cc1c-4b38-bc17-f883d7681d73"}
+{"sub_label": "Michel Massot", "obj_label": "jazz", "uuid": "15fb3fca-5a79-4e7b-9dbe-3f5b2412df84"}
+{"sub_label": "Geggy Tah", "obj_label": "jazz", "uuid": "529974c9-1585-4e3f-a20d-5473ad5d2052"}
+{"sub_label": "Friday Night Dinner", "obj_label": "sitcom", "uuid": "c5e2f253-edc0-40f4-ac63-66a1547c4427"}
+{"sub_label": "Willem Pijper", "obj_label": "opera", "uuid": "58086b68-1851-499e-80d6-3d5df9c5e691"}
+{"sub_label": "BadBadNotGood", "obj_label": "jazz", "uuid": "febdb6b0-20a8-4754-8766-c77eb0ee25d4"}
+{"sub_label": "Don Paterson", "obj_label": "jazz", "uuid": "567dc3ae-c36d-4a3d-bcc0-e9a9aae00e06"}
+{"sub_label": "Enrico Pieranunzi", "obj_label": "jazz", "uuid": "1975d3db-553b-4a59-81ce-beccd5413552"}
+{"sub_label": "Barry Harris", "obj_label": "jazz", "uuid": "3ab6b4e4-3994-4e96-af57-5dd53f74330c"}
+{"sub_label": "Panama Francis", "obj_label": "jazz", "uuid": "bc478e97-8a08-4df9-ad58-eb4255201721"}
+{"sub_label": "Mose Allison", "obj_label": "jazz", "uuid": "a18d643b-4c96-43d1-be93-607915e0aa3f"}
+{"sub_label": "Main Hoon Na", "obj_label": "thriller", "uuid": "283cacf8-36bf-470d-a2b2-98f881d370dc"}
+{"sub_label": "Hugh Marsh", "obj_label": "jazz", "uuid": "1f707214-c1e0-4f5d-9907-dbb186232fee"}
+{"sub_label": "Kirsti Huke", "obj_label": "jazz", "uuid": "0e59d937-02fd-4e7e-bee3-c18b83103fec"}
+{"sub_label": "Riverworld", "obj_label": "fantasy", "uuid": "eb6dd8d8-ff0a-465d-a476-26454876adb9"}
+{"sub_label": "Louis Banks", "obj_label": "jazz", "uuid": "d73924fd-34a3-4902-9a94-57d7eeaa6819"}
+{"sub_label": "Helen Sung", "obj_label": "jazz", "uuid": "a690b34a-a388-4ff9-8668-87f17fca9854"}
+{"sub_label": "Joe Fonda", "obj_label": "jazz", "uuid": "eb6a5184-bb28-4feb-b914-38626c37b636"}
+{"sub_label": "Bob Rusch", "obj_label": "jazz", "uuid": "a1e3685f-0493-42bf-bd47-168da2a2c923"}
+{"sub_label": "Anton Schwartz", "obj_label": "jazz", "uuid": "58b3c27a-8dd2-49b9-b49b-ffbbd399ba25"}
+{"sub_label": "Rudolf Brucci", "obj_label": "opera", "uuid": "26b98c68-da42-42c6-a6de-68d07ff3cca0"}
+{"sub_label": "Denise Jannah", "obj_label": "jazz", "uuid": "4eb3d7ea-cb65-45b5-b6c9-6974f2015252"}
+{"sub_label": "The Bays", "obj_label": "jazz", "uuid": "763d53fe-59fd-4404-8ce4-966d45d89a08"}
+{"sub_label": "Gonzalo Rubalcaba", "obj_label": "jazz", "uuid": "cea51dd0-4621-4312-ad5f-c3dec8b43ab2"}
+{"sub_label": "Dorothy Donegan", "obj_label": "jazz", "uuid": "6fd679a4-39ba-4bdd-9778-0ed68437babe"}
+{"sub_label": "Super8 & Tab", "obj_label": "trance", "uuid": "9b47c0db-af22-418c-a317-c4de56370b90"}
+{"sub_label": "The Book Group", "obj_label": "sitcom", "uuid": "077fbb29-27a4-4302-95f7-1d1abb740ba4"}
+{"sub_label": "Pacific Jazz Records", "obj_label": "jazz", "uuid": "7bbc010e-8c1f-4bbe-b1c6-48be68a9e65d"}
+{"sub_label": "Tim Hauser", "obj_label": "jazz", "uuid": "ec498479-100e-474e-84ad-b1b3ee8cb2a4"}
+{"sub_label": "Pattie Brooks", "obj_label": "disco", "uuid": "a9caacdb-5b2b-4b70-b8e4-15136aa1932a"}
+{"sub_label": "Buck Clayton", "obj_label": "jazz", "uuid": "ee30e1fb-406a-4c1d-abbc-b2c38e5204e1"}
+{"sub_label": "Don Byron", "obj_label": "jazz", "uuid": "87cf0c44-d2c9-4de8-8ad8-a21271a951d1"}
+{"sub_label": "Michael Bisio", "obj_label": "jazz", "uuid": "04a2ae46-4c1e-4938-a564-1864e387d456"}
+{"sub_label": "The Nanny", "obj_label": "sitcom", "uuid": "badeb3a9-7c83-4932-bc33-7c7e506dc159"}
+{"sub_label": "Cuong Vu", "obj_label": "jazz", "uuid": "52dd4a9d-fd8f-4b2c-a00a-c1a8455de983"}
+{"sub_label": "Roy Budd", "obj_label": "jazz", "uuid": "23278f73-c8e3-4ced-996e-9bf91946142c"}
+{"sub_label": "Antonio Paoli", "obj_label": "opera", "uuid": "2cf07007-41dd-498f-917e-0ccb5fbc28e2"}
+{"sub_label": "Eddie Condon", "obj_label": "jazz", "uuid": "b05e9da2-581c-44c9-a5f4-700b539f885a"}
+{"sub_label": "Inva Mula", "obj_label": "opera", "uuid": "2a5ce8a3-89ed-405c-9b67-9725df137c37"}
+{"sub_label": "Monkey Dust", "obj_label": "satire", "uuid": "bbc26d3c-c109-4331-a60f-30981bfefb83"}
+{"sub_label": "Gerard Presencer", "obj_label": "jazz", "uuid": "4870b99f-0730-4587-bd5c-bb0ffd5f51a9"}
+{"sub_label": "Palo Alto Records", "obj_label": "jazz", "uuid": "968aca6b-a095-40b5-b944-daf430afba42"}
+{"sub_label": "Ken Hyder", "obj_label": "jazz", "uuid": "bbd66a05-db13-4721-bd2d-cc1a94a249ce"}
+{"sub_label": "Rainforest Band", "obj_label": "jazz", "uuid": "34902af5-cac2-49fa-8bc1-c40740bc0f9c"}
+{"sub_label": "Muggsy Spanier", "obj_label": "jazz", "uuid": "ef336e5b-27dd-4161-b9a1-a157770d712d"}
+{"sub_label": "Philip Glass", "obj_label": "opera", "uuid": "f110f211-d54f-4d85-b4e2-bc43c1e89945"}
+{"sub_label": "Chris Biscoe", "obj_label": "jazz", "uuid": "722c6fda-3996-4156-bd51-53f57ebdfad2"}
+{"sub_label": "Jackie Davis", "obj_label": "jazz", "uuid": "cbf10229-7c69-412b-84e5-fe68de838ebd"}
+{"sub_label": "Willie Bobo", "obj_label": "jazz", "uuid": "e5bdb15c-6356-4df9-80ad-2a791c8e21f4"}
+{"sub_label": "The Peacemaker", "obj_label": "thriller", "uuid": "89e96d21-5aed-40a2-a453-3ba3eb038876"}
+{"sub_label": "Sirone", "obj_label": "jazz", "uuid": "06a176c6-0f71-4d49-8327-e11b1101bf24"}
+{"sub_label": "Erwin Schulhoff", "obj_label": "opera", "uuid": "93f64302-a318-4328-a8ba-27a59af845f4"}
+{"sub_label": "Renata Tebaldi", "obj_label": "opera", "uuid": "aac012a6-97c2-4134-87b0-def36f769763"}
+{"sub_label": "Giuseppina Strepponi", "obj_label": "opera", "uuid": "4f05c299-db75-40e1-af72-346fef812358"}
+{"sub_label": "Hardwicke House", "obj_label": "sitcom", "uuid": "d7d618b0-e147-478c-900c-96997253fe90"}
+{"sub_label": "Susie Arioli", "obj_label": "jazz", "uuid": "f1a2d3b4-456e-488c-8753-e0bb473a165d"}
+{"sub_label": "Mikhail Matyushin", "obj_label": "opera", "uuid": "29050ec2-6e35-42a5-8c48-4fc53f9cd457"}
+{"sub_label": "Randy Sabien", "obj_label": "jazz", "uuid": "31c34bac-e53e-435e-b057-df9fe617cedb"}
+{"sub_label": "Lydia Field Emmet", "obj_label": "portrait", "uuid": "3c943f51-36f3-462d-9795-72a29149c708"}
+{"sub_label": "Claude Hopkins", "obj_label": "jazz", "uuid": "5c751343-1f5e-44de-9fa5-e3990cf7cfaa"}
+{"sub_label": "Oscar Moore", "obj_label": "jazz", "uuid": "d74a3952-b114-40e6-a5c4-0fc8ca360da6"}
+{"sub_label": "Mary Garden", "obj_label": "opera", "uuid": "98257585-8bdd-419b-a261-206cff2b0e7d"}
+{"sub_label": "Airto Moreira", "obj_label": "jazz", "uuid": "16f08c96-77b5-47fc-af3a-58965bdc5f48"}
+{"sub_label": "Peter-Jan Wagemans", "obj_label": "opera", "uuid": "bf4f6024-10ac-4893-b743-d82790615ea3"}
+{"sub_label": "Liberty Records", "obj_label": "jazz", "uuid": "127094e2-0a6c-40b4-9f00-49b43e503659"}
+{"sub_label": "Larry Ridley", "obj_label": "jazz", "uuid": "29f142b0-2a0a-4606-be0d-f0507d28e265"}
+{"sub_label": "Kenny Barron", "obj_label": "jazz", "uuid": "47782644-e489-48da-bba7-4a428ad9fb14"}
+{"sub_label": "Mr Velcro Fastener", "obj_label": "electro", "uuid": "846ff4ad-cb33-4c41-af93-220b7bb2e9db"}
+{"sub_label": "Chris Speed", "obj_label": "jazz", "uuid": "8b0e4f37-b745-47c8-8405-803c09d6f70d"}
+{"sub_label": "Kayamar", "obj_label": "jazz", "uuid": "c9d6cf5b-c374-47d3-97d9-74676d69691b"}
+{"sub_label": "Vanguard Records", "obj_label": "jazz", "uuid": "7e5507e9-2528-47b5-a060-93b4320c3813"}
+{"sub_label": "Roy Babbington", "obj_label": "jazz", "uuid": "bb0636e2-c3d0-4733-97de-bcbbcc85f0e4"}
+{"sub_label": "Pat Metheny Group", "obj_label": "jazz", "uuid": "4ce3a492-35fd-407c-a455-ff01016f8122"}
+{"sub_label": "Best Selling Secrets", "obj_label": "sitcom", "uuid": "c242b762-3052-4fbb-9f6d-f561ca261699"}
+{"sub_label": "Errico Petrella", "obj_label": "opera", "uuid": "f0ca094c-5655-4a97-b4fb-09808c16721b"}
+{"sub_label": "Andy Vores", "obj_label": "opera", "uuid": "01c24186-f748-436a-8a94-edae72005ca1"}
+{"sub_label": "David Gilmore", "obj_label": "jazz", "uuid": "604233a5-f275-46c9-bd18-e19ce870ff1e"}
+{"sub_label": "Tito Satya", "obj_label": "sitcom", "uuid": "470ec925-b889-49ee-93c1-fcb9a8245eec"}
+{"sub_label": "Pee Wee Hunt", "obj_label": "jazz", "uuid": "c12d1f81-0fa9-4055-8abc-a0a3ef7d74dc"}
+{"sub_label": "Charlie Banacos", "obj_label": "jazz", "uuid": "84928d60-d380-4ba1-9699-3f194c6c0d41"}
+{"sub_label": "Strata-East Records", "obj_label": "jazz", "uuid": "1a073634-1490-4548-a21c-8e454000b7f3"}
+{"sub_label": "Future Man", "obj_label": "jazz", "uuid": "92674673-545b-413b-b3dc-bdac18447cb1"}
+{"sub_label": "Norris Turney", "obj_label": "jazz", "uuid": "c0ea54ff-ae88-4aa9-94af-abe17311ea0e"}
+{"sub_label": "The Blue Notes", "obj_label": "jazz", "uuid": "450c3940-7b4c-44f6-a6c5-8be93dce2701"}
+{"sub_label": "Hugh Martin", "obj_label": "musical", "uuid": "5c179415-0c11-4881-83e2-133a38bbe59a"}
+{"sub_label": "The Boy from Oz", "obj_label": "musical", "uuid": "b21ed32d-cff7-4779-b237-b69005018dda"}
+{"sub_label": "Emil von Reznicek", "obj_label": "opera", "uuid": "346ae523-7d77-4742-964a-69d0debe3c10"}
+{"sub_label": "Sherrill Milnes", "obj_label": "opera", "uuid": "4fdfddec-01d3-4954-bae0-6ff877f0f11c"}
+{"sub_label": "Bama State Collegians", "obj_label": "jazz", "uuid": "b4a043eb-19ad-48e7-9bb8-074c0bedff9c"}
+{"sub_label": "Cannonball Adderley", "obj_label": "jazz", "uuid": "00735cde-a5db-4c64-9991-b7cc8f5cf82f"}
+{"sub_label": "Flavio", "obj_label": "opera", "uuid": "24332150-a9fd-4fb2-841d-474aaaf8690f"}
+{"sub_label": "Matt Glaser", "obj_label": "jazz", "uuid": "d6a2f713-36be-48fb-89c4-ef7dd3708724"}
+{"sub_label": "Jon Eberson", "obj_label": "jazz", "uuid": "3105d91c-0024-499a-a473-8b447a3fc372"}
+{"sub_label": "Nels Cline", "obj_label": "jazz", "uuid": "8ee464f5-0824-489a-bde7-425e5f003c76"}
+{"sub_label": "Skeeter Best", "obj_label": "jazz", "uuid": "7a9bebe2-6854-4842-992b-606582ee2079"}
+{"sub_label": "Mel Lewis", "obj_label": "jazz", "uuid": "559b6a6d-cdb8-4db5-ab98-8a5208223936"}
+{"sub_label": "Rosenberg Trio", "obj_label": "jazz", "uuid": "b62a6d09-74d8-43cb-8986-be4bfeef5146"}
+{"sub_label": "Bob Wilber", "obj_label": "jazz", "uuid": "c36eac06-33f3-444b-8043-7ec81a9cebe6"}
+{"sub_label": "The Witcher", "obj_label": "fantasy", "uuid": "fb35d7fe-d150-4d67-9745-ca7b38897d97"}
+{"sub_label": "Jon Hassell", "obj_label": "jazz", "uuid": "9aeef673-788d-44fa-ba9e-77db9990b996"}
+{"sub_label": "Maximum Ride", "obj_label": "fantasy", "uuid": "6ca86117-18b8-419f-a90e-a74ce6c668af"}
+{"sub_label": "Dietrich Fischer-Dieskau", "obj_label": "opera", "uuid": "39a89d59-1a07-471d-a62f-b9fa8caa0f4b"}
+{"sub_label": "Frank Zappa", "obj_label": "jazz", "uuid": "9cf00290-0751-4387-a879-9582bfb2554f"}
+{"sub_label": "Andrew Lloyd Webber", "obj_label": "musical", "uuid": "bac9e2f8-8a07-44e9-953f-a32c65b20a5c"}
+{"sub_label": "Jonas Steur", "obj_label": "trance", "uuid": "93ba9877-ea67-452c-81b2-fe69aaf6e0cc"}
+{"sub_label": "Magnus Lindgren", "obj_label": "jazz", "uuid": "785d643a-54fc-4402-b5ee-6fcb491674f1"}
+{"sub_label": "The Tritonian Ring", "obj_label": "fantasy", "uuid": "2cfa33a9-2d09-42b0-97af-a999eec6f5d0"}
+{"sub_label": "Horace Silver", "obj_label": "jazz", "uuid": "97813dd5-a365-4b2e-a68b-804953985351"}
+{"sub_label": "Martin Denny", "obj_label": "jazz", "uuid": "8e14bcfb-b861-45b7-b9b5-276d32d6c10e"}
+{"sub_label": "Didier Lockwood", "obj_label": "jazz", "uuid": "ae01265c-129f-4217-a4bb-15117d074438"}
+{"sub_label": "Allen Eager", "obj_label": "jazz", "uuid": "5f525b2e-60d2-4ced-a255-0e033f6e069c"}
+{"sub_label": "Bobby Troup", "obj_label": "jazz", "uuid": "1c8e19cf-c985-417e-88ab-a3e0892ff4db"}
+{"sub_label": "Benedikt Schack", "obj_label": "opera", "uuid": "a70331d0-f766-44dc-bf8f-c09b382914e3"}
+{"sub_label": "The Rite", "obj_label": "thriller", "uuid": "b7759fb7-ea8f-4fdf-9d62-d383a44f8b4d"}
+{"sub_label": "Gordon Brisker", "obj_label": "jazz", "uuid": "debb250c-1c1c-4a77-8912-8d113fb7d8fc"}
+{"sub_label": "Mary Higgins Clark", "obj_label": "thriller", "uuid": "3fc739b8-9e7c-4cd2-b662-c79dd9bed309"}
+{"sub_label": "George Bohanon", "obj_label": "jazz", "uuid": "c0e0d6c4-f8cf-4e7d-b8b7-44e5f64d5e96"}
+{"sub_label": "Citizen James", "obj_label": "sitcom", "uuid": "1b706236-166b-4fc1-8f8b-a3acdfc9ee36"}
+{"sub_label": "Stanislao Gastaldon", "obj_label": "opera", "uuid": "f5243a6e-7b37-4753-be8f-168978cd12b4"}
+{"sub_label": "Jazz Party", "obj_label": "jazz", "uuid": "7c01fca8-7954-439d-84f2-03d0cb16b504"}
+{"sub_label": "Ivan Lins", "obj_label": "jazz", "uuid": "d5404f2a-1d2a-4e6f-b484-af0774393946"}
+{"sub_label": "Greetje Kauffeld", "obj_label": "jazz", "uuid": "2c76af59-bc71-4489-8f44-3fc0bf8a1397"}
+{"sub_label": "The Constant Gardener", "obj_label": "thriller", "uuid": "2c7e8279-a1e5-439c-96e2-9df4cba1fc1c"}
+{"sub_label": "Afrasiyab Badalbeyli", "obj_label": "opera", "uuid": "c4f42560-c556-4d6b-87a3-94e9be19032f"}
+{"sub_label": "Eddie Lang", "obj_label": "jazz", "uuid": "576beccd-7a1c-4a5b-9332-f9355f23120e"}
+{"sub_label": "Russell Jacquet", "obj_label": "jazz", "uuid": "cd87043f-c215-4316-9276-6cef9f49c975"}
+{"sub_label": "Putte Wickman", "obj_label": "jazz", "uuid": "7a52e5b8-ebcc-419c-965c-b6fdc913ee73"}
+{"sub_label": "Ildebrando Pizzetti", "obj_label": "opera", "uuid": "40cb3503-7b0f-49ba-aeca-20161565c493"}
+{"sub_label": "The Flame Knife", "obj_label": "fantasy", "uuid": "e39dbe59-be2d-4662-836e-88fc9727b443"}
+{"sub_label": "Ron Eschete", "obj_label": "jazz", "uuid": "5f3793a1-8f70-457c-8a64-eccdfad15df2"}
+{"sub_label": "Luciano Pavarotti", "obj_label": "opera", "uuid": "678965be-478a-4df9-bb02-da12e19ec7eb"}
+{"sub_label": "Night Ark", "obj_label": "jazz", "uuid": "78dfe372-80d8-41bc-8739-cb985b95c2fd"}
+{"sub_label": "Gilad Atzmon", "obj_label": "jazz", "uuid": "2bff9aae-0fb2-40c6-bd4b-5e9fbfada1e9"}
+{"sub_label": "Yellow Dog Records", "obj_label": "jazz", "uuid": "e04b0513-beb7-4e62-97af-4cc6da301c1d"}
+{"sub_label": "Frank Mantooth", "obj_label": "jazz", "uuid": "dce15146-e83b-4675-8442-5c45a0ed3774"}

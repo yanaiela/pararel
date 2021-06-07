@@ -1,0 +1,471 @@
+{"sub_label": "Cook County", "obj_label": "Chicago", "uuid": "4168a6fb-d710-4678-93f9-9447927a0a35"}
+{"sub_label": "Fort Bend County", "obj_label": "Richmond", "uuid": "9e0027e7-1efc-4d79-a8c0-1a3ed0e8a00a"}
+{"sub_label": "Cayuga County", "obj_label": "Auburn", "uuid": "b2b50148-a91a-4aa9-9936-13ae0212afa9"}
+{"sub_label": "City of Hawkesbury", "obj_label": "Windsor", "uuid": "dc8d5e48-7be1-47a0-ab82-da3642dba53f"}
+{"sub_label": "Nebraska", "obj_label": "Lincoln", "uuid": "3bc51dee-0ae6-40ba-863f-5549382dd210"}
+{"sub_label": "Hampshire", "obj_label": "Winchester", "uuid": "475ea259-014d-42d0-8a86-e3431f52b6a8"}
+{"sub_label": "Alexandria Governorate", "obj_label": "Alexandria", "uuid": "6be22d11-8eb8-4fc5-a882-509f2a697a8e"}
+{"sub_label": "Kingdom of Italy", "obj_label": "Florence", "uuid": "6e0942fa-96c8-4a07-b72e-83519b16db11"}
+{"sub_label": "Grand Duchy of Finland", "obj_label": "Helsinki", "uuid": "af4d8d27-eee5-47a2-9fff-055e3cb98298"}
+{"sub_label": "South Australia", "obj_label": "Adelaide", "uuid": "9180a17d-1d35-4065-8397-2043009c3d6a"}
+{"sub_label": "Kingdom of Scotland", "obj_label": "Edinburgh", "uuid": "c648e8a9-e84c-4a5d-abc1-9ba3bf122762"}
+{"sub_label": "Second Polish Republic", "obj_label": "Warsaw", "uuid": "441512f3-e1ed-4fea-a959-8128db18fc31"}
+{"sub_label": "Reichskommissariat Moskowien", "obj_label": "Moscow", "uuid": "3b3d2078-18e9-457e-a318-1ece5f03c57d"}
+{"sub_label": "Breathitt County", "obj_label": "Jackson", "uuid": "626194d7-b4c0-4c0d-9576-fa049c85d6b2"}
+{"sub_label": "Kingdom of France", "obj_label": "Paris", "uuid": "f1a67e10-9770-4621-95ed-68ab0e921f4e"}
+{"sub_label": "Alberta", "obj_label": "Edmonton", "uuid": "b29289d1-a758-43f2-9561-773f8c1d9efb"}
+{"sub_label": "Athens County", "obj_label": "Athens", "uuid": "d2e7322d-6af5-40eb-8c6f-3bf3bfeacf6e"}
+{"sub_label": "La Condamine", "obj_label": "Monaco", "uuid": "81ad99cc-6d5e-48aa-ab8a-8cd91fdec383"}
+{"sub_label": "Ouachita County", "obj_label": "Camden", "uuid": "88cb7951-a602-4add-89ad-55ea4d0ed62e"}
+{"sub_label": "Germany", "obj_label": "Berlin", "uuid": "aa0c6755-5881-4892-8e12-e817868a3b62"}
+{"sub_label": "Aberdeenshire", "obj_label": "Aberdeen", "uuid": "53141b1b-c5a9-402c-8ec8-2c70e0e8c8e8"}
+{"sub_label": "Indiana", "obj_label": "Indianapolis", "uuid": "1b17d731-b749-4cb9-946f-74fc77525144"}
+{"sub_label": "Watauga County", "obj_label": "Boone", "uuid": "7db1a7d5-ea73-42d9-a33c-126bebe57f78"}
+{"sub_label": "State of Brazil", "obj_label": "Salvador", "uuid": "52b246db-fa40-46b3-aac8-25c677c7bb88"}
+{"sub_label": "Second French Empire", "obj_label": "Paris", "uuid": "2b9bae59-f465-4ec8-acb5-e80a7902f605"}
+{"sub_label": "Sur Empire", "obj_label": "Delhi", "uuid": "85419c95-cf82-4517-8e7d-11251e3e6f7e"}
+{"sub_label": "Cambridgeshire", "obj_label": "Cambridge", "uuid": "04929e30-b18b-4327-82fd-e8884a9f7439"}
+{"sub_label": "Lund Municipality", "obj_label": "Lund", "uuid": "aa7f9891-03ee-4c2e-ab21-c5a13fc756fc"}
+{"sub_label": "Alamance County", "obj_label": "Graham", "uuid": "2f9fbd1f-724d-42a7-8cb3-cf8375510fb1"}
+{"sub_label": "Lebanon County", "obj_label": "Lebanon", "uuid": "ccc9a762-de21-466c-8eb9-4c1f2de2b6eb"}
+{"sub_label": "Milwaukee County", "obj_label": "Milwaukee", "uuid": "3ad55021-763e-46f9-8e6d-a896c45b0dea"}
+{"sub_label": "Kidder County", "obj_label": "Steele", "uuid": "db9898c5-23a7-4503-be29-d649285b4bb6"}
+{"sub_label": "Kingdom of Sicily", "obj_label": "Naples", "uuid": "cc150ae1-2ddf-424b-abf4-c9357dad89d9"}
+{"sub_label": "City of Brisbane", "obj_label": "Brisbane", "uuid": "edff4979-af40-492f-9e41-81d67d021f82"}
+{"sub_label": "Indre-et-Loire", "obj_label": "Tours", "uuid": "a79e1291-895f-4def-bf7f-fb7bb3ec6994"}
+{"sub_label": "British Guiana", "obj_label": "Georgetown", "uuid": "1e1d04e5-b42b-4fa8-9eac-8dbba1a4dab6"}
+{"sub_label": "Beiyang Government", "obj_label": "Beijing", "uuid": "f5506c74-292a-405a-839e-30612e384a50"}
+{"sub_label": "Denmark", "obj_label": "Copenhagen", "uuid": "861d0c34-67d4-4ab2-a57e-755438146ad8"}
+{"sub_label": "Michigan", "obj_label": "Lansing", "uuid": "002f6abd-2104-416e-a444-1a923b3a3839"}
+{"sub_label": "Metropolis of Greater Paris", "obj_label": "Paris", "uuid": "9c0cb520-22ee-455e-aa6d-6ad48326f1bc"}
+{"sub_label": "Cabell County", "obj_label": "Huntington", "uuid": "87bc68ce-8e97-4110-9af9-9c4eaee3e891"}
+{"sub_label": "Ayyubid dynasty", "obj_label": "Cairo", "uuid": "288e997c-9531-450d-9ddb-13e17889c295"}
+{"sub_label": "Brandenburg-Prussia", "obj_label": "Berlin", "uuid": "205b82c6-1d90-40c0-a07d-732024a7482a"}
+{"sub_label": "Rashidun Caliphates", "obj_label": "Medina", "uuid": "bb2918d1-10f3-458e-9ac9-432fe72044c9"}
+{"sub_label": "Staffordshire", "obj_label": "Stafford", "uuid": "51d8687a-c539-418f-bef6-3ba6cf9e4757"}
+{"sub_label": "Amite County", "obj_label": "Liberty", "uuid": "efe6bfac-4690-460f-b643-8729962ef8a3"}
+{"sub_label": "United Kingdom of the Netherlands", "obj_label": "Amsterdam", "uuid": "ebdfb03a-8017-43af-bba3-50dd9cdca3b3"}
+{"sub_label": "Soviet Union", "obj_label": "Moscow", "uuid": "d6fafc6b-6cb0-4542-bf60-48d5d8343814"}
+{"sub_label": "West Kazakhstan Province", "obj_label": "Oral", "uuid": "7bef13ca-4831-4e13-83b2-e25de8fbbcc9"}
+{"sub_label": "Merrimack County", "obj_label": "Concord", "uuid": "f1f9426a-4e34-4540-a04e-f1634144c08b"}
+{"sub_label": "Fatimid caliphate", "obj_label": "Cairo", "uuid": "9cae43a0-a4ce-4d0d-bde0-597ce4e675f9"}
+{"sub_label": "Auckland Region", "obj_label": "Auckland", "uuid": "0df90e06-cb29-4f2f-97c8-27a3891cd014"}
+{"sub_label": "New Hampshire", "obj_label": "Concord", "uuid": "4d6baed8-446a-43d1-8439-9ddc6505575d"}
+{"sub_label": "Tripoli District", "obj_label": "Tripoli", "uuid": "e738ee4b-139b-438e-89df-de4506a67216"}
+{"sub_label": "Australia", "obj_label": "Canberra", "uuid": "63a3fe8d-5191-49af-a5c1-a91343baf2e6"}
+{"sub_label": "Ferry County", "obj_label": "Republic", "uuid": "fd682389-abc3-44a7-83e2-644f1899ac41"}
+{"sub_label": "Ottoman Empire", "obj_label": "Istanbul", "uuid": "7aa410cc-2f21-4a57-b39a-329968d07a82"}
+{"sub_label": "City of Edinburgh", "obj_label": "Edinburgh", "uuid": "f00968b7-a739-44ca-89b4-e8a14db0d0e1"}
+{"sub_label": "South West England", "obj_label": "Bristol", "uuid": "7082e5f5-ec5c-42b1-af4a-82850bb9b4de"}
+{"sub_label": "Texas", "obj_label": "Austin", "uuid": "ebbc8828-f162-4037-a827-ba8681b2a434"}
+{"sub_label": "Latin Empire", "obj_label": "Constantinople", "uuid": "c050f5bd-6d03-4708-b13c-69fdbcde2b19"}
+{"sub_label": "Matanuska-Susitna Borough", "obj_label": "Palmer", "uuid": "c7925099-04a2-4c9a-be9a-5e944ba62645"}
+{"sub_label": "Reno County", "obj_label": "Hutchinson", "uuid": "9f36d161-ca4a-4fd6-8361-3f99f3fca320"}
+{"sub_label": "Hungary", "obj_label": "Budapest", "uuid": "7024c125-837e-4f50-9532-bb83d22de0e2"}
+{"sub_label": "Ravalli County", "obj_label": "Hamilton", "uuid": "b3b98acd-9c68-44f3-8975-53b51aa2573c"}
+{"sub_label": "Russia", "obj_label": "Moscow", "uuid": "062b1ddf-9fa6-4925-8701-f3e6b1c89123"}
+{"sub_label": "Baghdad Governorate", "obj_label": "Baghdad", "uuid": "00778e74-5e07-49fd-8eaf-770382192a46"}
+{"sub_label": "Veneto", "obj_label": "Venice", "uuid": "5ce977ac-2db2-4555-8a1f-b16a9419d4b1"}
+{"sub_label": "Guernsey County", "obj_label": "Cambridge", "uuid": "7c06e9b5-0f4e-4d91-8349-e216fa27e2af"}
+{"sub_label": "Oliver County", "obj_label": "Center", "uuid": "573f5523-6a05-4dd0-a8bc-43fc2c654447"}
+{"sub_label": "Worcestershire", "obj_label": "Worcester", "uuid": "81cb28d4-af32-45b8-92c8-cae3543ee833"}
+{"sub_label": "Papal States", "obj_label": "Rome", "uuid": "d48a0f41-a73f-4abc-911f-60074fbc00ca"}
+{"sub_label": "Province of New Jersey", "obj_label": "Elizabeth", "uuid": "ce7ce100-fbbc-4127-a930-399eff67220c"}
+{"sub_label": "Austrian Empire", "obj_label": "Vienna", "uuid": "136745eb-10fc-45c3-94c9-fb346c4836b7"}
+{"sub_label": "Dutch East Indies", "obj_label": "Jakarta", "uuid": "532ecbb8-911d-4d79-88e9-3b74cb1298ed"}
+{"sub_label": "Israel", "obj_label": "Jerusalem", "uuid": "9651e646-1cde-4cc1-b957-8077c9b31253"}
+{"sub_label": "Androscoggin County", "obj_label": "Auburn", "uuid": "3def56b3-7420-4e08-acf7-49e75c26c17c"}
+{"sub_label": "Kennebec County", "obj_label": "Augusta", "uuid": "e15c36a5-57fa-495e-86a9-5d061ef4d687"}
+{"sub_label": "Colony of Vancouver Island", "obj_label": "Victoria", "uuid": "c9ae5471-a04f-4d04-a4a6-39da4c67bc06"}
+{"sub_label": "Leicestershire", "obj_label": "Leicester", "uuid": "c493ccf5-9020-4537-8986-94e5bb2acba6"}
+{"sub_label": "Colonial Brazil", "obj_label": "Salvador", "uuid": "d406cc41-915f-4c90-87c6-c7db9711fc4d"}
+{"sub_label": "King County", "obj_label": "Seattle", "uuid": "ad63c951-8fa0-4a59-81c5-73ce3ab7ad9c"}
+{"sub_label": "Riley County", "obj_label": "Manhattan", "uuid": "0df307c2-dce3-4810-ab68-5a4d90022406"}
+{"sub_label": "Duchy of Athens", "obj_label": "Athens", "uuid": "b9c1e9fe-ebb9-42db-97a6-6222dc767c38"}
+{"sub_label": "Kingdom of the Netherlands", "obj_label": "Amsterdam", "uuid": "66b78440-4d16-41a3-852e-330fbdbd38cb"}
+{"sub_label": "South Lanarkshire", "obj_label": "Hamilton", "uuid": "f08810dd-265a-46c2-a489-af3675f79dcd"}
+{"sub_label": "Bernalillo County", "obj_label": "Albuquerque", "uuid": "9dd74794-604d-4fe9-a4e3-11bbfd67ceaa"}
+{"sub_label": "Casey County", "obj_label": "Liberty", "uuid": "9e440737-00bf-467d-b1d7-8f1eaed68e65"}
+{"sub_label": "Federation of South Arabia", "obj_label": "Aden", "uuid": "88294eaa-80d4-4d43-8990-c8cecc659c7f"}
+{"sub_label": "Yavapai County", "obj_label": "Prescott", "uuid": "92689405-9757-4ff3-821a-23a779ca74fb"}
+{"sub_label": "Guimaras", "obj_label": "Jordan", "uuid": "098f0d7c-4b1e-4113-82a8-14ee6af48c16"}
+{"sub_label": "Moffat County", "obj_label": "Craig", "uuid": "366c3e6b-d5a4-4130-be86-720c34b90121"}
+{"sub_label": "Munich", "obj_label": "Munich", "uuid": "7a07a267-5124-4530-8e02-2ea950d6ea87"}
+{"sub_label": "Afghan Transitional Administration", "obj_label": "Kabul", "uuid": "daf43106-c663-4e32-81ad-cc3b36a0f821"}
+{"sub_label": "Czechoslovakia", "obj_label": "Prague", "uuid": "22f4f9d3-adca-41aa-9f17-729c1b197204"}
+{"sub_label": "Dubai", "obj_label": "Dubai", "uuid": "f7f31274-fe40-4c41-adb2-03fe5392b084"}
+{"sub_label": "Divide County", "obj_label": "Crosby", "uuid": "3e98b48d-9983-4664-88f6-088b6b280dbc"}
+{"sub_label": "Volta Region", "obj_label": "Ho", "uuid": "720d98cb-b411-4ee5-8f6e-4585121b5495"}
+{"sub_label": "Maharashtra", "obj_label": "Mumbai", "uuid": "90e41233-fba9-4c03-a293-e82ec79b42ea"}
+{"sub_label": "Karnataka", "obj_label": "Bangalore", "uuid": "554c9a0f-74d4-497a-8e17-2a0cb373497a"}
+{"sub_label": "Indonesia", "obj_label": "Jakarta", "uuid": "ab4757db-386b-4934-ae86-561d3f84d0af"}
+{"sub_label": "Kabul", "obj_label": "Kabul", "uuid": "ec6a43f2-3ea0-4bf4-9f6b-9853e3aee700"}
+{"sub_label": "Italian Social Republic", "obj_label": "Rome", "uuid": "e614b139-1a52-4c27-8b3c-40b783f57422"}
+{"sub_label": "Eagle County", "obj_label": "Eagle", "uuid": "d5df8187-69a8-453e-8266-0f123700e0e8"}
+{"sub_label": "Overton County", "obj_label": "Livingston", "uuid": "75e264d4-04ee-42e4-8624-9be5681be4a2"}
+{"sub_label": "Habsburg Monarchy", "obj_label": "Vienna", "uuid": "5b8dfaaf-2dd4-46dd-90fb-367b28501197"}
+{"sub_label": "Portugal", "obj_label": "Lisbon", "uuid": "4ce7e6e7-a770-47cc-a0c1-9d2ffa52a9c3"}
+{"sub_label": "Cuba", "obj_label": "Havana", "uuid": "f2f54ed4-1c4a-4302-b9b5-61f1dd5e7042"}
+{"sub_label": "Toledo Province", "obj_label": "Toledo", "uuid": "d36d7b57-31ef-47ca-9889-056c3e145776"}
+{"sub_label": "McCone County", "obj_label": "Circle", "uuid": "15b151f3-183c-44bc-aaba-26de18a3ea66"}
+{"sub_label": "Hemphill County", "obj_label": "Canadian", "uuid": "4758f222-f65d-4b17-86f8-1e9b5721cbf4"}
+{"sub_label": "Honolulu County", "obj_label": "Honolulu", "uuid": "eeb6ca0d-a46c-43d0-9f99-963f898c196e"}
+{"sub_label": "Roman Empire", "obj_label": "Constantinople", "uuid": "b3deac49-9a98-4ca2-a576-9bdcbddcbc4a"}
+{"sub_label": "Ada County", "obj_label": "Boise", "uuid": "a5bd7ef1-7a94-4392-bc61-32a89e84472e"}
+{"sub_label": "Connecticut", "obj_label": "Hartford", "uuid": "a70c1b5e-f04e-484e-a3b0-dc9e9f394882"}
+{"sub_label": "Scotland", "obj_label": "Edinburgh", "uuid": "8e839b14-3d8c-470b-afc1-d439515910c3"}
+{"sub_label": "Ankara Province", "obj_label": "Ankara", "uuid": "096712ae-16de-4f5d-b64d-ff1e90c8107d"}
+{"sub_label": "Lemhi County", "obj_label": "Salmon", "uuid": "d1b56011-7d9c-4ca1-8856-e773b1b866fc"}
+{"sub_label": "Kabul Shahi", "obj_label": "Kabul", "uuid": "79151242-5ca0-4581-b5e6-cc59233c6867"}
+{"sub_label": "Cairo Governorate", "obj_label": "Cairo", "uuid": "2d081b94-ced9-4300-9528-2ac0fea8b9f3"}
+{"sub_label": "Finnish Socialist Workers' Republic", "obj_label": "Helsinki", "uuid": "daf7a72a-a47c-4cf8-89f3-bfef79ffad9d"}
+{"sub_label": "Chenango County", "obj_label": "Norwich", "uuid": "3c902f1c-8a0a-4dc1-8766-450d63cc78f8"}
+{"sub_label": "Lazio", "obj_label": "Rome", "uuid": "8de821d7-f4f0-47c8-81de-ee10ce951dad"}
+{"sub_label": "People's Republic of Poland", "obj_label": "Warsaw", "uuid": "b006569b-8bbc-4043-b31d-420ea2fc8dc7"}
+{"sub_label": "Bates County", "obj_label": "Butler", "uuid": "326a42f8-17ba-4090-b989-9f83c017fcd3"}
+{"sub_label": "California", "obj_label": "Sacramento", "uuid": "9a110dfc-6a1e-4a37-adf9-60ee8a413ae4"}
+{"sub_label": "Ky\u014dto Prefecture", "obj_label": "Kyoto", "uuid": "8892dbf0-f1a2-488d-ac86-bc6c6495cee8"}
+{"sub_label": "Province of Florence", "obj_label": "Florence", "uuid": "2d9b65f5-4b87-4760-ab5d-60e8cd98e925"}
+{"sub_label": "West Jersey", "obj_label": "Burlington", "uuid": "365daddb-aba4-4de7-890f-c4c8792b0099"}
+{"sub_label": "Iraq", "obj_label": "Baghdad", "uuid": "6174d316-33a4-4851-9101-e0ba00d4e88a"}
+{"sub_label": "Campania", "obj_label": "Naples", "uuid": "d8a23cef-e0ce-43df-a428-bd8a9363c6bd"}
+{"sub_label": "Malheur County", "obj_label": "Vale", "uuid": "60f45979-425f-428e-beb4-5bca3c935b1f"}
+{"sub_label": "Japan", "obj_label": "Tokyo", "uuid": "5d681873-ebdb-4f70-a18c-e20765b56aa5"}
+{"sub_label": "First Spanish Republic", "obj_label": "Madrid", "uuid": "c8bfe4f1-0e31-47f9-bd0d-da079912a4a7"}
+{"sub_label": "Miami-Dade County", "obj_label": "Miami", "uuid": "7d62cb1c-539f-414d-9878-fcdb84dcee7e"}
+{"sub_label": "Gila County", "obj_label": "Globe", "uuid": "6f116bdf-c9c7-4b87-8a56-9c9345e4cf3a"}
+{"sub_label": "Larvotto", "obj_label": "Monaco", "uuid": "c309176d-6f12-41dd-b056-86c5b759a989"}
+{"sub_label": "Province of Canada", "obj_label": "Montreal", "uuid": "601b1ee4-b32d-4a37-a344-8b4e2fc1c311"}
+{"sub_label": "Alpes-Maritimes", "obj_label": "Nice", "uuid": "3c997bf4-5abd-442d-953b-91accba51004"}
+{"sub_label": "Western Australia", "obj_label": "Perth", "uuid": "b1321783-f435-40b6-8b99-9ba1a292e8e3"}
+{"sub_label": "New South Wales", "obj_label": "Sydney", "uuid": "7952d9a0-d4a4-423d-bd3a-3240dac62e3a"}
+{"sub_label": "Riverside County", "obj_label": "Riverside", "uuid": "c9855c24-a541-4672-89d8-572fd21dc81b"}
+{"sub_label": "Manitoba", "obj_label": "Winnipeg", "uuid": "d30dab7d-a4bc-4a48-a71c-85ab68a8cb00"}
+{"sub_label": "Lombardy", "obj_label": "Milan", "uuid": "fd4747c1-d4d2-44c6-b97e-de6f6d6f05b0"}
+{"sub_label": "Iran", "obj_label": "Tehran", "uuid": "e5af3a9b-a52b-499e-a356-b207ccd98aea"}
+{"sub_label": "Swedish Empire", "obj_label": "Stockholm", "uuid": "cdd86d57-43aa-47cc-8c0f-0c00ff7a4188"}
+{"sub_label": "Kingdom of Great Britain", "obj_label": "London", "uuid": "79388c35-f5dd-4de7-8d60-9eea9b711988"}
+{"sub_label": "Libya", "obj_label": "Tripoli", "uuid": "4ef63e37-79db-4b74-be46-8cb2628a3936"}
+{"sub_label": "Grand Duchy of Moscow", "obj_label": "Moscow", "uuid": "3c15e4ce-b0c2-495b-ae15-388a5449f50d"}
+{"sub_label": "Bolton", "obj_label": "Bolton", "uuid": "7376e1a3-959a-4173-8fec-dec0e182b527"}
+{"sub_label": "Australian Capital Territory", "obj_label": "Canberra", "uuid": "edbd0e18-5403-4c17-8aaf-8817d32050f4"}
+{"sub_label": "Hassan District", "obj_label": "Hassan", "uuid": "ed5ce210-f957-41f7-842f-705217e3e039"}
+{"sub_label": "Vichy France", "obj_label": "Paris", "uuid": "6049dc6b-889e-462b-b3e0-8ee544837654"}
+{"sub_label": "Waikato Region", "obj_label": "Hamilton", "uuid": "46c5cd67-fa4d-4d8c-9b91-4bebbbcbd5bb"}
+{"sub_label": "Mingo County", "obj_label": "Williamson", "uuid": "5e6221ea-5945-483c-931f-623582152c5d"}
+{"sub_label": "Brussels-Capital Region", "obj_label": "Brussels", "uuid": "0e66c015-c22c-447e-9768-3b414ec5d13a"}
+{"sub_label": "Saskatchewan", "obj_label": "Regina", "uuid": "2a735d72-5172-4f50-ac6a-8242b991029d"}
+{"sub_label": "Tehran Province", "obj_label": "Tehran", "uuid": "77e31726-6872-4f0c-a557-a62e8212f49d"}
+{"sub_label": "Kiev-Sviatoshyn Raion", "obj_label": "Kiev", "uuid": "14eebbd4-ecd6-4738-9bb9-3c89cfaa243a"}
+{"sub_label": "Khedivate of Egypt", "obj_label": "Cairo", "uuid": "c7f032c3-1be3-47ec-8066-0388cc6aadc7"}
+{"sub_label": "Calloway County", "obj_label": "Murray", "uuid": "4b7389d6-4be1-4d05-833a-930a12ea9230"}
+{"sub_label": "McMinn County", "obj_label": "Athens", "uuid": "402d102a-ad79-42e6-b291-1be3c2130cb1"}
+{"sub_label": "Banks County", "obj_label": "Homer", "uuid": "cdeca793-6d45-4e9f-bdf2-8a4eaaa603bf"}
+{"sub_label": "Ireland", "obj_label": "Dublin", "uuid": "3ff99e65-058c-494f-b452-d0af6f901017"}
+{"sub_label": "Cape Girardeau County", "obj_label": "Jackson", "uuid": "05dab5fd-1714-4a8a-90a7-b1d9448a2296"}
+{"sub_label": "Barren County", "obj_label": "Glasgow", "uuid": "20256b2c-21a5-43a7-b1c5-67ec8e2c31ef"}
+{"sub_label": "Kingdom of Essex", "obj_label": "London", "uuid": "5d2893ff-8863-46a4-b0b2-346b284dff0f"}
+{"sub_label": "Achaemenid Empire", "obj_label": "Babylon", "uuid": "0288be7b-4b79-42f8-ab3d-74fb9f3132dc"}
+{"sub_label": "Warwickshire", "obj_label": "Warwick", "uuid": "73b0a3dd-55a6-4ede-ae60-015a6a84fc0a"}
+{"sub_label": "Republic of Florence", "obj_label": "Florence", "uuid": "0c8ef226-720f-4983-82a5-b415df12b7d5"}
+{"sub_label": "Rabun County", "obj_label": "Clayton", "uuid": "5b3b6c36-086b-4632-8efb-07c08f2cddd4"}
+{"sub_label": "Pest County", "obj_label": "Budapest", "uuid": "15780981-8de5-421e-9acb-8d5b587a5f94"}
+{"sub_label": "Sacramento County", "obj_label": "Sacramento", "uuid": "3d06845a-3744-4925-a5a2-f38186ea4070"}
+{"sub_label": "United States Army Military Government in Korea", "obj_label": "Seoul", "uuid": "a7236701-d948-416b-a29f-fda937314e55"}
+{"sub_label": "Granville County", "obj_label": "Oxford", "uuid": "b87cb82f-5d7a-4e2c-9a2d-d262ea4e6f76"}
+{"sub_label": "Khalji dynasty", "obj_label": "Delhi", "uuid": "22842c33-a2e0-463d-ad82-dbce3ba82901"}
+{"sub_label": "Peru", "obj_label": "Lima", "uuid": "162f5598-2d57-4c15-bff8-46c537417fed"}
+{"sub_label": "Jennings County", "obj_label": "Vernon", "uuid": "2f87006f-612c-4337-b73e-f5a2ecba706e"}
+{"sub_label": "Kingdom of Iraq", "obj_label": "Baghdad", "uuid": "bae4e58e-f4e7-4c7f-8fe9-6fa798e26dea"}
+{"sub_label": "Confederate States of America", "obj_label": "Montgomery", "uuid": "20fbf8a0-ceb0-448b-be84-6b08cd065fbf"}
+{"sub_label": "Ukraine", "obj_label": "Kiev", "uuid": "c4599062-97b8-4e48-b137-081621e8a64d"}
+{"sub_label": "La Colle", "obj_label": "Monaco", "uuid": "4ddf0023-1cb1-4cec-a7dc-fbafd993e10c"}
+{"sub_label": "Carabobo", "obj_label": "Valencia", "uuid": "69145308-5618-46c1-8387-938c5d32cc5c"}
+{"sub_label": "Sangamon County", "obj_label": "Springfield", "uuid": "cb9cc90f-03a4-437c-bc14-f12e2a6cab8a"}
+{"sub_label": "Borough of Scarborough", "obj_label": "Scarborough", "uuid": "c8a23d0a-2a12-44ab-9082-0270f0c340fc"}
+{"sub_label": "Abbasid Caliphate", "obj_label": "Damascus", "uuid": "3dfe628c-cfc7-42b7-b514-4d1c69264327"}
+{"sub_label": "Czech Socialist Republic", "obj_label": "Prague", "uuid": "ad6e9deb-1ec2-488e-9a2f-08e552321c08"}
+{"sub_label": "Alabama", "obj_label": "Montgomery", "uuid": "a88e4c73-6179-42c1-9499-d2bafa2be415"}
+{"sub_label": "Illinois", "obj_label": "Springfield", "uuid": "6839f290-ac98-4e53-ac34-dd899e62b88f"}
+{"sub_label": "Lincolnshire", "obj_label": "Lincoln", "uuid": "2a86c673-1d59-4bd0-8e6f-063fe0912275"}
+{"sub_label": "Straits Settlements", "obj_label": "Singapore", "uuid": "48c0c63f-0424-418c-a2be-aaece891a805"}
+{"sub_label": "Spanish Empire", "obj_label": "Madrid", "uuid": "56396538-2b56-4643-9880-4b09393639bf"}
+{"sub_label": "Copenhagen Municipality", "obj_label": "Copenhagen", "uuid": "06cd80b8-c595-49d3-a0fd-2e135e195513"}
+{"sub_label": "Wisconsin", "obj_label": "Madison", "uuid": "f2c40fc5-0a80-4c56-b501-fc3dacd98cfa"}
+{"sub_label": "Kingdom of Ireland", "obj_label": "Dublin", "uuid": "d75ae4dc-f3c3-4337-9456-0e2f6ddcd55e"}
+{"sub_label": "Demerara", "obj_label": "Georgetown", "uuid": "187b8fbc-c536-491c-8f4d-87d327318d66"}
+{"sub_label": "Wake County", "obj_label": "Raleigh", "uuid": "0b3189b0-48ec-4aaa-bdde-0b57b7656d46"}
+{"sub_label": "Grande Lisboa Subregion", "obj_label": "Lisbon", "uuid": "4705b702-9fec-4c9e-9590-e95de0bda9f2"}
+{"sub_label": "Islamic State of Afghanistan", "obj_label": "Kabul", "uuid": "1831ad60-56a9-4ba8-a107-45914bce7373"}
+{"sub_label": "Bourbon Restoration", "obj_label": "Paris", "uuid": "dfa191ac-e374-4938-8f57-49aa4626b18b"}
+{"sub_label": "Contra Costa County", "obj_label": "Martinez", "uuid": "47648373-008e-4194-bd62-0ad3ead7d5fe"}
+{"sub_label": "Philippines", "obj_label": "Manila", "uuid": "4036d7f0-9b07-4e0f-a903-cf6571ed67f6"}
+{"sub_label": "Biliran", "obj_label": "Naval", "uuid": "d21f6268-d89b-4512-a41c-ad5f75696a04"}
+{"sub_label": "Republic of Venice", "obj_label": "Venice", "uuid": "72b0438e-0fba-4074-944f-b86d50ee5c8f"}
+{"sub_label": "Metropolis of Lyon", "obj_label": "Lyon", "uuid": "21eeabc8-055f-4ce1-817b-c519eea5302a"}
+{"sub_label": "Trumbull County", "obj_label": "Warren", "uuid": "aa3e96c0-9a71-450c-b99d-be5564f1360a"}
+{"sub_label": "Aleppo Governorate", "obj_label": "Aleppo", "uuid": "209f5fe9-e4fd-49c3-a2eb-0d0bbebf3bdd"}
+{"sub_label": "Cache County", "obj_label": "Logan", "uuid": "9b750f8b-8039-4b8f-ad21-bbfb6fe96622"}
+{"sub_label": "Golden Ambrosian Republic", "obj_label": "Milan", "uuid": "03eb4774-275a-44e4-86a3-d90118464b36"}
+{"sub_label": "Colorado", "obj_label": "Denver", "uuid": "dee75c5a-9283-4298-9594-17e150dc0484"}
+{"sub_label": "Greece", "obj_label": "Athens", "uuid": "81f7f2f1-b54e-4284-9659-70df795826e3"}
+{"sub_label": "Netherlands", "obj_label": "Amsterdam", "uuid": "4ee31f55-e29a-4c2e-9e45-442ddc25a107"}
+{"sub_label": "Arizona", "obj_label": "Phoenix", "uuid": "d06dac69-3754-4870-873f-1cc43d8932ba"}
+{"sub_label": "Italy", "obj_label": "Rome", "uuid": "11a1b37e-dab9-4913-8ecb-c116b0af0e09"}
+{"sub_label": "United Kingdom", "obj_label": "London", "uuid": "038853fb-0819-4076-a6a7-60eb98028b78"}
+{"sub_label": "Harney County", "obj_label": "Burns", "uuid": "536971cd-a76a-42b0-8f85-d855f47df8bb"}
+{"sub_label": "Kingdom of Libya", "obj_label": "Tripoli", "uuid": "b6e68511-a9d5-45fc-aa47-781ab3a4221e"}
+{"sub_label": "Mobile County", "obj_label": "Mobile", "uuid": "24011cfc-18bf-4698-9a00-7ca98cd99c0f"}
+{"sub_label": "Canada", "obj_label": "Ottawa", "uuid": "c60945a4-e0ef-46d5-92e6-fee06cc0512a"}
+{"sub_label": "Ouachita Parish", "obj_label": "Monroe", "uuid": "5df8814e-129f-4dd2-bbfa-a368320ce63f"}
+{"sub_label": "Central Bohemian Region", "obj_label": "Prague", "uuid": "311a0a69-0b15-4542-ab2d-4dd0ebe2db57"}
+{"sub_label": "France", "obj_label": "Paris", "uuid": "054ba9b2-5448-4d98-a91c-71be1a28873a"}
+{"sub_label": "Mumbai City district", "obj_label": "Mumbai", "uuid": "76a33f57-8cf5-4060-9073-1de1c18ecfd7"}
+{"sub_label": "Preble County", "obj_label": "Eaton", "uuid": "1111cc4a-db81-401b-84ee-1435f4f68c6e"}
+{"sub_label": "4th of August Regime", "obj_label": "Athens", "uuid": "f0d4e8fd-e57b-4645-889b-59b8dff1b53d"}
+{"sub_label": "Commonwealth of England", "obj_label": "London", "uuid": "fa0b1034-69b7-4598-bd05-0b18764b0999"}
+{"sub_label": "Constantine Province", "obj_label": "Constantine", "uuid": "c7e88c81-06b6-42ff-b123-e59bfa3b4091"}
+{"sub_label": "Guyana", "obj_label": "Georgetown", "uuid": "071c5f13-d736-4100-8cc9-92c2ef6060f3"}
+{"sub_label": "Valverde Province", "obj_label": "Mao", "uuid": "5c3f3ff1-7078-4ddf-93bb-a93352123c11"}
+{"sub_label": "Kingdom of Hungary", "obj_label": "Budapest", "uuid": "e94d4f46-e866-4eb2-b285-032df9a4033e"}
+{"sub_label": "British North America", "obj_label": "London", "uuid": "e93b8ae2-d0e7-425c-b208-2df3285783b7"}
+{"sub_label": "Calderdale", "obj_label": "Halifax", "uuid": "8e0488b3-2bfe-4e7e-a744-c60e0220bd42"}
+{"sub_label": "Saxony", "obj_label": "Dresden", "uuid": "81bc4597-4342-44f8-b16e-c00a0ec41387"}
+{"sub_label": "Makkah Region", "obj_label": "Mecca", "uuid": "22c04d58-1410-491f-a5a2-80927b04a65c"}
+{"sub_label": "Haakon County", "obj_label": "Philip", "uuid": "146c6268-b78c-4cdc-b3d8-420c9ab85037"}
+{"sub_label": "Flores Department", "obj_label": "Trinidad", "uuid": "a71c6466-49f8-4226-9487-4d718b3e47af"}
+{"sub_label": "Egypt Eyalet", "obj_label": "Cairo", "uuid": "bba7949e-b95d-4e24-abd7-383da2d8ba0c"}
+{"sub_label": "Stafford", "obj_label": "Stafford", "uuid": "5f98c3e4-a66b-4a3c-a841-38278ed065af"}
+{"sub_label": "Congress Poland", "obj_label": "Warsaw", "uuid": "5417be18-f634-48a7-bb7e-4d1148721c8c"}
+{"sub_label": "Northern Ireland", "obj_label": "Belfast", "uuid": "0a001fed-b69a-4e80-8b3b-e3b36a63fca8"}
+{"sub_label": "Maury County", "obj_label": "Columbia", "uuid": "f20d355b-47fb-4ca6-ae96-973612bb7417"}
+{"sub_label": "Spain", "obj_label": "Madrid", "uuid": "84432391-0a6e-47c0-b74f-04997e55097d"}
+{"sub_label": "Metropolitan France", "obj_label": "Paris", "uuid": "0ce95e8d-c54a-4b57-a8d0-430e22720918"}
+{"sub_label": "Kit Carson County", "obj_label": "Burlington", "uuid": "cda2780e-c969-4264-803d-f84fb57dfbdc"}
+{"sub_label": "Lima", "obj_label": "Lima", "uuid": "0cb320e2-1a47-4b35-95ef-e924835340fe"}
+{"sub_label": "Callaway County", "obj_label": "Fulton", "uuid": "bd5d63aa-854e-49cb-96d8-8132eb62ec73"}
+{"sub_label": "Flemish Community", "obj_label": "Brussels", "uuid": "9c7ce4f2-1489-4ea1-a691-9a198565c6ce"}
+{"sub_label": "Mandatory Palestine", "obj_label": "Jerusalem", "uuid": "5275b4fe-b535-4ca1-9967-c8d512968ed1"}
+{"sub_label": "Izard County", "obj_label": "Melbourne", "uuid": "fd8d6c88-90cc-4bdb-919a-014f63571dc7"}
+{"sub_label": "Colorado County", "obj_label": "Columbus", "uuid": "6f57955b-7b13-42bf-9ef6-3d8f3c6ba809"}
+{"sub_label": "County Dublin", "obj_label": "Dublin", "uuid": "6c00f0f0-a338-465f-b7a3-ec8f6ecf4380"}
+{"sub_label": "Catawba County", "obj_label": "Newton", "uuid": "b2d3abd7-89f5-4316-835f-f1a1f07b3394"}
+{"sub_label": "Commonwealth of the Philippines", "obj_label": "Manila", "uuid": "225b2db4-e9e3-403f-87df-32dad6e25071"}
+{"sub_label": "Tughlaq dynasty", "obj_label": "Delhi", "uuid": "c4a21ea1-52ba-47d4-b177-4a7be87c66c8"}
+{"sub_label": "Kingdom of Bavaria", "obj_label": "Munich", "uuid": "bd5fb169-6371-430a-8014-8bb5b8a9139c"}
+{"sub_label": "Tamil Nadu", "obj_label": "Chennai", "uuid": "86ce460d-460e-4796-b8e2-84b29f077874"}
+{"sub_label": "Atkinson County", "obj_label": "Pearson", "uuid": "c2db9548-ed2d-43d5-9632-22357cad3c0c"}
+{"sub_label": "Gentry County", "obj_label": "Albany", "uuid": "7fda1417-eb60-4152-a600-ecfca1d5ce24"}
+{"sub_label": "Multnomah County", "obj_label": "Portland", "uuid": "601a6ca2-7b9c-472a-ae9e-64e33f54847d"}
+{"sub_label": "Hungarian Soviet Republic", "obj_label": "Budapest", "uuid": "c52347a1-f0d0-4101-abdd-2365849ad254"}
+{"sub_label": "Kingdom of Afghanistan", "obj_label": "Kabul", "uuid": "34a27ca3-c505-4d62-a1ed-fcf1106a8093"}
+{"sub_label": "Dominion of Pakistan", "obj_label": "Karachi", "uuid": "a1b3e563-be09-433b-b3b7-b9a9fd5e3561"}
+{"sub_label": "Ulster County", "obj_label": "Kingston", "uuid": "ad1bee32-f537-48b7-b22b-af93f998eb7f"}
+{"sub_label": "Santiago Metropolitan Region", "obj_label": "Santiago", "uuid": "00ce4a48-3c67-4997-a712-6381713ceccb"}
+{"sub_label": "Virginia", "obj_label": "Richmond", "uuid": "210fa4bf-1e11-40e6-ac85-5c550df3a240"}
+{"sub_label": "England", "obj_label": "Winchester", "uuid": "dd496af6-2fc1-4697-9c93-f335f9a6f665"}
+{"sub_label": "Al Madinah Region", "obj_label": "Medina", "uuid": "e0143991-1014-4191-a7cb-7463779a4962"}
+{"sub_label": "Stockholm Municipality", "obj_label": "Stockholm", "uuid": "80b3b511-2384-4470-9dd9-511e586a0727"}
+{"sub_label": "Gedling", "obj_label": "Arnold", "uuid": "d633e460-fac5-4b28-90d3-30d91e41377b"}
+{"sub_label": "Kingdom of Greece", "obj_label": "Athens", "uuid": "5814e2f0-b65a-4983-9ccd-275bd4bd92e2"}
+{"sub_label": "Itawamba County", "obj_label": "Fulton", "uuid": "5e9b90ec-79e5-4bf7-ae4b-27c6ee3666d9"}
+{"sub_label": "South Korea", "obj_label": "Seoul", "uuid": "65297ee8-0306-406f-965d-6be5cface055"}
+{"sub_label": "Sovereign Military Order of Malta", "obj_label": "Rome", "uuid": "b032cbd1-00e8-437a-9ada-2fd2ae95164c"}
+{"sub_label": "Fresno County", "obj_label": "Fresno", "uuid": "c0d10d97-1681-4b18-822e-ff03d6810348"}
+{"sub_label": "Strafford County", "obj_label": "Dover", "uuid": "db9c652e-2c14-41e9-9521-2acaaa6c81e8"}
+{"sub_label": "Mount Lebanon Governorate", "obj_label": "Beirut", "uuid": "10fee22e-9811-48d2-a922-5e5ee9c5d460"}
+{"sub_label": "England", "obj_label": "Westminster", "uuid": "3cf98f50-f98b-4009-8aba-cec93a5d14f7"}
+{"sub_label": "Flemish Region", "obj_label": "Brussels", "uuid": "9aae7e8e-8992-44e3-9c83-e9f105ff5072"}
+{"sub_label": "First Czechoslovak Republic", "obj_label": "Prague", "uuid": "f1fa4a93-31e6-414f-8010-e1fd6a5c8f73"}
+{"sub_label": "North Carolina", "obj_label": "Raleigh", "uuid": "da4fcd10-b83b-403f-8a32-deeadf5a54cc"}
+{"sub_label": "Montmorency County", "obj_label": "Atlanta", "uuid": "dca6c20b-32e2-4d20-8a7e-727e036247f4"}
+{"sub_label": "Batman Province", "obj_label": "Batman", "uuid": "2a03109a-6f43-4ed5-9813-3d05c64b421c"}
+{"sub_label": "Northern Territory", "obj_label": "Darwin", "uuid": "2e284dc0-02f2-4afd-8914-77bc85d348f8"}
+{"sub_label": "Tulsa County", "obj_label": "Tulsa", "uuid": "3388db9c-4893-4eda-8b64-4718c52dd4ab"}
+{"sub_label": "Kiev Voivodeship", "obj_label": "Kiev", "uuid": "48200e8b-20b4-433a-b915-68404403534a"}
+{"sub_label": "South Dakota", "obj_label": "Pierre", "uuid": "4fb1a53b-a896-4582-9d9a-aeb909ad4d5e"}
+{"sub_label": "Ontario", "obj_label": "Toronto", "uuid": "6f672710-7073-4a20-a054-c2df086c85cd"}
+{"sub_label": "Massachusetts", "obj_label": "Boston", "uuid": "f511d642-e060-4187-8428-e166afcae8c6"}
+{"sub_label": "Kingdom of Jerusalem", "obj_label": "Jerusalem", "uuid": "385c3d07-ac4d-4b26-9878-9b0178637964"}
+{"sub_label": "Patrick County", "obj_label": "Stuart", "uuid": "4d8f3eff-a66c-465a-a954-c86a95c61bca"}
+{"sub_label": "Ba'athist Iraq", "obj_label": "Baghdad", "uuid": "e6136477-32b3-4abf-9fc9-1d44fe32dc06"}
+{"sub_label": "Province of Naples", "obj_label": "Naples", "uuid": "a4f792d8-0bd9-4a7c-9451-4bbe6de3d2ee"}
+{"sub_label": "Switzerland", "obj_label": "Bern", "uuid": "db572b35-697c-4856-ae94-e649dc68573d"}
+{"sub_label": "Austria", "obj_label": "Vienna", "uuid": "a36c2ac2-4f20-461c-bc99-ec75ebaead4c"}
+{"sub_label": "Kanawha County", "obj_label": "Charleston", "uuid": "1402288f-1128-4d40-91be-6b96d65c6bd7"}
+{"sub_label": "England", "obj_label": "London", "uuid": "ffe7fc87-597a-432b-b8a0-d393eb046dad"}
+{"sub_label": "Labuan", "obj_label": "Victoria", "uuid": "36ff4a75-7b51-4de2-b12b-555b9cf24142"}
+{"sub_label": "French Community of Belgium", "obj_label": "Brussels", "uuid": "255c487d-3484-4b4d-aa30-41917476fdc9"}
+{"sub_label": "Egypt", "obj_label": "Cairo", "uuid": "a67e86af-e1d7-46d9-89d4-3a04a4f75a6d"}
+{"sub_label": "Ukrainian State", "obj_label": "Kiev", "uuid": "bc120252-6b6f-41db-be1b-f68013f1b3ac"}
+{"sub_label": "Uusimaa", "obj_label": "Helsinki", "uuid": "7029a53c-7d9c-438d-afb8-4fb1a40d83cc"}
+{"sub_label": "Brazos County", "obj_label": "Bryan", "uuid": "d06633fc-f9e0-4787-a1fe-642def964c29"}
+{"sub_label": "Lancashire", "obj_label": "Preston", "uuid": "c3d21b6e-b4d3-48fb-b819-811095df7cdb"}
+{"sub_label": "Laclede County", "obj_label": "Lebanon", "uuid": "4e380895-4ba1-4783-a41b-75b3e7a9c7c4"}
+{"sub_label": "Hiroshima Prefecture", "obj_label": "Hiroshima", "uuid": "2cad7f6f-ff03-45aa-866b-5eb8a3ae38ad"}
+{"sub_label": "Kingdom of Valencia", "obj_label": "Valencia", "uuid": "c06cb316-636a-46a9-9159-4cc91737e99a"}
+{"sub_label": "Ransom County", "obj_label": "Lisbon", "uuid": "34d8c4dc-845b-4dfc-b1f9-0dd0731e7779"}
+{"sub_label": "Glascock County", "obj_label": "Gibson", "uuid": "de42a28d-7ac9-46fa-aadc-34f8c7652531"}
+{"sub_label": "Holy Roman Empire", "obj_label": "Vienna", "uuid": "8aa45cb6-b40a-459d-9aab-220e3913b280"}
+{"sub_label": "Alfalfa County", "obj_label": "Cherokee", "uuid": "0665f484-6080-42af-a941-284da05a2ff5"}
+{"sub_label": "United Kingdom of Great Britain and Ireland", "obj_label": "London", "uuid": "d3735192-67a0-40e2-ad8a-b87680a2dc62"}
+{"sub_label": "Nazi Germany", "obj_label": "Berlin", "uuid": "b3664ea2-fe56-444c-a875-8d0e036c51af"}
+{"sub_label": "Henrico County", "obj_label": "Richmond", "uuid": "c620d3cf-f241-4b41-b7ff-1ecd4a6ff9a6"}
+{"sub_label": "Province of Syracuse", "obj_label": "Syracuse", "uuid": "3c5c4ae8-f372-4576-ab31-f912cb4e114b"}
+{"sub_label": "Russian Soviet Federative Socialist Republic", "obj_label": "Moscow", "uuid": "7e9cf4c3-345a-414e-9131-5bc170960085"}
+{"sub_label": "Onslow County", "obj_label": "Jacksonville", "uuid": "a3373266-e863-4f4e-b724-3b5bc088e0f3"}
+{"sub_label": "Indiana County", "obj_label": "Indiana", "uuid": "46a8ba6f-caed-4ff1-8278-cf99f7abdfc9"}
+{"sub_label": "Province of Brandenburg", "obj_label": "Berlin", "uuid": "3c8eb4f8-7d03-42cd-8380-48588405e4c4"}
+{"sub_label": "County Durham", "obj_label": "Durham", "uuid": "4238c59b-d2b5-48fb-beef-af6288542225"}
+{"sub_label": "Ukrainian Soviet Socialist Republic", "obj_label": "Kiev", "uuid": "7ccffda9-c105-488a-8f1d-ce1e6c13c9fe"}
+{"sub_label": "Byzantine Empire", "obj_label": "Constantinople", "uuid": "71f43685-0886-4a99-a808-dd8cd2d893e0"}
+{"sub_label": "Mountrail County", "obj_label": "Stanley", "uuid": "72572d15-2fd7-4f01-b6c4-6e1ffefc10aa"}
+{"sub_label": "Province of New Hampshire", "obj_label": "Portsmouth", "uuid": "c8688297-4314-48af-beed-440aa682bce9"}
+{"sub_label": "Umayyad Caliphate", "obj_label": "Damascus", "uuid": "e38b623e-36fe-40d1-b5f5-29c93596dfba"}
+{"sub_label": "Wallowa County", "obj_label": "Enterprise", "uuid": "15c082a3-9c94-4c6f-b4c3-d2e3a02cc13a"}
+{"sub_label": "Thailand", "obj_label": "Bangkok", "uuid": "49f63306-5b9d-4a35-ad42-f61585991e32"}
+{"sub_label": "Free State of Prussia", "obj_label": "Berlin", "uuid": "6c48d395-18b7-48c1-9c1f-986ba3b8677b"}
+{"sub_label": "Union between Sweden and Norway", "obj_label": "Stockholm", "uuid": "74ea9381-95ce-4d3c-bc31-ce130c8f9f8b"}
+{"sub_label": "Cuyahoga County", "obj_label": "Cleveland", "uuid": "37864839-1bb9-44a3-ba2d-512a5b108c93"}
+{"sub_label": "Norway", "obj_label": "Oslo", "uuid": "cc1967a4-7f88-4ab4-8647-359a7ab19d4b"}
+{"sub_label": "Turkey", "obj_label": "Ankara", "uuid": "e0f885bd-4714-4984-9110-10945d1a73af"}
+{"sub_label": "Rif Dimashq Governorate", "obj_label": "Damascus", "uuid": "e12095f3-1c20-4d37-b32f-79694ab1f786"}
+{"sub_label": "Glasgow City Council", "obj_label": "Glasgow", "uuid": "3655bfb2-eec8-4e0e-a1b8-f963a203b588"}
+{"sub_label": "occupation of Japan", "obj_label": "Tokyo", "uuid": "658b6e7f-d867-4959-a145-a9c848b9061c"}
+{"sub_label": "Rhode Island", "obj_label": "Providence", "uuid": "75ba052f-521e-4acb-99b6-3ea153630873"}
+{"sub_label": "Yolo County", "obj_label": "Davis", "uuid": "7ec42ef7-4a33-45d7-bfd3-3212a99c60dd"}
+{"sub_label": "Idaho", "obj_label": "Boise", "uuid": "e75dd5d5-e62f-4b0b-86c8-402161085a95"}
+{"sub_label": "County Cork", "obj_label": "Cork", "uuid": "2a8361b3-1a6b-4a12-9d82-2d1e45ccb3d2"}
+{"sub_label": "Mary Region", "obj_label": "Mary", "uuid": "7b176c82-7f8b-4962-8055-65fb9751eba1"}
+{"sub_label": "Province of Georgia", "obj_label": "Savannah", "uuid": "2465a73a-b182-4487-831b-fafe64dbcaeb"}
+{"sub_label": "Neo-Babylonian Empire", "obj_label": "Babylon", "uuid": "43736130-8967-48a6-a2a2-7130aaf4c82d"}
+{"sub_label": "Smyth County", "obj_label": "Marion", "uuid": "43e149f1-7e70-41b5-adb2-523d1a8742a9"}
+{"sub_label": "Kingdom of Gwynedd", "obj_label": "Chester", "uuid": "bb062949-335e-4f20-bfc1-21cc0a1d0de0"}
+{"sub_label": "Province of Venice", "obj_label": "Venice", "uuid": "2c8fbfa6-ab45-410c-806a-64c8a3acb32c"}
+{"sub_label": "Province of South Carolina", "obj_label": "Charleston", "uuid": "924d1a80-1faf-43b6-a982-c712dfeff7a2"}
+{"sub_label": "Kingdom of Wessex", "obj_label": "Winchester", "uuid": "8a63f77a-5be6-444e-a7ea-9f2610a608f3"}
+{"sub_label": "Ashtabula County", "obj_label": "Jefferson", "uuid": "9bedf4e1-745e-4f21-bca5-e7d580664faf"}
+{"sub_label": "Onondaga County", "obj_label": "Syracuse", "uuid": "160827a7-715f-4989-a38c-8c67ee6e42d5"}
+{"sub_label": "Pima County", "obj_label": "Tucson", "uuid": "5c4502b9-fa55-499b-baf7-74c7318b364c"}
+{"sub_label": "Roman Empire", "obj_label": "Rome", "uuid": "3f21d7e7-c437-450b-bf74-5836afb3e9eb"}
+{"sub_label": "British Columbia", "obj_label": "Victoria", "uuid": "6f4c4550-01e4-4dac-902f-ec3cd3fd54ca"}
+{"sub_label": "Andrew County", "obj_label": "Savannah", "uuid": "646acdd9-c793-4a50-9534-3c631dcea026"}
+{"sub_label": "Pratt County", "obj_label": "Pratt", "uuid": "f23de1f0-8839-4525-8e9a-fa74f68b6a4f"}
+{"sub_label": "City of Newcastle", "obj_label": "Newcastle", "uuid": "053c8501-8e35-4d3e-9de3-0be79e79b174"}
+{"sub_label": "Boulder County", "obj_label": "Boulder", "uuid": "395ee57c-b2fd-48be-a70d-27fe8069144d"}
+{"sub_label": "Kingdom of Bohemia", "obj_label": "Prague", "uuid": "669632a7-16d3-4168-b1da-1af84e791e57"}
+{"sub_label": "Moscow Oblast", "obj_label": "Moscow", "uuid": "933a7b35-baa8-419e-bb5f-7986c34b9932"}
+{"sub_label": "La Paz County", "obj_label": "Parker", "uuid": "e4fb347a-9bc7-41a9-947e-22ae83d2d128"}
+{"sub_label": "Lebanon", "obj_label": "Beirut", "uuid": "5b11c47c-fb54-437d-a493-19e52411c4d7"}
+{"sub_label": "Bennington County", "obj_label": "Manchester", "uuid": "6a627c5e-9a84-4eb6-a89b-4e51f31df2a7"}
+{"sub_label": "Empire of Japan", "obj_label": "Tokyo", "uuid": "d91445d2-d35a-40bc-a317-77dd7752ddcf"}
+{"sub_label": "Wales", "obj_label": "Cardiff", "uuid": "0a5208ee-fbcb-4563-971a-3097e799a8db"}
+{"sub_label": "Delhi Sultanate", "obj_label": "Delhi", "uuid": "da44703b-c14c-4a14-b00a-74750d50e61e"}
+{"sub_label": "Third Hellenic Republic", "obj_label": "Athens", "uuid": "088ba44b-5528-4e5d-bc14-1a5f51a3ed5b"}
+{"sub_label": "Democratic Republic of Afghanistan", "obj_label": "Kabul", "uuid": "a2f2b6eb-0ab9-4dec-8fc5-78880b6da540"}
+{"sub_label": "Poland", "obj_label": "Warsaw", "uuid": "1f3d2534-050f-4186-9f97-0446a40130c4"}
+{"sub_label": "Jericho Governorate", "obj_label": "Jericho", "uuid": "82d3c701-7ff4-47f3-aa3c-97abccf3fe2b"}
+{"sub_label": "Qajar dynasty", "obj_label": "Tehran", "uuid": "d280d4c1-392e-45af-8c7e-632425edf2b3"}
+{"sub_label": "Abbasid Caliphate", "obj_label": "Baghdad", "uuid": "9c0d9389-8c0f-44ed-a983-b63f809c6dbb"}
+{"sub_label": "Sindh", "obj_label": "Karachi", "uuid": "9211b122-bbb6-4917-bcc1-24d7409aea0b"}
+{"sub_label": "Akershus", "obj_label": "Oslo", "uuid": "377b1f7b-55b0-454e-a434-4858f23dba54"}
+{"sub_label": "Kosciusko County", "obj_label": "Warsaw", "uuid": "57eb66a2-f2a8-4767-83b1-6432af4b4459"}
+{"sub_label": "Heard County", "obj_label": "Franklin", "uuid": "b68a549a-4922-4980-bb91-a09d1d690535"}
+{"sub_label": "South Yemen", "obj_label": "Aden", "uuid": "ab35028d-1b33-4016-936b-f0ea37425da8"}
+{"sub_label": "Kaufman County", "obj_label": "Kaufman", "uuid": "fa3a838f-c0c0-4ac8-844a-ebfaffc05414"}
+{"sub_label": "North West England", "obj_label": "Manchester", "uuid": "20d871a5-9096-4d94-b661-7079dfecc6f3"}
+{"sub_label": "Canton of Geneva", "obj_label": "Geneva", "uuid": "84efc815-98af-41f2-9925-bbff814cbc08"}
+{"sub_label": "People's Republic of China", "obj_label": "Beijing", "uuid": "bf163c34-ce3c-4d45-ae1e-4a7660fb6115"}
+{"sub_label": "Old Kingdom of Egypt", "obj_label": "Memphis", "uuid": "5febc620-38bb-429f-8bcd-ebba49711070"}
+{"sub_label": "Bermuda", "obj_label": "Hamilton", "uuid": "2b83adcd-1763-4596-9955-ebc56c031dda"}
+{"sub_label": "United Arab Republic", "obj_label": "Cairo", "uuid": "019e693a-7dd4-420d-9e33-63eacf8d2432"}
+{"sub_label": "province of Milan", "obj_label": "Milan", "uuid": "1c1a7df6-c61b-416d-8250-7f925f605524"}
+{"sub_label": "Hampton County", "obj_label": "Hampton", "uuid": "71abdd70-d330-4483-94ad-44cb4d8ece79"}
+{"sub_label": "Finland", "obj_label": "Helsinki", "uuid": "1a3c9946-a242-437d-97a7-e263c61b6622"}
+{"sub_label": "Scioto County", "obj_label": "Portsmouth", "uuid": "131166b0-6169-4e1e-a243-c26f1bce4e92"}
+{"sub_label": "Broadwater County", "obj_label": "Townsend", "uuid": "859f9933-06f8-400f-9ff3-c1bca5c25918"}
+{"sub_label": "Syria", "obj_label": "Damascus", "uuid": "055ec1a7-9625-41a6-bfd6-781afc018c35"}
+{"sub_label": "Skamania County", "obj_label": "Stevenson", "uuid": "0a0c4edf-8b82-4540-a398-acfcd8327329"}
+{"sub_label": "Valencian Community", "obj_label": "Valencia", "uuid": "1f2b2f65-1d01-407a-ba0d-c4c8ab55c995"}
+{"sub_label": "Jerusalem District", "obj_label": "Jerusalem", "uuid": "509df8ee-9ede-45ba-bb93-c70cafd7f470"}
+{"sub_label": "Belgium", "obj_label": "Brussels", "uuid": "d5672fe4-0f47-4e56-8928-388e24a5f405"}
+{"sub_label": "Acadia Parish", "obj_label": "Crowley", "uuid": "758d32c2-4516-429c-b5bb-a42b65987f72"}
+{"sub_label": "North Ayrshire", "obj_label": "Irvine", "uuid": "4cb2d74d-d192-40ba-87a3-10b37c6efc03"}
+{"sub_label": "Tucker County", "obj_label": "Parsons", "uuid": "78549aad-7ec6-46cb-9693-40aca7e9b797"}
+{"sub_label": "Osona", "obj_label": "Vic", "uuid": "f7d52f4c-0c3c-4e4d-96e6-24d55660b773"}
+{"sub_label": "Converse County", "obj_label": "Douglas", "uuid": "df1b5711-98d2-4bea-b853-465012e3e3f9"}
+{"sub_label": "Austria-Hungary", "obj_label": "Vienna", "uuid": "37f0a960-f344-498a-8c09-0a8226f86734"}
+{"sub_label": "Province of Rome", "obj_label": "Rome", "uuid": "8414e813-5ba7-451a-9205-1685cf9f9e7b"}
+{"sub_label": "Stockholm County", "obj_label": "Stockholm", "uuid": "b946776a-3b0b-447e-9b5e-ba2450b7e901"}
+{"sub_label": "Kingdom of Egypt", "obj_label": "Cairo", "uuid": "4a2fbd04-8e84-40ed-b3ca-5a2bdd89251b"}
+{"sub_label": "Tennessee", "obj_label": "Nashville", "uuid": "d6a640a8-b368-46fa-8bbe-6a61b9db3997"}
+{"sub_label": "Neshoba County", "obj_label": "Philadelphia", "uuid": "85fc8b3a-d9aa-4c6c-8875-1eea1189b279"}
+{"sub_label": "Saga Prefecture", "obj_label": "Saga", "uuid": "bbe6a6f2-726b-40fd-9a3f-5d39ab7bf602"}
+{"sub_label": "Sweden", "obj_label": "Stockholm", "uuid": "a0106aa1-36c9-4a57-ac58-43c22b36938f"}
+{"sub_label": "Second Spanish Republic", "obj_label": "Madrid", "uuid": "cad04199-2b3f-4b54-91c5-daf458e837ac"}
+{"sub_label": "Aberdeen City Council", "obj_label": "Aberdeen", "uuid": "e8b3e0f1-0679-48be-b3d0-62eafcdf4366"}
+{"sub_label": "Wellington Region", "obj_label": "Wellington", "uuid": "7abc24e9-48ef-4aaa-a548-85f623ba4796"}
+{"sub_label": "Ohio", "obj_label": "Columbus", "uuid": "95cff64c-bd04-4b8f-b9b4-c47ee2693c82"}
+{"sub_label": "South Carolina", "obj_label": "Columbia", "uuid": "b3f8c882-15c0-4ed6-9b17-99b313038934"}
+{"sub_label": "Jamaica", "obj_label": "Kingston", "uuid": "34697f51-47de-4b5f-b92b-849972a5ae6e"}
+{"sub_label": "Moscow Governorate", "obj_label": "Moscow", "uuid": "cc7e30ec-c91a-465b-afa9-17d933491759"}
+{"sub_label": "Kyivska Rus'", "obj_label": "Kiev", "uuid": "773eb732-83f2-4492-9d49-5e336ac22725"}
+{"sub_label": "Hautes-Alpes", "obj_label": "Gap", "uuid": "49b7fb49-7113-42d3-88bf-b09cdd2b0c36"}
+{"sub_label": "Salem County", "obj_label": "Salem", "uuid": "cda450a9-04c4-4a07-8b76-536890f8baa2"}
+{"sub_label": "England", "obj_label": "London", "uuid": "381b9c02-419a-434f-91ef-bb973b5c485c"}
+{"sub_label": "Catalonia", "obj_label": "Barcelona", "uuid": "e23d5c87-5bb4-4db4-a3a0-eecc3ce51c42"}
+{"sub_label": "Jerome County", "obj_label": "Jerome", "uuid": "147c0536-821a-446a-973c-2dca3793de7c"}
+{"sub_label": "Spanish East Indies", "obj_label": "Manila", "uuid": "3bb2a7f7-56b5-4adc-bb69-f065fd3598f3"}
+{"sub_label": "Paris Commune", "obj_label": "Paris", "uuid": "1d3ab203-e368-4e64-a0fa-3875ece8b221"}
+{"sub_label": "West Pakistan", "obj_label": "Karachi", "uuid": "e01baa0d-e062-4c8d-b121-a47251ca5228"}
+{"sub_label": "Czech Republic", "obj_label": "Prague", "uuid": "3bf53e54-010f-436b-bde8-06f74f771236"}
+{"sub_label": "Nova Scotia", "obj_label": "Halifax", "uuid": "514f1d92-506c-4eed-a739-f6946cd00057"}
+{"sub_label": "Oxfordshire", "obj_label": "Oxford", "uuid": "18a2b40f-511e-41b8-8a29-6e46603b5bc6"}
+{"sub_label": "Beirut Governorate", "obj_label": "Beirut", "uuid": "d52570f1-2957-4179-a2ff-83c149b34156"}
+{"sub_label": "European Union", "obj_label": "Brussels", "uuid": "c1ccc1c9-17ca-46a8-b523-1ff87e891c17"}
+{"sub_label": "Qing dynasty", "obj_label": "Beijing", "uuid": "5b1e5310-53f0-4267-adec-a3af6e6a61a5"}
+{"sub_label": "Latah County", "obj_label": "Moscow", "uuid": "3616a83c-0f79-4d4a-b4ca-2cd56fe99973"}
+{"sub_label": "British America", "obj_label": "London", "uuid": "abcb49e4-0793-403b-a88b-24b9c73a0341"}
+{"sub_label": "Prague-West District", "obj_label": "Prague", "uuid": "7f30c92c-389a-4bdb-9357-37062aaabded"}
+{"sub_label": "Weimar Republic", "obj_label": "Berlin", "uuid": "d7e9d75c-0637-4d1f-8c4b-01ee4428907c"}
+{"sub_label": "Confederate States of America", "obj_label": "Richmond", "uuid": "c6fa96d5-1bc7-416d-8c5d-7a42d6e8dc29"}
+{"sub_label": "Neustria", "obj_label": "Paris", "uuid": "e1f2ed7f-ceb2-4305-98aa-781554a04d54"}
+{"sub_label": "Glynn County", "obj_label": "Brunswick", "uuid": "8707aff8-7180-4831-9cb7-a9cb21903e5b"}
+{"sub_label": "Bavaria", "obj_label": "Munich", "uuid": "2f24a18e-7bf9-41ad-93b7-7b727f32e777"}
+{"sub_label": "Philadelphia County", "obj_label": "Philadelphia", "uuid": "df640a02-508c-42e8-8a2b-6d54fc3e2ef8"}
+{"sub_label": "Hanson County", "obj_label": "Alexandria", "uuid": "412cc78d-8380-4e21-aeee-7c93b3187954"}
+{"sub_label": "Hawaii", "obj_label": "Honolulu", "uuid": "b24c28c7-c73b-475b-b88c-383d011a349f"}
+{"sub_label": "Allied-occupied Germany", "obj_label": "Berlin", "uuid": "ba026660-3cbc-48c6-ae73-9ea55d5a6edf"}
+{"sub_label": "First Portuguese Republic", "obj_label": "Lisbon", "uuid": "29082c5d-d64c-4d29-bcba-a6e5299b69bb"}
+{"sub_label": "Oglethorpe County", "obj_label": "Lexington", "uuid": "6587c997-364f-466f-8adf-8e8de2e83da8"}
+{"sub_label": "Faulkner County", "obj_label": "Conway", "uuid": "7f78ab18-a578-4506-b001-ebc995d496ab"}
+{"sub_label": "Day County", "obj_label": "Webster", "uuid": "03994925-9523-4fe5-92f8-e8b498d48a63"}
+{"sub_label": "Queensland", "obj_label": "Brisbane", "uuid": "18df3d31-9282-4ce4-a31e-d1bc7461a2fc"}
+{"sub_label": "Bohemia", "obj_label": "Prague", "uuid": "1948098d-a4e5-4abf-ba03-373467034c18"}
+{"sub_label": "Islamic Emirate of Afghanistan", "obj_label": "Kabul", "uuid": "478ae898-8d7b-42c2-a595-e81e1d08cbaf"}
+{"sub_label": "Homs Governorate", "obj_label": "Damascus", "uuid": "7ca5fbf8-a8c0-4a05-9260-609de04b5c58"}
+{"sub_label": "West Virginia", "obj_label": "Charleston", "uuid": "22d6b190-31d3-44ec-801b-8191cb2c98f1"}
+{"sub_label": "East Punjab", "obj_label": "Punjab", "uuid": "7b6538b8-71e7-44b6-8fb1-6b2969f21fe5"}
+{"sub_label": "Shire of Southern Grampians", "obj_label": "Hamilton", "uuid": "9dd706cd-fa06-44e1-b63c-0c1401de3e0f"}
+{"sub_label": "City of Melbourne", "obj_label": "Melbourne", "uuid": "4a4a84f7-9700-4949-9c68-691422ae7d9b"}
+{"sub_label": "Oregon", "obj_label": "Salem", "uuid": "a3fa12e7-d3db-41ab-b35b-ff6d117088e0"}
+{"sub_label": "Kingdom of Italy", "obj_label": "Rome", "uuid": "34902401-c1c4-4b04-833a-688dede2ea15"}
+{"sub_label": "Mississippi", "obj_label": "Jackson", "uuid": "d7354ff5-8d7c-4e55-840f-44c4b0accee0"}
+{"sub_label": "Anatolia Eyalet", "obj_label": "Ankara", "uuid": "a23f689f-25f5-448a-adc5-45725ec38e0e"}
+{"sub_label": "Bartholomew County", "obj_label": "Columbus", "uuid": "a8123365-53bf-481d-ac66-5d2538c15126"}
+{"sub_label": "Lodi dynasty", "obj_label": "Delhi", "uuid": "18256181-cb70-47d0-b7fa-b6b03a5e1d55"}
+{"sub_label": "Dudley", "obj_label": "Dudley", "uuid": "65325e24-33e3-4fb8-a0e5-937886326ac1"}
+{"sub_label": "Austria-Hungary", "obj_label": "Budapest", "uuid": "9c8149a0-6ed4-4e8e-83a7-e5d171d03743"}
+{"sub_label": "Seine", "obj_label": "Paris", "uuid": "0261a341-3c92-4587-9c12-ba61d053c3a4"}
+{"sub_label": "Tripolitania", "obj_label": "Tripoli", "uuid": "171ec4f6-8d28-478a-9b2f-8e643206f9e3"}
+{"sub_label": "Roman Republic", "obj_label": "Rome", "uuid": "dad8bd2c-5124-45f0-a84f-96cf9dfd8f50"}
+{"sub_label": "Kingdom of Prussia", "obj_label": "Berlin", "uuid": "21b4be99-2acf-42f9-9df7-ae5f56b94b3b"}
+{"sub_label": "Sabine Parish", "obj_label": "Many", "uuid": "5ce6866e-96e2-4935-b872-0c401d5fc8e4"}
+{"sub_label": "Afghanistan", "obj_label": "Kabul", "uuid": "75d6a6a0-03a8-413d-935a-b7ac3a744656"}
+{"sub_label": "Chile", "obj_label": "Santiago", "uuid": "ee10fdc1-8a9a-43c0-b271-4867251f0243"}
+{"sub_label": "Leeds", "obj_label": "Leeds", "uuid": "d49a6f14-75e4-44fb-a43f-d9f82d8f4480"}
+{"sub_label": "Norfolk", "obj_label": "Norwich", "uuid": "c1ebfae8-e883-4736-b5e2-5fcb964bc628"}
+{"sub_label": "Valencia Province", "obj_label": "Valencia", "uuid": "96cc5442-8a1b-4a56-9bde-fc0b973553b0"}
+{"sub_label": "Tippecanoe County", "obj_label": "Lafayette", "uuid": "59b89c15-9c2a-4176-bdc1-5bced3aca817"}
+{"sub_label": "Masovian Voivodeship", "obj_label": "Warsaw", "uuid": "3944148c-ecd9-46d5-86c6-3c06da483566"}
+{"sub_label": "Flanders", "obj_label": "Brussels", "uuid": "1529bc81-d7bb-4d75-8546-ee866d93ee5d"}

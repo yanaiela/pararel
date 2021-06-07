@@ -1,0 +1,588 @@
+{"sub_label": "MessagePad", "obj_label": "Apple", "uuid": "4e863370-06ea-4847-ad95-4f8229574dd2"}
+{"sub_label": "macOS", "obj_label": "Apple", "uuid": "936ce37a-b081-4808-a5a7-9b1f09d9d275"}
+{"sub_label": "iOS", "obj_label": "Apple", "uuid": "09bad806-c913-446c-aeb7-3cd6a47cf5b9"}
+{"sub_label": "Safari", "obj_label": "Apple", "uuid": "11d3c18b-82c6-4d86-b172-3e49a2901ef2"}
+{"sub_label": "iLife", "obj_label": "Apple", "uuid": "b87a2eba-8ba5-4a06-881c-1c8462dea8d3"}
+{"sub_label": "iWork", "obj_label": "Apple", "uuid": "b020ecee-b0fe-45f7-be30-f7f1fecb91d5"}
+{"sub_label": "PostScript", "obj_label": "Adobe", "uuid": "22250a62-230c-4870-a510-f30392ad000e"}
+{"sub_label": "IBM AIX", "obj_label": "IBM", "uuid": "a57676f7-36ae-4006-a181-36a48d15bf94"}
+{"sub_label": "AppleTalk", "obj_label": "Apple", "uuid": "39fe8086-6ac0-4fa7-b6ed-0d57a7e05463"}
+{"sub_label": "Applesoft BASIC", "obj_label": "Microsoft", "uuid": "c0fb285a-8d0d-43fc-bf06-19782de0c25a"}
+{"sub_label": "Active Directory", "obj_label": "Microsoft", "uuid": "39a1279a-7b75-4ceb-9e22-841ab7fed3fb"}
+{"sub_label": "Windows Vista", "obj_label": "Microsoft", "uuid": "2d6ec4dc-da3f-452f-b930-3cdca38f8807"}
+{"sub_label": "Internet Explorer", "obj_label": "Microsoft", "uuid": "9ab8c821-49ae-4c92-a7dc-df7bab1afb9c"}
+{"sub_label": "Outlook Express", "obj_label": "Microsoft", "uuid": "4abac81c-de50-4050-ace5-519711b25caa"}
+{"sub_label": "Microsoft Outlook", "obj_label": "Microsoft", "uuid": "7c2927f2-77e3-4d40-a9fd-21eddc217a8a"}
+{"sub_label": "B-17 Flying Fortress", "obj_label": "Boeing", "uuid": "55d94f51-38b7-481a-9f46-802cd06ffd73"}
+{"sub_label": "DirectX", "obj_label": "Microsoft", "uuid": "a2cc4343-9e80-424e-8705-7bc705f7dee0"}
+{"sub_label": "Microsoft Windows", "obj_label": "Microsoft", "uuid": "9d755cae-90ae-49d0-94df-86d729b83438"}
+{"sub_label": "Xbox 360", "obj_label": "Microsoft", "uuid": "e92f3f09-336c-44ee-b37e-9a8d8fad6b73"}
+{"sub_label": "Xbox One", "obj_label": "Microsoft", "uuid": "182347ac-e696-45ca-a46c-05a734864cfc"}
+{"sub_label": "Microsoft Internet Explorer 4", "obj_label": "Microsoft", "uuid": "d2fd65ec-3f51-4fcb-bdaa-f444e263322b"}
+{"sub_label": "Itanium", "obj_label": "Intel", "uuid": "3c057a78-26ef-471a-939c-f0f6fe354c7b"}
+{"sub_label": "MS-DOS", "obj_label": "Microsoft", "uuid": "d97222d8-4d9e-42d4-bab3-0ef3405af7a3"}
+{"sub_label": "Fortran", "obj_label": "IBM", "uuid": "7f51529d-fe81-41ae-b467-8a0b2530e039"}
+{"sub_label": "GW-BASIC", "obj_label": "Microsoft", "uuid": "381c6482-2324-489c-b193-6d58f914e9d5"}
+{"sub_label": "Windows 1.0", "obj_label": "Microsoft", "uuid": "f7fa2861-0d77-400b-a28d-7130e0f7604f"}
+{"sub_label": "ASIMO", "obj_label": "Honda", "uuid": "9b15e808-e596-4c5b-b7b5-66967b9bc70b"}
+{"sub_label": "Nintendo 2DS", "obj_label": "Nintendo", "uuid": "5a051ea2-98f9-41ea-beb8-e50d971bf878"}
+{"sub_label": "Nintendo 3DS", "obj_label": "Nintendo", "uuid": "f78bb5b2-dbdf-4a52-9003-4b1d6bb1dcaa"}
+{"sub_label": "Intel Threading Building Blocks", "obj_label": "Intel", "uuid": "703f0595-847e-430b-b54d-28b69c11950c"}
+{"sub_label": "IA-32", "obj_label": "Intel", "uuid": "976eac38-e238-4178-b328-5516a5159d45"}
+{"sub_label": "Intel 8086", "obj_label": "Intel", "uuid": "ed37899a-2f75-41bc-9f2d-68f8cc355583"}
+{"sub_label": "Intel 80386", "obj_label": "Intel", "uuid": "aaa35f12-3620-429c-ab94-1b3922d6cf7d"}
+{"sub_label": "Intel 80486SX", "obj_label": "Intel", "uuid": "8936a6e1-df57-44fa-80ff-da4908836ecc"}
+{"sub_label": "Intel 80486", "obj_label": "Intel", "uuid": "b712dfb3-5f24-4678-8db1-b1b428434523"}
+{"sub_label": "Windows 10", "obj_label": "Microsoft", "uuid": "3abe9d51-227f-460d-ac6c-d5c1c29cbc95"}
+{"sub_label": "IA-64", "obj_label": "Intel", "uuid": "e9a7bfb3-e8d3-4e1d-891c-c09f66e71deb"}
+{"sub_label": "Pentium II", "obj_label": "Intel", "uuid": "f1c9912a-261b-4146-825f-2daa1d318dc1"}
+{"sub_label": "Lotus 1-2-3", "obj_label": "IBM", "uuid": "d8203cb2-3b5e-4b65-8403-a50aee1ac53b"}
+{"sub_label": "Microsoft Excel", "obj_label": "Microsoft", "uuid": "5e7b9fbf-d5c2-4f2a-a54f-a9582ef17785"}
+{"sub_label": "Microsoft Office", "obj_label": "Microsoft", "uuid": "a077b0de-c841-4871-b312-6feec9b2656b"}
+{"sub_label": "Microsoft Surface", "obj_label": "Microsoft", "uuid": "ec092860-68e5-4403-99ea-38c8fe64008e"}
+{"sub_label": "MVS", "obj_label": "IBM", "uuid": "c8778a70-15a4-401d-9c9b-7dce9bbf8812"}
+{"sub_label": "Xenix", "obj_label": "Microsoft", "uuid": "7262e8af-3159-40c5-ae41-6071371355b3"}
+{"sub_label": "Microsoft Word", "obj_label": "Microsoft", "uuid": "7d2d9e75-b7c0-4bee-81cc-89bb578ddea1"}
+{"sub_label": "Mac OS", "obj_label": "Apple", "uuid": "b97cb5b9-ba84-460c-a9cf-6d06aae4d5d1"}
+{"sub_label": "Mac OS 9", "obj_label": "Apple", "uuid": "68e26dee-b58e-4975-8fd3-4d46d7f7a6d5"}
+{"sub_label": "macOS Server", "obj_label": "Apple", "uuid": "862ef795-7b1d-46b2-9666-75b5eb83e672"}
+{"sub_label": "Final Fantasy V", "obj_label": "Square", "uuid": "bd7921e2-4631-44f3-8255-4dcd6ede0cec"}
+{"sub_label": "Windows Embedded Automotive", "obj_label": "Microsoft", "uuid": "03bdc663-50a0-4363-a56c-ee791084fd7d"}
+{"sub_label": "MSX-DOS", "obj_label": "Microsoft", "uuid": "9a6a3add-b906-46df-8056-503571eeff1e"}
+{"sub_label": "Windows 95", "obj_label": "Microsoft", "uuid": "cc5296bd-1561-49ba-a933-2d266152a1aa"}
+{"sub_label": "MiniDisc", "obj_label": "Sony", "uuid": "d3b9b04b-c258-48fb-a282-6d123b4bc252"}
+{"sub_label": "Internet Information Services", "obj_label": "Microsoft", "uuid": "3e865018-3841-49f4-b3f3-adc9bad54404"}
+{"sub_label": "Microsoft Visual Studio", "obj_label": "Microsoft", "uuid": "c7fec826-81db-4e8d-8107-5ba99901b3b3"}
+{"sub_label": "Windows 98", "obj_label": "Microsoft", "uuid": "da21f34e-4036-4b3a-b2d7-d3a6b6b6cf54"}
+{"sub_label": "Windows NT 4.0", "obj_label": "Microsoft", "uuid": "e92b1787-aa84-41a4-bcd0-a51502bea31b"}
+{"sub_label": "Microsoft FrontPage", "obj_label": "Microsoft", "uuid": "cc628bd7-f227-4c19-976a-d29583ddb88c"}
+{"sub_label": "Mac OS X Panther", "obj_label": "Apple", "uuid": "bc58e84b-6955-4888-a4be-7cd12b9b663c"}
+{"sub_label": "Pentium 4", "obj_label": "Intel", "uuid": "96226001-8f4f-431f-8f7e-c3aee7f4b529"}
+{"sub_label": "ISPF", "obj_label": "IBM", "uuid": "4a2181b3-a8a6-4d8f-b98d-5fecc374bb87"}
+{"sub_label": "XEDIT", "obj_label": "IBM", "uuid": "c3fbb50b-377c-48b8-89d8-076228915a05"}
+{"sub_label": "Yahoo! Messenger", "obj_label": "Yahoo", "uuid": "92c7c0d2-a7c0-46b4-8c40-4b3877a68c12"}
+{"sub_label": "Pentium M", "obj_label": "Intel", "uuid": "eb37b279-8b1a-4a7b-a49e-b6008de918bb"}
+{"sub_label": "Microsoft BASIC", "obj_label": "Microsoft", "uuid": "dde10d39-3210-4e16-9c5e-0d733affb380"}
+{"sub_label": "Adobe Acrobat", "obj_label": "Adobe", "uuid": "c294215c-4201-4510-a2cd-d0d0a7a4c1f5"}
+{"sub_label": "Portable Document Format", "obj_label": "Adobe", "uuid": "339c6795-9950-45e5-a9e7-e9f5ced84932"}
+{"sub_label": "Adobe GoLive", "obj_label": "Adobe", "uuid": "b44291db-3758-4af6-8210-d833749c7c0c"}
+{"sub_label": "Adobe Dreamweaver", "obj_label": "Adobe", "uuid": "62e3eadc-3a55-4f3b-aa6e-f813ef8820a1"}
+{"sub_label": "Adobe PageMaker", "obj_label": "Adobe", "uuid": "9ec5591d-6e4d-41e0-ae41-9b3bb98b7ed1"}
+{"sub_label": "MobileMe", "obj_label": "Apple", "uuid": "8db823e2-13c8-4e08-9e50-ddde83eced1e"}
+{"sub_label": "Zaxxon", "obj_label": "Sega", "uuid": "3193e434-99e0-43da-bed7-b9de40ee819c"}
+{"sub_label": "Windows NT", "obj_label": "Microsoft", "uuid": "b7f9a57d-50d5-4222-8336-25e38eae0f62"}
+{"sub_label": "Visual Basic .NET", "obj_label": "Microsoft", "uuid": "ee9f3326-0177-4f55-8c6d-0d34573a5900"}
+{"sub_label": "NetBurst", "obj_label": "Intel", "uuid": "4da3dc77-ce3f-460c-bc82-890295f2f041"}
+{"sub_label": "Core 2", "obj_label": "Intel", "uuid": "a2411bda-2f82-432d-9881-d0ee53bbd0d0"}
+{"sub_label": "Microsoft Internet Explorer 6", "obj_label": "Microsoft", "uuid": "fd601caf-9a5b-4f6c-81f6-c8b9c925dacc"}
+{"sub_label": "Adobe Flash", "obj_label": "Adobe", "uuid": "af895fad-573d-4f39-a2a8-7bdb82396ade"}
+{"sub_label": "Adobe Flash Builder", "obj_label": "Adobe", "uuid": "3b8f3188-cbb4-479d-91a8-1ba198987edb"}
+{"sub_label": "Symbian", "obj_label": "Nokia", "uuid": "692c868a-465e-4578-96b7-583aeb420cbb"}
+{"sub_label": "Windows Phone", "obj_label": "Microsoft", "uuid": "bd5cce97-ea65-4ec0-9d5c-bafcd3f66046"}
+{"sub_label": "Mario franchise", "obj_label": "Nintendo", "uuid": "068beab3-e8d5-4aff-b0e1-eb2b660b2388"}
+{"sub_label": "Pentium", "obj_label": "Intel", "uuid": "9bb43d9e-c055-44b0-ab17-4b81d80c223f"}
+{"sub_label": "Adobe Photoshop", "obj_label": "Adobe", "uuid": "3d501a1f-7302-4972-967a-9cb70395100b"}
+{"sub_label": "Adobe Photoshop Elements", "obj_label": "Adobe", "uuid": "09fc5e94-f79a-4307-a481-2a5fc2870c44"}
+{"sub_label": "Adobe Photoshop Lightroom", "obj_label": "Adobe", "uuid": "4c5d0ee8-7a96-4d6e-9ee6-d83f78290967"}
+{"sub_label": "MacPaint", "obj_label": "Apple", "uuid": "3dfc3607-4bb6-41b6-b138-c065df31d40a"}
+{"sub_label": "QuickTime", "obj_label": "Apple", "uuid": "262f54ab-3bcf-4a30-bb87-ea4c6980bcb9"}
+{"sub_label": "Rich Text Format", "obj_label": "Microsoft", "uuid": "2c03c1ef-86ae-404c-b7e6-736e29e704e9"}
+{"sub_label": "Mac OS X 10.2", "obj_label": "Apple", "uuid": "9b6660e4-3038-4c98-981a-573b8ee6f21c"}
+{"sub_label": "XScale", "obj_label": "Intel", "uuid": "1e54deae-18a8-4dea-8d26-858217cf3f4b"}
+{"sub_label": "Wii U", "obj_label": "Nintendo", "uuid": "e2bd2f84-0a29-4461-bcf2-4df3f7b1f471"}
+{"sub_label": "Visual Basic Script", "obj_label": "Microsoft", "uuid": "85d211a6-c53c-4197-a367-4106ad9c81ad"}
+{"sub_label": "Microsoft Visio", "obj_label": "Microsoft", "uuid": "25a66434-57ba-4379-8b2e-c4a017e1bf0f"}
+{"sub_label": "Windows XP", "obj_label": "Microsoft", "uuid": "e11b4972-24f7-4e7e-ac28-b5122d31d9ef"}
+{"sub_label": "Windows 2000", "obj_label": "Microsoft", "uuid": "eae33cdc-0715-40ac-b804-ba35761d5bb4"}
+{"sub_label": "Windows Media Audio", "obj_label": "Microsoft", "uuid": "3ff67b31-f8d5-4b4a-9329-67457fd54f37"}
+{"sub_label": "Intel 80186", "obj_label": "Intel", "uuid": "7c1e00e5-3dca-4b8a-9a66-b63569d7f89c"}
+{"sub_label": "Intel 80286", "obj_label": "Intel", "uuid": "5f8da7b2-2d3f-4579-ba31-95b7989744e0"}
+{"sub_label": "Audio Video Interleave, version 1.0", "obj_label": "Microsoft", "uuid": "ea5259bd-ddf4-4e71-9600-89d409db7db9"}
+{"sub_label": "NTFS", "obj_label": "Microsoft", "uuid": "8cdbfe0d-4768-4db2-bf12-28a4d3873924"}
+{"sub_label": "IBM System i", "obj_label": "IBM", "uuid": "c4018b6b-c75e-4b66-a79b-187877a294da"}
+{"sub_label": "IBM i", "obj_label": "IBM", "uuid": "2caaae7f-2863-4674-bba3-a7674697b153"}
+{"sub_label": "Alex Kidd", "obj_label": "Sega", "uuid": "5af33ec7-feeb-4900-bb0c-9da5f3d581d4"}
+{"sub_label": "Windows 8", "obj_label": "Microsoft", "uuid": "f14b722f-99ac-4e22-871d-9104f2496e09"}
+{"sub_label": "ThinkPad", "obj_label": "IBM", "uuid": "3531ccf1-78eb-4192-9dae-1589fc1ad4fe"}
+{"sub_label": "iPod", "obj_label": "Apple", "uuid": "363cb5d6-fb37-4e92-9358-58cdba202dcf"}
+{"sub_label": "HyperTalk", "obj_label": "Apple", "uuid": "b49e5170-c1d8-4261-bd17-3cbcdac2a73b"}
+{"sub_label": "HyperCard", "obj_label": "Apple", "uuid": "542fe834-36e0-4617-bc6f-247a6f227979"}
+{"sub_label": "The Legend of Zelda", "obj_label": "Nintendo", "uuid": "0654ed86-19bf-4f26-8c96-274b9dc2c965"}
+{"sub_label": "Final Cut Pro", "obj_label": "Apple", "uuid": "0bd2155f-6e71-468e-8e17-5e03efccb026"}
+{"sub_label": "Apple Remote Desktop", "obj_label": "Apple", "uuid": "00080d95-ace6-439d-a647-a2e020a47dbd"}
+{"sub_label": "Gmail", "obj_label": "Google", "uuid": "653979aa-28b6-47e0-bb48-23a2cded4c19"}
+{"sub_label": "Xcode", "obj_label": "Apple", "uuid": "b8499fd6-186f-4849-b560-58218a1edf43"}
+{"sub_label": "Mac OS X Snow Leopard", "obj_label": "Apple", "uuid": "1b0c16b6-292f-42e9-92ce-0579f3ef7666"}
+{"sub_label": "Microsoft Office 2007", "obj_label": "Microsoft", "uuid": "b788a906-d80f-4f78-9931-15ca0e833fe3"}
+{"sub_label": "EA-18G Growler", "obj_label": "Boeing", "uuid": "8760e109-214c-4e3e-8bdc-3cd3d6d754b2"}
+{"sub_label": "High Level Shader Language", "obj_label": "Microsoft", "uuid": "2748d6e7-ca60-4aa5-bead-e39788eb9cef"}
+{"sub_label": "Microsoft PowerPoint", "obj_label": "Microsoft", "uuid": "ba8e1625-a823-4478-b2c8-83771fd1939d"}
+{"sub_label": "Xbox Live", "obj_label": "Microsoft", "uuid": "36f0a8fe-e0f0-4a17-b579-a8ac6169610c"}
+{"sub_label": "Intel Core", "obj_label": "Intel", "uuid": "75b821c8-4883-4775-aaa2-b89bd23f33c2"}
+{"sub_label": "Windows Embedded Compact", "obj_label": "Microsoft", "uuid": "51fc05fc-9e9f-4285-8e84-e5ef827830dd"}
+{"sub_label": "NTLDR", "obj_label": "Microsoft", "uuid": "e4d2bed3-56aa-4b5e-ade2-b4f9a7d954b4"}
+{"sub_label": "Windows Server 2003", "obj_label": "Microsoft", "uuid": "47da433d-b69a-4653-9abc-5fa9f7c88455"}
+{"sub_label": "Windows Server 2008", "obj_label": "Microsoft", "uuid": "845639fe-5b44-498b-9485-b5d32735b975"}
+{"sub_label": "Google Maps", "obj_label": "Google", "uuid": "c5a8ab04-d134-4bbf-8665-2cb8a72b2bfe"}
+{"sub_label": "G Suite", "obj_label": "Google", "uuid": "c4c9ba38-fe72-46f5-98cc-b0ce9fcba6c7"}
+{"sub_label": "Microsoft Picture It!", "obj_label": "Microsoft", "uuid": "63cf74b1-a636-4b16-b3d3-131132765480"}
+{"sub_label": "Nintendo DSi", "obj_label": "Nintendo", "uuid": "510d9733-7799-4026-8ae2-500adbe8a6d9"}
+{"sub_label": "REXX", "obj_label": "IBM", "uuid": "9a555d88-0be3-4f34-9fc1-26a4994e3e94"}
+{"sub_label": "Newsstand", "obj_label": "Apple", "uuid": "558d0f57-ffe1-4f35-b678-a7ecdfcf0d8a"}
+{"sub_label": "Windows Live Messenger", "obj_label": "Microsoft", "uuid": "626548ef-829b-4a3f-bb4b-684538bfaa5a"}
+{"sub_label": "CICS", "obj_label": "IBM", "uuid": "94465407-b638-4f99-bb72-21ca999461f9"}
+{"sub_label": "Google Street View", "obj_label": "Google", "uuid": "6c138855-6925-4c7d-8b70-399585492409"}
+{"sub_label": "Soundtrack Pro", "obj_label": "Apple", "uuid": "b8317a1d-f682-41d4-b3a7-59ee9c499a13"}
+{"sub_label": "Super Monaco GP", "obj_label": "Sega", "uuid": "cf664a0b-703c-40a2-a0fc-17aaaa7e34f0"}
+{"sub_label": "Windows Media Player", "obj_label": "Microsoft", "uuid": "6a877922-a51c-4304-9d5c-acfc281d3c3c"}
+{"sub_label": "Google Checkout", "obj_label": "Google", "uuid": "46f1be49-0568-4241-befe-8ec4f73ec126"}
+{"sub_label": "Virtual Console", "obj_label": "Nintendo", "uuid": "22a5b165-adeb-49c5-9750-739a8d901195"}
+{"sub_label": "Google Pay Send", "obj_label": "Google", "uuid": "56b881bd-3947-4c6f-8ee7-9f4c976ac8cd"}
+{"sub_label": ".NET Framework", "obj_label": "Microsoft", "uuid": "3c698f3c-9c04-4c99-a2cf-4da1d1825979"}
+{"sub_label": "System 7", "obj_label": "Apple", "uuid": "553efa4f-8ce3-4b90-8497-1934075e15c4"}
+{"sub_label": "Chrono Trigger", "obj_label": "Square", "uuid": "1dc635f6-9579-4bdb-8567-4afe0edaa739"}
+{"sub_label": "Windows Malicious Software Removal Tool", "obj_label": "Microsoft", "uuid": "e43f64cf-1687-49df-aa6e-41bff975b217"}
+{"sub_label": "Windows Update", "obj_label": "Microsoft", "uuid": "0d015efd-b10d-4a60-821d-94a30435abb0"}
+{"sub_label": "Final Cut Pro X", "obj_label": "Apple", "uuid": "307cbf63-f7dc-4a88-b236-7335878d4407"}
+{"sub_label": "B-52 Stratofortress", "obj_label": "Boeing", "uuid": "c495e752-5d6b-4901-b47f-b630b9065619"}
+{"sub_label": "Google Account", "obj_label": "Google", "uuid": "6be22166-8d79-4dd3-bf5e-be6e663abfbc"}
+{"sub_label": "Google Groups", "obj_label": "Google", "uuid": "719e8a55-ddaa-4073-b383-c91eebb31148"}
+{"sub_label": "Google File System", "obj_label": "Google", "uuid": "fa9953c5-edcc-479d-ab4a-1b3a5d05a0cf"}
+{"sub_label": "Zune", "obj_label": "Microsoft", "uuid": "96feb9fa-2bea-46cd-9d66-35b0ab3db976"}
+{"sub_label": "Windows Phone 8", "obj_label": "Microsoft", "uuid": "63a652e9-c4b5-434c-9c37-4b555b3dbc73"}
+{"sub_label": "iTunes", "obj_label": "Apple", "uuid": "543de842-63af-4772-afbd-f7bd9082cf97"}
+{"sub_label": "Windows Genuine Advantage", "obj_label": "Microsoft", "uuid": "bc607898-a2b2-4b93-9195-8c53fe8b2883"}
+{"sub_label": "Windows 2.0", "obj_label": "Microsoft", "uuid": "afe5134a-c812-4197-8e6f-52f5634692e1"}
+{"sub_label": "FairPlay", "obj_label": "Apple", "uuid": "fd4401da-6242-4394-9b41-842e072f0105"}
+{"sub_label": "iChat", "obj_label": "Apple", "uuid": "a46e9f4f-8a84-4405-9265-a86f65694ac8"}
+{"sub_label": "Google Talk", "obj_label": "Google", "uuid": "633e9e43-21a0-4b9b-baa4-6be60a0075ab"}
+{"sub_label": "Windows Media Video", "obj_label": "Microsoft", "uuid": "47ddf523-c3b5-4b7e-b266-2b8a19d0796f"}
+{"sub_label": "Windows Embedded", "obj_label": "Microsoft", "uuid": "257429ac-2ecf-445b-88bf-ee66c0f40487"}
+{"sub_label": "IBM Rational Unified Process", "obj_label": "IBM", "uuid": "21ec458d-d869-4bd8-8900-156da7e3cc66"}
+{"sub_label": "Zero configuration networking", "obj_label": "Apple", "uuid": "b0262b6a-1cf2-419a-a0e6-cb07ba43d172"}
+{"sub_label": "Windows Internet Explorer 7", "obj_label": "Microsoft", "uuid": "9a8d6296-0f88-46ce-8b45-3f561bc07c15"}
+{"sub_label": "Adobe Illustrator", "obj_label": "Adobe", "uuid": "8bd9e049-e707-43f5-8a9c-f8fe9c4f6cdb"}
+{"sub_label": "Adobe Creative Suite", "obj_label": "Adobe", "uuid": "ee9c2a59-a7bf-4f3d-98fc-3e1fb5749517"}
+{"sub_label": "Donkey Kong", "obj_label": "Nintendo", "uuid": "48b26477-5a90-4fd0-9812-f20f81d730e7"}
+{"sub_label": "Google AdSense", "obj_label": "Google", "uuid": "825d4bd2-c440-4ad6-9aee-892d2c6e3bf4"}
+{"sub_label": "Thunder Blade", "obj_label": "Sega", "uuid": "6cdeb072-32c7-4140-93ec-66d84d5cd18a"}
+{"sub_label": "Windows 7", "obj_label": "Microsoft", "uuid": "08f925f1-5dc4-46cb-a31f-fe709f754a04"}
+{"sub_label": "Windows 8.1", "obj_label": "Microsoft", "uuid": "70a1ce02-17bc-4eef-a018-19ac205bd86d"}
+{"sub_label": "Windows Server 2012", "obj_label": "Microsoft", "uuid": "d3a4f6b4-af01-4cd4-b058-5f9b7c3dfc00"}
+{"sub_label": "Dynamic-link library", "obj_label": "Microsoft", "uuid": "2c5715b0-69ca-488a-aa48-6f0858373cfe"}
+{"sub_label": "B-29 Superfortress", "obj_label": "Boeing", "uuid": "895ba7ed-7232-43b7-8d75-d84e54b1e9c2"}
+{"sub_label": "Test Drive Le Mans", "obj_label": "Atari", "uuid": "24fedb38-c1a1-49d5-845b-6e8c071c945c"}
+{"sub_label": "Airbus A350", "obj_label": "Airbus", "uuid": "8f39e963-b339-4cb3-844b-5f8c9b540b7b"}
+{"sub_label": "SonicStage", "obj_label": "Sony", "uuid": "54e393e2-fab0-429b-aeaf-aa21afeda18f"}
+{"sub_label": "IBM Type-III Library", "obj_label": "IBM", "uuid": "2ab30eb8-6cf3-4300-9b06-bcbb5ceb6be3"}
+{"sub_label": "TSS/360", "obj_label": "IBM", "uuid": "9b134586-afcd-479c-a4b0-c7707b7255fa"}
+{"sub_label": "Process Explorer", "obj_label": "Microsoft", "uuid": "f1fa9f85-9d94-496b-aa92-23452f4d59b2"}
+{"sub_label": "Apple DOS", "obj_label": "Apple", "uuid": "4a865e69-6c0b-4f51-84b4-ff699e033d77"}
+{"sub_label": "Baku Baku Animal", "obj_label": "Sega", "uuid": "e444c682-71c7-4a6e-b4ff-69b8dd949d85"}
+{"sub_label": "Digital Negative", "obj_label": "Adobe", "uuid": "d4c412e8-3c50-420c-a183-9fe51aa2c95e"}
+{"sub_label": "Windows Live Writer", "obj_label": "Microsoft", "uuid": "f5aa2fe1-a72c-47b4-a03b-ee8904a19f63"}
+{"sub_label": "OS X Mountain Lion", "obj_label": "Apple", "uuid": "6227158b-3ae7-4502-b3b8-99111094bec7"}
+{"sub_label": "OneDrive", "obj_label": "Microsoft", "uuid": "88ae3795-3456-4a4c-9236-049b30100a30"}
+{"sub_label": "Golden Axe", "obj_label": "Sega", "uuid": "7d6cf048-a273-4cad-ba37-2e263bd9805a"}
+{"sub_label": "Altered Beast", "obj_label": "Sega", "uuid": "38b864f5-65cb-46a8-ac55-27bd2a8015f6"}
+{"sub_label": "Yakuza 2", "obj_label": "Sega", "uuid": "86378404-4128-4bc8-8749-202c2b3f2786"}
+{"sub_label": "Yakuza", "obj_label": "Sega", "uuid": "fc6d83d1-ddde-4b51-9f2c-0ca1a3ae2b1f"}
+{"sub_label": "Microsoft Exchange Server", "obj_label": "Microsoft", "uuid": "8163db43-8141-467a-8fa8-eb02c478fa02"}
+{"sub_label": "Uniform Type Identifier", "obj_label": "Apple", "uuid": "59818684-1281-4d01-a97a-c619b8acd3f1"}
+{"sub_label": "Time Sharing Option", "obj_label": "IBM", "uuid": "e7d4ab06-8e9b-4443-af62-b2780629ae8f"}
+{"sub_label": "Microsoft Office Mobile", "obj_label": "Microsoft", "uuid": "5ecd154e-d1da-4007-9079-f0bb11621c63"}
+{"sub_label": "iGoogle", "obj_label": "Google", "uuid": "1896dbc8-13b9-4ed5-9e88-128952d92dbe"}
+{"sub_label": "Google Desktop", "obj_label": "Google", "uuid": "40e58e6a-f2db-47b4-96cc-297213b84002"}
+{"sub_label": "ASCI Red", "obj_label": "Intel", "uuid": "fc11b66a-2515-4f16-a0b2-9f7751c28078"}
+{"sub_label": "Picasa", "obj_label": "Google", "uuid": "4cfde57e-82aa-4db4-bd71-619284042a88"}
+{"sub_label": "IBM Db2", "obj_label": "IBM", "uuid": "40d64e26-96bf-4b6a-8515-cfa1a0debbc7"}
+{"sub_label": "Google Earth", "obj_label": "Google", "uuid": "0d52f813-1cc3-46e9-b1a5-b274e24f98ad"}
+{"sub_label": "Windows Live OneCare", "obj_label": "Microsoft", "uuid": "4de021ea-7489-452d-be94-d44468eace34"}
+{"sub_label": "Google Ads", "obj_label": "Google", "uuid": "9d6d5cc0-0e37-401a-b6d0-3f3fc1cf22cf"}
+{"sub_label": "QuickTime VR", "obj_label": "Apple", "uuid": "a845eaa3-746f-4263-ae6c-66777ca8565b"}
+{"sub_label": "Microsoft Silverlight", "obj_label": "Microsoft", "uuid": "bce3f508-26a9-4d02-9cb1-c2a60a220230"}
+{"sub_label": "iPod Touch", "obj_label": "Apple", "uuid": "7baddd2e-f967-403a-ab4f-c06b146c3a65"}
+{"sub_label": "Synchronized Accessible Media Interchange", "obj_label": "Microsoft", "uuid": "bbd78d5d-b817-43ee-9d2a-8c485715a997"}
+{"sub_label": "Microsoft Compiled HTML Help", "obj_label": "Microsoft", "uuid": "9fb1a016-9888-496b-94fe-7a9f9eee5fcd"}
+{"sub_label": "OpenAFS", "obj_label": "IBM", "uuid": "dedb63ee-d913-45f4-af82-ca263340ad08"}
+{"sub_label": "Andrew File System", "obj_label": "IBM", "uuid": "92037787-18ab-4d90-b367-e4991a74de18"}
+{"sub_label": "iPod Mini", "obj_label": "Apple", "uuid": "122c139f-4260-45c7-ada4-b49958a20841"}
+{"sub_label": "Sandy Bridge", "obj_label": "Intel", "uuid": "c0bb748b-0d77-4056-9f02-0ef5f7e9af74"}
+{"sub_label": "Vector Markup Language", "obj_label": "Microsoft", "uuid": "e3024025-596e-491d-9172-8f7ee0917d25"}
+{"sub_label": "Amazon Fire TV", "obj_label": "Amazon", "uuid": "17ac476e-bedd-4b16-8a94-c62e35721a94"}
+{"sub_label": "IBM Tivoli Workload Scheduler", "obj_label": "IBM", "uuid": "49bd18e3-f334-43ff-b66f-7a9bd7518e28"}
+{"sub_label": "IBM Rational Rose XDE", "obj_label": "IBM", "uuid": "d976463a-a1ad-4c6b-a573-a48486aec36a"}
+{"sub_label": "YUI Library", "obj_label": "Yahoo", "uuid": "8961fa20-4c5d-4e4c-a1ca-e19735f58f0a"}
+{"sub_label": "IBM VisualAge", "obj_label": "IBM", "uuid": "a8f5578e-6974-48af-996f-7842c8ade250"}
+{"sub_label": "QuickDraw", "obj_label": "Apple", "uuid": "4fff1ee9-6280-47a8-88fd-010cea17082f"}
+{"sub_label": "ColorSync", "obj_label": "Apple", "uuid": "a67c8598-c925-4656-8a82-83f2fee7022a"}
+{"sub_label": "AppleScript", "obj_label": "Apple", "uuid": "0110c923-b5a1-414f-89f5-6c50e02ca014"}
+{"sub_label": "OpenDoc", "obj_label": "Apple", "uuid": "d8e7ca33-fb57-4da4-8630-4ddbd9d77cd9"}
+{"sub_label": "Meta Content Framework", "obj_label": "Apple", "uuid": "918657b4-e36b-48d1-b001-efe70e9d08c6"}
+{"sub_label": "Squeak", "obj_label": "Apple", "uuid": "e78e301d-3f47-4ca7-a455-78c9015a431f"}
+{"sub_label": "iPod shuffle", "obj_label": "Apple", "uuid": "e5750e72-95e5-4fee-9d14-ce36feb3ceb4"}
+{"sub_label": "Windows Communication Foundation", "obj_label": "Microsoft", "uuid": "46ae2ac5-2462-4d04-b7ff-e9d26567ba35"}
+{"sub_label": "Adobe Soundbooth", "obj_label": "Adobe", "uuid": "56e04d51-2fd3-4e88-aa60-1d567007d9e5"}
+{"sub_label": "Adobe Audition", "obj_label": "Adobe", "uuid": "5ad9e1a9-6f28-4871-97b2-e9e60083f8b5"}
+{"sub_label": "Heavyweight Champ", "obj_label": "Sega", "uuid": "cb32305b-8357-4f61-9077-bdc615d2c024"}
+{"sub_label": "Virtual Telecommunications Access Method", "obj_label": "IBM", "uuid": "763d0247-7050-4dc4-8733-b36e5518851d"}
+{"sub_label": "Resource Access Control Facility", "obj_label": "IBM", "uuid": "d71f0206-10cf-4604-8bb2-4ce6e56f634d"}
+{"sub_label": "Adobe AIR", "obj_label": "Adobe", "uuid": "3260638d-4aa4-45ac-9336-e4240e2a198f"}
+{"sub_label": "Atari 8-bit family", "obj_label": "Atari", "uuid": "1f76fc8d-fa59-42d8-9a1d-3637fc578c1a"}
+{"sub_label": "IBM Network Control Program", "obj_label": "IBM", "uuid": "ed95117a-72df-47e7-93dc-0577e076fa69"}
+{"sub_label": "Tamarin", "obj_label": "Adobe", "uuid": "08f30a43-99a6-4dca-9598-df70f695610a"}
+{"sub_label": "Adobe Flash Player", "obj_label": "Adobe", "uuid": "f0749fea-9dc1-426f-a7d8-397477d21dae"}
+{"sub_label": "Microsoft Plus!", "obj_label": "Microsoft", "uuid": "9eef44c7-9eb8-4e18-98fe-2e8f4b77a76b"}
+{"sub_label": "Google Play", "obj_label": "Google", "uuid": "e731131e-44a8-4e8c-997e-f5f1e7476cf3"}
+{"sub_label": "iDisk", "obj_label": "Apple", "uuid": "a460c12d-cdc4-49de-b845-9452dce3f503"}
+{"sub_label": "iCloud", "obj_label": "Apple", "uuid": "23af7f4e-1eaa-48c2-a3ed-c3a2a2368800"}
+{"sub_label": "OS X Yosemite", "obj_label": "Apple", "uuid": "28980b88-41ef-4889-86f0-68fc1f046189"}
+{"sub_label": "iOS 8", "obj_label": "Apple", "uuid": "d1cfdc24-048a-48f5-a1fe-a6da6078ca63"}
+{"sub_label": "iMovie", "obj_label": "Apple", "uuid": "c4e18194-014a-4d3f-9df4-1c7a611ac4a2"}
+{"sub_label": "GarageBand", "obj_label": "Apple", "uuid": "d0320321-4bab-4543-a9c7-116cadaa7ef7"}
+{"sub_label": "Mac OS X Tiger", "obj_label": "Apple", "uuid": "05531d3e-a7b9-4c29-9b44-9346acc01b99"}
+{"sub_label": "Advanced Systems Format", "obj_label": "Microsoft", "uuid": "b4f48d89-529c-4f00-9c82-10551442a653"}
+{"sub_label": "Metroid", "obj_label": "Nintendo", "uuid": "0ed64e0b-a6ec-4e2c-9b07-678eeaffbffd"}
+{"sub_label": "AppleWorks", "obj_label": "Apple", "uuid": "59892117-684d-4e51-bc56-cc6a1b7310ae"}
+{"sub_label": "Siri", "obj_label": "Apple", "uuid": "78f9d983-ba8c-4f19-8627-1057acd1cff6"}
+{"sub_label": "Apple Bandai Pippin", "obj_label": "Apple", "uuid": "08519978-c148-4fda-ac01-fd1ee2fae849"}
+{"sub_label": "Super Audio CD", "obj_label": "Sony", "uuid": "37c6c25f-6848-42f6-a66e-324f8fb6d86d"}
+{"sub_label": "Microsoft Robotics Developer Studio", "obj_label": "Microsoft", "uuid": "4e1752d1-e890-45eb-b4a1-ea7946581cd8"}
+{"sub_label": "B-47 Stratojet", "obj_label": "Boeing", "uuid": "41ea9a9d-6448-4897-8244-5e8a2d20af74"}
+{"sub_label": "Attached Support Processor", "obj_label": "IBM", "uuid": "819f6acf-61ef-41d5-a848-3befe2a19dfe"}
+{"sub_label": "TypeScript", "obj_label": "Microsoft", "uuid": "e8b2e6ea-5181-4327-88f5-f8c81d6488d1"}
+{"sub_label": "Pentium III", "obj_label": "Intel", "uuid": "2d7c533b-46a9-416b-80e1-f9f597803c1c"}
+{"sub_label": "App Store", "obj_label": "Apple", "uuid": "976dbc7d-7a1a-4561-aff4-3532731499b1"}
+{"sub_label": "Adobe After Effects", "obj_label": "Adobe", "uuid": "b5fb9938-c62d-4308-88a9-92a9c73b17b9"}
+{"sub_label": "Adobe Premiere Pro", "obj_label": "Adobe", "uuid": "16b084f5-e8ae-4dd6-887d-04f3a8412b15"}
+{"sub_label": "iPod Nano", "obj_label": "Apple", "uuid": "2ef9c11a-f9e7-486c-9364-bee6ee55df3c"}
+{"sub_label": "Microsoft Access", "obj_label": "Microsoft", "uuid": "d9d3a679-b96b-4ef9-aadd-b85ee55b5e33"}
+{"sub_label": "Google Patents", "obj_label": "Google", "uuid": "f4f80bb4-d780-4466-a823-b76c6b113e6f"}
+{"sub_label": "Sega Smash Pack", "obj_label": "Sega", "uuid": "c37a159f-735b-4b47-b3b2-6fca1fcebd80"}
+{"sub_label": "IBM Generalized Markup Language", "obj_label": "IBM", "uuid": "d83b516b-df12-434d-9411-e0ac6e5c9865"}
+{"sub_label": "IBM WebSphere MQ", "obj_label": "IBM", "uuid": "6ed561c3-9660-4220-9bb9-a214943f2e8e"}
+{"sub_label": "IBM RPG II", "obj_label": "IBM", "uuid": "e006decb-e3f1-4de7-990c-f227a41ca6bb"}
+{"sub_label": "iTunes Radio", "obj_label": "Apple", "uuid": "a21d55de-0ccd-4794-b6fb-4c50f093439e"}
+{"sub_label": "Apple Watch", "obj_label": "Apple", "uuid": "1ae22e24-6b8d-4d71-94fa-345ed7c771e4"}
+{"sub_label": "CUPS", "obj_label": "Apple", "uuid": "27e96d94-6b97-4646-a561-46135dce297d"}
+{"sub_label": "Bing Maps", "obj_label": "Microsoft", "uuid": "b9b46833-d349-49fa-8636-a763eb893020"}
+{"sub_label": "iPod Classic", "obj_label": "Apple", "uuid": "9d74b250-2ad6-4d92-a6da-b928817499bb"}
+{"sub_label": "WinDbg", "obj_label": "Microsoft", "uuid": "be1a2c88-0d78-46f4-9fb8-b6e3e0cf8363"}
+{"sub_label": "Journaled File System", "obj_label": "IBM", "uuid": "8f528ee1-1cde-4312-b578-06649b3d830d"}
+{"sub_label": "IBM General Parallel File System", "obj_label": "IBM", "uuid": "3ed5e1be-9026-468a-86ea-9169b8671b45"}
+{"sub_label": "WebObjects", "obj_label": "Apple", "uuid": "36b7af63-a49c-4037-af72-807f69417d7f"}
+{"sub_label": "Microsoft Macro Assembler", "obj_label": "Microsoft", "uuid": "26570247-df55-402f-b92b-5feb3fe1f469"}
+{"sub_label": "Windows Installer", "obj_label": "Microsoft", "uuid": "8672668f-1c1e-42e9-9e23-13ac064cfe92"}
+{"sub_label": "sRGB", "obj_label": "Microsoft", "uuid": "b88bb77a-fb22-4e79-9f54-93bb4cdad86b"}
+{"sub_label": "Final Fantasy", "obj_label": "Square", "uuid": "f88995f8-2d0f-401e-b8d5-c542cf369965"}
+{"sub_label": "Microsoft SQL Server", "obj_label": "Microsoft", "uuid": "74370fac-ca77-4e0b-9d16-e387ec184cfc"}
+{"sub_label": "Deckadance", "obj_label": "Gibson", "uuid": "e215d588-6f5c-4ba3-ad00-23cfd2bcc98b"}
+{"sub_label": "Intel Pentium Dual-Core", "obj_label": "Intel", "uuid": "3cdf80cd-58d6-4174-bb56-ee561ee8caa1"}
+{"sub_label": "Books", "obj_label": "Apple", "uuid": "69c99707-95ed-471c-a616-65f03d6fa478"}
+{"sub_label": "Google Drive", "obj_label": "Google", "uuid": "4c9046c8-2fbe-4cdc-b30d-59d7672fcfd6"}
+{"sub_label": "Google Hangouts", "obj_label": "Google", "uuid": "713d57d3-fed0-4c0a-bdbe-1d0ac7cc5031"}
+{"sub_label": "Google Calendar", "obj_label": "Google", "uuid": "0fea38c3-25e0-48ba-a168-57e4d0d32403"}
+{"sub_label": "Skype", "obj_label": "Microsoft", "uuid": "faf916eb-1d27-47f1-a6b4-f0e46af4ccac"}
+{"sub_label": "Google Guice", "obj_label": "Google", "uuid": "f1e4943e-b0b6-4a6f-aa68-fd27d91e6a60"}
+{"sub_label": "Mac OS X Leopard", "obj_label": "Apple", "uuid": "53587556-6930-45f9-95e0-fdfdfeec8100"}
+{"sub_label": "Eternal Champions", "obj_label": "Sega", "uuid": "f0d3a0c5-1e60-47b9-b830-1a9794e21dd1"}
+{"sub_label": "Adobe InDesign", "obj_label": "Adobe", "uuid": "187aa7d1-5e3a-4fb4-8423-8890471561c8"}
+{"sub_label": "Adobe Creative Cloud", "obj_label": "Adobe", "uuid": "9ef4b831-ac75-41df-8796-99dddbaa123b"}
+{"sub_label": "IntelliPoint", "obj_label": "Microsoft", "uuid": "0ac7ecea-bc0c-40b0-a20c-bb5cbaacd059"}
+{"sub_label": "Google Health", "obj_label": "Google", "uuid": "446f1b53-f44a-4b80-8daf-6ab55b1a4518"}
+{"sub_label": "The Ocean Hunter", "obj_label": "Sega", "uuid": "6faaabd9-284c-49e5-b4df-0fd1338adc63"}
+{"sub_label": "Open Packaging Conventions", "obj_label": "Microsoft", "uuid": "d9bb3c95-6cc3-42ec-bd27-b85aceb3d2a5"}
+{"sub_label": "Open XML Paper Specification", "obj_label": "Microsoft", "uuid": "696c3b53-c902-44b0-b119-0b07fcaa56a2"}
+{"sub_label": "Google Marketing Platform", "obj_label": "Google", "uuid": "6245e1b3-54e5-46c0-aa81-e2dd5f7b87f4"}
+{"sub_label": "Final Cut Studio", "obj_label": "Apple", "uuid": "d0602cde-53cb-4a6e-847e-a6312bc58adf"}
+{"sub_label": "XDCAM", "obj_label": "Sony", "uuid": "8c8bfd03-5b51-4184-a6fd-dc4213bd79c0"}
+{"sub_label": "Adobe Media Player", "obj_label": "Adobe", "uuid": "6a077183-1cde-46f2-be02-b7f3d654ca6e"}
+{"sub_label": "Adobe Digital Editions", "obj_label": "Adobe", "uuid": "333113a3-8ace-414f-a069-3ba48b4192d4"}
+{"sub_label": "Windows Internet Explorer 8", "obj_label": "Microsoft", "uuid": "587db385-20b2-4ba6-8017-d1f75eadfe1b"}
+{"sub_label": "ActiveSync", "obj_label": "Microsoft", "uuid": "81e86935-9ca4-4296-9dce-518da6c5fa3a"}
+{"sub_label": "Microsoft OneNote", "obj_label": "Microsoft", "uuid": "8b2cfb33-1264-4351-bc5f-275214a2f293"}
+{"sub_label": "Final Fantasy III", "obj_label": "Square", "uuid": "cf4d3a4f-e3b3-4c90-b75e-89e0ace0a621"}
+{"sub_label": "Transaction Processing Facility", "obj_label": "IBM", "uuid": "6d7118d6-a330-44ed-8606-6e6a6d7205a2"}
+{"sub_label": "IBM Connections", "obj_label": "IBM", "uuid": "aaee0d8a-06a6-44e3-aa55-a5b4a54d3294"}
+{"sub_label": "Office Open XML", "obj_label": "Microsoft", "uuid": "c97840f1-79b4-4b28-975a-b633740378fd"}
+{"sub_label": "Google Shopping", "obj_label": "Google", "uuid": "87638cc7-bfe6-4cd7-aeba-d90c7da4e19c"}
+{"sub_label": "Pilotwings 64", "obj_label": "Nintendo", "uuid": "4d0d737f-f939-49f6-a847-3284de10b438"}
+{"sub_label": "Gears", "obj_label": "Google", "uuid": "e6164d3e-603f-4779-9be0-734709309250"}
+{"sub_label": "Amazon Web Services", "obj_label": "Amazon", "uuid": "8abb1168-2393-4589-aeb2-fa0a2d7c21cc"}
+{"sub_label": "Quick Look", "obj_label": "Apple", "uuid": "b01cd4f1-04ba-4893-8566-18e1882c4e18"}
+{"sub_label": "Yorkfield", "obj_label": "Intel", "uuid": "02dcce0d-8e92-465b-ab80-24a1e1c0ad61"}
+{"sub_label": "Amazon Simple Queue Service", "obj_label": "Amazon", "uuid": "4077c6cd-c9ba-4a2a-b609-3009fee0c7a3"}
+{"sub_label": "Google Buzz", "obj_label": "Google", "uuid": "2f6af696-6479-41b7-93f8-a5977fd9ae60"}
+{"sub_label": "Pentium Pro", "obj_label": "Intel", "uuid": "7445ea3b-7da5-4899-8838-4f888e1d30ea"}
+{"sub_label": "Adobe Premiere Elements", "obj_label": "Adobe", "uuid": "bb1ae4cf-60e6-447e-bf34-065be62a5859"}
+{"sub_label": "PostScript Printer Description", "obj_label": "Adobe", "uuid": "7cedc927-2c45-4158-a66c-284a6c272423"}
+{"sub_label": "Windows RT", "obj_label": "Microsoft", "uuid": "0488ace0-d4fa-416b-a2d9-4e764ee4d56f"}
+{"sub_label": "Microsoft Office XP", "obj_label": "Microsoft", "uuid": "063307f3-abeb-4548-8a4d-6ffd31524ed0"}
+{"sub_label": "Windows 2.1x", "obj_label": "Microsoft", "uuid": "b72da78d-7eee-48e7-8c5c-eb068f88aa81"}
+{"sub_label": "X11.app", "obj_label": "Apple", "uuid": "76d0c921-d466-4740-b561-dcc45e495b8c"}
+{"sub_label": "Mac OS X Lion", "obj_label": "Apple", "uuid": "b068ed7c-1252-44a7-8fac-1e26c7b02629"}
+{"sub_label": "Logic Pro", "obj_label": "Apple", "uuid": "250df60b-0b12-4981-8928-32a2d2496a86"}
+{"sub_label": "Microsoft Office 2000", "obj_label": "Microsoft", "uuid": "dffefc86-4bde-474e-b370-8c0bb2a9ea1e"}
+{"sub_label": "MacsBug", "obj_label": "Apple", "uuid": "397b2d5c-0ac0-4942-ac67-377a4756b025"}
+{"sub_label": "Flicky", "obj_label": "Sega", "uuid": "c63ad350-8ac4-470d-b5c8-f6ca16ae82a6"}
+{"sub_label": "Apple Maps", "obj_label": "Apple", "uuid": "ef13fdf4-1124-4e31-8ae6-2294f52e679d"}
+{"sub_label": "Logic Studio", "obj_label": "Apple", "uuid": "9ebcca09-d42f-4645-acfb-7bf9b36bd3fe"}
+{"sub_label": "iOS 5", "obj_label": "Apple", "uuid": "e1ecdf7e-49b3-4cc8-a65e-b0063bf2b7da"}
+{"sub_label": "IBM Lotus Symphony", "obj_label": "IBM", "uuid": "4e93e7bb-42bd-4dc7-a851-07e8c7dc8194"}
+{"sub_label": "Windows Phone Store", "obj_label": "Microsoft", "uuid": "b57617e7-9a6e-4314-9940-802a44b02427"}
+{"sub_label": "Adobe Bridge", "obj_label": "Adobe", "uuid": "ab5709aa-347f-433e-90f7-bc89ea31eea8"}
+{"sub_label": "Adobe Captivate", "obj_label": "Adobe", "uuid": "c05a862f-2f6c-432b-94bc-e3f44bcfea26"}
+{"sub_label": "Adobe FrameMaker", "obj_label": "Adobe", "uuid": "f8862736-f620-405a-a3bf-aeec2f1428cb"}
+{"sub_label": "Microsoft SharePoint", "obj_label": "Microsoft", "uuid": "5211e4e2-b036-4b2f-b50f-70d791f2724f"}
+{"sub_label": "Microsoft HealthVault", "obj_label": "Microsoft", "uuid": "f1794720-c847-452b-ab3d-5c3422d17e53"}
+{"sub_label": "IBM DeveloperWorks", "obj_label": "IBM", "uuid": "4c182994-ee9f-473f-81f5-017b21873bed"}
+{"sub_label": "Golden Axe", "obj_label": "Sega", "uuid": "75cc5fa4-9a01-4c83-827a-f5747b906c45"}
+{"sub_label": "Internet Explorer 5", "obj_label": "Microsoft", "uuid": "636526d8-79dc-46ac-90d8-7d6d10a5fefa"}
+{"sub_label": "Microsoft Store", "obj_label": "Microsoft", "uuid": "ca877244-6256-4898-ac5e-9d28751dcd22"}
+{"sub_label": "Tizen", "obj_label": "Intel", "uuid": "da091a30-8779-495c-a2b6-5ce4b4d72b29"}
+{"sub_label": "IBM 4690 OS", "obj_label": "IBM", "uuid": "63252cca-c0f8-4995-9e1d-e94f73a55f48"}
+{"sub_label": "BBC iPlayer", "obj_label": "BBC", "uuid": "6bebd2bc-3b9f-4356-9b4f-957b1bbe519f"}
+{"sub_label": "Project Ara", "obj_label": "Google", "uuid": "70796e4a-0a32-4831-b487-28e15f4725e9"}
+{"sub_label": "Eclipse", "obj_label": "IBM", "uuid": "f7470791-e690-47c2-80a2-c2a1a505c6e0"}
+{"sub_label": "IBM System R", "obj_label": "IBM", "uuid": "58ce9f2b-c608-4b36-9b0a-2ab1d36008e1"}
+{"sub_label": "Intel iAPX 432", "obj_label": "Intel", "uuid": "99dafe67-ae8f-4203-83db-8edb618e9409"}
+{"sub_label": "Intel i960", "obj_label": "Intel", "uuid": "fee4e9ab-e8df-495b-9d77-d1efc3041be8"}
+{"sub_label": "Microsoft Mail", "obj_label": "Microsoft", "uuid": "503206ba-c537-45ed-af3c-9e2950e7e471"}
+{"sub_label": "PowerShell", "obj_label": "Microsoft", "uuid": "37d71f8b-6629-482f-92e3-37112269f4d3"}
+{"sub_label": "AppleShare", "obj_label": "Apple", "uuid": "0f348cdb-d892-4825-bfe4-bd9406832e3d"}
+{"sub_label": "WebKit", "obj_label": "Apple", "uuid": "f4e48136-0ae7-434b-b9d4-757a0a753138"}
+{"sub_label": "Intel MCS-51", "obj_label": "Intel", "uuid": "e680c06a-0377-4205-9131-a3295695fca2"}
+{"sub_label": "Mac OS X 10.0", "obj_label": "Apple", "uuid": "18f803f0-b6fb-4b0b-9bc0-3020c8c7b8e9"}
+{"sub_label": "Mac OS X 10.1", "obj_label": "Apple", "uuid": "ca99013f-1729-4b9c-9144-4210ecde9963"}
+{"sub_label": "Mac OS 8", "obj_label": "Apple", "uuid": "9cc0ffea-fb44-4717-90bb-80ef5c7ee026"}
+{"sub_label": "IBM Airline Control Program", "obj_label": "IBM", "uuid": "3418456f-8e12-48c5-a869-7eb5c64b1cbb"}
+{"sub_label": "Programmed Airline Reservations System", "obj_label": "IBM", "uuid": "7c2d7ea8-cfc7-4a02-99b6-6b22c4931173"}
+{"sub_label": "Microsoft Bob", "obj_label": "Microsoft", "uuid": "3d022ebc-dead-495d-a1ac-b5429d9e398a"}
+{"sub_label": "Final Fantasy X", "obj_label": "Square", "uuid": "1ae2d51b-fdc4-466b-9546-02fc5ce01f05"}
+{"sub_label": "Hierarchical File System", "obj_label": "Apple", "uuid": "0b7d1fe9-cc6c-42d5-bbec-15a182fe113a"}
+{"sub_label": "Interface Builder", "obj_label": "Apple", "uuid": "1c611354-58f1-42c7-b8ff-7b073f329ea1"}
+{"sub_label": "IBM System Object Model", "obj_label": "IBM", "uuid": "ce23e71d-583e-4c8f-90e2-adc75f297112"}
+{"sub_label": "Blogger", "obj_label": "Google", "uuid": "57000446-8692-407c-8df6-3c159be812b0"}
+{"sub_label": "IBM Tivoli Storage Manager", "obj_label": "IBM", "uuid": "9298ecb9-2535-415e-9aa0-dba29b8e8241"}
+{"sub_label": "Microsoft XNA", "obj_label": "Microsoft", "uuid": "5d346c6f-f5ca-4a4c-92aa-ebb6bc34eb21"}
+{"sub_label": "Windows Server 2008 R2", "obj_label": "Microsoft", "uuid": "f6190af9-ecd3-4d83-b381-0b4845330d72"}
+{"sub_label": "Windows Virtual PC", "obj_label": "Microsoft", "uuid": "c866ba40-1768-4432-ac4a-143f1f036bdb"}
+{"sub_label": "Windows Internet Explorer 9", "obj_label": "Microsoft", "uuid": "4bda402c-ab03-41ae-91b0-69be486d24a3"}
+{"sub_label": "Windows Easy Transfer", "obj_label": "Microsoft", "uuid": "e9812351-a39d-4a07-8bb3-d172689341aa"}
+{"sub_label": "Douglas X-3 Stiletto", "obj_label": "Douglas", "uuid": "6aef52ec-0723-462a-9773-f6bd41acebb2"}
+{"sub_label": "Chrome OS", "obj_label": "Google", "uuid": "87a63cf7-5dda-497a-8054-4ed98593e070"}
+{"sub_label": "Google Web Toolkit", "obj_label": "Google", "uuid": "7021c992-17c4-4809-b9a2-b3e3dc46b3eb"}
+{"sub_label": "Microsoft Dynamics", "obj_label": "Microsoft", "uuid": "1981ceb5-11e5-4895-afeb-29124c81844f"}
+{"sub_label": "Xgrid", "obj_label": "Apple", "uuid": "e6877eb2-32eb-4311-b643-652f90965681"}
+{"sub_label": "IBM PC DOS", "obj_label": "IBM", "uuid": "be26b03b-89d0-4462-bfbb-2eaf80fba6d4"}
+{"sub_label": "Apple Pippin", "obj_label": "Apple", "uuid": "2195ecdf-e3e0-4d2e-90d2-839e472af474"}
+{"sub_label": "Boeing X-37", "obj_label": "Boeing", "uuid": "f83cd974-f1a9-405a-8b4a-150e58e6e0de"}
+{"sub_label": "UNIX System Services", "obj_label": "IBM", "uuid": "37aa7ff0-d215-4eea-8628-fa4239e38ff1"}
+{"sub_label": "HFS Plus", "obj_label": "Apple", "uuid": "1fddad49-16f9-4d73-985a-30b74a5f6e0c"}
+{"sub_label": "Google Map Maker", "obj_label": "Google", "uuid": "9fc12358-b930-4c60-9e35-7f3571b68eb5"}
+{"sub_label": "XNU", "obj_label": "Apple", "uuid": "71ffd796-62ea-4c70-a300-5fa4aace9388"}
+{"sub_label": "IBM TopView", "obj_label": "IBM", "uuid": "b84e848b-2867-4324-ae99-104b60d07962"}
+{"sub_label": "Mario Bros.", "obj_label": "Nintendo", "uuid": "63947890-07cf-4f67-bc02-a4cdb922ac84"}
+{"sub_label": "Report Program Generator", "obj_label": "IBM", "uuid": "62425a2b-8ef8-4500-abe0-1d4c394bcc19"}
+{"sub_label": "Google Toolbar", "obj_label": "Google", "uuid": "d1967d80-4d4b-46a4-a4e4-218367ecfd10"}
+{"sub_label": "IBM ViaVoice", "obj_label": "IBM", "uuid": "c7b2bc54-9fa3-4f65-8cd1-3ad53caf3c4c"}
+{"sub_label": "Advanced Function Presentation", "obj_label": "IBM", "uuid": "748291cc-bf15-495b-812d-6335cf53a60a"}
+{"sub_label": "Google Chrome", "obj_label": "Google", "uuid": "180ca455-8708-4413-9448-cdf30a078314"}
+{"sub_label": "Chromecast", "obj_label": "Google", "uuid": "afee9791-c4d9-4ba5-a153-818db5eaae40"}
+{"sub_label": "Microsoft Entourage", "obj_label": "Microsoft", "uuid": "d5b49a92-7207-48ce-8722-6da5e7bc8226"}
+{"sub_label": "Active Server Pages", "obj_label": "Microsoft", "uuid": "6050c3e9-afd6-4f12-bc7d-285b5d1dfb3e"}
+{"sub_label": "Front Mission 3", "obj_label": "Square", "uuid": "75184b70-6137-4857-bc0a-535908d2cbf1"}
+{"sub_label": "Front Mission", "obj_label": "Square", "uuid": "16284c54-a68b-4deb-82bf-d49619d8a70a"}
+{"sub_label": "Clang", "obj_label": "Sony", "uuid": "c26eb48f-4525-4e93-a48e-e04ecb674925"}
+{"sub_label": "Adobe Fireworks", "obj_label": "Adobe", "uuid": "906cdde7-c4a0-4b01-9b87-e09d76fdea13"}
+{"sub_label": "Microsoft Publisher", "obj_label": "Microsoft", "uuid": "261e4238-9598-40ae-b4c9-93350b454ee1"}
+{"sub_label": "Small Web Format", "obj_label": "Adobe", "uuid": "c07e15d3-ecf7-4591-8996-b09c00f93827"}
+{"sub_label": "Microsoft Works", "obj_label": "Microsoft", "uuid": "0423a9e6-9785-4810-9748-9c46be433c71"}
+{"sub_label": "Intel Parallel Studio", "obj_label": "Intel", "uuid": "f314bd25-9439-47db-a21d-2c88598efe81"}
+{"sub_label": "SPSS Modeler", "obj_label": "IBM", "uuid": "06e73dd4-5aa5-46da-b884-f256a600a5f8"}
+{"sub_label": "Statistical Package for the Social Sciences", "obj_label": "IBM", "uuid": "49aa06e8-3474-466e-b2e3-e3cfbf3a9465"}
+{"sub_label": "Google Finance", "obj_label": "Google", "uuid": "b3931460-1323-4236-a966-69cfc5e8a4bc"}
+{"sub_label": "Fantasy Zone", "obj_label": "Sega", "uuid": "2d72aa27-c8af-47ec-9277-be48ec3c6b78"}
+{"sub_label": "KC-767", "obj_label": "Boeing", "uuid": "eaded9ef-9052-4456-a9ca-ab83f27581d9"}
+{"sub_label": "Apple Lossless", "obj_label": "Apple", "uuid": "823aeb20-51ef-41d0-9b70-cc96b46d0ba2"}
+{"sub_label": "Google Translate", "obj_label": "Google", "uuid": "bc2bca2f-eb8b-4869-a3a8-581bab561bb3"}
+{"sub_label": "Google Latitude", "obj_label": "Google", "uuid": "c623d188-208f-4481-b45e-6f06d354de1a"}
+{"sub_label": "Apple Filing Protocol", "obj_label": "Apple", "uuid": "03865391-9814-48bd-b9ae-013b63d1e958"}
+{"sub_label": "Time Machine (macOS)", "obj_label": "Apple", "uuid": "7d1609b7-b325-467d-a7ed-cae861e7535b"}
+{"sub_label": "Adobe RGB (1998)", "obj_label": "Adobe", "uuid": "1e188d5f-88b2-444d-b291-2c5058b5499f"}
+{"sub_label": "V8", "obj_label": "Google", "uuid": "4a90559f-e33c-4c63-b363-784c35167e0b"}
+{"sub_label": "Boeing F-15SE Silent Eagle", "obj_label": "Boeing", "uuid": "0b205d37-cc62-4886-ada6-af85e162448f"}
+{"sub_label": "Virtual Hard Disk", "obj_label": "Microsoft", "uuid": "362405fe-ca8d-487b-9912-897532680ab1"}
+{"sub_label": "BBeB", "obj_label": "Sony", "uuid": "16b212b6-a883-4c24-8a4b-aa59de90c0cd"}
+{"sub_label": "Fonz", "obj_label": "Sega", "uuid": "b052f6bd-48f6-4912-8ad4-a711912ed699"}
+{"sub_label": "Bing Maps Platform", "obj_label": "Microsoft", "uuid": "33c1ea65-f759-48f9-a0ad-9ac840bdc72b"}
+{"sub_label": "Wii MotionPlus", "obj_label": "Nintendo", "uuid": "b96e108c-200b-44c6-bbf1-273424a1bb93"}
+{"sub_label": "IBM Systems Application Architecture", "obj_label": "IBM", "uuid": "75df753b-bba6-43d0-96a2-3f0b9353c7a6"}
+{"sub_label": "File Explorer", "obj_label": "Microsoft", "uuid": "4a3b0db1-7d01-4758-ae67-3307196795cd"}
+{"sub_label": "Clockwork Knight", "obj_label": "Sega", "uuid": "794df886-7c69-469a-8003-fad566c66666"}
+{"sub_label": "Boeing 747 Large Cargo Freighter", "obj_label": "Boeing", "uuid": "753158de-b9df-4067-8492-1d550fcd1b6d"}
+{"sub_label": "Adobe FreeHand", "obj_label": "Adobe", "uuid": "684c6bf7-4b3b-4088-b3bf-175f1557c9de"}
+{"sub_label": "Windows NT 3.1", "obj_label": "Microsoft", "uuid": "726406b3-ae4a-4edd-83d3-60ecdf256e10"}
+{"sub_label": "Rational Team Concert", "obj_label": "IBM", "uuid": "c228958d-8636-45b6-b153-1157cb95aef8"}
+{"sub_label": "Airbus A320neo family", "obj_label": "Airbus", "uuid": "ecc0b72a-5298-4287-8e03-c996149917da"}
+{"sub_label": "Clang", "obj_label": "Apple", "uuid": "61558b7c-4e24-42c8-b5f5-1184b2f70da5"}
+{"sub_label": "Windows Live Mesh", "obj_label": "Microsoft", "uuid": "242900c9-ee1b-458f-a615-9783edc70bc2"}
+{"sub_label": "Tizen", "obj_label": "Samsung", "uuid": "0726536b-baf5-47d8-80c3-8d29676e3e83"}
+{"sub_label": "SPDY", "obj_label": "Google", "uuid": "c1640fbc-126e-4255-9f9a-b54ba5e151cb"}
+{"sub_label": "MXML", "obj_label": "Adobe", "uuid": "e83c9af1-6499-4317-a579-125205a7c3d9"}
+{"sub_label": "IBM Lotus Word Pro", "obj_label": "IBM", "uuid": "ef4452a2-5059-44fb-847a-b1c7555eb7fb"}
+{"sub_label": "Apache Traffic Server", "obj_label": "Yahoo", "uuid": "9dde6ddf-711a-4533-9f2e-49544a07598c"}
+{"sub_label": "Google Glass", "obj_label": "Google", "uuid": "c61b4ddf-176f-4ec0-9a7e-baf09ba67419"}
+{"sub_label": "DVD Studio Pro", "obj_label": "Apple", "uuid": "ad8afada-d9e8-4f76-8421-a33f21373b15"}
+{"sub_label": "Motion", "obj_label": "Apple", "uuid": "f03ef939-7392-4ee6-a9b3-3ada331de0ca"}
+{"sub_label": "Apple A4", "obj_label": "Apple", "uuid": "1ebe8b2e-14d5-4c22-a8e1-1bda544b1a04"}
+{"sub_label": "Google Reader", "obj_label": "Google", "uuid": "5450d25d-8d67-4e7e-94b7-3d34de886f1e"}
+{"sub_label": "Microsoft Office 2003", "obj_label": "Microsoft", "uuid": "b64fb32b-b3e4-412d-aae9-e1737c9d0a3b"}
+{"sub_label": "Microsoft Reader", "obj_label": "Microsoft", "uuid": "edc02cbe-d33d-403b-8939-05768113e9f8"}
+{"sub_label": "Macintosh File System", "obj_label": "Apple", "uuid": "a3fc7a52-520a-4b81-9397-666d0a607a4c"}
+{"sub_label": "Resource Interchange File Format", "obj_label": "Microsoft", "uuid": "a62def58-01de-4aca-90cd-df8834207d4c"}
+{"sub_label": "Audio Interchange File Format", "obj_label": "Apple", "uuid": "6b87b0c9-438c-4e91-8fb8-743adda2ef54"}
+{"sub_label": "Windows Mobile", "obj_label": "Microsoft", "uuid": "bac79127-b310-4ce0-ba24-722debcf2735"}
+{"sub_label": "OpenSearch", "obj_label": "Amazon", "uuid": "958b1fce-7b46-4456-a0e2-854696817512"}
+{"sub_label": "Windows Me", "obj_label": "Microsoft", "uuid": "f3c9afaa-d2c2-424a-8004-36588210c1aa"}
+{"sub_label": "High Performance File System", "obj_label": "IBM", "uuid": "8eac3f61-4e88-4d71-87ad-30016fd8e444"}
+{"sub_label": "High Performance File System", "obj_label": "Microsoft", "uuid": "d4d30a71-985a-48aa-a4c2-2f0f16ba2deb"}
+{"sub_label": "IBM Business System 12", "obj_label": "IBM", "uuid": "7daebba0-3376-487c-bb42-0f64c8321dd3"}
+{"sub_label": "General Transit Feed Specification", "obj_label": "Google", "uuid": "e49657a7-8c07-40b2-9f70-559c6caafa08"}
+{"sub_label": "Microsoft Dynamics NAV", "obj_label": "Microsoft", "uuid": "44b008a0-049c-4229-be8f-d68cbbaf37b1"}
+{"sub_label": "Nintendo Video", "obj_label": "Nintendo", "uuid": "55a9aaf7-cf62-4ff7-98b1-c1ed64df664c"}
+{"sub_label": "IBM WebSphere Application Server", "obj_label": "IBM", "uuid": "75f0bac6-5ac5-4c77-bddf-8f59f66563cc"}
+{"sub_label": "IBM System Management Facilities", "obj_label": "IBM", "uuid": "bdede550-a5c2-4940-8acd-92eed73076ea"}
+{"sub_label": "Intel 80486DX2", "obj_label": "Intel", "uuid": "ef85b9a6-bb30-40cf-8f60-544f58bdbaad"}
+{"sub_label": "Windows NT 3.51", "obj_label": "Microsoft", "uuid": "d179a376-fd16-450b-9814-1d1e2cbc7013"}
+{"sub_label": "Windows NT 3.5", "obj_label": "Microsoft", "uuid": "509b334d-cf9a-4b42-8555-a039d5be070e"}
+{"sub_label": "MacApp", "obj_label": "Apple", "uuid": "43b5a186-9272-4b94-a6f3-090a9ca6259f"}
+{"sub_label": "IBM 4300", "obj_label": "IBM", "uuid": "68a1e542-2e8c-40dc-83c2-b1189804ba70"}
+{"sub_label": "Windows Embedded CE 6.0", "obj_label": "Microsoft", "uuid": "30236ef2-4491-456e-b7a3-01bfe1345014"}
+{"sub_label": "Minecraft", "obj_label": "Microsoft", "uuid": "04c2c4ae-bfb6-461f-abb5-ec557ed6f898"}
+{"sub_label": "App Inventor for Android", "obj_label": "Google", "uuid": "726a6646-0ce2-4577-8a1a-5a1ad765ee1b"}
+{"sub_label": "Google Contacts", "obj_label": "Google", "uuid": "7678beaa-e116-4de0-914b-b8e8f501a0b2"}
+{"sub_label": "Clang", "obj_label": "Microsoft", "uuid": "6789e6ca-cbcb-405d-9f1e-36c6c676ca97"}
+{"sub_label": "Airbus Beluga", "obj_label": "Airbus", "uuid": "10ae97a1-d358-4315-bb89-b06a36ed7af3"}
+{"sub_label": "Congo Bongo", "obj_label": "Sega", "uuid": "3bc22e38-d1ff-430e-bab3-562896d9351d"}
+{"sub_label": "Microsoft Project", "obj_label": "Microsoft", "uuid": "cbfeb5ed-4336-4b5e-8379-4614455e6eb8"}
+{"sub_label": "WebP Lossless", "obj_label": "Google", "uuid": "e225bb81-7485-4723-9280-8ea5a270b3d8"}
+{"sub_label": "WebM", "obj_label": "Google", "uuid": "d2f44356-1399-4ea8-8091-8cb536dc6756"}
+{"sub_label": "Samsung Kies", "obj_label": "Samsung", "uuid": "c6c914c8-eb8a-472b-9e9e-962ca94ee937"}
+{"sub_label": "Shining Hearts", "obj_label": "Sega", "uuid": "9230b9e6-5db0-443a-8af5-68b3086d06d4"}
+{"sub_label": "Universal Media Disc", "obj_label": "Sony", "uuid": "8b4e34d9-5227-4ee4-bff0-51fc2e9bc3fa"}
+{"sub_label": "IBM Workplace OS", "obj_label": "IBM", "uuid": "da4f3807-a051-47e4-9f15-862ace3cda2a"}
+{"sub_label": "Newton OS", "obj_label": "Apple", "uuid": "759c6fa9-35e8-4538-8ff0-03ad4c497c9f"}
+{"sub_label": "Robocopy", "obj_label": "Microsoft", "uuid": "731c4742-c584-4a46-9b4e-4436a6984096"}
+{"sub_label": "Apple A5", "obj_label": "Apple", "uuid": "d90552cb-f64b-4f82-8da8-3033d9b3dc0f"}
+{"sub_label": "iOS 7", "obj_label": "Apple", "uuid": "dedb53b7-8e64-44a6-831e-989ce9afe6cf"}
+{"sub_label": "CarPlay", "obj_label": "Apple", "uuid": "35e667b7-9b60-419a-aff6-c532ac63d364"}
+{"sub_label": "Internet Explorer 10", "obj_label": "Microsoft", "uuid": "f78bd5a6-d502-4e74-8616-ef7e88d35ddb"}
+{"sub_label": "Schema.org", "obj_label": "Google", "uuid": "3657b1a8-d0a7-4875-bf2d-59f20b5c163a"}
+{"sub_label": "Schema.org", "obj_label": "Yahoo", "uuid": "a343bf4d-e830-4231-b31a-eec881d8580d"}
+{"sub_label": "Channel Definition Format", "obj_label": "Microsoft", "uuid": "930cd9af-88f0-45bc-887c-30a71864deb0"}
+{"sub_label": "Windows Aero", "obj_label": "Microsoft", "uuid": "80cfd9d9-568e-449c-a901-ce0415976835"}
+{"sub_label": "Apple Thunderbolt Display", "obj_label": "Apple", "uuid": "c1528ae7-b22a-4a32-9c33-6bd37e060892"}
+{"sub_label": "Amazon Silk", "obj_label": "Amazon", "uuid": "b8e5a8ed-b962-4c4f-a027-2fa6f91d58e3"}
+{"sub_label": "Microsoft Expression Blend", "obj_label": "Microsoft", "uuid": "7624f04b-160f-4c7a-9312-6c357c6959bb"}
+{"sub_label": "Shining Blade", "obj_label": "Sega", "uuid": "799fe22c-55f1-4b06-b739-67c04b70b34d"}
+{"sub_label": "IBM Parallel Sysplex", "obj_label": "IBM", "uuid": "41233a25-a1b9-4971-8604-dfcaaecee6cd"}
+{"sub_label": "Internet Explorer 11", "obj_label": "Microsoft", "uuid": "b6ab1358-6a70-43a8-b600-bf41559a69c5"}
+{"sub_label": "Adobe Muse", "obj_label": "Adobe", "uuid": "17f0aa65-b41c-447a-a08f-75f033de054c"}
+{"sub_label": "iBooks Author", "obj_label": "Apple", "uuid": "594943cf-831e-4120-97de-4b5098a08cbd"}
+{"sub_label": "WriteNow", "obj_label": "Apple", "uuid": "94a88147-c830-42ab-9b46-7a86bd577597"}
+{"sub_label": "Clang", "obj_label": "Intel", "uuid": "96ac82f8-0d70-4b1f-8755-4584d62eb9dd"}
+{"sub_label": "Google Now", "obj_label": "Google", "uuid": "779bc61b-1632-4f36-8808-a697f27f7bba"}
+{"sub_label": "Apple A6", "obj_label": "Apple", "uuid": "7688eae8-fd63-477d-9984-4a368a93eb65"}
+{"sub_label": "iPad 3", "obj_label": "Apple", "uuid": "1cd3d920-848c-460f-bd57-8e98087f27d0"}
+{"sub_label": "Windows Messaging", "obj_label": "Microsoft", "uuid": "32afa053-3d95-4663-89b3-d49d15c96aee"}
+{"sub_label": "Sonic Drift 2", "obj_label": "Sega", "uuid": "0c64043d-0ebb-487f-b1e3-440691a4ab49"}
+{"sub_label": "Sonic Drift", "obj_label": "Sega", "uuid": "11676ba9-5da4-4510-954b-e6698b95aa01"}
+{"sub_label": "Microsoft InfoPath", "obj_label": "Microsoft", "uuid": "11086bc3-a54a-4f76-8964-e4e542e4aa7f"}
+{"sub_label": "Microsoft Office 97", "obj_label": "Microsoft", "uuid": "2d64b37c-829f-4b73-8ec6-aaa7b0b543eb"}
+{"sub_label": "Binary Synchronous Communications", "obj_label": "IBM", "uuid": "62367417-e933-4b1d-af54-b645a5378f72"}
+{"sub_label": "iOS 6", "obj_label": "Apple", "uuid": "19098a87-7799-4d92-abe8-f4d18b4a6e07"}
+{"sub_label": "Android Jelly Bean", "obj_label": "Google", "uuid": "adcae4ea-41cb-4845-898e-34fb3bdd9941"}
+{"sub_label": "Google Cloud Platform", "obj_label": "Google", "uuid": "f1684b17-55ff-4fe4-800b-4660fecbe4a8"}
+{"sub_label": "Apple A7", "obj_label": "Apple", "uuid": "36ec690a-3450-4a7f-80eb-07577c33cc9f"}
+{"sub_label": "NetFront", "obj_label": "Access", "uuid": "6a4b7345-faaf-4ffd-ab86-771a1e69f541"}
+{"sub_label": "Cloud Spanner", "obj_label": "Google", "uuid": "af0e0d87-8e5e-4900-bf6c-9ae1f77cb058"}
+{"sub_label": "Wii U system software", "obj_label": "Nintendo", "uuid": "3d4c7809-169c-4991-b445-8700b91a26d2"}
+{"sub_label": "Windows Phone 8.1", "obj_label": "Microsoft", "uuid": "1c7e8432-d20b-4539-81fd-b5523cbb5401"}
+{"sub_label": "Apple Pay", "obj_label": "Apple", "uuid": "f62965f6-ad48-47f1-87e3-dbd15643bb61"}
+{"sub_label": "FS-1015", "obj_label": "NATO", "uuid": "d5024499-d9a8-40b5-930c-01ae379f4440"}
+{"sub_label": "The Revenge of Shinobi", "obj_label": "Sega", "uuid": "f1c0b684-29b5-45be-9b3e-b87ef22a5bc6"}
+{"sub_label": "Object REXX", "obj_label": "IBM", "uuid": "5e75b6d2-f761-4c0b-88a0-095ef8c64805"}
+{"sub_label": "Xsan", "obj_label": "Apple", "uuid": "0c3bf306-f12e-4261-9915-8151b6aab4f0"}
+{"sub_label": "Microsoft Windows SDK", "obj_label": "Microsoft", "uuid": "d5aa5f4a-ff50-466c-aa3b-5d65a169932a"}
+{"sub_label": "IBM OfficeVision", "obj_label": "IBM", "uuid": "6d706c0e-933b-4d78-b555-aa0c150f2546"}
+{"sub_label": "VP9", "obj_label": "Google", "uuid": "acc31ebf-7785-482a-ab98-4f43042eec19"}
+{"sub_label": "Amiibo", "obj_label": "Nintendo", "uuid": "07da3c0d-b972-4f74-a1e6-f2da49ffdc4b"}
+{"sub_label": "IBM Rational ClearCase", "obj_label": "IBM", "uuid": "4c3cd182-bc5e-4b90-876e-af4386550d52"}
+{"sub_label": "Google Keep", "obj_label": "Google", "uuid": "a256ef96-faca-4171-9ab5-b2aa4657dfb7"}
+{"sub_label": "Microsoft Digital Video Recording", "obj_label": "Microsoft", "uuid": "c71c538a-6e71-4c08-b2fa-0081b2b6db6d"}
+{"sub_label": "Windows XP Media Center Edition", "obj_label": "Microsoft", "uuid": "9d683ba7-8cb7-4f16-83a0-35bbdbe14e92"}
+{"sub_label": "Windows Movie Maker", "obj_label": "Microsoft", "uuid": "55ac09c1-53bb-453c-aa87-fc0016e1984a"}
+{"sub_label": "Microsoft Money", "obj_label": "Microsoft", "uuid": "e1020678-03d8-45df-8a58-82ddfb146b17"}
+{"sub_label": "Silvermont", "obj_label": "Intel", "uuid": "9b6c1f29-3f04-4ed5-afc0-5bb7ac7fcca6"}
+{"sub_label": "OS X Mavericks", "obj_label": "Apple", "uuid": "363bb911-1a5c-4771-a2a5-57065e32cc7e"}
+{"sub_label": "Mother 3", "obj_label": "Nintendo", "uuid": "c8ed04c0-1c6a-4b59-87c5-3bbf8e5a6d0a"}
+{"sub_label": "iPad Mini 3", "obj_label": "Apple", "uuid": "83f3ffc3-9064-4560-9851-10cf95e5fca1"}
+{"sub_label": "Apple A8", "obj_label": "Apple", "uuid": "68a6cd39-797a-42cb-9f67-e9c678ea90fa"}
+{"sub_label": "Apple A8X", "obj_label": "Apple", "uuid": "e370009a-1890-402f-ba7f-2c6150a614a6"}
+{"sub_label": "Intel Quark", "obj_label": "Intel", "uuid": "8856c752-c7af-4315-bc6d-326bbd713175"}
+{"sub_label": "iBeacon", "obj_label": "Apple", "uuid": "2d4777a4-38bb-49e3-b9a1-d50917b1e394"}
+{"sub_label": "Google Hummingbird", "obj_label": "Google", "uuid": "bd982482-1373-45b9-bb06-ef5567135eaa"}
+{"sub_label": "Nokia Lumia 2520", "obj_label": "Nokia", "uuid": "e0237da0-a821-47ab-834f-a4cf9d8ae403"}
+{"sub_label": "Windows Mobile 6.5", "obj_label": "Microsoft", "uuid": "541a3872-a428-47b7-8c9b-8a3fa0bc2d73"}
+{"sub_label": "Adobe Encore", "obj_label": "Adobe", "uuid": "7bb24c6f-f246-4d15-90ec-4fd99f66b3c8"}
+{"sub_label": "Wear OS", "obj_label": "Google", "uuid": "8c2493ee-9d40-42a1-9aaf-9ab75a048530"}
+{"sub_label": "Windows Mixed Reality", "obj_label": "Microsoft", "uuid": "46cee05c-47ab-4a54-9aa5-7e232803470e"}
+{"sub_label": "Event Viewer", "obj_label": "Microsoft", "uuid": "76f29d33-a9e1-4ed0-8fa6-3e5d6cc5bbdd"}
+{"sub_label": "Android TV", "obj_label": "Google", "uuid": "57382105-0752-4a19-a5d4-abfba8114049"}
+{"sub_label": "Android Runtime", "obj_label": "Google", "uuid": "3328f8c9-d8e9-421d-a243-2c574f8cef64"}
+{"sub_label": "Android Auto", "obj_label": "Google", "uuid": "a9201549-13ac-4a85-a631-da73b7d11d19"}
+{"sub_label": "New Nintendo 3DS", "obj_label": "Nintendo", "uuid": "c05be7dc-d14f-480e-9f9a-2f170aba6a9d"}
+{"sub_label": "Gear VR", "obj_label": "Samsung", "uuid": "a38c8a2c-c930-49e7-b07b-523f36e23732"}
+{"sub_label": "Amazon Echo", "obj_label": "Amazon", "uuid": "008df083-62fd-43ce-a6ac-af96b8cb3a10"}
+{"sub_label": "Glyph Bitmap Distribution Format", "obj_label": "Adobe", "uuid": "2ba26640-9ece-4f1c-99ea-f8707b20ba40"}
+{"sub_label": "Dynix", "obj_label": "IBM", "uuid": "824eea78-e827-48f1-a88d-53d7145ab1e3"}
+{"sub_label": "Yoshi's Universal Gravitation", "obj_label": "Nintendo", "uuid": "fab314ff-894a-4772-ac54-ff70b8f0cc74"}
+{"sub_label": "VoiceOver", "obj_label": "Apple", "uuid": "230f295e-2fd5-4609-bcbe-8e11fcb4a0d8"}
+{"sub_label": "TextEdit", "obj_label": "Apple", "uuid": "3d7aac0b-faad-4334-90fd-66971bf33f96"}
+{"sub_label": "Microsoft Security Essentials", "obj_label": "Microsoft", "uuid": "d8013d45-5028-44a1-9c15-89cdf55ab4bf"}
+{"sub_label": "Microsoft Internet Explorer 3", "obj_label": "Microsoft", "uuid": "b00fdb17-8424-45fb-99a8-25da48648301"}
+{"sub_label": "application bundle", "obj_label": "Apple", "uuid": "f30e33e8-4826-43d4-8fc4-090b66d1957f"}
+{"sub_label": "Final Fantasy Legend III", "obj_label": "Square", "uuid": "5a598fdd-8fe0-4da4-9e97-f10539ba6e74"}
+{"sub_label": "Final Fantasy Legend II", "obj_label": "Square", "uuid": "cfe7878f-285e-4e13-bbbd-f85399012e34"}
+{"sub_label": "Internet Explorer Mobile", "obj_label": "Microsoft", "uuid": "871e131c-f61e-4dce-a062-9823ab0c8dbf"}
+{"sub_label": "Disk Utility", "obj_label": "Apple", "uuid": "2db1d0c6-b392-455d-b188-02baf2107b1b"}
+{"sub_label": "MSX BASIC", "obj_label": "Microsoft", "uuid": "735790a0-1546-44f0-9b8c-edd04de4d083"}
+{"sub_label": "Adobe Connect", "obj_label": "Adobe", "uuid": "db0f1ad8-87e3-49f2-9238-2cfb7c230cb4"}
+{"sub_label": "Microsoft Forefront Threat Management Gateway", "obj_label": "Microsoft", "uuid": "4aca6a36-8e4d-4bd1-99a9-82117149fd61"}
+{"sub_label": "Atari DOS", "obj_label": "Atari", "uuid": "9275632f-c835-4237-ad21-b6dc401e2a54"}
+{"sub_label": "Dashboard", "obj_label": "Apple", "uuid": "ff04037b-806c-4fd0-b0eb-7c1ce95e1e88"}
+{"sub_label": "Astron Belt", "obj_label": "Sega", "uuid": "ca03cfc8-e79c-4c32-b950-787668b01ce9"}
+{"sub_label": "Asteroids Deluxe", "obj_label": "Atari", "uuid": "40ec3ed7-51e7-429f-81d8-7f083d78f653"}
+{"sub_label": "Windows Setup Information File", "obj_label": "Microsoft", "uuid": "62dba568-5df4-4c12-85d5-6f95d6e9c6ef"}
+{"sub_label": "Photo Booth", "obj_label": "Apple", "uuid": "3922d0ee-1eaf-41b5-ad18-2704aad9e28c"}
+{"sub_label": "Fatal Labyrinth", "obj_label": "Sega", "uuid": "31230bd6-8af7-42ba-9bc9-c137d0574157"}
+{"sub_label": "Intel i860", "obj_label": "Intel", "uuid": "af8e410a-9978-426f-a3b5-b9d20ca9b460"}
+{"sub_label": "Microsoft Office Live", "obj_label": "Microsoft", "uuid": "d4eb2be1-a925-40a1-9465-049d27f1f37e"}
+{"sub_label": "Alien Storm", "obj_label": "Sega", "uuid": "21eab256-5f2c-4a3d-bdb3-91f42b0d5fd9"}
+{"sub_label": "Apple Icon Image format", "obj_label": "Apple", "uuid": "b839d4ed-b498-4be4-8831-229a053db5ad"}
+{"sub_label": "IBM Rational Application Developer", "obj_label": "IBM", "uuid": "8cfa4603-304c-44f9-a77c-6dd6a102fbce"}
+{"sub_label": "IBM Information Management System", "obj_label": "IBM", "uuid": "41e12f62-90e4-41e4-89ad-d55a13ed20fb"}
+{"sub_label": "Windows Media Encoder", "obj_label": "Microsoft", "uuid": "9972b15f-e299-4fd1-8406-dcfc9e750737"}
+{"sub_label": "Gran Trak 10", "obj_label": "Atari", "uuid": "2cc09845-4ddb-4533-ac0e-10ea6d5337a6"}
+{"sub_label": "Google Pack", "obj_label": "Google", "uuid": "91da34f4-1710-4bd7-b0d4-33f964e6385a"}
+{"sub_label": "Windows Driver Frameworks", "obj_label": "Microsoft", "uuid": "24786bb6-6dd5-4f32-9ace-cfe6dc17642b"}
+{"sub_label": "Tetris DS", "obj_label": "Nintendo", "uuid": "2654c1ae-9ec4-4a9a-8f54-4c290294c94f"}
+{"sub_label": "IBM Lotus SmartSuite", "obj_label": "IBM", "uuid": "a7ffbd3d-8f51-4ca9-a190-5e3072c7a814"}
+{"sub_label": "Apple Open Directory", "obj_label": "Apple", "uuid": "5a6d2421-e3bd-4739-a6a5-2faf1757c994"}
+{"sub_label": "Microsoft Schedule Plus", "obj_label": "Microsoft", "uuid": "0e5302c3-cb55-4c2c-ab8b-7d6e649e7395"}
+{"sub_label": "Shadow Dancer", "obj_label": "Sega", "uuid": "fd553a8e-041d-4ff8-925e-d9e838d0ae54"}
+{"sub_label": "Microsoft Write", "obj_label": "Microsoft", "uuid": "540ab7aa-b884-49bd-ad13-088ab31b5e51"}
+{"sub_label": "Cyberdog", "obj_label": "Apple", "uuid": "b1418a7c-82df-497e-8404-c77ab8712ebf"}
+{"sub_label": "Adobe Illustrator Artwork", "obj_label": "Adobe", "uuid": "b98678e3-e8ea-43c5-834c-53aeee99e7cc"}
+{"sub_label": "Gain Ground", "obj_label": "Sega", "uuid": "3cf64c61-7e51-4472-8533-c83afa21324d"}
