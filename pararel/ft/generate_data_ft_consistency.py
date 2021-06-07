@@ -39,45 +39,48 @@ def generate_data(num_relations, num_tuples, relations_given, LAMA_path):
     output_path = output_path + str(num_tuples) + "_" + str(num_relations) + metadata + "/"
 
     if not os.path.exists(output_path):
+        print("Saving data to: ", output_path)
         os.mkdir(output_path)
 
-    output_path_true = output_path + "train_"
-    output_path_mlm = output_path + "train_mlm.txt"
-    f_mlm = open(output_path_mlm, "w")
+        output_path_true = output_path + "train_"
+        output_path_mlm = output_path + "train_mlm.txt"
+        f_mlm = open(output_path_mlm, "w")
 
-    for relation_path in relation_path_keep:
+        for relation_path in relation_path_keep:
 
-        with open(relation_path, "rb") as f:
-            graph = pickle.load(f)
-        relation = relation_path.split("/")[-1].split(".")[0]
+            with open(relation_path, "rb") as f:
+                graph = pickle.load(f)
+            relation = relation_path.split("/")[-1].split(".")[0]
 
-        f_true = open(output_path_true + relation + ".txt", "w")
+            f_true = open(output_path_true + relation + ".txt", "w")
 
-        data = utils.read_jsonl_file(LAMA_path + relation + ".jsonl")
-        random.shuffle(data)
-
-        for i, d in enumerate(data):
+            data = utils.read_jsonl_file(LAMA_path + relation + ".jsonl")
             random.shuffle(data)
-            for node in graph.nodes():
-                pattern = node.lm_pattern
 
-                pattern = pattern.replace("[X]", d["sub_label"])
-                pattern = pattern.replace("[Y]", "[MASK]")
-                pattern_mlm = pattern.replace("[MASK]", d["obj_label"])
+            for i, d in enumerate(data):
+                random.shuffle(data)
+                for node in graph.nodes():
+                    pattern = node.lm_pattern
 
-                f_true.write(pattern)
+                    pattern = pattern.replace("[X]", d["sub_label"])
+                    pattern = pattern.replace("[Y]", "[MASK]")
+                    pattern_mlm = pattern.replace("[MASK]", d["obj_label"])
+
+                    f_true.write(pattern)
+                    f_true.write("\n")
+                    f_mlm.write(pattern_mlm)
+                    f_mlm.write("\n")
+
                 f_true.write("\n")
-                f_mlm.write(pattern_mlm)
-                f_mlm.write("\n")
 
-            f_true.write("\n")
+                if i >= num_tuples:
+                    break
 
-            if i >= num_tuples:
-                break
+            f_true.close()
 
-        f_true.close()
-
-    f_mlm.close()
+        f_mlm.close()
+    else:
+        print("Data already exists")
 
 
 def main():
