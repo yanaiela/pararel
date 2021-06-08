@@ -7,6 +7,19 @@ To finetune the model on a provided sample dataset run the following command:
 ```sh
 python pararel/ft/train_consistency.py --dataset_name pararel/ft/data/100_3_P138_P37_P449/ --mlm_LAMA pararel/ft/data/100_3_P138_P37_P449/train_mlm.txt --candidate_set
 ```
+-`dataset_name`: referring to the folder containing ft data
+
+with optional parameters:
+
+-`mlm_LAMA`:  provide path to a LAMA based corpus to alternate the consistency ft with mlm on LAMA (default "") \
+-`num_LAMA_steps`: if mlm on LAMA is used set the number of mlm training steps on LAMA (default 5) \
+-`mlm_wiki`: provide path to a wikipedia based corpus to alternate the consistency ft with mlm on wikipedia (default "")\
+-`num_wiki_steps`:  if mlm on wikipedia is used set the number of mlm training steps on wikipedia (default 5) \
+-`loss`: chose the ft loss (default "kl") \
+with options: "kl" for KL-divergence, "cos"/"repcos" for cosine loss on the output/last hidden layer \
+-`loss_scaling`: a parameter decreasing the consistency loss (default 0.8) \
+-`candidate_set`: if this flag to computed loss using a candidate subset instead of the full vocabulary (default False)
+
 
 ## Generate data
 

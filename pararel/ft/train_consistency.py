@@ -447,7 +447,7 @@ def main():
     parser.add_argument('--epochs', type=int, default='3', help='Default is 2000 epochs')
     parser.add_argument('--batch_size_mlm', type=int, default='32', help='Default is batch size of 256')
     parser.add_argument('--batch_size', type=int, default='8', help='Default is batch size of 256')
-    parser.add_argument('--num_wiki_steps', type=int, default='10', help='Number of wikipedia mlm steps')
+    parser.add_argument('--num_wiki_steps', type=int, default='5', help='Number of wikipedia mlm steps')
     parser.add_argument('--num_LAMA_steps', type=int, default='5', help='Number of LAMA mlm steps')
     parser.add_argument('--logging_steps', type=int, default='200', help='After how many batches metrics are logged')
     parser.add_argument(
