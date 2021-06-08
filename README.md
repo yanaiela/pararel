@@ -99,10 +99,8 @@ python lm_meaning/encode/encode_text.py \
        --wandb
 ```
 
-## Currently not available
-The notebook that analyze and aggregate all the results, as well as the fine-tuning scripts are not yet available,
-we are likely to be updated in the next few weeks.
-Please get in touch if you would find them useful, so we can make them ready faster.  
+## Improving Consistency with ParaRel
+The code and README are available [here](pararel/ft)
 
 ## FAQ
 
