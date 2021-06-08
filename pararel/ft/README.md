@@ -24,7 +24,7 @@ with options: "kl" for KL-divergence, "cos"/"repcos" for cosine loss on the outp
 ## Generate data
 
 In case you want to use different relations, subject-object tuples or a
-different number if relations, you can use this script to generate your own
+different number of relations, you can use this script to generate your own
 training data.
 
 ```sh
