@@ -5,4 +5,4 @@ spur
 tqdm
 jsonlines
 scipy
-pickle5
+pickle
