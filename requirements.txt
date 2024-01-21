@@ -1,8 +1,8 @@
-torch
+torch==1.4.0
 transformers==3.5.0
 wandb
 spur
 tqdm
 jsonlines
 scipy
-pickle
+pickle5
